@@ -1,0 +1,9 @@
+Origin: Kiran Patil's Repo
+Label: imkpatil
+Suite: stable
+Version: 1.0
+Codename: imkpatil
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks from imkpatil
+Icon: file://CydiaIcon.png
