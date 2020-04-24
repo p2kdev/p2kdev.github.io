@@ -1,0 +1,1484 @@
+Package: com.blakeboxberger.pridebars
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Blake Boxberger
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.blakeboxberger.pridebars_1.0.3_iphoneos-arm.deb
+Size: 4042
+MD5sum: 2f67d20314575c231c8f21a337eb9705
+SHA1: a0e28de1ffb73f4abb6d93e018d85865b2bd14a0
+SHA256: bd0f982cd8f22f98efcf6cf3d165b53bbbe9f92e0c12f13a7ef9748efdfd940d
+Section: Tweaks
+Description: Show pride in your carrier signal bars!
+Author: Blake Boxberger
+Name: PrideBars
+
+Package: com.chilaxan.cuboid
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: chilaxan & Nepeta
+Installed-Size: 428
+Depends: mobilesubstrate
+Conflicts: me.kritanta.homeplus
+Filename: ./debs/com.chilaxan.cuboid_4.0_iphoneos-arm.deb
+Size: 73750
+MD5sum: 543f41fb1f3157d0544bfde1dbd3e959
+SHA1: b696fefb00cce0f5013d945331d85fa3d67b303d
+SHA256: db917d181695ba16b43ad266a56619171c51285f6b9c2358079ecb5fab7cc2b2
+Section: Tweaks (Nepeta)
+Description: Lightweight home screen layout manager.
+Author: chilaxan & Nepeta
+Depiction: http://repo.kritanta.me/depictions/?id=com.chilaxan.cuboid
+Name: Cuboid
+
+Package: com.imkpatil.3dmorepower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.3dmorepower_1.0_iphoneos-arm.deb
+Size: 2314
+MD5sum: 6d8763019d1910b7166515f74d856a8d
+SHA1: 7c5e58d4117832cd59a843eeba760d0acbf54709
+SHA256: 54adef198eea820d3caaec978269b0a311957336cf49f4cd6db20ad7aa92beed
+Section: Tweaks
+Description: 3D Touch CC Low Power Mode for more options!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/3DMorePower/index.html
+Icon: file:///Library/Application Support/3DMorePower/icon.png
+Name: 3DMorePower
+
+Package: com.imkpatil.3dmorepower
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.3dmorepower_1.1_iphoneos-arm.deb
+Size: 2802
+MD5sum: 6a578d39c34375429ccc6530c208e0a0
+SHA1: 0a88a3da8d69d811739d656075a9da9063925461
+SHA256: 54a0c20ebb329e00580068307fd7a188901bf9de47d0466fedc35e98bd29e26f
+Section: Tweaks
+Description: 3D Touch CC Low Power Mode for more options!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/3DMorePower/icon.png
+Name: 3DMorePower
+
+Package: com.imkpatil.3dmorepower
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.3dmorepower_1.1.1_iphoneos-arm.deb
+Size: 2962
+MD5sum: 412668b0c58cdb6b82b3fb1a21c183f8
+SHA1: 11df9604ecc7d52de86d36af75a51d24ba57aae3
+SHA256: dd4971b3c892954d770c544653435ee62dff340fab0cf5abf2a1f056647c365b
+Section: Tweaks
+Description: 3D Touch CC Low Power Mode for more options!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/3DMorePower/icon.png
+Name: 3DMorePower
+
+Package: com.imkpatil.always3dmaps
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.always3dmaps_1.3_iphoneos-arm.deb
+Size: 2156
+MD5sum: 90f3bdee72e83463e66364ae30982427
+SHA1: 2b98230ee8af651cacf00589db633cfee4b47738
+SHA256: 052d44a386c4bc96aa2a37f3bd5d575917e0381aebf469672871c40cee177299
+Section: Tweaks
+Description: Always turn on 3DMode in Apple Maps!
+Author: Kiran Patil
+Name: Always3DMaps
+
+Package: com.imkpatil.appstorenomorebtn
+Version: 1.0-29+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.appstorenomorebtn_1.0-29+debug_iphoneos-arm.deb
+Size: 3838
+MD5sum: e412dc339f7f342ff6a715f2ce4f0b3a
+SHA1: 92b4c76ad96b4ddbdd3ee5988afd7f16cc4cdd67
+SHA256: 8c3e1b93bcfca8eda2ada9aefbd99f1d5c70970e836dcccf4812f44f6ab464e6
+Section: Tweaks
+Description: Always show the full update changelog in AppStore!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/AppStoreNoMoreBtn/index.html
+Icon: file:///Library/Application Support/AppStoreNoMoreBtn/icon.png
+Name: AppStoreNoMoreBtn
+
+Package: com.imkpatil.cclinker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.cclinker_1.0_iphoneos-arm.deb
+Size: 24998
+MD5sum: e6860b6ae7e1678873724cd26a3afbbb
+SHA1: 63f5528990b429a288c93a1e150d9efe8f40bfe3
+SHA256: 494cc6d24015ee5f314dbc915f2fd1050d5111ec8e9853a948b5ac8778c4153d
+Section: Tweaks
+Description: Open the settings pane for the CC Toggles by using gestures!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CCLinker/index.html
+Icon: file:///Library/Application Support/CCLinker/icon.png
+Name: CCLinker
+
+Package: com.imkpatil.cclinker
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.cclinker_1.1_iphoneos-arm.deb
+Size: 24386
+MD5sum: ccf923359a8de857c75b7e63e5ace89a
+SHA1: de230ee4fac0bc374ba2edd030f5a86a2ecbb74a
+SHA256: 767925615425138f62026bc39ff65b9517da3a8e0d1b1432d71d05982b5475ff
+Section: Tweaks
+Description: Open the settings pane for the CC Toggles by using gestures!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CCLinker/index.html
+Icon: file:///Library/Application Support/CCLinker/icon.png
+Name: CCLinker
+
+Package: com.imkpatil.cclinker
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.cclinker_1.1.1_iphoneos-arm.deb
+Size: 24380
+MD5sum: ca4131071237a21eda699a9564551bf8
+SHA1: 38a8089e27d6679c92e5f24d6d06a5e92601b5e5
+SHA256: 70cd1b4ebf463d154ede612dc9ee44664807e963eb0a8ac1d025d81d1fbfe6d1
+Section: Tweaks
+Description: Open the settings pane for the CC Toggles by using gestures!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CCLinker/index.html
+Icon: file:///Library/Application Support/CCLinker/icon.png
+Name: CCLinker
+
+Package: com.imkpatil.cclinker
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.cclinker_1.1.2_iphoneos-arm.deb
+Size: 24574
+MD5sum: 83e873d9204efac295257bc7a93db3ff
+SHA1: 9ac043e5737ec938438da864562b996179a2ebec
+SHA256: f65a260b284dede3dc846174d941c71d2c25a7c3c977c42de30e36f58a187d96
+Section: Tweaks
+Description: Open the settings pane for the CC Toggles by using gestures!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CCLinker/index.html
+Icon: file:///Library/Application Support/CCLinker/icon.png
+Name: CCLinker
+
+Package: com.imkpatil.cclinker
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 208
+Depends: mobilesubstrate,com.spark.libsparkapplist
+Filename: ./debs/com.imkpatil.cclinker_1.2_iphoneos-arm.deb
+Size: 24342
+MD5sum: 9aee03d95acb3df03c15fbb05dd0c6b5
+SHA1: 06fa26a7ad84cb8c9657365f2d04d952919ce878
+SHA256: 76c49c405dc35f972627def8e4be940491e234f8c0c556328799670c890696af
+Section: Tweaks
+Description: Open the settings pane for the CC Toggles by using gestures!
+Author: Kiran Patil
+Icon: file:///Library/Application Support/CCLinker/icon.png
+Name: CCLinker
+
+Package: com.imkpatil.cclinker
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate,com.spark.libsparkapplist
+Filename: ./debs/com.imkpatil.cclinker_1.2.1_iphoneos-arm.deb
+Size: 26464
+MD5sum: 8c9672a4d13279ebd360dea7be17eff7
+SHA1: ad1e147e8d361c04787f087b2a535d786e583e73
+SHA256: 22c36d8df35328e7bcc8e826b445db4cf5afe5d302303b12866707bb97aced34
+Section: Tweaks
+Description: Open the settings pane for the CC Toggles by using gestures!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/CCLinker/icon.png
+Name: CCLinker
+
+Package: com.imkpatil.colormybattery
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.2_iphoneos-arm.deb
+Size: 35422
+MD5sum: aedc33625085d0391ff7cebf130510bb
+SHA1: cfef665e72ff12822fee2b492004f58a0f5c6dad
+SHA256: c8ee54b1e70f76ef2bff1de98971a823d2e44c685b082114e14127e9f2ac4298
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/ColorMyBattery/index.html
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.colormybattery
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 284
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.2.1_iphoneos-arm.deb
+Size: 36672
+MD5sum: aad5361e1723440c2c27598b1f8b70eb
+SHA1: 0eeaeffa0b2595ff6b4897251373d3c61a800d2d
+SHA256: bcb28be06715e0b5e7292953719c70581c2329209c2e3de827335d52355e9e68
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/ColorMyBattery/index.html
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.colormybattery
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 284
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.2.2_iphoneos-arm.deb
+Size: 36680
+MD5sum: 0a11d106af8082f8425d73d2c6468a56
+SHA1: 50047a19b8002738e5047bc3b6f22ddfdd9a5b42
+SHA256: 9449afff925d5ed8139f81cfa05cbfa3b602737120eb42f39e059e68d242fb14
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/ColorMyBattery/index.html
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.colormybattery
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 284
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3_iphoneos-arm.deb
+Size: 36938
+MD5sum: 156621ee6b5ea21ee6dbd7265fe13e44
+SHA1: d344da34f0bd699bae252e353bda6f5868ccdb98
+SHA256: 2c158a5abd6c52518dd67034e24626122065b4a7d9fa48a1a43369c96449f01b
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/ColorMyBattery/index.html
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.colormybattery
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3.1_iphoneos-arm.deb
+Size: 37330
+MD5sum: e5cd506062d252235076b03dcb750240
+SHA1: 933cb5c2a2cc054dd05860b26c8c56e3c0665a5f
+SHA256: 6e98517303b657181aa036cc6c5aab9c79c7b184d92702368b8a07d5b11a1299
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.colormybattery
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3.2_iphoneos-arm.deb
+Size: 37346
+MD5sum: 6cd956a5bd0ce6f34f95d4905f6fd7cf
+SHA1: 634512250eff4cb3fb10f13a47a4b9aecaf82359
+SHA256: cef0f71c7f2abd91f2c5f2a25679695c82025f4a76ce1ac5d8ebcf45b5e6dd6d
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.colormybattery
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3.3_iphoneos-arm.deb
+Size: 37576
+MD5sum: 93a84d724a0a3ede83a8503052be29ac
+SHA1: 9219a4f0e317d30897d9513781a79b13a2061457
+SHA256: 1bcb00d1066c16acb24649a54b80c7ad0f4b2a722f8d9eb566df3d04be653bd0
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.countmymessages
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.countmymessages_1.0_iphoneos-arm.deb
+Size: 42152
+MD5sum: 041eeed5502b1d9011e4a887200ecabc
+SHA1: 8f329f47e21508a064e772de0aa9fdaad45d5e96
+SHA256: 39d5bd5b8a64abddc840e98f6d47b49242f2ad6f80fe1e9f1b7156e894e83a48
+Section: Tweaks
+Description: A Simple tweak to count my Total messages!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
+Icon: file:///Library/Application Support/CountMyMessages/icon.png
+Name: CountMyMessages
+
+Package: com.imkpatil.easyeditalarms
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.easyeditalarms_1.0_iphoneos-arm.deb
+Size: 3446
+MD5sum: f918580177fbad710e113b8a50962491
+SHA1: 1bcfc117ec3acbf02d7aed029cdd0913970b92d9
+SHA256: b54abf6ccc4fa99a6ebf603657134f0b487ff25f8267249f24354e271ef351be
+Section: Tweaks
+Description: Edit Alarms with a single tap!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/EasyEditAlarms/index.html
+Name: EasyEditAlarms
+
+Package: com.imkpatil.easyeditalarms
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.easyeditalarms_1.1_iphoneos-arm.deb
+Size: 3076
+MD5sum: a442e45c043b2b0feb3c1136f117b6b4
+SHA1: 0dff6d8529dd26c409b2a13fa31885fd38dcc8a1
+SHA256: ee339a024d75fdbf07b0fe33aeb9b0f55bf2af3a8d5a5da153c36da512294a04
+Section: Tweaks
+Description: Edit Alarms with a single tap!
+Author: P2KDev <p2kdev@gmail.com>
+Name: EasyEditAlarms
+
+Package: com.imkpatil.easyeditalarms
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.easyeditalarms_1.1.1_iphoneos-arm.deb
+Size: 3748
+MD5sum: ece9176b82582fb2f27a5c08e8162974
+SHA1: b9b67d48cfc781c5f6a6df2f712cac67a4155b31
+SHA256: 6b9cb0949223ec45a342d46c3dc8c3f0f2498ad0e57880b10c8a478b46f78910
+Section: Tweaks
+Description: Edit Alarms with a single tap!
+Author: P2KDev <p2kdev@gmail.com>
+Name: EasyEditAlarms
+
+Package: com.imkpatil.ezswipe
+Version: 1.0.0-15
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.ezswipe_1.0.0-15_iphoneos-arm.deb
+Size: 21042
+MD5sum: 62000352672ee119ebddc56b5a7966ad
+SHA1: 7229f245c8c707415db54e550a795c9e7728aafc
+SHA256: 5777df9cd5178edfba2b628b8cc63879271e67f7e39de4e65f32de4fec58822a
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/EZSwipe/index.html
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+Name: EZSwipe
+
+Package: com.imkpatil.ezswipe
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.ezswipe_1.1_iphoneos-arm.deb
+Size: 21814
+MD5sum: df5ff1d69c1f7a0a1fb43f81d8104cc8
+SHA1: 5d113f5b9fed346b718ca0b0c72b00b0228c15ba
+SHA256: b2e2e17f6c2164aa192aa70a7cd3ac1b98952218f2567cd2064dca8e8f0692ae
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+Name: EZSwipe
+
+Package: com.imkpatil.ezswipe
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.ezswipe_1.1.1_iphoneos-arm.deb
+Size: 21808
+MD5sum: 995ab9edce4870fe54ef4ca85c644c70
+SHA1: dc0d93d605b06ffb6d506bf3e71ecd05500208d7
+SHA256: ba6fe20c2ea57551b25617d2e7ca7da8ec5bcb427477832cf834abdc8925b192
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+Name: EZSwipe
+
+Package: com.imkpatil.homebarsizer
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.homebarsizer_1.0-5_iphoneos-arm.deb
+Size: 21660
+MD5sum: c9e31457d84ef3086c5a29ecb5f76b61
+SHA1: 57da772df60d644978b2d9ad9b526e1b0f1e6ae3
+SHA256: 7f1e89c0888efa6644f9cc033a7848ed38235e80485633fa4f4cdbe8593d535a
+Section: Tweaks
+Description: Resize that HomeBar!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/HomeBarSizer/index.html
+Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Name: HomeBarSizer
+
+Package: com.imkpatil.homebarsizer
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.homebarsizer_1.1_iphoneos-arm.deb
+Size: 22522
+MD5sum: 916bb30f6b55c4832896caec97355af3
+SHA1: 264cb2ed34cbfb85fd5c8e295024683d2b74256e
+SHA256: 808487c6751b55eb925ec175f5e1b5c2f7a896ce81626638499f92593a29acc6
+Section: Tweaks
+Description: Resize that HomeBar!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Name: HomeBarSizer
+
+Package: com.imkpatil.homebarsizer
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.homebarsizer_1.1.1_iphoneos-arm.deb
+Size: 22930
+MD5sum: 54f00867e2de1debb61481e65dd9a206
+SHA1: 84f11f51dba52f392f8a43e01c42a56efe3c9cbd
+SHA256: 69a6a63818a2f9d968a7870bec82068696ab785b82a57fc9d5b9348d3f1868bb
+Section: Tweaks
+Description: Resize that HomeBar!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Name: HomeBarSizer
+
+Package: com.imkpatil.letmeknow
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.2-1_iphoneos-arm.deb
+Size: 23578
+MD5sum: 92f6ff4242709b15adacecd05a2fe7c0
+SHA1: e2140b6839740c6738ba84b2206187c4cb23b3c6
+SHA256: 773bc79f3fe6af23bc5baba08f81174973b5585e20850454fbbd37b08000346c
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/LetMeKnow/index.html
+Icon: file:///Library/Application Support/LetMeKnow/Tweakicon.png
+Name: LetMeKnow
+
+Package: com.imkpatil.letmeknow
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.3_iphoneos-arm.deb
+Size: 23638
+MD5sum: a7451728c3a1e6182b4e1480e7c6740f
+SHA1: 67ec5ac2ba688347de5539a8578492b26ce93af1
+SHA256: f57ee8200b87f1278581c50e10503702207786441ecf6a6607bcbdc665ca1dbe
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/LetMeKnow/index.html
+Icon: file:///Library/Application Support/LetMeKnow/Tweakicon.png
+Name: LetMeKnow
+
+Package: com.imkpatil.letmeknow
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.4_iphoneos-arm.deb
+Size: 25276
+MD5sum: 180fdb0e985c9ed2b9683050bf77ebe7
+SHA1: 9b9c434157fc24b8455c53abb15887aab60f54dc
+SHA256: fe99b174be497cb74059b720312ac967accdc97772134f897505bb9cca25a8f3
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/LetMeKnow/Tweakicon.png
+Name: LetMeKnow
+
+Package: com.imkpatil.letmeknow
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.4.1_iphoneos-arm.deb
+Size: 25730
+MD5sum: d4954ecb4855b6d52590728de2be789f
+SHA1: 643c955b22d4eea56e546bbd190fd821b3124ca7
+SHA256: 5d14503519f76d0c84fed6174baaccfd118b4c4fc6a12a04587e787450b72345
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/LetMeKnow/Tweakicon.png
+Name: LetMeKnow
+
+Package: com.imkpatil.letmeknow
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.4.2_iphoneos-arm.deb
+Size: 25490
+MD5sum: bcf9635971f3fc6c4eff6d760874df54
+SHA1: 29a51c28568ce4f325bb631c6e976a4ca6b59c34
+SHA256: 6df4eded5e053020184e0cbf068a519f01578d38ce46bef30eae375d4b6b66c5
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/LetMeKnow/Tweakicon.png
+Name: LetMeKnow
+
+Package: com.imkpatil.longtimer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.longtimer_1.0_iphoneos-arm.deb
+Size: 2598
+MD5sum: cddd3238d9188e5b9916a1cfabfbe59a
+SHA1: 5cd4e3c1db72babe7d2f0fe63f7c21aaeeba4763
+SHA256: a1bb29b4fe68e2aea690071ce731ae91b1d98bc58a58ad90580ab8a27515d1fa
+Section: Tweaks
+Description: Make the timer run longer!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/LongTimer/index.html
+Name: LongTimer
+
+Package: com.imkpatil.nooldernotificationstext
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.nooldernotificationstext_1.2.3_iphoneos-arm.deb
+Size: 2346
+MD5sum: 6de019ae8efcd84cb9e13eca9b96083d
+SHA1: 91edcd28d345c4b38a98d6f3983104f1829e7356
+SHA256: 4279492203bf94cf708bd23b38c0dc32db4db3bf217e9bd61d06014d7a45de51
+Section: Tweaks
+Description: Hide that annoying 'No Older Notifications' Text!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NoOlderNotificationsText
+
+Package: com.imkpatil.nudepassscreen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 260
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.nudepassscreen_1.0_iphoneos-arm.deb
+Size: 25284
+MD5sum: 0ba016cf527c5d7bd68247e8a5dfb084
+SHA1: a648a4e8a84208e357d9824d409ed0d3ad8a3175
+SHA256: 2571f59cbe29c0a122107295beeab64f01d4993802e28edf8b414b27bc04eb16
+Section: Tweaks
+Description: Nudify the PassCode Screen!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/NudePassScreen/index.html
+Icon: file:///Library/Application Support/NudePassScreen/icon.png
+Name: NudePassScreen
+
+Package: com.imkpatil.nudepassscreen
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.nudepassscreen_1.1_iphoneos-arm.deb
+Size: 23590
+MD5sum: 5aabb910479c7c02374db5359b7a55d1
+SHA1: 89e518b86535c3eff53b65e690663ba5e29982ec
+SHA256: 609d04868f1a5c28321676d24631d041ad97daa9b1779d78f99e2b3d0b54a7e3
+Section: Tweaks
+Description: Nudify the PassCode Screen!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/NudePassScreen/icon.png
+Name: NudePassScreen
+
+Package: com.imkpatil.nudepassscreen
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.nudepassscreen_1.1.1_iphoneos-arm.deb
+Size: 25592
+MD5sum: d3c1aada95987555a941f81ebe1b738e
+SHA1: ee7e7bc89a0910f40ddd1cfa806f83a5d366204e
+SHA256: b176c3ceb7f8dd4d806bb767ba8a0b3a69411b0ab66bf2531361f2017623732e
+Section: Tweaks
+Description: Nudify the PassCode Screen!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/NudePassScreen/icon.png
+Name: NudePassScreen
+
+Package: com.imkpatil.podseek
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.podseek_1.0_iphoneos-arm.deb
+Size: 20830
+MD5sum: 6028fb5a284e4fe5298dc7c385ded290
+SHA1: f9e59e347ccf46ae7b400c45e9bec2dce4c22403
+SHA256: 5c85abdc2c6b1b44833493c9dcdb9f6df88d76da02474cac52372f91a4dbc4e5
+Section: Tweaks
+Description: Seek instead of Next in Podcasts App!
+Author: Kiran Patil
+Name: PodSeek
+
+Package: com.imkpatil.podseek
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.podseek_1.1_iphoneos-arm.deb
+Size: 20922
+MD5sum: 3cb8c019cf4249079a8239dd46d142a3
+SHA1: 358ab03bdedbef17634729cf4da7fa7af80bbce6
+SHA256: 3c4cc39d17b715fa580bd757a3eb74fb5ee7c97cceb811113d3251383e6756f2
+Section: Tweaks
+Description: Seek instead of Next in Podcasts App!
+Author: Kiran Patil
+Name: PodSeek
+
+Package: com.imkpatil.podseek
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.podseek_1.2_iphoneos-arm.deb
+Size: 21172
+MD5sum: 7ce084b2cb26e2a660e1ffec42a9743e
+SHA1: 72f68c047652bbb657266ab370bd0fdb32912fc4
+SHA256: acdaebc204e3bc1d60b5347901218dfb16a8640bf7ff3d728dcc8ad3300d48ab
+Section: Tweaks
+Description: Seek instead of Next in Podcasts App!
+Author: Kiran Patil
+Name: PodSeek
+
+Package: com.imkpatil.silentrecorder
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.silentrecorder_1.1_iphoneos-arm.deb
+Size: 23176
+MD5sum: 6d90c20f1c3bd438f2a82dd5915183ae
+SHA1: fb12a7818faf581c242096f7462e6e5fed47fc84
+SHA256: 20e1d81da6c6291979a0e8b19efa3d5640f29497ded52f02a13aba0f7dd4a2f7
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SilentRecorder/index.html
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.imkpatil.silentrecorder
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.silentrecorder_1.2_iphoneos-arm.deb
+Size: 24806
+MD5sum: 8c26c8878a43b27892df54451bb5bb6f
+SHA1: 9d48a910691337840e7fed66dc7e7e3bda3a0ac4
+SHA256: f22d2e765774a45797dbf04a8d2d52d8cb67f2d484d688db8dd9fb535b8405e3
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SilentRecorder/index.html
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.imkpatil.silentrecorder
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.silentrecorder_1.2.1_iphoneos-arm.deb
+Size: 25050
+MD5sum: 73ca2b3dd9583b3bb2094ecbb73e7074
+SHA1: 169f4988495aec706123ad7fc2f4667efea26e8c
+SHA256: c82ae5dd3d1595d64ffe3dd6b596a1f18ae974e4d2945cf372c6f34bcfa96b84
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SilentRecorder/index.html
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.imkpatil.silentrecorder
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.silentrecorder_1.3_iphoneos-arm.deb
+Size: 24810
+MD5sum: bb6a50d56291801f6789b7e469a00e92
+SHA1: e1dffc8543209e9eee17987362dbdd9495537517
+SHA256: 4162f00d6c3335a45b1cbd2e473f2d806d8e4ce443b06e4247f9c0c2d723edbf
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SilentRecorder/index.html
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.imkpatil.silentrecorder
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.silentrecorder_1.4_iphoneos-arm.deb
+Size: 24796
+MD5sum: bb99a51310f599996fc7c6f902f1685d
+SHA1: 868a8614d4933565b9ee687828831b30a265b3e7
+SHA256: 7feeedc9828862b29da1c049a891bc720e4fc639afa5e9b477e5a1e3a4deda74
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SilentRecorder/index.html
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.imkpatil.silentrecorder
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.silentrecorder_1.4.1_iphoneos-arm.deb
+Size: 25928
+MD5sum: 5ce236431fefae2444ca98306d052f9b
+SHA1: 244a3fd824978f0c6bcd473d8450180e3a9cc97e
+SHA256: d31157d1b29e18f49fd4f19dd83d50ec99b627b83ad2dfb1027350235a8fd613
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.imkpatil.spotcc
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotcc_0.0.9-1+debug_iphoneos-arm.deb
+Size: 3382
+MD5sum: b505d066249a50d07083b388c87ab55d
+SHA1: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
+SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SpotCC/index.html
+Name: SpotCC
+
+Package: com.imkpatil.spotcc
+Version: 0.0.9-2+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotcc_0.0.9-2+debug_iphoneos-arm.deb
+Size: 3380
+MD5sum: 01954efa9e1231760011bd71f9dbcff0
+SHA1: 39884ba5b98c7395657452199f46c89c4525b833
+SHA256: 7ceb4f1e7283c405ffacc33d62b414edc914ba73e99ed0ef8267172006c87803
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SpotCC/index.html
+Name: SpotCC
+
+Package: com.imkpatil.spotcc
+Version: 0.0.9-3+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotcc_0.0.9-3+debug_iphoneos-arm.deb
+Size: 3384
+MD5sum: 63543b5f1d17cf08575ccda69fd377c4
+SHA1: f23e78c9096ead4fd749cf4ea498862502b452a9
+SHA256: c9f3de59102d3630ddd9b504bbd8caba22587afd707c377ca17ff7713540df30
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SpotCC/index.html
+Name: SpotCC
+
+Package: com.imkpatil.spotcc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotcc_1.0_iphoneos-arm.deb
+Size: 2600
+MD5sum: a7dd7e774f451786ad3106de08e21d1c
+SHA1: c044aedefd98850b8cfa82a45ea41c8586a60a89
+SHA256: 7891a930242dcee2968d7b5c8c8fcca8c355fd0d747c610adcc1391669cb3649
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotCC
+
+Package: com.imkpatil.spotclearonclose
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_0.0.9-1+debug_iphoneos-arm.deb
+Size: 2348
+MD5sum: a703edbe539da7901a36efa530f63aca
+SHA1: c565013a8218908373fc2887bee4220028ecca90
+SHA256: 8517aaa28b8bfc458dba30593f84a26397afc42e8ef4dbbffbbaaadf670f063d
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SpotClearOnClose/index.html
+Name: SpotClearOnClose
+
+Package: com.imkpatil.spotclearonclose
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_1.0_iphoneos-arm.deb
+Size: 2492
+MD5sum: a89c8301d9451af0cfcd2dc49b8b5224
+SHA1: d5e0ec7a4714a9405bdfbe85e072cf01f681a79e
+SHA256: a2fa7f2dd218fb5e6704ae8ef8387c7ec65f3dfce70724f993b3787f97df2783
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotClearOnClose
+
+Package: com.imkpatil.spotclearonclose
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_1.1_iphoneos-arm.deb
+Size: 2504
+MD5sum: da8344aa9e078260025b24145b747749
+SHA1: 6b2d5d110592baef4061d5879630b37e32b50b5f
+SHA256: 6d6954224f13e305bce8a867a2575e8e8ee3987eca7515cd7d35b8f01cf95e25
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotClearOnClose
+
+Package: com.imkpatil.spotclearonclose
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_1.2_iphoneos-arm.deb
+Size: 2622
+MD5sum: aacf3e3b49a2889a8cdba260c44a0ff5
+SHA1: 9779a1bf100e62d2cd6b9e342fa46ae09b57c607
+SHA256: ae1ead95ca0a008ff43b27dfce57d7b3e49606c641472bc06f7de604c4708110
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotClearOnClose
+
+Package: com.imkpatil.stopautoplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.stopautoplay_1.0_iphoneos-arm.deb
+Size: 20358
+MD5sum: 7a01a22f8daa2313e2a0ebf20c83d014
+SHA1: 5fed87dc55ddf33eb2d72fdd4ef49fe9420a53e8
+SHA256: 84f679f12e1e5fc09e732ec1e9edb2f629629b7a7fc488231e552819056b212c
+Section: Tweaks
+Description: Stop that annoying Autoplay!
+Author: Kiran Patil
+Name: StopAutoPlay
+
+Package: com.imkpatil.stopautoplay
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.stopautoplay_1.0-2+debug_iphoneos-arm.deb
+Size: 21456
+MD5sum: e7b014179397bf5b54dacd53f42dc210
+SHA1: 5beaae432fe971e9c480fc92a0c5a65450ddb9f8
+SHA256: 3a8d6e03a9ef5faa4247256b482c465b8768e3d09506df3fe6743f5f78c06e66
+Section: Tweaks
+Description: Stop that annoying Autoplay!
+Author: Kiran Patil
+Name: StopAutoPlay
+
+Package: com.imkpatil.trashfromls
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.trashfromls_1.0-1_iphoneos-arm.deb
+Size: 5320
+MD5sum: 5b5726aafba8d6d48510e46d4fa58f54
+SHA1: a6d010e90ed198191e5e4cc2c58ea3517a0c8459
+SHA256: 5097e7a3f6f21d49b7a54b1b945a47a807eddbf9b3913e08be4aebedb233ef62
+Section: Tweaks
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/TrashFromLS/index.html
+Icon: file:///Library/Application Support/TrashFromLS/icon.png
+Name: TrashFromLS
+
+Package: com.imkpatil.trashfromls
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.trashfromls_1.1_iphoneos-arm.deb
+Size: 5804
+MD5sum: 4d819325fa81d0f21a44ccd6a901769d
+SHA1: 9e5b7f160e4605e3974f9a6187d94e4fa753e6ac
+SHA256: 65c1744cfb9d36df92883bb98e1c7464a64b9895b739a8acb2b2c1295f149d0d
+Section: Tweaks
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/TrashFromLS/icon.png
+Name: TrashFromLS
+
+Package: com.imkpatil.usbrespring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.usbrespring_1.0_iphoneos-arm.deb
+Size: 2844
+MD5sum: 87c82b7dd7bd55144e9887de375e4d34
+SHA1: e7722090df72b84161ce4ba21aeb8f936b46c6b2
+SHA256: a2ea3b86725d73834601a55ba819251d0e3b01835728fc2ad331ee268245cd44
+Section: Tweaks
+Description: A simple tweak to Repsring on USB Disconnect!
+Author: Kiran Patil
+Name: USBRespring
+
+Package: com.imkpatil.usbrespring
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.usbrespring_1.1_iphoneos-arm.deb
+Size: 2834
+MD5sum: 0c0209ea893e5588395ef9ccce38157d
+SHA1: 0f4cff601d0c1856f9d4e6f084ae84fa5e869308
+SHA256: f44575d9faedf2365439f971e45b624f2c3086f26183afadde80bbaaae2e6e00
+Section: Tweaks
+Description: A simple tweak to Repsring on USB Disconnect!
+Author: Kiran Patil
+Name: USBRespring
+
+Package: com.p2kdev.customtransparency
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.customtransparency_1.0_iphoneos-arm.deb
+Size: 3932
+MD5sum: 9cb7f44161bb9acdf1498da938d86e78
+SHA1: de7d9fa96241173ae0a7b3fe78bf6c066d8a71ba
+SHA256: 4363bc2acff0f1144f5bb81066caa22a30c82f7d350dcf0b2a68004843d24e65
+Section: Tweaks
+Description: Reduces the Transparency only on selected elements!
+Author: P2KDev <p2kdev@gmail.com>
+Name: CustomTransparency
+
+Package: com.p2kdev.fivedock13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader
+Filename: ./debs/com.p2kdev.fivedock13_1.0_iphoneos-arm.deb
+Size: 4386
+MD5sum: 799111457f32e33dae3c38f3377a463b
+SHA1: 773b08a436db92f348ee4d2e2a51f19617ec1f32
+SHA256: 9800fa0ee466a411b051a694a11067013cd12fd8ec0caf0b4b817e45bea7fcfa
+Section: Tweaks
+Description: Five Icons on your Dock!
+Author: P2KDev <p2kdev@gmail.com>
+Name: FiveDock13
+
+Package: com.p2kdev.iknowthetime
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.iknowthetime_1.0_iphoneos-arm.deb
+Size: 8130
+MD5sum: 15c8dcbfab18f7c42806069d318b8ec9
+SHA1: 54a1c7b7a303f9c854da45641fb7bb9bdd558795
+SHA256: be86e5a166cb96cd752da86f6eec1a0a01801a61ec9c2b52e861671ac88e94a5
+Section: Tweaks
+Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: iKnowTheTime
+
+Package: com.p2kdev.iknowthetime
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.iknowthetime_1.1_iphoneos-arm.deb
+Size: 8052
+MD5sum: 8dc448006cc5e691ec4cffdbc164f2a6
+SHA1: 5f4691ab13a5b7f6a8d2878355f23155d903021c
+SHA256: 66b051595d787e16b74bd5861b60dd2541dffb2ba3659c3d7e27e0d73b3b226d
+Section: Tweaks
+Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: iKnowTheTime
+
+Package: com.p2kdev.iknowthetime
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.iknowthetime_1.2_iphoneos-arm.deb
+Size: 8462
+MD5sum: d0f21acc9621f434ea43b4a55e579957
+SHA1: 0a8ebe33c4bbece31faf479d7ca9924b7ae77f1b
+SHA256: 0e2e79c56b03fc773aca4aa0d38c76db90680b638fad8c9aa62f80dc43205515
+Section: Tweaks
+Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: iKnowTheTime
+
+Package: com.p2kdev.iknowthetime
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.iknowthetime_1.2.1_iphoneos-arm.deb
+Size: 8468
+MD5sum: 0b47ad34459ea9dfb3a26cfe5d2a664e
+SHA1: cedb69e60ce6bdb798ddcac8110ba2ab5568e77e
+SHA256: 5174663a8b26fc383491d4f7b6525a3825a171f9c897f04aea5a6f20f1671344
+Section: Tweaks
+Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: iKnowTheTime
+
+Package: com.p2kdev.iknowthetime
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.iknowthetime_1.2.2_iphoneos-arm.deb
+Size: 8630
+MD5sum: f60b924ce52a1f9f8668d54e6a1652c6
+SHA1: 16ea2e2c1eb725123a049d9ca1795e62875894ba
+SHA256: da7f92747de2fc503e4de2ddd733b851d5335ab64f035bc1194de2afbd709d20
+Section: Tweaks
+Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: iKnowTheTime
+
+Package: com.p2kdev.instazoom
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instazoom_1.0_iphoneos-arm.deb
+Size: 12372
+MD5sum: c6e438ca8fa284eb5111aa487344d094
+SHA1: cdf0f63fc233d5fde5ae105c3a7b3e787d135baf
+SHA256: a53596336bebcc46245f30433abc9c649b1328743713977a93490a43c2b21b5b
+Section: Tweaks
+Description: Zoom into images on Instagram!
+Author: P2KDev <p2kdev@gmail.com>
+Name: InstaZoom
+
+Package: com.p2kdev.keepitsimple
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.keepitsimple_1.0_iphoneos-arm.deb
+Size: 2670
+MD5sum: a723042918b7bc8025a8c01564a63141
+SHA1: 4d6ffc65116f37e1d2a8069e3b72daa912874bcd
+SHA256: 0a567771012485d1de195c41cb753a44991f03470bd4a2fbeb2f82a5b1f5c299
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Name: KeepItSimple
+
+Package: com.p2kdev.keepitsimple
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.keepitsimple_1.0.1_iphoneos-arm.deb
+Size: 3058
+MD5sum: dbc99c453fa2793a37a2cf426b0a7df1
+SHA1: f26b504acb44ac189a5675d43cfd2b16157a39a7
+SHA256: 1b93283182c95a1a9bf56533258005f5530e6df46d21e69ac90d9d0c6273c12e
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Name: KeepItSimple
+
+Package: com.p2kdev.keepitsimple
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 348
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.keepitsimple_1.1_iphoneos-arm.deb
+Size: 28770
+MD5sum: 0326c3ec6644bd3efbc8ffaedc349787
+SHA1: 8b0ba3a5a2217827da5b76955ad84b3825f731f0
+SHA256: dcf7a97b192b528160455be6251c3b2c2f2497dd0ae37c3de066909e4f32a1ea
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Name: KeepItSimple
+
+Package: com.p2kdev.letmedecline
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.letmedecline_1.0_iphoneos-arm.deb
+Size: 2596
+MD5sum: 89f7897fbbb210cf443447517c6c3c88
+SHA1: a502d895cd4ed28cb693df7bf4988c251cfe4d12
+SHA256: 312297494a4edc8fb96613d68c3d8e95888b09f101ae548dd2cb17e785cc8cac
+Section: Tweaks
+Description: This tweak will show the Accept/Decline buttons when the phone is locked!
+Author: P2KDev <p2kdev@gmail.com>
+Name: LetMeDecline
+
+Package: com.p2kdev.letmedecline
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.letmedecline_1.0.1_iphoneos-arm.deb
+Size: 2336
+MD5sum: bcce8a97a069322495ccf81442d1660c
+SHA1: 6fc7374b643f90ec6a67dcef46dbb356529ab644
+SHA256: 4705492d1b67faba108745696186b1e9732c9fbd000ad4e8970745262178da3f
+Section: Tweaks
+Description: This tweak will show the Accept/Decline buttons when the phone is locked!
+Author: P2KDev <p2kdev@gmail.com>
+Name: LetMeDecline
+
+Package: com.p2kdev.nosettingsbadge
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nosettingsbadge_1.0_iphoneos-arm.deb
+Size: 2924
+MD5sum: d279c73f388cfe3a81d3eabbd4448519
+SHA1: 20f0ce3e4872ecdddf8ec07557010b28489fcf2f
+SHA256: 2132fce11e0f982e5902fbfe86c43cb44d7886a91a3244a407d200ddf9f40cca
+Section: Tweaks
+Description: Removes the annoying badge on the settings icon!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NoSettingsBadge
+
+Package: com.p2kdev.sakal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.sakal_1.0_iphoneos-arm.deb
+Size: 31802
+MD5sum: a2dc77a02ef642564814b259420947b6
+SHA1: bf33e6ae5890a03484460b576ad7e6fa6bb0421f
+SHA256: 804b51991ba641674072403fb5eba82f0ab464ecb0ae281d6f836e3b07faefd5
+Section: Tweaks
+Description: Next Alarm on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
+Package: com.p2kdev.sakal
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_1.1_iphoneos-arm.deb
+Size: 38270
+MD5sum: 2c492d09de146323cee1d6a135242dbc
+SHA1: 294bb279222a0ec617add1a799555e601d7bd00b
+SHA256: f5d8d86e21840a8185ea575b735ee058c57dc095b3b87c8381857a592ddcc925
+Section: Tweaks
+Description: Next Alarm on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
+Package: com.p2kdev.sakal
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_1.1.1_iphoneos-arm.deb
+Size: 38924
+MD5sum: ceec2982eace3362f55d62eaa8ab6b42
+SHA1: 3d095b1808b533a50af4e6c74630e0f1d61be3be
+SHA256: 87a39bc19b3c760762a3d739d73946960b1acbe66d0702a503fbc761fcb4ddce
+Section: Tweaks
+Description: Next Alarm on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
+Package: com.p2kdev.screenshotactions
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 144
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.p2kdev.screenshotactions_1.0_iphoneos-arm.deb
+Size: 14972
+MD5sum: 7961fc24fab079d1d1110a4f7d5fdad5
+SHA1: d8f8be6dbefa8016c5c275a429065cd6b70e93c2
+SHA256: ede0237e868026c5dccbf829a4823ea08db83fc45a4f1bfd2925af29b7228ebd
+Section: Tweaks
+Description: Add Quick Actions to the screenshot preview!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Name: ScreenshotActions
+
+Package: com.p2kdev.screenshotactions
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 144
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.p2kdev.screenshotactions_1.1_iphoneos-arm.deb
+Size: 15564
+MD5sum: 0d6516d325750b269a809ada3b487378
+SHA1: cd6e028edad948201276b0c646fbf97643e9dcd3
+SHA256: eb745019c00ade63ce51d0983627a95f23892cf6ae0c3270e933047f95602461
+Section: Tweaks
+Description: Add Quick Actions to the screenshot preview!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Name: ScreenshotActions
+
+Package: com.p2kdev.screenshotactions
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 148
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.p2kdev.screenshotactions_1.1.1_iphoneos-arm.deb
+Size: 18066
+MD5sum: d87bdb886106bb91afcf2c10b56dff3d
+SHA1: ac2bd460d12a265631f5a1027ec3cd405539b578
+SHA256: cd1fbf39700059a88e5d07b484c4bfa9d30a5aacf6086896784b073824fe57ef
+Section: Tweaks
+Description: Add Quick Actions to the screenshot preview!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Name: ScreenshotActions
+
+Package: com.p2kdev.screenshotactions
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 148
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.p2kdev.screenshotactions_1.2_iphoneos-arm.deb
+Size: 18002
+MD5sum: 3e54ebf6df021f14987b9e14b2168055
+SHA1: f2831595ee1ca21c6c54889fc70c441826062369
+SHA256: cb9e19158c83c7009c2d0ab4183745fce193bd48f582cc45987a9ba5f14dc267
+Section: Tweaks
+Description: Add Quick Actions to the screenshot preview!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Name: ScreenshotActions
+
+Package: com.p2kdev.smartpower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.smartpower_1.0_iphoneos-arm.deb
+Size: 25442
+MD5sum: 664dbd815907cffaab0fdc4264aa7a16
+SHA1: de90df574f9ac84ce27d1d9c86ce33d2e18d9246
+SHA256: 7f9f5baefb8a0b81ae3a17435b70fcacbfbc64d7e79df0f1340f0eed50827603
+Section: Tweaks
+Description: Make Low Power mode Smart!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SmartPower
+
+Package: com.p2kdev.snapper2cc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 156
+Depends: mobilesubstrate,com.opa334.ccsupport,com.jontelang.snapper2.packix
+Filename: ./debs/com.p2kdev.snapper2cc_1.0_iphoneos-arm.deb
+Size: 12566
+MD5sum: 48be5029787506537117452825b2eaba
+SHA1: aa8910f3b3f958845958cf6a2929276051f6b88e
+SHA256: 42a0d2e4b5b53646e26a689c77b6dc71ef7d8747497c3e3ce807938539bdd5ae
+Section: Control Center (Modules)
+Description: Invoke the Snapper2 Tweak's actions using CC Toggle!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/Snapper2CC/icon.png
+Name: Snapper2 CC Toggle
+
+Package: com.p2kdev.waqt
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.0.2_iphoneos-arm.deb
+Size: 26328
+MD5sum: 2afae6e80e8930ebd155fa240a5bd636
+SHA1: 4be27dc030aeeb4a86f5a4daf8f8565235c8a553
+SHA256: b2f9c5a59cb4ecd5ba60f486f1ae0fd992a38cd0eb2578c5c7ba1b2f9ce7d69e
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
+
+Package: me.nepeta.docky
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Kritanta <kritantadevelopment@gmail.com>
+Installed-Size: 328
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.iconstate
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/me.nepeta.docky_0.3_iphoneos-arm.deb
+Size: 27732
+MD5sum: a9866f9dbabacd4335400c2ccd242a95
+SHA1: 975208f20cc41351e3314860f47b62cc0ece922a
+SHA256: 15c38625cce02ea048ff38da456f9cc2b8be35dd03e9386057181b5372ae824d
+Section: Tweaks
+Description: Dock customizer
+Author: Nepeta
+Name: Docky
+
