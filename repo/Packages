@@ -1399,23 +1399,6 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ScreenshotActions/icon.png
 Name: ScreenshotActions
 
-Package: com.p2kdev.screenshotactions
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 148
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.p2kdev.screenshotactions_1.2_iphoneos-arm.deb
-Size: 18002
-MD5sum: 3e54ebf6df021f14987b9e14b2168055
-SHA1: f2831595ee1ca21c6c54889fc70c441826062369
-SHA256: cb9e19158c83c7009c2d0ab4183745fce193bd48f582cc45987a9ba5f14dc267
-Section: Tweaks
-Description: Add Quick Actions to the screenshot preview!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/ScreenshotActions/icon.png
-Name: ScreenshotActions
-
 Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
