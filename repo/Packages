@@ -1188,6 +1188,22 @@ Description: Hide the annoying DateTime label on the widgets page on the lockscr
 Author: P2KDev <p2kdev@gmail.com>
 Name: iKnowTheTime
 
+Package: com.p2kdev.iknowthetime
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.iknowthetime_1.2.3_iphoneos-arm.deb
+Size: 8458
+MD5sum: efc7afa0e0645beb9e3314c09acf7afb
+SHA1: 565f0914862d0023d6d0f3af3f4c620e8eecf8e2
+SHA256: 8aba84ad0d3e35cbc70c73884875e9b05f9fe1d7fb0605cbc797c74f64a3c195
+Section: Tweaks
+Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: iKnowTheTime
+
 Package: com.p2kdev.instazoom
 Version: 1.0
 Architecture: iphoneos-arm
