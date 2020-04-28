@@ -253,10 +253,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 316
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.iknowthetime_1.2.3_iphoneos-arm.deb
-Size: 8532
-MD5sum: 23c32e12669634c0acf2b935d8961faa
-SHA1: 955fde144015560e355c96f928199cf07ae82eca
-SHA256: e5153396a29027b9ddc6a475a00248000840c88b80a035006aff25e925709cf1
+Size: 8570
+MD5sum: b0b897892aeac82b6b9ec8db313884d0
+SHA1: e32fdf72027486e6701c811b3177117db5a63059
+SHA256: 1c42ff51308fa954e3e2eb39edfb505828874bc82901866fe6b4a5edb54f4956
 Section: Tweaks
 Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
