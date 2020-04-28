@@ -247,16 +247,16 @@ Author: P2KDev <p2kdev@gmail.com>
 Name: CustomTransparency
 
 Package: com.p2kdev.iknowthetime
-Version: 1.2.3
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 316
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.iknowthetime_1.2.3_iphoneos-arm.deb
-Size: 8570
-MD5sum: b0b897892aeac82b6b9ec8db313884d0
-SHA1: e32fdf72027486e6701c811b3177117db5a63059
-SHA256: 1c42ff51308fa954e3e2eb39edfb505828874bc82901866fe6b4a5edb54f4956
+Filename: ./debs/com.p2kdev.iknowthetime_1.3_iphoneos-arm.deb
+Size: 8766
+MD5sum: 951cb5c4370e253ed24d921b984c718a
+SHA1: 107a9b2a0aa289569418123c10fe8777ccb2348a
+SHA256: 12f868058048628d08b6582e1d6caad3a5a94681833ee0feff76369fa308451a
 Section: Tweaks
 Description: Hide the annoying DateTime label on the widgets page on the lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
@@ -277,22 +277,6 @@ Section: Tweaks
 Description: Zoom into images on Instagram!
 Author: P2KDev <p2kdev@gmail.com>
 Name: InstaZoom
-
-Package: com.p2kdev.keepitsimple
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 348
-Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
-Filename: ./debs/com.p2kdev.keepitsimple_1.1_iphoneos-arm.deb
-Size: 29288
-MD5sum: 539038de5823607688240d2a91382522
-SHA1: 327f8e6b61a776a1bdf36ee267c2e4e2e35278f2
-SHA256: 0f30cff117248caf1f4be0116945f3f63370cb0a447790a43f9eb8dbca815fd0
-Section: Tweaks
-Description: Single List of Notifications!
-Author: P2KDev <p2kdev@gmail.com>
-Name: KeepItSimple
 
 Package: com.p2kdev.keepitsimple
 Version: 1.1.1
