@@ -294,6 +294,22 @@ Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
 Name: KeepItSimple
 
+Package: com.p2kdev.keepitsimple
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.keepitsimple_1.1.1_iphoneos-arm.deb
+Size: 25076
+MD5sum: 79f8378b8c5e9e8487eb1df59c840690
+SHA1: cdcce32b1f17f0fb95c1a39982e055b46b034f8e
+SHA256: 23462bfbc1af5db013bb475561a48b3453e17aab46f8556f09bed07eb9821193
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Name: KeepItSimple
+
 Package: com.p2kdev.letmedecline
 Version: 1.0.1
 Architecture: iphoneos-arm
