@@ -342,6 +342,22 @@ Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartPower
 
+Package: com.p2kdev.smartpower
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 332
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.smartpower_1.1_iphoneos-arm.deb
+Size: 23480
+MD5sum: 378dd56b575086ed54677f9166de9553
+SHA1: fb7955b1f13ec1f3df5d989b64f857931de79d21
+SHA256: 6a7f77c07ee625a8f194c40cb1daaa9a366618a1b11e875b86a7f3e3f4a26ac2
+Section: Tweaks
+Description: Make Low Power mode Smart!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SmartPower
+
 Package: me.nepeta.docky
 Version: 0.3
 Architecture: iphoneos-arm
