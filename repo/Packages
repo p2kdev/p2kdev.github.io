@@ -279,16 +279,16 @@ Author: P2KDev <p2kdev@gmail.com>
 Name: InstaZoom
 
 Package: com.p2kdev.keepitsimple
-Version: 1.1.1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 336
+Installed-Size: 348
 Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
-Filename: ./debs/com.p2kdev.keepitsimple_1.1.1_iphoneos-arm.deb
-Size: 25076
-MD5sum: 79f8378b8c5e9e8487eb1df59c840690
-SHA1: cdcce32b1f17f0fb95c1a39982e055b46b034f8e
-SHA256: 23462bfbc1af5db013bb475561a48b3453e17aab46f8556f09bed07eb9821193
+Filename: ./debs/com.p2kdev.keepitsimple_1.1_iphoneos-arm.deb
+Size: 29342
+MD5sum: 66e7d8fcbb6780265c8898ad317e1ff8
+SHA1: 826ff45658241e68bc348a357b2ad323f321c0da
+SHA256: eb38e70a3cc2cb06e4e5ace376a02669e5cca472e5cb72afc4d055af46667d1f
 Section: Tweaks
 Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
@@ -330,29 +330,13 @@ Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 336
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.smartpower_1.0_iphoneos-arm.deb
-Size: 25442
-MD5sum: 664dbd815907cffaab0fdc4264aa7a16
-SHA1: de90df574f9ac84ce27d1d9c86ce33d2e18d9246
-SHA256: 7f9f5baefb8a0b81ae3a17435b70fcacbfbc64d7e79df0f1340f0eed50827603
-Section: Tweaks
-Description: Make Low Power mode Smart!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SmartPower
-
-Package: com.p2kdev.smartpower
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 332
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.smartpower_1.1_iphoneos-arm.deb
-Size: 23480
-MD5sum: 378dd56b575086ed54677f9166de9553
-SHA1: fb7955b1f13ec1f3df5d989b64f857931de79d21
-SHA256: 6a7f77c07ee625a8f194c40cb1daaa9a366618a1b11e875b86a7f3e3f4a26ac2
+Filename: ./debs/com.p2kdev.smartpower_1.0_iphoneos-arm.deb
+Size: 23500
+MD5sum: 0786fab27fc422690f8b255ce097f9af
+SHA1: 16ce714d0d7d6cd4156361d13cddee165fc812c8
+SHA256: e7aefd049328dcca48125ae96353556542c929d955f793d49f773d161f45daea
 Section: Tweaks
 Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
