@@ -246,6 +246,22 @@ Description: Reduces the Transparency only on selected elements!
 Author: P2KDev <p2kdev@gmail.com>
 Name: CustomTransparency
 
+Package: com.p2kdev.customtransparency
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.customtransparency_1.1_iphoneos-arm.deb
+Size: 4036
+MD5sum: d18d95c82baff45e7ed05dd094f59e45
+SHA1: a1bcffadbce4fe7941dd69883a97bc1924bc489b
+SHA256: ed681ee7234622346a2774e32aedb2a77481911f68a9ddc0644e96ad61990cfb
+Section: Tweaks
+Description: Reduces the Transparency only on selected elements!
+Author: P2KDev <p2kdev@gmail.com>
+Name: CustomTransparency
+
 Package: com.p2kdev.iknowthetime
 Version: 1.3
 Architecture: iphoneos-arm
