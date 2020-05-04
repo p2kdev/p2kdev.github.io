@@ -278,6 +278,22 @@ Description: Removes the annoying badge on the settings icon!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NoSettingsBadge
 
+Package: com.p2kdev.sakal
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_1.1.2_iphoneos-arm.deb
+Size: 38984
+MD5sum: ca497bf69c6e69cd3820bd223b8c93d7
+SHA1: 5a2a00bbe0b6d41a3ec52d55e98be6150b418ada
+SHA256: 6871338be6dcd3c2b91715c152fcde9e2bf894d7a9dd8e78cc6ba4ccd5516121
+Section: Tweaks
+Description: Next Alarm on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
 Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
