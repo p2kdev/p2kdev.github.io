@@ -285,10 +285,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 392
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.sakal_1.1.2_iphoneos-arm.deb
-Size: 38796
-MD5sum: 9a43db31fbc87397c1abc59e5036389b
-SHA1: e4862a9cd38ce8140da6887b671781462812d812
-SHA256: 3e4f244ffa4e3bcf2650d3611c8519d192acba1b7315e3af3a7316c2e8641bf8
+Size: 39216
+MD5sum: 9b016d5da636bce5577457a61725a885
+SHA1: f39ae92c51aa4b4fb7acccd28d825d67b21d51f5
+SHA256: ea138f0cd56390ebd97ad7ac5c61d40a167b9632896d1e1eef7068ddf9c9a7e3
 Section: Tweaks
 Description: Next Alarm on your lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
