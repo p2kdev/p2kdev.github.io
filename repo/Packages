@@ -310,6 +310,22 @@ Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartPower
 
+Package: hi.my.name.is.ubik.oriental
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/hi.my.name.is.ubik.oriental_1.0.1_iphoneos-arm.deb
+Size: 6672
+MD5sum: cd12c6bbc4d916d9fff4fcfb93c7ade2
+SHA1: bc0881961d27b70a462cecc5d63f01764a429f77
+SHA256: 329906bb83e2c91e707a1c718f2a714c5f92fad211aea71d760b6c43de2cfe19
+Section: Tweaks
+Description: To rotate or not.
+Author: ubik <cydia@ubikstyl.es>
+Name: Oriental
+
 Package: me.nepeta.docky
 Version: 0.3
 Architecture: iphoneos-arm
