@@ -343,3 +343,20 @@ Description: Dock customizer
 Author: Nepeta
 Name: Docky
 
+Package: me.nepeta.docky
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: Kritanta <kritantadevelopment@gmail.com>
+Installed-Size: 304
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.iconstate
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/me.nepeta.docky_0.3.1_iphoneos-arm.deb
+Size: 31508
+MD5sum: 4dc7aef0c2d20257f3e5df20cc098ef9
+SHA1: 9821e5b36badf736be459015dc2cfdaada710595
+SHA256: 08fde81b8126a914af94101378da1ed9256ad0d262e828562e9819fe67026e07
+Section: Tweaks
+Description: Dock customizer
+Author: Nepeta
+Name: Docky
+
