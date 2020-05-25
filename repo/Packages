@@ -230,6 +230,22 @@ Description: A simple tweak to Repsring on USB Disconnect!
 Author: Kiran Patil
 Name: USBRespring
 
+Package: com.p2kdev.deleteforeverxs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.deleteforeverxs_1.0_iphoneos-arm.deb
+Size: 4318
+MD5sum: 552794ec25f7fa631e4aa35b3ab149e0
+SHA1: 04627fdeceec0eca581c4c3bb652c0d6a21ead5f
+SHA256: b1fa5a1bd73cabc90f66945ee0da772e1a3f0976ae5c460d98e375349f98ff1d
+Section: Tweaks
+Description: Tweak to delete unwanted photos forever!
+Author: P2KDev <p2kdev@gmail.com>
+Name: DeleteForeverXS
+
 Package: com.p2kdev.instazoom
 Version: 1.0
 Architecture: iphoneos-arm
