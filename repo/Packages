@@ -392,3 +392,21 @@ Description: Dock customizer
 Author: Nepeta
 Name: Docky
 
+Package: org.thebigboss.elite
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/org.thebigboss.elite_1.6.1_iphoneos-arm.deb
+Size: 22974
+MD5sum: fbd641f417e03c20adae8cebdf797564
+SHA1: 62f17fe8d268e50d7fb6fb4570f9ae2bbbfebb6e
+SHA256: 369dd8ec2175eb5884f09459a26677a622add83253565c4787379c04e3782926
+Section: Tweaks
+Description: Color-coded recent MobilePhone.app logs. Supports iOS 7-13
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Icon: https://leftyfl1p.github.io/sileo-icon/org.thebigboss.elite.png
+Name: ColorCodedLogs
+Sileodepiction: https://leftyfl1p.github.io/sileo-depiction/org.thebigboss.elite.json
+
