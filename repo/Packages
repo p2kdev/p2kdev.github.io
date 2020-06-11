@@ -278,6 +278,22 @@ Description: This tweak will show the Accept/Decline buttons when the phone is l
 Author: P2KDev <p2kdev@gmail.com>
 Name: LetMeDecline
 
+Package: com.p2kdev.ndtvnoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.ndtvnoads_1.0_iphoneos-arm.deb
+Size: 2734
+MD5sum: 087f955b60a7df18a49596dc676b5578
+SHA1: 277f70f2dd1fa827891d1081fc3cb8458dad01a7
+SHA256: 97a667114726004cde0a4e9d9cd7a7220d77f15f9b3e07d80a56bd2215031659
+Section: Tweaks
+Description: No Ads in the NDTV News App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NDTVNoAds
+
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
 Architecture: iphoneos-arm
