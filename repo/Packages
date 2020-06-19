@@ -342,6 +342,23 @@ Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartPower
 
+Package: com.p2kdev.tinywidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13
+Filename: ./debs/com.p2kdev.tinywidget_1.0_iphoneos-arm.deb
+Size: 11056
+MD5sum: 43b5746a28c1094ea4ef6aec34a35d38
+SHA1: c575f64eb72cbbda83f6e1ac86d79e653ccc9909
+SHA256: ef2b64402bf6cf04b166a6975ecebbfe92c57805ada02d1d6f1e1e47cebddd91
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TinyWidget
+
 Package: hi.my.name.is.ubik.oriental
 Version: 1.0.1
 Architecture: iphoneos-arm
