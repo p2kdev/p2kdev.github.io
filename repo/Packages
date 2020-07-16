@@ -425,6 +425,22 @@ Description: Dock customizer
 Author: Nepeta
 Name: Docky
 
+Package: me.nepeta.iconstate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 2272
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
+Size: 8548
+MD5sum: 9a4ffef3fd0b62cf514f8de384e025b1
+SHA1: e69ef9697b7100e056eb3faf052e8216290bac10
+SHA256: 9394f51814517fc7dbc9638ac93095a97900cbe731377b437f6e4f34246347d0
+Section: Tweaks
+Description: Preserve custom icon layouts between reboots
+Author: Nepeta <ominousness@protonmail.com>
+Name: IconState
+
 Package: org.thebigboss.elite
 Version: 1.6.1
 Architecture: iphoneos-arm
