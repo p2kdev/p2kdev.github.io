@@ -48,6 +48,22 @@ Author: chilaxan & Nepeta
 Depiction: http://repo.kritanta.me/depictions/?id=com.chilaxan.cuboid
 Name: Cuboid
 
+Package: com.dpkg.cappd
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: dpkg_
+Depends: mobilesubstrate
+Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
+Filename: ./debs/com.dpkg.cappd.deb
+Size: 996
+MD5sum: 426876416e412a6e4a67f20b81ec022b
+SHA1: b92d27e70592104b33d2600bcc3e2c641c779fb6
+SHA256: 21d293e9d2ed6bea44ba8a8d3bbb97134136fdaf32c8fe4a810da869239af6c7
+Section: Administration
+Description: Safely disable some executables/daemons.
+Author: dpkg_
+Name: Cappd
+
 Package: com.exile90.icleanerpro
 Version: 7.8.3
 Architecture: iphoneos-arm
