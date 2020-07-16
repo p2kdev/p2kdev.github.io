@@ -388,10 +388,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 144
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.instagramnoads_1.0_iphoneos-arm.deb
-Size: 6216
-MD5sum: 698acaa0430159e43600dab92bfd29f8
-SHA1: 42b02155279d6dacebb7e4d4e5ce5c7a3cd1835c
-SHA256: c35cd8b57304532edf0447ff857ed181b3f4add9dae620d622f8705ffc584593
+Size: 7342
+MD5sum: 5f05d115cb2fc9c2a8740d191fe34fd6
+SHA1: 6b8866bdd1b41bc5f67ad9d3a00fcc8f2c4a7fc9
+SHA256: 51716a0f696d4036d8397810522f7635d7504009339a8f7a6b8fcf6b8e090bf2
 Section: Tweaks
 Description: No Ads in the Instagram App!
 Author: P2KDev <p2kdev@gmail.com>
