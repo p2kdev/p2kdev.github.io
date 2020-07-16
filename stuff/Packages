@@ -365,6 +365,38 @@ Description: Tweak to delete unwanted photos forever!
 Author: P2KDev <p2kdev@gmail.com>
 Name: DeleteForeverXS
 
+Package: com.p2kdev.facebooknoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.facebooknoads_1.0_iphoneos-arm.deb
+Size: 4382
+MD5sum: 73559ff6ad7201a44f615d28331ba867
+SHA1: abeebaaf55a1f275d2d388f438087472d2e55f2b
+SHA256: df037b0af757a1141e1dc9298eb354b6b168dc61def76d2bc73d2d852a961f1b
+Section: Tweaks
+Description: No Ads in the Facebook App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: FacebookNoAds
+
+Package: com.p2kdev.instagramnoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instagramnoads_1.0_iphoneos-arm.deb
+Size: 6216
+MD5sum: 698acaa0430159e43600dab92bfd29f8
+SHA1: 42b02155279d6dacebb7e4d4e5ce5c7a3cd1835c
+SHA256: c35cd8b57304532edf0447ff857ed181b3f4add9dae620d622f8705ffc584593
+Section: Tweaks
+Description: No Ads in the Instagram App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: InstagramNoAds
+
 Package: com.p2kdev.instazoom
 Version: 1.0
 Architecture: iphoneos-arm
@@ -404,10 +436,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.ndtvnoads_1.0_iphoneos-arm.deb
-Size: 2734
-MD5sum: 087f955b60a7df18a49596dc676b5578
-SHA1: 277f70f2dd1fa827891d1081fc3cb8458dad01a7
-SHA256: 97a667114726004cde0a4e9d9cd7a7220d77f15f9b3e07d80a56bd2215031659
+Size: 2736
+MD5sum: 777e0e275dd005a8ef511ae15ffe56a6
+SHA1: 925e1c9e69d65f6ba3d65158228a5c5fd1f0bbd3
+SHA256: bcf28154c29a0a73b1f15043bd57a7a217b9dfa2534fc0bf7ac81d15fd082529
 Section: Tweaks
 Description: No Ads in the NDTV News App!
 Author: P2KDev <p2kdev@gmail.com>
@@ -428,6 +460,22 @@ Section: Tweaks
 Description: Removes the annoying badge on the settings icon!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NoSettingsBadge
+
+Package: com.p2kdev.redditnoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.redditnoads_1.0_iphoneos-arm.deb
+Size: 3020
+MD5sum: 9794517d0ee7348889e905299e52828d
+SHA1: 16790a9e4a3ad45851e17e0ec9bc284166eb486e
+SHA256: 7037c0066fb876cd967b96b95d1da20cf52620e8abe86e1e9114a925fcbd5974
+Section: Tweaks
+Description: No Ads in the Reddit App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: RedditNoAds
 
 Package: com.p2kdev.sakal
 Version: 1.1.2
@@ -477,6 +525,22 @@ Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget
+
+Package: com.p2kdev.twitternoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.0_iphoneos-arm.deb
+Size: 4098
+MD5sum: 19b90935553ac0b2a3dd01568f816611
+SHA1: 607099f8bbd36029810104b46dff363ca2bf4f98
+SHA256: 32a57ec6d331703435c15e01f58f9dd6475f5e38c0e0423f8b2ae807bd85d5f8
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TwitterNoAds
 
 Package: com.ps.cconandoff
 Version: 0.0.1.1
@@ -546,22 +610,6 @@ Section: Tweaks
 Description: Show photo resolution and disk usage in app
 Author: shepgoba
 Name: PhotoInfo
-
-Package: com.yadkin.twitternoads
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: kemmis <rafe@kemmis.info>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.yadkin.twitternoads_0.0.2_iphoneos-arm.deb
-Size: 4112
-MD5sum: 88758bd7b85ef90f7d129cc25327cec8
-SHA1: de4b82bbd60328a7ffced5bd98979306577f039f
-SHA256: d729949201c7c57b1d5c758a2965a2218c6052ab71fc59398e5475fd1cdec5f9
-Section: Tweaks
-Description: Removes "PROMOTED" posts from from the official Twitter app.
-Author: kemmis <rafe@kemmis.info>
-Name: Twitter No Ads
 
 Package: hi.my.name.is.ubik.oriental
 Version: 1.0.1
