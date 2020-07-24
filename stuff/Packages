@@ -494,18 +494,18 @@ Author: P2KDev <p2kdev@gmail.com>
 Name: RedditNoAds
 
 Package: com.p2kdev.sakal
-Version: 1.1.2
+Version: 2.1.5
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.p2kdev.sakal_1.1.2_iphoneos-arm.deb
-Size: 39216
-MD5sum: 9b016d5da636bce5577457a61725a885
-SHA1: f39ae92c51aa4b4fb7acccd28d825d67b21d51f5
-SHA256: ea138f0cd56390ebd97ad7ac5c61d40a167b9632896d1e1eef7068ddf9c9a7e3
+Installed-Size: 568
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.1.5_iphoneos-arm.deb
+Size: 70268
+MD5sum: 2a7414115ba5d3055ebc5eeaf40bafe6
+SHA1: d7ceea118cd693860c063c6b4fd024263dba6065
+SHA256: d4b0d0dcc724ef3e24fcc34171f1151ec6c2f4e79566978e77a8f0f682d97f8b
 Section: Tweaks
-Description: Next Alarm on your lockscreen!
+Description: Up-Next on your lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Sakal
 
@@ -742,6 +742,22 @@ Section: Tweaks
 Description: Unlock internal employee settings in Facebook app
 Author: p0358
 Name: FBInternal
+
+Package: org.brandonplank.haptic13
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: Brandon Plank
+Installed-Size: 252
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
+Filename: ./debs/org.brandonplank.haptic13_0.8_iphoneos-arm.deb
+Size: 12444
+MD5sum: 6f6c0ac7a4641667746fc96b9a386ab5
+SHA1: 63f4ff9c502ce3db5484ef356f5887c0dfbffbab
+SHA256: cf71e21425e338a1b623dc1becd3ec84cc3ec163029915323fa83a163e59bdcc
+Section: Tweaks
+Description: Puts haptics in places apple should have!
+Author: Brandon Plank
+Name: Haptic13
 
 Package: org.thebigboss.elite
 Version: 1.6.1
