@@ -493,6 +493,22 @@ Description: No Ads in the Reddit App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: RedditNoAds
 
+Package: com.p2kdev.safarifasttype
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware(>=13.0)
+Filename: ./debs/com.p2kdev.safarifasttype_1.0_iphoneos-arm.deb
+Size: 4006
+MD5sum: 81d25cf58385ce6271e4c06bc5c6c34d
+SHA1: c3798ef2dcfa7049eb20016e4a7f319f6c92d76a
+SHA256: 3fc96895ce9b49bb022de07ae83ea332216f2dee8edc9117a0e8e8b787c5e2d4
+Section: Tweaks
+Description: Opens the keyboard after you open a new tab in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariFastType
+
 Package: com.p2kdev.sakal
 Version: 2.1.5
 Architecture: iphoneos-arm
