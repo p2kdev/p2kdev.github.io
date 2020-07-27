@@ -381,6 +381,22 @@ Description: Tweak to delete unwanted photos forever!
 Author: P2KDev <p2kdev@gmail.com>
 Name: DeleteForeverXS
 
+Package: com.p2kdev.deleteforeverxs
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.deleteforeverxs_1.1_iphoneos-arm.deb
+Size: 5874
+MD5sum: a3b30838442289e9916e8fce82fbe6b4
+SHA1: 9fc5242740b191c2051546e620f4112d215bca70
+SHA256: ab9f1c58170839a04a4cb0250fd3cf3b51e1d9ea043fd8a83048a6806a7484a1
+Section: Tweaks
+Description: Delete Media with moving to Recently Deleted!
+Author: P2KDev <p2kdev@gmail.com>
+Name: DeleteForeverXS
+
 Package: com.p2kdev.facebooknoads
 Version: 1.0
 Architecture: iphoneos-arm
