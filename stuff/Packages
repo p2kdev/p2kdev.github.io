@@ -659,6 +659,23 @@ Description: Show photo resolution and disk usage in app
 Author: shepgoba
 Name: PhotoInfo
 
+Package: com.spark.noccbar
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/2.0.0.deb
+Size: 5856
+MD5sum: e58f43a0d62bd3cb659a763559897c3e
+SHA1: 44ecbfbdb3ab0d410d8869861d14eac8eacd47df
+SHA256: 4b2bb9d42c51a4decc4c562ed7a8fae2bd013a268d42dd291d3cfc0270e9b23d
+Section: Tweaks
+Description: Removes the annoying lockscreen control center grabber bar on iPhone X iOS 11.2+
+Author: Spark
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=NoCCBar
+Name: NoCCBar
+
 Package: hi.my.name.is.ubik.oriental
 Version: 1.0.1
 Architecture: iphoneos-arm
