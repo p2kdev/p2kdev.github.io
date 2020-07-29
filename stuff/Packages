@@ -332,6 +332,27 @@ Author: SarahH12099
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
 
+Package: com.johnzaro.perfectlockscreen13
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 728
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/com.johnzaro.perfectlockscreen13.deb
+Size: 324006
+MD5sum: 18122232a6f6cce21d7344b3b6d23203
+SHA1: 80adbd01cabcae0b082a9526a8c13c92a792d072
+SHA256: 510dbcf9f6ef6ae3ed46665098afcb8768b077a465197d572a3193a385fc90cc
+Section: Tweaks
+Description: Hide CC Grabber, Hide 'Swipe Up' Text, Auto Retry FaceID And More
+Author: Johnzaro  <johnzrgnns@gmail.com>
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectlockscreen13.html
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectlockscreen13/icon.png
+Moderndepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectlockscreen13.json
+Name: PerfectLockScreen
+Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectlockscreen13.json
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+
 Package: com.julioverne.spotilife
 Version: 1.0
 Architecture: iphoneos-arm
