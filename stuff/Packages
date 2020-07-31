@@ -353,6 +353,27 @@ Name: PerfectLockScreen
 Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectlockscreen13.json
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 
+Package: com.johnzaro.perfectphotos13
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 500
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/com.johnzaro.perfectphotos13.deb
+Size: 155068
+MD5sum: d028cbce70394abe309d69446d77d0fc
+SHA1: b62290b7e660334d5f80a48067da841e3612d585
+SHA256: 6bce68370b41bb2bf75176cb5f20368d3b1011755d7c98278de2569bfd726225
+Section: Tweaks
+Description: Various enhancements to the Photos app
+Author: Johnzaro  <johnzrgnns@gmail.com>
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectphotos13.html
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectphotos13/icon.png
+Moderndepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectphotos13.json
+Name: PerfectPhotos
+Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectphotos13.json
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+
 Package: com.julioverne.spotilife
 Version: 1.0
 Architecture: iphoneos-arm
@@ -385,6 +406,86 @@ Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocke
 Author: julioverne
 Depiction: https://cydia.ichitaso.com/depiction/spotilife.html
 Name: Spotilife
+
+Package: com.laughingquoll.betterrotate
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 688
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Filename: ./debs/com.laughingquoll.betterrotate_1.3.6_iphoneos-arm.deb
+Size: 37090
+MD5sum: 1b40e78213920d95ba4ba01f3e6650dd
+SHA1: d688d9b8555cc04a519ccbcf0d57221cc51cea9f
+SHA256: 2dd47c874f013bacd72af63bf07a7091f15c5636eaaf546138fd6cf61cddbb9d
+Section: Tweaks
+Description: A Smarter Orientation Lock!
+Author: LaughingQuoll
+Name: SmartRotate
+
+Package: com.laughingquoll.maple
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 77576
+Depends: mobilesubstrate, com.laughingquoll.prefixui, me.nepeta.libcolorpicker, net.limneos.libbulletin
+Filename: ./debs/com.laughingquoll.maple_1.5.3_iphoneos-arm.deb
+Size: 35323350
+MD5sum: 724be8ea12ca16176a142d2486ba7732
+SHA1: 291538e1f17473c439c0298ff8c619fa89ade4d8
+SHA256: b6de4e65a1907b4f5a8d45610ca524f85ec86584be6e8e78622810cb0e2946b2
+Section: Tweaks
+Description: A pretty sweet MobileSubstrate tweak.
+Author: LaughingQuoll
+Name: Maple
+
+Package: com.laughingquoll.siliqua2
+Version: 2.5.2
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 356
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./debs/com.laughingquoll.siliqua2_2.5.2_iphoneos-arm.deb
+Size: 24988
+MD5sum: 881ece12367ae3c156bcfa7afdded8e5
+SHA1: d965267afd9f093d6258ae169c3ba0f0ed096dbb
+SHA256: fdf15ed49137d929945a1c15884cbe1f8f4ae360b867330864a10c44b7395d8c
+Section: Tweaks
+Description: AirPods Gestures and New Features
+Author: LaughingQuoll
+Name: Siliqua 2
+
+Package: com.laughingquoll.siliquapro
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 560
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./debs/com.laughingquoll.siliquapro_1.2.3_iphoneos-arm.deb
+Size: 91434
+MD5sum: 253dda7b2a052445b492ce2f460f9253
+SHA1: a175a70c9d1831bebe7f2f429cd692aab616201f
+SHA256: 8097c43c5e05084e4d56aa868ac5b3f7f6bd20e267a2b96f6b64348f015d6358
+Section: Tweaks
+Description: Custom actions for AirPods Pro
+Author: LaughingQuoll
+Name: Siliqua Pro
+
+Package: com.laughingquoll.tritium
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 608
+Depends: mobilesubstrate, com.laughingquoll.prefixui, preferenceloader
+Filename: ./debs/com.laughingquoll.tritium_1.1.3_iphoneos-arm.deb
+Size: 68150
+MD5sum: 55bc58af5bca71072fbe6e3b84bb4045
+SHA1: 82b55f579cb7f96444aeba9c6a827faebe6bf764
+SHA256: 6ebd314f73e572f8755a8f762614365076e003a57315be6eac391aae6294ca5c
+Section: Tweaks
+Description: A useful, power efficient and customisable always on display for iOS.
+Author: LaughingQuoll
+Name: Tritium
 
 Package: com.p2kdev.deleteforeverxs
 Version: 1.0
@@ -813,6 +914,40 @@ Description: Unlock internal employee settings in Facebook app
 Author: p0358
 Name: FBInternal
 
+Package: net.tateu.gmailer13
+Version: 1.0.0~rc10.6.1
+Architecture: iphoneos-arm
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 396
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/net.tateu.gmailer13_1.0.0~rc10.6.1_iphoneos-arm.deb
+Size: 56510
+MD5sum: 1afe71dfe1b336e99d0f5b6596b0351b
+SHA1: afe38be0ac2c2449819e55e0d84ef6f352464329
+SHA256: 3b0bba9657c0115e0c10ea94807478d4bd62c07155ab50e72164dc5fa82439f9
+Section: Tweaks
+Description: Automatically fetch mail in the stock iOS Mail App for Gmail accounts using the Push controller from the Gmail App.
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=gmailer13
+Name: Gmailer13
+
+Package: net.tateu.gmailer13
+Version: 1.0.0~rc10.6.1
+Architecture: iphoneos-arm
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 432
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/net.tateu.gmailer13_1.0.0~rc10.6.1_iphoneos-arm_Logging.deb
+Size: 59578
+MD5sum: ef9fa2254272db01546addbcabb0197e
+SHA1: ae91e2c0152ce9b728b781c0ad1e0d3051bd0e97
+SHA256: 05a83ef8a5cfa6bcfb16ef9da63ce74a06eb38d741a94590ce296838f1c56253
+Section: Tweaks
+Description: Automatically fetch mail in the stock iOS Mail App for Gmail accounts using the Push controller from the Gmail App.
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=gmailer13
+Name: Gmailer13
+
 Package: org.brandonplank.haptic13
 Version: 0.8
 Architecture: iphoneos-arm
@@ -862,6 +997,23 @@ Section: Utilities
 Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
 Name: CocoaTop
+
+Package: se.nosskirneh.roadrunner
+Version: 1.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Andreas Henriksson
+Installed-Size: 892
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/se.nosskirneh.roadrunner_1.0~beta3_iphoneos-arm.deb
+Size: 134226
+MD5sum: b366a2a098b81e23e146e3ce71b7fa71
+SHA1: a20b0003b65a5f1ccbfb5ced6ebc7362374221ab
+SHA256: 0feed44fbaee6ed1eae157765fb609d41299564475f4a36f8a34e0217a87dfcf
+Section: Tweaks
+Description: Keep apps alive through resprings
+Author: Andreas Henriksson
+Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.roadrunner
+Name: RoadRunner
 
 Package: xyz.xninja.systeminfo
 Version: 2.7.2-1
