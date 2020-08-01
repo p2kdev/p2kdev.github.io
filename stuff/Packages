@@ -704,10 +704,10 @@ Installed-Size: 180
 Depends: mobilesubstrate, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13
 Filename: ./debs/com.p2kdev.tinywidget_1.1_iphoneos-arm.deb
-Size: 11900
-MD5sum: 02451f8f1fedea2f73edd8923696d4b7
-SHA1: efadad283835cc711ad1024b56c8a74d523d886a
-SHA256: 6f1690dad4bf8ce8bfde045633267c58bef0e8c7bb19fb0eb7d76881dde3bf55
+Size: 11734
+MD5sum: e4f6984c068d572feb6b7c7383c1b95f
+SHA1: 4102cfb09441ee964d3cae37f85f5d3d7e5fe8b2
+SHA256: 50f9097b4378b5c4f5627b42fd9e478a694065b7ab891513034f0a9356c18a63
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
