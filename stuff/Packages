@@ -100,6 +100,77 @@ Description: An awesome MobileSubstrate tweak!
 Author: Greg0109
 Name: ImTypingDamnIt
 
+Package: com.ichitaso.batteryx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+btx@gmail.com>
+Installed-Size: 340
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Replaces: com.ichitaso.batteryx
+Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
+Size: 44898
+MD5sum: 37462754ac0cc47270f000b7ed5ba291
+SHA1: e6b18852225d44d7f665266845e6febb1cc20cb3
+SHA256: f4878f55ccee974ef7832cddff051f9cbb756fd76f87b3a646c0df1aef91be3c
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Show Battery Percentege for iPhone X Series
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/batteryx.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+Name: BatteryPercentageX
+
+Package: com.ichitaso.locationservicecc
+Version: 0.1-4-1
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 180
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: ./debs/com.ichitaso.locationservicecc_0.1-4-1_iphoneos-arm.deb
+Size: 37068
+MD5sum: 8f9e46ddff7bb6f12c19915f2320f94d
+SHA1: d0f21b7a4388cec70fa56ef5077ef6f672520ecf
+SHA256: f087c1b43e291377405980deeff7ad3e56a60a2524a6355034f1a4e46905c70a
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off LocationService from the control center.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
+Name: LocationService (CCSupport)
+
+Package: com.ichitaso.powerselector11
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 2156
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.2.9_iphoneos-arm.deb
+Size: 207286
+MD5sum: 4752a178b3f02e3d7366991b6531cf8c
+SHA1: 6e77c2172ebbe5cd83a6360c852f8ca4995152e4
+SHA256: 53b868a43ab1c3a03f466e885069a6f52ba8b345b539851f9459217a209323d4
+Section: Utilities
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector (iOS 11 to 13)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.imkpatil.always3dmaps
 Version: 1.3
 Architecture: iphoneos-arm
@@ -487,6 +558,25 @@ Description: A useful, power efficient and customisable always on display for iO
 Author: LaughingQuoll
 Name: Tritium
 
+Package: com.opa334.whitepointmodule
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 184
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm.deb
+Size: 16964
+MD5sum: 29fa27d72d9875bf5252cb2d0d74dc06
+SHA1: 7466e0759b7f580f9d20928c23a724095bd4d5a2
+SHA256: 2b6891d8e0096f795ab12b467c4b0cb1a55a1c6ad07b1d3a18c3868f53f2dbbc
+Section: Control Center (Modules)
+Description: Reduce White Point from Control Center!
+Author: opa334
+Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Name: White Point Module
+Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
+
 Package: com.p2kdev.deleteforeverxs
 Version: 1.0
 Architecture: iphoneos-arm
@@ -700,14 +790,14 @@ Package: com.p2kdev.tinywidget
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 180
+Installed-Size: 384
 Depends: mobilesubstrate, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13
 Filename: ./debs/com.p2kdev.tinywidget_1.1_iphoneos-arm.deb
-Size: 11734
-MD5sum: e4f6984c068d572feb6b7c7383c1b95f
-SHA1: 4102cfb09441ee964d3cae37f85f5d3d7e5fe8b2
-SHA256: 50f9097b4378b5c4f5627b42fd9e478a694065b7ab891513034f0a9356c18a63
+Size: 32068
+MD5sum: ac44b10fcca646f37fbfd8e84088d412
+SHA1: 73f37d7360f42812f746c2b97e1ce3b736d2e481
+SHA256: 8157d716d17c022854025aa3a009384fafeccdd4ba7d7ab73f3cf903512c2746
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
