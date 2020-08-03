@@ -803,6 +803,23 @@ Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget
 
+Package: com.p2kdev.tinywidget
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 384
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13
+Filename: ./debs/com.p2kdev.tinywidget_1.1.1_iphoneos-arm.deb
+Size: 32088
+MD5sum: 1b61afcb218ebc8e57728cd9d13d1f17
+SHA1: eb63a76df87358ac694ad7752c65fa7d4ee22304
+SHA256: e5796379b2f33bdaa0b3b14c17775e08b12886e77b60db52ffba5c1cd0ba3c1e
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TinyWidget
+
 Package: com.p2kdev.twitternoads
 Version: 1.0
 Architecture: iphoneos-arm
