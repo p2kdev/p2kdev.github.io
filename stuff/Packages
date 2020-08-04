@@ -84,6 +84,23 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.gilshahar7.exacttime
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: gilshahar7
+Installed-Size: 1092
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/com.gilshahar7.exacttime_2.1_iphoneos-arm.deb
+Size: 66210
+MD5sum: 05d478e940539d9d401b6b6f42482a1c
+SHA1: 627c7c2bc8da9c34580ed01de8d5f44f98969e68
+SHA256: 67a289a2addcb3ee98a1a133e99de41739627149e8ddd6eafae9d39677c8f9ec
+Section: Tweaks
+Description: Shows the exact time of notifications, messages, calls and emails.
+Author: gilshahar7
+Name: ExactTime
+
 Package: com.greg0109.imtypingdamnit
 Version: 0.0.1
 Architecture: iphoneos-arm
