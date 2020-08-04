@@ -705,6 +705,22 @@ Description: Removes the annoying badge on the settings icon!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NoSettingsBadge
 
+Package: com.p2kdev.pmconfirm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: firmware (>= 13.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.pmconfirm_1.0_iphoneos-arm.deb
+Size: 8428
+MD5sum: ebaa93588d2dd96166d6d5a96b5e0dc8
+SHA1: 6e6223a75512564195f9e3c6e68beec47999414c
+SHA256: 886ccb2ffeded1e2deab580abda65c58f5f428d9b5994222465708767e541be8
+Section: Tweaks
+Description: Confirm when setting alarms for PM!
+Author: P2KDev <p2kdev@gmail.com>
+Name: PMConfirm
+
 Package: com.p2kdev.redditnoads
 Version: 1.0
 Architecture: iphoneos-arm
@@ -804,17 +820,17 @@ Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget
 
 Package: com.p2kdev.tinywidget
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 384
 Depends: mobilesubstrate, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13
-Filename: ./debs/com.p2kdev.tinywidget_1.1.1_iphoneos-arm.deb
-Size: 32088
-MD5sum: 1b61afcb218ebc8e57728cd9d13d1f17
-SHA1: eb63a76df87358ac694ad7752c65fa7d4ee22304
-SHA256: e5796379b2f33bdaa0b3b14c17775e08b12886e77b60db52ffba5c1cd0ba3c1e
+Filename: ./debs/com.p2kdev.tinywidget_1.1.2_iphoneos-arm.deb
+Size: 32336
+MD5sum: ca38b055159abf78af6ccd8550edfecf
+SHA1: d49190ca9144e9b1fe0c4bd05fa0c070ef2ca881
+SHA256: e3a7da00b551e39ae950a5aa934776757080b6064c87d250caf1f94867cc669b
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
@@ -937,23 +953,6 @@ Section: Tweaks
 Description: To rotate or not.
 Author: ubik <cydia@ubikstyl.es>
 Name: Oriental
-
-Package: jzplusplus.pmreally
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 188
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/jzplusplus.pmreally_1.3_iphoneos-arm.deb
-Size: 17080
-MD5sum: a138e66dafc68952d0ac650d9f009d39
-SHA1: f004d6574eca2cb79eaac6be1f81e2ff612430b2
-SHA256: 43d343481925aaef42d13b47545430de1551a0f24c5219ea0b81279bc689180d
-Section: System
-Priority: optional
-Description: Prompts you to confirm if you ever set an alarm for any PM time, to prevent accidentally setting your alarm to PM when you meant AM.
-Author: Jay Zuerndorfer
-Name: PMreally
 
 Package: me.nepeta.docky
 Version: 0.3
