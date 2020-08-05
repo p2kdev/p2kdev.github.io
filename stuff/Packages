@@ -64,6 +64,22 @@ Description: Safely disable some executables/daemons.
 Author: dpkg_
 Name: Cappd
 
+Package: com.easy-z.bark
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Easy-Z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.easy-z.bark_2.0.0_iphoneos-arm.deb
+Size: 4374
+MD5sum: fec64e0127a6d2101dfbbadf6bfa5053
+SHA1: ab9ab09827641f954270dfa0e64f31bf26e16733
+SHA256: 5b82e1e56cce2123170cb30b3f46dd3df984c107d99ffc7a6d41d95ea73172b0
+Section: Tweaks
+Description: Make your keyboard more OLED friendly.
+Author: Easy-Z
+Name: BARK
+
 Package: com.exile90.icleanerpro
 Version: 7.8.3
 Architecture: iphoneos-arm
