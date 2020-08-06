@@ -1,3 +1,23 @@
+Package: com.blakeboxberger.bazzi2
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: Blake Boxberger <support@blakeboxberger.dev>
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debs/com.blakeboxberger.bazzi2_2.1.0_iphoneos-arm.deb
+Size: 37976
+MD5sum: f0d44fea02ecc8c28ddbb8424243eeaf
+SHA1: eeae10cebb3e1a4d35f409fe8bd9462308c1a003
+SHA256: 33bcb0d068268f8c7c73f1e8878167b9727afd3911274dbbaa75bed715f6a0e7
+Section: Tweaks
+Description: The ultimate battery icon customizer, modernized!
+Tag: cydia::commercial
+Author: Blake Boxberger <support@blakeboxberger.dev>
+Icon: https://blakeboxberger.dev/repo/assets/cydia_icons/bazzi2@3x.png
+Name: Bazzi 2 (iOS 11 - 13)
+
 Package: com.blakeboxberger.pridebars
 Version: 1.0.3
 Architecture: iphoneos-arm
