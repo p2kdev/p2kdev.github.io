@@ -1029,6 +1029,24 @@ Author: Spark
 Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=NoCCBar
 Name: NoCCBar
 
+Package: com.spicat.recordpause
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: SpicaT
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.recordpause
+Filename: ./debs/com.spicat.recordpause_1.3.3_iphoneos-arm.deb
+Size: 9414
+MD5sum: 03fa0cff6b987ebb9d741343964ac0b4
+SHA1: c774edb145d9c0163159d3fc32ff3a377eedc187
+SHA256: 53e7f95b0d6a55bfb8effc73273e93d38b2ebfbf5af184e4172a16f99f45dadf
+Section: Tweaks
+Description: Pause/resume video recording.
+Author: SpicaT
+Icon: file:///Library/PreferenceLoader/Preferences/RecordPause/RP@2x.png
+Name: RecordPause (iOS 9+)
+
 Package: hi.my.name.is.ubik.oriental
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1249,6 +1267,25 @@ Description: Keep apps alive through resprings
 Author: Andreas Henriksson
 Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.roadrunner
 Name: RoadRunner
+
+Package: se.nosskirneh.shylabels
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Andreas Henriksson
+Installed-Size: 376
+Depends: mobilesubstrate
+Replaces: com.noisyflake.shylabels
+Provides: com.noisyflake.shylabels
+Filename: ./debs/se.nosskirneh.shylabels_1.2_iphoneos-arm.deb
+Size: 32392
+MD5sum: 54ed4496c8d941d4b4b5309a85b28314
+SHA1: bff54c58abdd7ee1d12da456bb31091ae501e17a
+SHA256: 3e47c455856e59e0bcb3b502894bff6171362a775e78e4e86272de7ca4951f83
+Section: Tweaks
+Description: Hide app labels when not scrolling
+Author: NoisyFlake
+Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.shylabels
+Name: Shy Labels
 
 Package: xyz.xninja.systeminfo
 Version: 2.7.2-1
