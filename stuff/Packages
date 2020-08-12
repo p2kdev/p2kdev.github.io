@@ -50,6 +50,29 @@ Author: BytaFont.com <info@bytafont.com>
 Depiction: http://repo.bytafont.com/bytafont_depiction
 Name: BytaFont 3
 
+Package: com.cemck.killx
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: cemck <cem_ck@icloud.com>
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: com.cemck.killx-pro
+Filename: ./debs/com.cemck.killx.deb
+Size: 79876
+MD5sum: 2c6eaa2a0683b23836a9ffbd3bcdcbd8
+SHA1: 780e7064dd61df5d58aecfb8496dccd04731795f
+SHA256: ed0f16ea315db186463af0cc9e35c62672e0b2b39bb32a5e04a2b3a99daa655e
+Section: Tweaks
+Homepage: https://cemck.github.io/repo
+Description: One swipe to kill them all!
+Tag: role::enduser
+Author: cemck <cem_ck@icloud.com>
+Depiction: https://cemck.github.io/repo/depiction/web/com.cemck.killx.html
+Icon: https://cemck.github.io/repo/assets/com.cemck.killx/icon.png
+Moderndepiction: https://cemck.github.io/repo/depiction/native/com.cemck.killx.json
+Name: KillX
+Sileodepiction: https://cemck.github.io/repo/depiction/native/com.cemck.killx.json
+Someotherentrytocontrol: True
+
 Package: com.chilaxan.cuboid
 Version: 4.0
 Architecture: iphoneos-arm
@@ -239,6 +262,22 @@ Dev: ichitaso
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Name: PowerSelector (iOS 11 to 13)
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.iky1e.swipeselection
+Version: 1.5.6
+Architecture: iphoneos-arm
+Maintainer: Kyle Howells
+Installed-Size: 488
+Depends: mobilesubstrate
+Filename: ./debs/com.iky1e.swipeselection_1.5.6_iphoneos-arm.deb
+Size: 79748
+MD5sum: 2ecc686b48731ff80b8632e14abb2be1
+SHA1: 80aff982a5b8745e6dd18b3629f4e05566a6fe68
+SHA256: 76f301d3fe7831fdcd6aee650f1d2090514834480431ddde79efb3bb1624b9a5
+Section: Tweaks
+Description: Swipe along the keyboard to move the cursor and select text.
+Author: Kyle Howells
+Name: SwipeSelection
 
 Package: com.imkpatil.always3dmaps
 Version: 1.3
@@ -1083,6 +1122,26 @@ Author: Tanner Bennett <tannerbennett@me.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Dev: tannerbennett
 Name: libFLEX
+
+Package: me.jjolano.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/me.jjolano.shadow.deb
+Size: 250054
+MD5sum: 05ae8facd56cc46b72837c4e95145874
+SHA1: 390069d1be05fec40d119f554faf26655688df92
+SHA256: 9235941ea8fbe40adde9a172701e9a381b65111e13291147f070698477da6d25
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+Name: Shadow
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
 
 Package: me.nepeta.docky
 Version: 0.3
