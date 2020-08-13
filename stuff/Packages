@@ -1,3 +1,19 @@
+Package: ca.menushka.onenotify
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/ca.menushka.onenotify_2.0_iphoneos-arm.deb
+Size: 8146
+MD5sum: d62494bf3f49e82f3f0c8a672ea793a0
+SHA1: aa622133de2625391732c24ff3efab96cf750017
+SHA256: 05ea5a879bdb27640111efdaa7bbafce9749e3b370eefe93a6eb2af66e49565f
+Section: Tweaks
+Description: Keep all your notifications in one persistent list on your lockscreen without having to swipe to view them.
+Author: Menushka Weeratunga
+Name: OneNotify
+
 Package: com.blakeboxberger.bazzi2
 Version: 2.1.0
 Architecture: iphoneos-arm
@@ -1085,6 +1101,22 @@ Description: Pause/resume video recording.
 Author: SpicaT
 Icon: file:///Library/PreferenceLoader/Preferences/RecordPause/RP@2x.png
 Name: RecordPause (iOS 9+)
+
+Package: com.yulkytulky.safarifind
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 1424
+Depends: mobilesubstrate
+Filename: ./debs/com.yulkytulky.safarifind_1.1_iphoneos-arm.deb
+Size: 7118
+MD5sum: 76da0b9c10f1f1782c813a58eced513a
+SHA1: 7dcc4ebc7b71cc9a28b8ed8630c0ad515819d259
+SHA256: 26823ea86ebcc296f726ee12773a2d86dfe5a257243c6ba7de9f626d91e82a1a
+Section: Tweaks
+Description: Easily access Safari's find feature!
+Author: YulkyTulky
+Name: SafariFind
 
 Package: hi.my.name.is.ubik.oriental
 Version: 1.0.1
