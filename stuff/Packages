@@ -21,10 +21,10 @@ Maintainer: Menushka Weeratunga
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/ca.menushka.onenotify_2.1_iphoneos-arm.deb
-Size: 8148
-MD5sum: f2e0dca0ba5822a6d646d62f5f725678
-SHA1: 11f54dcfa5a0aad57fb68d337d75a7e053f86abc
-SHA256: 1531a3ac9e6d989a721155c5b9715bbeaa50e2881fb1f550f95e4b0a1a9e7f0d
+Size: 8146
+MD5sum: 99ebc478ee2c431ba0be6d5cb2b75f01
+SHA1: c9b258b6e4ccb3a30d54e408a61b9d5e77817acf
+SHA256: cfa943e72d915718f3ee2f93213ed6296f0532009c58abc158de22b70884b528
 Section: Tweaks
 Description: Keep all your notifications in one persistent list on your lockscreen without having to swipe to view them.
 Author: Menushka Weeratunga
