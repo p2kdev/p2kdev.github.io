@@ -1342,6 +1342,23 @@ Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
 Name: CocoaTop
 
+Package: se.nosskirneh.properlockgestures
+Version: 0.0.10
+Architecture: iphoneos-arm
+Maintainer: Andreas Henriksson
+Installed-Size: 448
+Depends: mobilesubstrate
+Filename: ./debs/se.nosskirneh.properlockgestures_0.0.10_iphoneos-arm.deb
+Size: 36738
+MD5sum: 704f97fbf4804bc3bc052255e2319a74
+SHA1: 8fbd3c4afcbc85c2edccbc76f0b7f0ee173199a9
+SHA256: 2bafba69ecc09d2c71c4df555ba8c4cdd61db5e6feb15e1a2a54f9707c623af1
+Section: Tweaks
+Description: Double tap to lock
+Author: Andreas Henriksson
+Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.properlockgestures
+Name: ProperLockGestures
+
 Package: se.nosskirneh.roadrunner
 Version: 1.0~beta3
 Architecture: iphoneos-arm
