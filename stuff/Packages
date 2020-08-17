@@ -618,6 +618,23 @@ Author: julioverne
 Depiction: https://cydia.ichitaso.com/depiction/spotilife.html
 Name: Spotilife
 
+Package: com.julioverne.spotilife
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.2_iphoneos-arm.deb
+Size: 199256
+MD5sum: e65bb3b8dc538c5ed773324e717a8e02
+SHA1: 21bcb30e9704cfe456d4e9933c458386920c38e1
+SHA256: f3e3f0f50b638247f44636472880053c059e7aaa5dba4e58f59629e72562d3c5
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Name: Spotilife
+
 Package: com.laughingquoll.betterrotate
 Version: 1.3.6
 Architecture: iphoneos-arm
@@ -1240,6 +1257,22 @@ Section: Tweaks
 Description: Preserve custom icon layouts between reboots
 Author: Nepeta <ominousness@protonmail.com>
 Name: IconState
+
+Package: net.cadoth.nosbreload
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: nyuszika7h
+Installed-Size: 144
+Filename: ./debs/net.cadoth.nosbreload_0.1.0_iphoneos-arm.deb
+Size: 3290
+MD5sum: 004c3396d759044b59bc37bc26d6d0e7
+SHA1: 89b26e0d2f157ae4170f2698bae5f9cc82159122
+SHA256: 90122bd3b85cd0548009c768ca9fffb8825c9c4739b784e541d35561126e2096
+Section: System
+Description: Replace sbreload with traditional respring to fix autofill issues
+Tag: role::hacker
+Author: nyuszika7h
+Name: NoSBReload
 
 Package: net.p0358.fbdarkmode
 Version: 1.0.1
