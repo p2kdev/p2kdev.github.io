@@ -171,6 +171,22 @@ Description: Make your keyboard more OLED friendly.
 Author: Easy-Z
 Name: BARK
 
+Package: com.easy-z.bark
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Easy-Z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.easy-z.bark_2.0.2_iphoneos-arm.deb
+Size: 4850
+MD5sum: b34a2ac9b74e7f97e44351cc759f22c7
+SHA1: 8a7e7a0327c866e18f8125aed49b535c11676f33
+SHA256: 0ea916e15877eea5335c1183011c0feed7b1864c1c2a54c7c50330c979124de6
+Section: Tweaks
+Description: Make your keyboard more OLED friendly.
+Author: Easy-Z
+Name: BARK
+
 Package: com.exile90.icleanerpro
 Version: 7.8.3
 Architecture: iphoneos-arm
