@@ -187,6 +187,22 @@ Description: Make your keyboard more OLED friendly.
 Author: Easy-Z
 Name: BARK
 
+Package: com.easy-z.bark
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: Easy-Z
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.easy-z.bark_2.0.3_iphoneos-arm.deb
+Size: 5008
+MD5sum: 70e913bdc8a7b174738c965bc4739e01
+SHA1: 02bf5be3c415bfdc05417eb662079dc5697955ef
+SHA256: 50e11e1841aa7a17f9c97062520061324ecb78e02736c771dff36ba07040e25d
+Section: Tweaks
+Description: Make your keyboard more OLED friendly.
+Author: Easy-Z
+Name: BARK
+
 Package: com.exile90.icleanerpro
 Version: 7.8.3
 Architecture: iphoneos-arm
@@ -893,22 +909,6 @@ Section: Tweaks
 Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
 Name: PMConfirm
-
-Package: com.p2kdev.quarter
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.quarter_1.0_iphoneos-arm.deb
-Size: 13808
-MD5sum: 58faad74033ce67630140c777259af62
-SHA1: 675c26f41cb7e8cf4423f2a08728ae1d2f724237
-SHA256: 922dce9dbf7bc9aa814dc292ee5bba9ac43df3cee20e873df627542804d6b702
-Section: Tweaks
-Description: Non-Buggy version of the Quart Tweak!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Quarter
 
 Package: com.p2kdev.redditnoads
 Version: 1.0
