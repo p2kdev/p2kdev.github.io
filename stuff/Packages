@@ -894,6 +894,22 @@ Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
 Name: PMConfirm
 
+Package: com.p2kdev.quarter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quarter_1.0_iphoneos-arm.deb
+Size: 13808
+MD5sum: 58faad74033ce67630140c777259af62
+SHA1: 675c26f41cb7e8cf4423f2a08728ae1d2f724237
+SHA256: 922dce9dbf7bc9aa814dc292ee5bba9ac43df3cee20e873df627542804d6b702
+Section: Tweaks
+Description: Non-Buggy version of the Quart Tweak!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Quarter
+
 Package: com.p2kdev.redditnoads
 Version: 1.0
 Architecture: iphoneos-arm
