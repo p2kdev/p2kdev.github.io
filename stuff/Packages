@@ -910,6 +910,22 @@ Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
 Name: PMConfirm
 
+Package: com.p2kdev.quitall
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.0_iphoneos-arm.deb
+Size: 7324
+MD5sum: 1d2bea110e750d0c342909091e1b3c3f
+SHA1: d12ca227b399954456a14f869a5432221fc5f541
+SHA256: 29134f5a7884d6516a56f71cf164a8bd2073a31a3c3e914836bb4e9998096e34
+Section: Tweaks
+Description: Quit All Apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuitAll
+
 Package: com.p2kdev.redditnoads
 Version: 1.0
 Architecture: iphoneos-arm
