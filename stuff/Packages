@@ -575,6 +575,24 @@ Author: SarahH12099
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
 
+Package: com.itaysoft.wifilist
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Itay
+Installed-Size: 1128
+Filename: ./debs/com.itaysoft.wifilist_1.0.0_iphoneos-arm.deb
+Size: 910284
+MD5sum: 67bc674ff299d7c8dcd19bb3a57f0c84
+SHA1: f4738968c03952928b1b2b06d2ae07c075e06f48
+SHA256: d617a4ace06878244e3f506a4250789309ea7660af395fedf70997b5076060b5
+Section: Utilities
+Description: View and share WiFi passwords
+Author: Itay
+Depiction: https://www.icaughtuapp.com/repo/depictions/web/?p=com.itaysoft.wifilist
+Icon: https://www.icaughtuapp.com/repo/icons/com.itaysoft.wifilist.png
+Name: WiFi List
+Sileodepiction: https://www.icaughtuapp.com/repo/depictions/native/com.itaysoft.wifilist/depiction.json
+
 Package: com.johnzaro.perfectlockscreen13
 Version: 1.7
 Architecture: iphoneos-arm
