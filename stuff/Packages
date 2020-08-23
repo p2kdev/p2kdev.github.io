@@ -917,10 +917,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quitall_1.0_iphoneos-arm.deb
-Size: 7324
-MD5sum: 1d2bea110e750d0c342909091e1b3c3f
-SHA1: d12ca227b399954456a14f869a5432221fc5f541
-SHA256: 29134f5a7884d6516a56f71cf164a8bd2073a31a3c3e914836bb4e9998096e34
+Size: 7374
+MD5sum: 90479b6d937afa6ddd2fa517fe471773
+SHA1: a6d6bec1a0548fc0f8a1b20dfd952b96cd32341d
+SHA256: e489e4ea64947193678e4152a8c21ca8ab7c081936f1330dc7fca50ab69df569
 Section: Tweaks
 Description: Quit All Apps!
 Author: P2KDev <p2kdev@gmail.com>
