@@ -784,6 +784,22 @@ Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
 Name: White Point Module
 Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
 
+Package: com.p2kdev.colorbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 320
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader
+Filename: ./debs/com.p2kdev.colorbar_1.0_iphoneos-arm.deb
+Size: 11546
+MD5sum: c92d3ecfdf3f99c551c76e8f66ec452d
+SHA1: 54d4fb379d5911763f98aad5d0a1134a7f5a3d2b
+SHA256: 0181af3a3f850a84f39824b135bbc142fcb6375c2ad5035cfe0256733019f449
+Section: Tweaks
+Description: Color that HomeBar!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ColorBar
+
 Package: com.p2kdev.deleteforeverxs
 Version: 1.0
 Architecture: iphoneos-arm
