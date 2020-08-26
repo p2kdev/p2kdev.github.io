@@ -210,10 +210,10 @@ Maintainer: Easy-Z
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.easy-z.bark_2.0.4_iphoneos-arm.deb
-Size: 5050
-MD5sum: 7337c431f17192ac58e7e79d765079f8
-SHA1: 4b68054e74c3d459282e7cc8719d11131b107a58
-SHA256: b97e8a72224ab2260e4a79d4b3dfdd21cecfeb52ce5b20b458e295f283bc5107
+Size: 5064
+MD5sum: db2efccce95c264730deaa7b2ecd379d
+SHA1: 837ea62a97f51c2547ea9c7b780bd67ba7f0673f
+SHA256: e672fd2fb1f5e9b36e69c4c821cfa4c8b6e2481de32f63ffb7da8d108de06c79
 Section: Tweaks
 Description: Make your keyboard more OLED friendly.
 Author: Easy-Z
