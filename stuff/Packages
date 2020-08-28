@@ -1356,6 +1356,24 @@ Description: Preserve custom icon layouts between reboots
 Author: Nepeta <ominousness@protonmail.com>
 Name: IconState
 
+Package: me.syns.isupervisor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syns <me@syns.me>
+Filename: ./debs/me.syns.isupervisor_1.0_iphoneos-arm.deb
+Size: 1316
+MD5sum: b5ca0b42d75b6f1b830c96785cc92712
+SHA1: 0872e7d2f78c75004deccbddab64f594dbcccb5c
+SHA256: d1984aa7c7c289a79201c3fd0e1e108283b743b6696ec038c6807f7241177571
+Section: Tweaks
+Priority: standard
+Description: supervise your iOS device with ease.
+Author: syns <me@syns.me>
+Icon: https://repo.syns.me/assets/repo/Icons/iSupervisorIcon.png
+Moderndepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
+Name: iSupervisor
+Sileodepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
+
 Package: net.cadoth.nosbreload
 Version: 0.1.0
 Architecture: iphoneos-arm
