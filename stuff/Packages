@@ -1146,6 +1146,27 @@ Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
 
+Package: com.rpetrich.powercuff
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 156
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debs/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
+Size: 10960
+MD5sum: eaa94a5fb28d6c96f0d26e370a8042b4
+SHA1: d3d376d53f677bf2b31c58a3a80e25b92da1d245
+SHA256: 26c38ea724f6186dbb029fc7f68a20bf04c6ab5b42366e3783c629a0cb881240
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.ryleyangus.libertylite
 Version: 0.2.10
 Architecture: iphoneos-arm
