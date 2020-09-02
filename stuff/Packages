@@ -123,6 +123,23 @@ Author: chilaxan & Nepeta
 Depiction: http://repo.kritanta.me/depictions/?id=com.chilaxan.cuboid
 Name: Cuboid
 
+Package: com.dimitarnestorov.searchautofocus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Dimitar Nestorov
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, firmware (>= 11.0)
+Filename: ./debs/com.dimitarnestorov.searchautofocus_1.0.1_iphoneos-arm.deb
+Size: 106044
+MD5sum: 341328620275f853fceb9b1e4327d0b5
+SHA1: 7186dd12ccb9c7524045e7ea861b8e2b19e36f23
+SHA256: 4d26f46cbd161cc0c0c176e069fa0463f580592657b7d191e9f253f73ea7fc9f
+Section: Tweaks
+Description: Automatically focus search inputs
+Author: Dimitar Nestorov
+Icon: file:///Library/PreferenceBundles/SearchAutoFocusPreferences.bundle/Icon@512h.png
+Name: SearchAutoFocus
+
 Package: com.dpkg.cappd
 Version: 1.0.3
 Architecture: iphoneos-arm
