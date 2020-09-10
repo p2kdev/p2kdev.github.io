@@ -950,13 +950,13 @@ Package: com.p2kdev.myassistive
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 176
+Installed-Size: 372
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.myassistive_1.0_iphoneos-arm.deb
-Size: 6550
-MD5sum: 22b1637e9cc99826383895107a2aea73
-SHA1: c64b0085e81507df2b682bd603f73e38fafe97f8
-SHA256: 447090cd90adc3e51d5f1b6feda6d84041ba8e9d74ab1ce39085d9b6d9a6c343
+Size: 28228
+MD5sum: 2a0ad826509f6f3f6b699a4b75a65776
+SHA1: 048533c4f6f4653af349a11a3568fed77a7b4192
+SHA256: 522f1d390cd6dc152b14a5cc95b069ca80aa57d2edec5c225a037d095ec46160
 Section: Tweaks
 Description: Better Assistive Touch!
 Author: P2KDev <p2kdev@gmail.com>
