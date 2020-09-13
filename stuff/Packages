@@ -1074,6 +1074,22 @@ Description: No Ads in the Reddit App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: RedditNoAds
 
+Package: com.p2kdev.safariblocker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safariblocker_1.0_iphoneos-arm.deb
+Size: 21708
+MD5sum: 7fcc1e1e29d53ff52a0feab3607f6c73
+SHA1: 8f2061f40e4e129e48a2e8049576f34f8f8b1366
+SHA256: c2a9093942ddf64fbf1d9d47cb67d5c08760268ac114e857c2830ef161a303fd
+Section: Tweaks
+Description: Block New Tabs with Options!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariBlocker
+
 Package: com.p2kdev.safarifasttype
 Version: 1.0
 Architecture: iphoneos-arm
