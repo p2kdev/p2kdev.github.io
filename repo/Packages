@@ -373,6 +373,23 @@ Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartPower
 
+Package: com.p2kdev.spotbetter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 372
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.0_iphoneos-arm.deb
+Size: 26478
+MD5sum: f941038516b7af7975143d44f8e54af5
+SHA1: be0642757d7364fb413201173f8cf70f8865ab63
+SHA256: 6538542bc03a8106b7191f3d79d2db01623abd1763faf59e6908517440c4c534
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotBetter
+
 Package: com.p2kdev.tinywidget
 Version: 1.0
 Architecture: iphoneos-arm
