@@ -1171,6 +1171,23 @@ Description: Better Spotlight!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SpotBetter
 
+Package: com.p2kdev.spotbetter
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 372
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.1_iphoneos-arm.deb
+Size: 27912
+MD5sum: bdb8f9c55abff28b27cbbb6573b396e5
+SHA1: 887227aade9382d53067701b7646881edee1edfa
+SHA256: 76ba2e83717bbd9b160e8d89b1de66a502f2fa58549e224576897fb2c1522ccc
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotBetter
+
 Package: com.p2kdev.tinywidget
 Version: 1.0
 Architecture: iphoneos-arm
