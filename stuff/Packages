@@ -1074,6 +1074,22 @@ Description: Quit All Apps!
 Author: P2KDev <p2kdev@gmail.com>
 Name: QuitAll
 
+Package: com.p2kdev.quitall
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.1.2_iphoneos-arm.deb
+Size: 11410
+MD5sum: b821a559baf5627a75f8ce6ab95d743a
+SHA1: b51839feafabf8bf5bf81756273a817ea1158002
+SHA256: c80c221e1e1db89f9f70ba5a3b4c6e6fb61eab06b413aeebd531a500981b32c9
+Section: Tweaks
+Description: Quit All Apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuitAll
+
 Package: com.p2kdev.redditnoads
 Version: 1.0
 Architecture: iphoneos-arm
