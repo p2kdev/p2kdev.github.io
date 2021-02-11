@@ -405,6 +405,22 @@ Description: Opens the keyboard after you open a new tab in Safari!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariFastType
 
+Package: com.p2kdev.sakal
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 576
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.1.7_iphoneos-arm.deb
+Size: 75194
+MD5sum: e6873d5108b0c458145e0c2a90a667dc
+SHA1: c93d963fdac43bb173780120df54f3bda3f56237
+SHA256: 3810124832988c71572a920ad471f9b95d72f6e7b1ad5b6ced11ed5f92210abc
+Section: Tweaks
+Description: Up-Next on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
 Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
