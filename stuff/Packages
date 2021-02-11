@@ -462,6 +462,22 @@ Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
 Icon: file:///Library/Application Support/CountMyMessages/icon.png
 Name: CountMyMessages
 
+Package: com.imkpatil.easyeditalarms
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.easyeditalarms_1.1.2_iphoneos-arm.deb
+Size: 4726
+MD5sum: ffd8517f06975fe2a1c3a2b537a43ed2
+SHA1: 7ea4d5830ef2b6eaf228f728913b492293933166
+SHA256: acd9ba735336d53efc3a5d431054af5e2788fae07ac0d15abac0cc42ce3de67f
+Section: Tweaks
+Description: Edit Alarms with a single tap!
+Author: P2KDev <p2kdev@gmail.com>
+Name: EasyEditAlarms
+
 Package: com.imkpatil.longtimer
 Version: 1.0
 Architecture: iphoneos-arm
