@@ -293,6 +293,38 @@ Description: Delete Media with moving to Recently Deleted!
 Author: P2KDev <p2kdev@gmail.com>
 Name: DeleteForeverXS
 
+Package: com.p2kdev.instazoom
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instazoom_1.1_iphoneos-arm.deb
+Size: 13972
+MD5sum: efa2450972de719b12d23fab74a8f68c
+SHA1: 0b81d836d935ad81bc4814adbbf5f173d077c329
+SHA256: 2b639c7409c5e3f284d75473dee1086e0b1e09eea097b9046e56c582407add0d
+Section: Tweaks
+Description: Zoom into images on Instagram!
+Author: P2KDev <p2kdev@gmail.com>
+Name: InstaZoom
+
+Package: com.p2kdev.keepitsimple
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 384
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.keepitsimple_1.2_iphoneos-arm.deb
+Size: 33504
+MD5sum: 17b61fc83d3560a2eb939d096343db45
+SHA1: 1ef8eef9a4cd5b2aaca03895d9396434f2572795
+SHA256: 86f137855658d01ee57963c9bd7596aca1318d361d9425fbfd896681258a056f
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Name: KeepItSimple
+
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
 Architecture: iphoneos-arm
