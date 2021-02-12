@@ -316,10 +316,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 384
 Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.keepitsimple_1.2_iphoneos-arm.deb
-Size: 33458
-MD5sum: 0603a7d80bb498e37a256a3d1d97520a
-SHA1: e86ecbe7f9c79f5242c97e9230cb198140e85bfb
-SHA256: cbc75886276442728f9096220dc5d27a4ed1703da9a8f6bf13c08f5b3e51766b
+Size: 31424
+MD5sum: 46dcd47e7c8d773caedb51f03bede39b
+SHA1: 7fd474a014343e2b7f5ac8bba00d184e4d341416
+SHA256: 551eafe15900352de3aefd98bb4dcccc40bb84f6f801a526f363d749f523f2f8
 Section: Tweaks
 Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
