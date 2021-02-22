@@ -1,9 +1,0 @@
-Origin: P2KDev's Secret Repo
-Label: P2KDev's Secret Repo
-Suite: stable
-Version: 1.0
-Codename: P2KDev
-Architectures: iphoneos-arm
-Components: main
-Description: Tweaks from P2KDev
-Icon: file://CydiaIcon.png

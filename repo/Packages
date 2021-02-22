@@ -14,6 +14,22 @@ Description: Show pride in your carrier signal bars!
 Author: Blake Boxberger
 Name: PrideBars
 
+Package: com.bytafont.bytafont3
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: Mikasa <nami_san@outlook.com>
+Depends: firmware (>= 10), unzip, mobilesubstrate
+Filename: ./debs/com.bytafont.bytafont3_3.5_iphoneos-arm.deb
+Size: 1033994
+MD5sum: d6fb8c569d595b4f387ec7a404e46aa6
+SHA1: 43a1c4798daae593eac500dd13b150633c2e2cc8
+SHA256: 3060f319475250041160b018fb3c518f4fd7ba5aad188a0bd72f8eb181539db2
+Section: System
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Author: BytaFont.com <info@bytafont.com>
+Depiction: http://repo.bytafont.com/bytafont_depiction
+Name: BytaFont 3
+
 Package: com.chilaxan.cuboid
 Version: 4.0
 Architecture: iphoneos-arm
@@ -32,6 +48,22 @@ Author: chilaxan & Nepeta
 Depiction: http://repo.kritanta.me/depictions/?id=com.chilaxan.cuboid
 Name: Cuboid
 
+Package: com.dpkg.cappd
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: dpkg_
+Depends: mobilesubstrate
+Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
+Filename: ./debs/com.dpkg.cappd.deb
+Size: 996
+MD5sum: 426876416e412a6e4a67f20b81ec022b
+SHA1: b92d27e70592104b33d2600bcc3e2c641c779fb6
+SHA256: 21d293e9d2ed6bea44ba8a8d3bbb97134136fdaf32c8fe4a810da869239af6c7
+Section: Administration
+Description: Safely disable some executables/daemons.
+Author: dpkg_
+Name: Cappd
+
 Package: com.easy-z.bark
 Version: 2.0.4
 Architecture: iphoneos-arm
@@ -47,6 +79,62 @@ Section: Tweaks
 Description: Make your keyboard more OLED friendly.
 Author: Easy-Z
 Name: BARK
+
+Package: com.greg0109.imtypingdamnit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Greg0109
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/ImTypingDamnItv2.deb
+Size: 4060
+MD5sum: 7bead7d70625a3e13cef865c5d3c75f1
+SHA1: e98a8a487a77aa858e9e12a418eafcd5869aadf3
+SHA256: 83518c661d1cc9082db7c57d827bacc9349aa06a87169c0358b8b2d65f5d5bce
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Greg0109
+Name: ImTypingDamnIt
+
+Package: com.ichitaso.batteryx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+btx@gmail.com>
+Installed-Size: 340
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Replaces: com.ichitaso.batteryx
+Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
+Size: 44898
+MD5sum: 37462754ac0cc47270f000b7ed5ba291
+SHA1: e6b18852225d44d7f665266845e6febb1cc20cb3
+SHA256: f4878f55ccee974ef7832cddff051f9cbb756fd76f87b3a646c0df1aef91be3c
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Show Battery Percentege for iPhone X Series
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/batteryx.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+Name: BatteryPercentageX
+
+Package: com.iky1e.swipeselection
+Version: 1.5.6
+Architecture: iphoneos-arm
+Maintainer: Kyle Howells
+Installed-Size: 488
+Depends: mobilesubstrate
+Filename: ./debs/com.iky1e.swipeselection_1.5.6_iphoneos-arm.deb
+Size: 79748
+MD5sum: 2ecc686b48731ff80b8632e14abb2be1
+SHA1: 80aff982a5b8745e6dd18b3629f4e05566a6fe68
+SHA256: 76f301d3fe7831fdcd6aee650f1d2090514834480431ddde79efb3bb1624b9a5
+Section: Tweaks
+Description: Swipe along the keyboard to move the cursor and select text.
+Author: Kyle Howells
+Name: SwipeSelection
 
 Package: com.imkpatil.always3dmaps
 Version: 1.3
@@ -82,6 +170,23 @@ Depiction: https://imkpatil.github.io/repo/depiction/AppStoreNoMoreBtn/index.htm
 Icon: file:///Library/Application Support/AppStoreNoMoreBtn/icon.png
 Name: AppStoreNoMoreBtn
 
+Package: com.imkpatil.colormybattery
+Version: 1.3.3.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3.3.2_iphoneos-arm.deb
+Size: 41156
+MD5sum: f19a1d62bfdfef77b08bba80170c82b4
+SHA1: 2cbc99f61fb795cae743e3f7720f203529784315
+SHA256: 58c62f11d56706a766226b9ea7f45e38b45240441ec47448ec881ad28a7e52f1
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
 Package: com.imkpatil.countmymessages
 Version: 1.0
 Architecture: iphoneos-arm
@@ -99,22 +204,6 @@ Author: Kiran Patil
 Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
 Icon: file:///Library/Application Support/CountMyMessages/icon.png
 Name: CountMyMessages
-
-Package: com.imkpatil.easyeditalarms
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.imkpatil.easyeditalarms_1.1.2_iphoneos-arm.deb
-Size: 4726
-MD5sum: ffd8517f06975fe2a1c3a2b537a43ed2
-SHA1: 7ea4d5830ef2b6eaf228f728913b492293933166
-SHA256: acd9ba735336d53efc3a5d431054af5e2788fae07ac0d15abac0cc42ce3de67f
-Section: Tweaks
-Description: Edit Alarms with a single tap!
-Author: P2KDev <p2kdev@gmail.com>
-Name: EasyEditAlarms
 
 Package: com.imkpatil.longtimer
 Version: 1.0
@@ -181,6 +270,22 @@ Description: Seek instead of Next in Podcasts App!
 Author: Kiran Patil
 Name: PodSeek
 
+Package: com.imkpatil.saavieum
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.saavieum_1.6_iphoneos-arm.deb
+Size: 4804
+MD5sum: bede8a5dec1869cf949e172332c4ce7e
+SHA1: a56515dce0229170c5ee54dd7bf8888775b6bbb3
+SHA256: 6eabb2313d9d6151356a0ec5cb06042f6a17f736057cb719486cb79108647769
+Section: Tweaks
+Description: Premium Saavn!
+Author: Kiran Patil
+Name: Saavieum
+
 Package: com.imkpatil.stopautoplay
 Version: 1.0
 Architecture: iphoneos-arm
@@ -244,6 +349,94 @@ Section: Tweaks
 Description: A simple tweak to Repsring on USB Disconnect!
 Author: Kiran Patil
 Name: USBRespring
+
+Package: com.ipc.crackerxi
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Depends: firmware (>= 11.0)
+Conflicts: cydia.com.ipc.crackerxi, com.yourepo.mohadu31.crackerxi
+Filename: ./debs/crackerxi.1.1.8.deb
+Size: 9964396
+MD5sum: 4a69449c22d7f6ff1c664acfb6fa7969
+SHA1: 6abe9d89a9bc457e934f21a4e2336af89017a906
+SHA256: bd812564ab3d2b2744f736b5296a35a32293379edd0669cbf83aa95edca5d239
+Section: System
+Homepage: https://cydia.ichitaso.com/donation.html
+Description: Decrypts iOS Apps
+Author: SarahH12099
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI+
+
+Package: com.itaysoft.wifilist
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Itay
+Installed-Size: 1128
+Filename: ./debs/com.itaysoft.wifilist_1.0.0_iphoneos-arm.deb
+Size: 910284
+MD5sum: 67bc674ff299d7c8dcd19bb3a57f0c84
+SHA1: f4738968c03952928b1b2b06d2ae07c075e06f48
+SHA256: d617a4ace06878244e3f506a4250789309ea7660af395fedf70997b5076060b5
+Section: Utilities
+Description: View and share WiFi passwords
+Author: Itay
+Depiction: https://www.icaughtuapp.com/repo/depictions/web/?p=com.itaysoft.wifilist
+Icon: https://www.icaughtuapp.com/repo/icons/com.itaysoft.wifilist.png
+Name: WiFi List
+Sileodepiction: https://www.icaughtuapp.com/repo/depictions/native/com.itaysoft.wifilist/depiction.json
+
+Package: com.julioverne.spotilife
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.0_iphoneos-arm.deb
+Size: 82874
+MD5sum: 4ed73de019364ba12201d1fed0e8c116
+SHA1: fb6d08dc1b065dde119bd09f1f8c3c06a5d842cc
+SHA256: a73d28f73e4c07eb4c69842e9e313d86f4b6b105dab5fefaae088adb6cc81fd5
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Name: Spotilife
+
+Package: com.julioverne.spotilife
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.2_iphoneos-arm.deb
+Size: 199256
+MD5sum: e65bb3b8dc538c5ed773324e717a8e02
+SHA1: 21bcb30e9704cfe456d4e9933c458386920c38e1
+SHA256: f3e3f0f50b638247f44636472880053c059e7aaa5dba4e58f59629e72562d3c5
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Name: Spotilife
+
+Package: com.opa334.whitepointmodule
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 184
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm.deb
+Size: 16964
+MD5sum: 29fa27d72d9875bf5252cb2d0d74dc06
+SHA1: 7466e0759b7f580f9d20928c23a724095bd4d5a2
+SHA256: 2b6891d8e0096f795ab12b467c4b0cb1a55a1c6ad07b1d3a18c3868f53f2dbbc
+Section: Control Center (Modules)
+Description: Reduce White Point from Control Center!
+Author: opa334
+Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Name: White Point Module
+Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
 
 Package: com.p2kdev.colorbar
 Version: 1.0
@@ -309,21 +502,53 @@ Description: Zoom into images on Instagram!
 Author: P2KDev <p2kdev@gmail.com>
 Name: InstaZoom
 
-Package: com.p2kdev.keepitsimple
-Version: 1.2
+Package: com.p2kdev.letmedecline
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 384
-Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
-Filename: ./debs/com.p2kdev.keepitsimple_1.2_iphoneos-arm.deb
-Size: 31424
-MD5sum: 46dcd47e7c8d773caedb51f03bede39b
-SHA1: 7fd474a014343e2b7f5ac8bba00d184e4d341416
-SHA256: 551eafe15900352de3aefd98bb4dcccc40bb84f6f801a526f363d749f523f2f8
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.letmedecline_1.0.1_iphoneos-arm.deb
+Size: 2336
+MD5sum: bcce8a97a069322495ccf81442d1660c
+SHA1: 6fc7374b643f90ec6a67dcef46dbb356529ab644
+SHA256: 4705492d1b67faba108745696186b1e9732c9fbd000ad4e8970745262178da3f
 Section: Tweaks
-Description: Single List of Notifications!
+Description: This tweak will show the Accept/Decline buttons when the phone is locked!
 Author: P2KDev <p2kdev@gmail.com>
-Name: KeepItSimple
+Name: LetMeDecline
+
+Package: com.p2kdev.myassistive
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.myassistive_1.0_iphoneos-arm.deb
+Size: 28228
+MD5sum: 2a0ad826509f6f3f6b699a4b75a65776
+SHA1: 048533c4f6f4653af349a11a3568fed77a7b4192
+SHA256: 522f1d390cd6dc152b14a5cc95b069ca80aa57d2edec5c225a037d095ec46160
+Section: Tweaks
+Description: Better Assistive Touch!
+Author: P2KDev <p2kdev@gmail.com>
+Name: MyAssistive
+
+Package: com.p2kdev.ndtvnoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.ndtvnoads_1.0_iphoneos-arm.deb
+Size: 2736
+MD5sum: 777e0e275dd005a8ef511ae15ffe56a6
+SHA1: 925e1c9e69d65f6ba3d65158228a5c5fd1f0bbd3
+SHA256: bcf28154c29a0a73b1f15043bd57a7a217b9dfa2534fc0bf7ac81d15fd082529
+Section: Tweaks
+Description: No Ads in the NDTV News App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NDTVNoAds
 
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
@@ -437,38 +662,6 @@ Description: Opens the keyboard after you open a new tab in Safari!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariFastType
 
-Package: com.p2kdev.sakal
-Version: 2.1.7
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 576
-Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.p2kdev.sakal_2.1.7_iphoneos-arm.deb
-Size: 75194
-MD5sum: e6873d5108b0c458145e0c2a90a667dc
-SHA1: c93d963fdac43bb173780120df54f3bda3f56237
-SHA256: 3810124832988c71572a920ad471f9b95d72f6e7b1ad5b6ced11ed5f92210abc
-Section: Tweaks
-Description: Up-Next on your lockscreen!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Sakal
-
-Package: com.p2kdev.sakal
-Version: 2.1.7.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 576
-Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.p2kdev.sakal_2.1.7.1_iphoneos-arm.deb
-Size: 75138
-MD5sum: acac1ec04a3e360dfd5cbc24589504e7
-SHA1: 4dc8f3095d675af121b4bda4a32dd197a0db632c
-SHA256: c8e37bb0193067df06d53378a83cb0f91b7dd2e8ce6ee72def1dc432ed7a21b1
-Section: Tweaks
-Description: Up-Next on your lockscreen!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Sakal
-
 Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
@@ -484,40 +677,6 @@ Section: Tweaks
 Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartPower
-
-Package: com.p2kdev.spotbetter
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 372
-Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
-Conflicts: com.imkpatil.spotclearonclose
-Filename: ./debs/com.p2kdev.spotbetter_1.0_iphoneos-arm.deb
-Size: 26478
-MD5sum: f941038516b7af7975143d44f8e54af5
-SHA1: be0642757d7364fb413201173f8cf70f8865ab63
-SHA256: 6538542bc03a8106b7191f3d79d2db01623abd1763faf59e6908517440c4c534
-Section: Tweaks
-Description: Better Spotlight!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SpotBetter
-
-Package: com.p2kdev.spotbetter
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 372
-Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
-Conflicts: com.imkpatil.spotclearonclose
-Filename: ./debs/com.p2kdev.spotbetter_1.1_iphoneos-arm.deb
-Size: 27912
-MD5sum: bdb8f9c55abff28b27cbbb6573b396e5
-SHA1: 887227aade9382d53067701b7646881edee1edfa
-SHA256: 76ba2e83717bbd9b160e8d89b1de66a502f2fa58549e224576897fb2c1522ccc
-Section: Tweaks
-Description: Better Spotlight!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SpotBetter
 
 Package: com.p2kdev.tinywidget
 Version: 1.0
@@ -553,6 +712,75 @@ Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget
 
+Package: com.ps.cconandoff
+Version: 0.0.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_0.0.1.1_iphoneos-arm.deb
+Size: 3866
+MD5sum: 9c8c207b66b8afedf767d3a62e4bd653
+SHA1: 97e47935fcae3f7e43b17dd71ac898bd48dec49d
+SHA256: 62e032067d1d91d92b8bd79f71c44e3ad7a9f31320bbadabd598c1a15f2757b0
+Section: Tweaks
+Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
+Author: PoomSmart
+Name: CC On & Off
+
+Package: com.ryleyangus.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Filename: ./debs/com.ryleyangus.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+SHA1: 434f034c55b792f51216342afd04ab965a614570
+SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
+Section: Tweaks
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite
+
+Package: com.ryleyangus.libertylite.beta
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42210
+MD5sum: 37298170685afadc9b2bf7f636dafba7
+SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
+SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
+Section: Tweaks
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite (Beta)
+
+Package: com.shepgoba.photoinfo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shepgoba
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shepgoba.photoinfo_1.0_iphoneos-arm.deb
+Size: 3964
+MD5sum: ea7984805f51e6aab594d130602411fd
+SHA1: a3535e439cd2a70f9c0b065918415b22762339ef
+SHA256: bf5cca10c52eea10041169c1aefb284a26fa8b13a932fbf26b9bc9b28d935c9c
+Section: Tweaks
+Description: Show photo resolution and disk usage in app
+Author: shepgoba
+Name: PhotoInfo
+
 Package: hi.my.name.is.ubik.oriental
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -585,6 +813,26 @@ Priority: optional
 Description: Prompts you to confirm if you ever set an alarm for any PM time, to prevent accidentally setting your alarm to PM when you meant AM.
 Author: Jay Zuerndorfer
 Name: PMreally
+
+Package: me.jjolano.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/me.jjolano.shadow.deb
+Size: 250054
+MD5sum: 05ae8facd56cc46b72837c4e95145874
+SHA1: 390069d1be05fec40d119f554faf26655688df92
+SHA256: 9235941ea8fbe40adde9a172701e9a381b65111e13291147f070698477da6d25
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+Name: Shadow
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
 
 Package: me.nepeta.docky
 Version: 0.3
@@ -636,6 +884,74 @@ Description: Preserve custom icon layouts between reboots
 Author: Nepeta <ominousness@protonmail.com>
 Name: IconState
 
+Package: me.syns.isupervisor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syns <me@syns.me>
+Filename: ./debs/me.syns.isupervisor_1.0_iphoneos-arm.deb
+Size: 1316
+MD5sum: b5ca0b42d75b6f1b830c96785cc92712
+SHA1: 0872e7d2f78c75004deccbddab64f594dbcccb5c
+SHA256: d1984aa7c7c289a79201c3fd0e1e108283b743b6696ec038c6807f7241177571
+Section: Tweaks
+Priority: standard
+Description: supervise your iOS device with ease.
+Author: syns <me@syns.me>
+Icon: https://repo.syns.me/assets/repo/Icons/iSupervisorIcon.png
+Moderndepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
+Name: iSupervisor
+Sileodepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
+
+Package: net.p0358.fbdarkmode
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: p0358
+Installed-Size: 100
+Depends: mobilesubstrate
+Conflicts: com.hackyouriphone.fbdarkmode
+Filename: ./debs/net.p0358.fbdarkmode_1.0.1_iphoneos-arm.deb
+Size: 6756
+MD5sum: 734d20827f2bd8f0c3c1a93977db11bd
+SHA1: 9385d94c843d883adfdde789955644cdd3ee76b9
+SHA256: df60fd62a95043358375a40112374e180b91af3d0842e4d243f9ea885e070ddf
+Section: Tweaks
+Description: Enable dark mode in FB.
+Author: p0358
+Name: FBDarkMode
+
+Package: net.p0358.fbinternal
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: p0358
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/net.p0358.fbinternal_0.0.1_iphoneos-arm.deb
+Size: 4004
+MD5sum: 85106cc6981485cddf21b69d844872e9
+SHA1: 0e5ea168d8a23b4722ef253a2a8926aa8363ba12
+SHA256: 8c64264936439dc4939cfec2c7dc2b65f26c7e0760eb14699147f1adee43acc4
+Section: Tweaks
+Description: Unlock internal employee settings in Facebook app
+Author: p0358
+Name: FBInternal
+
+Package: net.tateu.gmailer13
+Version: 1.0.0~rc10.6.1
+Architecture: iphoneos-arm
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 396
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/net.tateu.gmailer13_1.0.0~rc10.6.1_iphoneos-arm.deb
+Size: 56510
+MD5sum: 1afe71dfe1b336e99d0f5b6596b0351b
+SHA1: afe38be0ac2c2449819e55e0d84ef6f352464329
+SHA256: 3b0bba9657c0115e0c10ea94807478d4bd62c07155ab50e72164dc5fa82439f9
+Section: Tweaks
+Description: Automatically fetch mail in the stock iOS Mail App for Gmail accounts using the Push controller from the Gmail App.
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=gmailer13
+Name: Gmailer13
+
 Package: org.thebigboss.elite
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -653,4 +969,56 @@ Author: leftyfl1p <leftyfl1p@icloud.com>
 Icon: https://leftyfl1p.github.io/sileo-icon/org.thebigboss.elite.png
 Name: ColorCodedLogs
 Sileodepiction: https://leftyfl1p.github.io/sileo-depiction/org.thebigboss.elite.json
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop
+
+Package: se.nosskirneh.properlockgestures
+Version: 0.0.10
+Architecture: iphoneos-arm
+Maintainer: Andreas Henriksson
+Installed-Size: 448
+Depends: mobilesubstrate
+Filename: ./debs/se.nosskirneh.properlockgestures_0.0.10_iphoneos-arm.deb
+Size: 36738
+MD5sum: 704f97fbf4804bc3bc052255e2319a74
+SHA1: 8fbd3c4afcbc85c2edccbc76f0b7f0ee173199a9
+SHA256: 2bafba69ecc09d2c71c4df555ba8c4cdd61db5e6feb15e1a2a54f9707c623af1
+Section: Tweaks
+Description: Double tap to lock
+Author: Andreas Henriksson
+Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.properlockgestures
+Name: ProperLockGestures
+
+Package: se.nosskirneh.shylabels
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Andreas Henriksson
+Installed-Size: 376
+Depends: mobilesubstrate
+Replaces: com.noisyflake.shylabels
+Provides: com.noisyflake.shylabels
+Filename: ./debs/se.nosskirneh.shylabels_1.2_iphoneos-arm.deb
+Size: 32392
+MD5sum: 54ed4496c8d941d4b4b5309a85b28314
+SHA1: bff54c58abdd7ee1d12da456bb31091ae501e17a
+SHA256: 3e47c455856e59e0bcb3b502894bff6171362a775e78e4e86272de7ca4951f83
+Section: Tweaks
+Description: Hide app labels when not scrolling
+Author: NoisyFlake
+Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.shylabels
+Name: Shy Labels
 
