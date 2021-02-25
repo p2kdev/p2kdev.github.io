@@ -630,6 +630,22 @@ Description: Quit All Apps!
 Author: P2KDev <p2kdev@gmail.com>
 Name: QuitAll
 
+Package: com.p2kdev.redditnoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.redditnoads_1.0_iphoneos-arm.deb
+Size: 3020
+MD5sum: 9794517d0ee7348889e905299e52828d
+SHA1: 16790a9e4a3ad45851e17e0ec9bc284166eb486e
+SHA256: 7037c0066fb876cd967b96b95d1da20cf52620e8abe86e1e9114a925fcbd5974
+Section: Tweaks
+Description: No Ads in the Reddit App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: RedditNoAds
+
 Package: com.p2kdev.safariblocker
 Version: 1.0
 Architecture: iphoneos-arm
@@ -678,6 +694,23 @@ Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartPower
 
+Package: com.p2kdev.spotbetter
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 372
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.1_iphoneos-arm.deb
+Size: 27912
+MD5sum: bdb8f9c55abff28b27cbbb6573b396e5
+SHA1: 887227aade9382d53067701b7646881edee1edfa
+SHA256: 76ba2e83717bbd9b160e8d89b1de66a502f2fa58549e224576897fb2c1522ccc
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotBetter
+
 Package: com.p2kdev.tinywidget
 Version: 1.0
 Architecture: iphoneos-arm
@@ -711,6 +744,28 @@ Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget
+
+Package: com.pantsthief.flexing
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 206
+Depends: firmware(>= 9.0), mobilesubstrate, libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/flexing_1.2.0.deb
+Size: 14342
+MD5sum: b85d14051efd843109d248584503dd42
+SHA1: 69fa9f4eabc7e9a5695fdc6995b684269d06e9ce
+SHA256: e13606be6aed384894a34d31de557ef0cd80fe5b173e8aa2c21515cd759a3dee
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexingDp
+Description: Open FLEX anywhere!
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexingDp
+Dev: tannerbennett
+Icon: file:///Library/Activator/Listeners/com.pantsthief.flexing.toggle/Icon-small@2x.png
+Name: FLEXing
 
 Package: com.ps.cconandoff
 Version: 0.0.1.1
@@ -813,6 +868,27 @@ Priority: optional
 Description: Prompts you to confirm if you ever set an alarm for any PM time, to prevent accidentally setting your alarm to PM when you meant AM.
 Author: Jay Zuerndorfer
 Name: PMreally
+
+Package: libflex
+Version: 4.1.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 8312
+Depends: firmware(>= 9.0), mobilesubstrate
+Conflicts: com.pantsthief.libflex
+Filename: ./debs/libflex_4.1.1-1.deb
+Size: 1339258
+MD5sum: ca9d88f97a27d7580b72aa3081ccdea4
+SHA1: 9ab5184e81a431232570c80337600a8a379e840d
+SHA256: db6134fd4c140b10dcdb0499bea4fc431c621c055aefbb56c86d865f18cef7fb
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
+Description: A library for Flipboard Explorer.
+Tag: cydia::obsolete, purpose::library, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
+Dev: tannerbennett
+Name: libFLEX
 
 Package: me.jjolano.shadow
 Version: 2.0.20
