@@ -630,38 +630,6 @@ Description: Block New Tabs with Options!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariBlocker
 
-Package: com.p2kdev.safariblocker
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 420
-Depends: mobilesubstrate, preferenceloader, firmware(>=14.3)
-Filename: ./debs/com.p2kdev.safariblocker_1.0.1_iphoneos-arm.deb
-Size: 30820
-MD5sum: 18bfeb4b0745ef344f7de842d4379c71
-SHA1: 5c0a60c62c8b94489fbbf9f9375a935ff9b7dc62
-SHA256: 31c986a1aa8afac771fdd1ec30a45d9cb81c1e8e268fae475b984d1c78685c50
-Section: Tweaks
-Description: Block New Tabs with Options!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SafariBlocker
-
-Package: com.p2kdev.safariblocker
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 452
-Depends: mobilesubstrate, preferenceloader, firmware(>=14.3)
-Filename: ./debs/com.p2kdev.safariblocker_1.0.2_iphoneos-arm.deb
-Size: 37480
-MD5sum: d66dfe4151e7fef4a39f9e269337d304
-SHA1: 8d56b86905097fdecff943a79b3d1807dd88c09d
-SHA256: 64e8a395d20c62cd312612e5305ca0fcae5c1a12ab9a9c4607080096f4b56374
-Section: Tweaks
-Description: Block New Tabs with Options!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SafariBlocker
-
 Package: com.p2kdev.safarifasttype
 Version: 1.0
 Architecture: iphoneos-arm
