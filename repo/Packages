@@ -630,6 +630,22 @@ Description: Block New Tabs with Options!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariBlocker
 
+Package: com.p2kdev.safariblocker
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.3)
+Filename: ./debs/com.p2kdev.safariblocker_1.0.1_iphoneos-arm.deb
+Size: 30820
+MD5sum: 18bfeb4b0745ef344f7de842d4379c71
+SHA1: 5c0a60c62c8b94489fbbf9f9375a935ff9b7dc62
+SHA256: 31c986a1aa8afac771fdd1ec30a45d9cb81c1e8e268fae475b984d1c78685c50
+Section: Tweaks
+Description: Block New Tabs with Options!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariBlocker
+
 Package: com.p2kdev.safarifasttype
 Version: 1.0
 Architecture: iphoneos-arm
@@ -641,6 +657,22 @@ Size: 4006
 MD5sum: 81d25cf58385ce6271e4c06bc5c6c34d
 SHA1: c3798ef2dcfa7049eb20016e4a7f319f6c92d76a
 SHA256: 3fc96895ce9b49bb022de07ae83ea332216f2dee8edc9117a0e8e8b787c5e2d4
+Section: Tweaks
+Description: Opens the keyboard after you open a new tab in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariFastType
+
+Package: com.p2kdev.safarifasttype
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware(>=14.3)
+Filename: ./debs/com.p2kdev.safarifasttype_1.0.1_iphoneos-arm.deb
+Size: 4234
+MD5sum: 7272c49df1f5814577d41c65d8ade11c
+SHA1: 5138d79ae16fb8a5b25327e9000cc589908cee36
+SHA256: f039231de59d1dbd0d2f373d275548b8836f3e793438977ad4f5dba54326dd7c
 Section: Tweaks
 Description: Opens the keyboard after you open a new tab in Safari!
 Author: P2KDev <p2kdev@gmail.com>
