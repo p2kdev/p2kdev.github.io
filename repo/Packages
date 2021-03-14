@@ -666,13 +666,13 @@ Package: com.p2kdev.safarifasttype
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 172
-Depends: mobilesubstrate, firmware(>=14.3)
+Installed-Size: 168
+Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.safarifasttype_1.0.1_iphoneos-arm.deb
-Size: 5858
-MD5sum: 9be6fc932bd77d058c6da87a6e6c9550
-SHA1: ade1281ef24545db6399c6bbf02f447cef35afad
-SHA256: f830c0f94b5dc015f08691c017e7cdd78af79657ad164a87db64d7ba595bea12
+Size: 4986
+MD5sum: 2313966927d6a6e7deaf598b880a4c5f
+SHA1: 38dc239e238daeb00dd41c6faa45e6eee6bdc977
+SHA256: 22bc47ffbbb59539f6fd1be0e0474f20e4527b522babc22f19636dbd1b42886f
 Section: Tweaks
 Description: Opens the keyboard after you open a new tab in Safari!
 Author: P2KDev <p2kdev@gmail.com>
