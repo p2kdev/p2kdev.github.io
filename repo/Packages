@@ -618,13 +618,13 @@ Package: com.p2kdev.reachmore
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 172
+Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.reachmore_1.0_iphoneos-arm.deb
-Size: 7762
-MD5sum: bc02a0aca0859ccf00cfa43bd785de05
-SHA1: 2020bb2f5ea6a470374a792cb41f6ca4cf5ff238
-SHA256: 0d8182921be7aba69712ef6300bc373943675ded100d60acb6ebf564729fe442
+Size: 8702
+MD5sum: df4959e01c61b0000c838ece07ec3ef3
+SHA1: 59ac34d6182edaee6b6b2e8ce395910e9c99222d
+SHA256: 0b281007fd4901469de5874824719f845b3cbf9c1bf0e0917339c7df5d90c988
 Section: Tweaks
 Description: Perform additional actions on invoking Reachability!
 Author: P2KDev <p2kdev@gmail.com>
