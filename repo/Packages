@@ -662,6 +662,22 @@ Description: Block New Tabs with Options!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariBlocker
 
+Package: com.p2kdev.safariblocker
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader, com.opa334.libundirect (>=1.0), ws.hbang.common (>= 1.11)
+Filename: ./debs/com.p2kdev.safariblocker_1.1_iphoneos-arm.deb
+Size: 42676
+MD5sum: bfacd007da0fb9baeccdb42500648823
+SHA1: 99f704e9d6492e1f4cb6a49c0b9d863791afb4c7
+SHA256: c3f3193d1e5bce9ffc95d5e172c9fd2dc56465828371106c559eb09166a0dad1
+Section: Tweaks
+Description: Block New Tabs with Options!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariBlocker
+
 Package: com.p2kdev.safarifasttype
 Version: 1.0
 Architecture: iphoneos-arm
@@ -693,6 +709,23 @@ Section: Tweaks
 Description: Opens the keyboard after you open a new tab in Safari!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariFastType
+
+Package: com.p2kdev.simplebattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.simplebattery_1.0_iphoneos-arm.deb
+Size: 12494
+MD5sum: cfd4fa7b566fa95bcef66dadc76bcec3
+SHA1: 5c0c6f6f50150502f85444a54a3140065b77642f
+SHA256: 19ac6dcaf1a80986c85a179b16c6a71ff8572321a494d2b19b6b8e4a4223d86f
+Section: Tweaks
+Description: Simple Battery for Notched Devices!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Name: SimpleBattery
 
 Package: com.p2kdev.smartpower
 Version: 1.0
@@ -834,6 +867,23 @@ Section: Tweaks
 Description: Show photo resolution and disk usage in app
 Author: shepgoba
 Name: PhotoInfo
+
+Package: com.wilsonthewolf.webshade
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: WilsontheWolf
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wilsonthewolf.webshade_0.0.2_iphoneos-arm.deb
+Size: 56318
+MD5sum: 2ead8e6b2ca576149134a690e916d568
+SHA1: b267b700df27ebd628224a9d226d162f8fa50c49
+SHA256: 1510b3eb84bb217b10aab0e4bacf2cda03e945d58c600e8ecb64c3139ec4348c
+Section: Tweaks
+Description: Make your websites dark!
+Author: WilsontheWolf
+Depiction: https://wilsonthewolf.github.io/repo/depictions/web/?p=com.wilsonthewolf.webshade
+Name: WebShade
 
 Package: hi.my.name.is.ubik.oriental
 Version: 1.0.1
