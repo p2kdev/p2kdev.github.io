@@ -502,6 +502,22 @@ Description: This tweak will show the Accept/Decline buttons when the phone is l
 Author: P2KDev <p2kdev@gmail.com>
 Name: LetMeDecline
 
+Package: com.p2kdev.letmedecline
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.letmedecline_1.0.2_iphoneos-arm.deb
+Size: 3206
+MD5sum: 7326f3b0347453e3303ac1293eca5940
+SHA1: 2c201aad61a036159aa95ab9e7420ca9f2529a06
+SHA256: 354376e348a291d765a8b74eef92c260c3044b7eff78b39e9c256585e46b3e50
+Section: Tweaks
+Description: This tweak will show the Accept/Decline buttons when the phone is locked!
+Author: P2KDev <p2kdev@gmail.com>
+Name: LetMeDecline
+
 Package: com.p2kdev.myassistive
 Version: 1.0
 Architecture: iphoneos-arm
