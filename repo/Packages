@@ -366,6 +366,22 @@ Description: A simple tweak to Repsring on USB Disconnect!
 Author: Kiran Patil
 Name: USBRespring
 
+Package: com.ioscreatix.sugarcane
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.3_iphoneos-arm.deb
+Size: 6106
+MD5sum: 74e18b217cecaef62e037d525acef83a
+SHA1: 6447eb1096418eea2153df4650d8a26cf262c386
+SHA256: 7f4cbf5531dcd86f14c445a0df632ebc01ad9c34ede9791cb80bba497fafc66f
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 11, 12, 13 and 14
+Author: iOS Creatix, kasiimh1
+Name: SugarCane
+
 Package: com.ipc.crackerxi
 Version: 1.1.8
 Architecture: iphoneos-arm
