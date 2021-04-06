@@ -486,6 +486,22 @@ Description: Color that HomeBar!
 Author: P2KDev <p2kdev@gmail.com>
 Name: ColorBar
 
+Package: com.p2kdev.haptics
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.haptics_1.0_iphoneos-arm.deb
+Size: 6750
+MD5sum: 3ca2659ffb3e1e34fe8dc6be24c646f2
+SHA1: 00250649658d4b10be737362b81f28a7c8e364aa
+SHA256: 487ee92b0f7f59ac9cccc735dc6501c4fd15214549edc20327ae3293be2b9781
+Section: Tweaks
+Description: Haptics for your Device!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Haptics
+
 Package: com.p2kdev.instazoom
 Version: 1.1
 Architecture: iphoneos-arm
