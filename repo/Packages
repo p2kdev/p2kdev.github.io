@@ -470,6 +470,22 @@ Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
 Name: White Point Module
 Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
 
+Package: com.p2kdev.alarmtime
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: firmware (>= 14.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.alarmtime_1.0_iphoneos-arm.deb
+Size: 10700
+MD5sum: 43f60e3774109233a0135a75536a2d41
+SHA1: ede4c489de7dafa0ecb66f254bb3a22f6d160dfe
+SHA256: e1e118f6dd6fa37c8bceb4256381194837293cd127e7fb1636f27dbf718248bf
+Section: Tweaks
+Description: Show Time until alarm in the clock App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: AlarmTime
+
 Package: com.p2kdev.colorbar
 Version: 1.0
 Architecture: iphoneos-arm
