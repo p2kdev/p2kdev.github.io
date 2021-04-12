@@ -1,3 +1,19 @@
+Package: ca.menushka.onenotify
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 172
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/ca.menushka.onenotify_2.1_iphoneos-arm.deb
+Size: 6318
+MD5sum: 582b0371bdc290ae31bcb6b677f642e7
+SHA1: d26b30de0c857a450320eacbfe1ca9105ac1cbd8
+SHA256: ea2a700a5901032b3c70007308262ee060b291536504693d5612a889dd708956
+Section: Tweaks
+Description: Keep all your notifications in one persistent list on your lockscreen without having to swipe to view them.
+Author: Menushka Weeratunga
+Name: OneNotify
+
 Package: com.blakeboxberger.pridebars
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -377,6 +393,22 @@ Size: 5694
 MD5sum: c110bad6bd91eb0099984ea9e2a33566
 SHA1: 22885bfa2fce66a68ba88d6a10a7029f01e3c29a
 SHA256: dcffd77bdb700b43330307327a7667a86d8064832cc489173254564bc8f1284a
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center 13 and 14
+Author: iOS Creatix, kasiimh1, p2kdev
+Name: SugarCane 13/14
+
+Package: com.ioscreatix.sugarcane
+Version: 1.2.3.1
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 140
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.3.1_iphoneos-arm.deb
+Size: 7576
+MD5sum: 8992f5a052475b2b1ee474d851418109
+SHA1: 57be5af6c62d715ad3e5cc3d8343c6563f58f675
+SHA256: 380798aa16faeac6603e719a29f05487f6433fbefe5b3343c0123905ef1af14c
 Section: Tweaks
 Description: Get percentages for the sliders in the Control Center 13 and 14
 Author: iOS Creatix, kasiimh1, p2kdev
@@ -1152,6 +1184,24 @@ Size: 22974
 MD5sum: fbd641f417e03c20adae8cebdf797564
 SHA1: 62f17fe8d268e50d7fb6fb4570f9ae2bbbfebb6e
 SHA256: 369dd8ec2175eb5884f09459a26677a622add83253565c4787379c04e3782926
+Section: Tweaks
+Description: Color-coded recent MobilePhone.app logs. Supports iOS 7-13
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Icon: https://leftyfl1p.github.io/sileo-icon/org.thebigboss.elite.png
+Name: ColorCodedLogs
+Sileodepiction: https://leftyfl1p.github.io/sileo-depiction/org.thebigboss.elite.json
+
+Package: org.thebigboss.elite
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/org.thebigboss.elite_1.6.2_iphoneos-arm.deb
+Size: 23848
+MD5sum: 19329b0ff01e151c7f1a7a280ef9b5a1
+SHA1: 863383641dc2cefba97c1d250d7562b3eeca2917
+SHA256: 675a62574b19e54e9dbc541c76c61d49f65bcdb02896d79759ede1624f32d092
 Section: Tweaks
 Description: Color-coded recent MobilePhone.app logs. Supports iOS 7-13
 Author: leftyfl1p <leftyfl1p@icloud.com>
