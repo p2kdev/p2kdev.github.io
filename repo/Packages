@@ -839,6 +839,22 @@ Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartPower
 
+Package: com.p2kdev.smartrotatefix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate,firmware (>= 13.0),com.laughingquoll.betterrotate
+Filename: ./debs/com.p2kdev.smartrotatefix_1.0_iphoneos-arm.deb
+Size: 4662
+MD5sum: c575b5f2a8a6528636bb87f29174d378
+SHA1: d7a4640b7c872438d759416262e9091b3c181cad
+SHA256: 666972371a32fb4b7f85f93b6facbb92b0301d611ed306ea0e34567c55e0c1a5
+Section: Tweaks
+Description: Fixes for the SmartRotate Tweak!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SmartRotateFix
+
 Package: com.p2kdev.tinywidget
 Version: 1.0
 Architecture: iphoneos-arm
