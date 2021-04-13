@@ -518,6 +518,22 @@ Description: Show Time until alarm in the clock App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: AlarmTime
 
+Package: com.p2kdev.boldlsdatetime
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.boldlsdatetime_1.0_iphoneos-arm.deb
+Size: 4320
+MD5sum: 8924e68cfbad75740454e6aea54359ab
+SHA1: f5bc1fa8800847dfa47a63b37bc45cc8e59d684d
+SHA256: 71a834360b35728350f7bad575de22742a5060d1f5f046f934543231bfc837e0
+Section: Tweaks
+Description: Make the LS DateTime Bold!
+Author: P2KDev <p2kdev@gmail.com>
+Name: BoldLSDateTime
+
 Package: com.p2kdev.colorbar
 Version: 1.0
 Architecture: iphoneos-arm
