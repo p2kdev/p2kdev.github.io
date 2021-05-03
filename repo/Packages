@@ -646,6 +646,22 @@ Description: Haptics for your Device!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Haptics
 
+Package: com.p2kdev.haptics
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.haptics_1.0.1_iphoneos-arm.deb
+Size: 6888
+MD5sum: d08f106035d251b94fb3f8a2a163e9b1
+SHA1: fa0f425545817652694a7f9ecdc45235eba92406
+SHA256: d802de0dc9b79640c25425e4a6ba3e4ce0db2313843bcd5f6082fb46c6bbcaf8
+Section: Tweaks
+Description: Haptics for your Device!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Haptics
+
 Package: com.p2kdev.instazoom
 Version: 1.1
 Architecture: iphoneos-arm
@@ -737,6 +753,22 @@ Size: 2736
 MD5sum: 777e0e275dd005a8ef511ae15ffe56a6
 SHA1: 925e1c9e69d65f6ba3d65158228a5c5fd1f0bbd3
 SHA256: bcf28154c29a0a73b1f15043bd57a7a217b9dfa2534fc0bf7ac81d15fd082529
+Section: Tweaks
+Description: No Ads in the NDTV News App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NDTVNoAds
+
+Package: com.p2kdev.ndtvnoads
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.ndtvnoads_1.0.1_iphoneos-arm.deb
+Size: 4046
+MD5sum: 9d1f9422a0c24fd10f9e4d1eb0a58598
+SHA1: 11c3151aa5e437fd6ac11901696f82d2f5a94534
+SHA256: 31dc9c9ed29102ae0521f8af86b25f8e556cc458cb899b381f503d7ee4d31cc2
 Section: Tweaks
 Description: No Ads in the NDTV News App!
 Author: P2KDev <p2kdev@gmail.com>
