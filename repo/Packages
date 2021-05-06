@@ -630,6 +630,22 @@ Description: Color that HomeBar!
 Author: P2KDev <p2kdev@gmail.com>
 Name: ColorBar
 
+Package: com.p2kdev.colorcodedlogs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debs/com.p2kdev.colorcodedlogs_1.0_iphoneos-arm.deb
+Size: 5610
+MD5sum: 003dc847db5d12010160e1305e0617da
+SHA1: 344c9db423612b86b751cdb6aa0305b73c87b088
+SHA256: 068d22c8411721a30aa421785f05f0551b180d810b203684991bdc2c6f394ca7
+Section: Tweaks
+Description: Color-coded recent MobilePhone app logs!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ColorCodedLogs
+
 Package: com.p2kdev.haptics
 Version: 1.0
 Architecture: iphoneos-arm
@@ -949,6 +965,22 @@ Section: Tweaks
 Description: Opens the keyboard after you open a new tab in Safari!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariFastType
+
+Package: com.p2kdev.safarifind
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safarifind_1.0_iphoneos-arm.deb
+Size: 5530
+MD5sum: a6f7e7521d19590b67428e1599a23320
+SHA1: 97d6b78ec45a6f786a06c929631aea4e56ad18a2
+SHA256: a2772698a33dab076566f4d4c37ffae77ffade660b00d3142853365102384479
+Section: Tweaks
+Description: Easy access to find feature in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariFind
 
 Package: com.p2kdev.simplebattery
 Version: 1.0
@@ -1415,42 +1447,6 @@ Description: Automatically fetch mail in the stock iOS Mail App for Gmail accoun
 Author: tateu (Josh Harris) <tateu@tateu.net>
 Depiction: http://www.tateu.net/repo/html/?p=gmailer13
 Name: Gmailer13
-
-Package: org.thebigboss.elite
-Version: 1.6.1
-Architecture: iphoneos-arm
-Maintainer: leftyfl1p <leftyfl1p@icloud.com>
-Installed-Size: 372
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/org.thebigboss.elite_1.6.1_iphoneos-arm.deb
-Size: 22974
-MD5sum: fbd641f417e03c20adae8cebdf797564
-SHA1: 62f17fe8d268e50d7fb6fb4570f9ae2bbbfebb6e
-SHA256: 369dd8ec2175eb5884f09459a26677a622add83253565c4787379c04e3782926
-Section: Tweaks
-Description: Color-coded recent MobilePhone.app logs. Supports iOS 7-13
-Author: leftyfl1p <leftyfl1p@icloud.com>
-Icon: https://leftyfl1p.github.io/sileo-icon/org.thebigboss.elite.png
-Name: ColorCodedLogs
-Sileodepiction: https://leftyfl1p.github.io/sileo-depiction/org.thebigboss.elite.json
-
-Package: org.thebigboss.elite
-Version: 1.6.2
-Architecture: iphoneos-arm
-Maintainer: leftyfl1p <leftyfl1p@icloud.com>
-Installed-Size: 372
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/org.thebigboss.elite_1.6.2_iphoneos-arm.deb
-Size: 23848
-MD5sum: 19329b0ff01e151c7f1a7a280ef9b5a1
-SHA1: 863383641dc2cefba97c1d250d7562b3eeca2917
-SHA256: 675a62574b19e54e9dbc541c76c61d49f65bcdb02896d79759ede1624f32d092
-Section: Tweaks
-Description: Color-coded recent MobilePhone.app logs. Supports iOS 7-13
-Author: leftyfl1p <leftyfl1p@icloud.com>
-Icon: https://leftyfl1p.github.io/sileo-icon/org.thebigboss.elite.png
-Name: ColorCodedLogs
-Sileodepiction: https://leftyfl1p.github.io/sileo-depiction/org.thebigboss.elite.json
 
 Package: ru.domo.cocoatop64
 Version: 2.0.2-1+debug
