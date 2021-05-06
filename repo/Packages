@@ -64,6 +64,22 @@ Author: chilaxan & Nepeta
 Depiction: http://repo.kritanta.me/depictions/?id=com.chilaxan.cuboid
 Name: Cuboid
 
+Package: com.chr1s.newtab
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Chr1s
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.chr1s.newtab_1.0.0_iphoneos-arm.deb
+Size: 4766
+MD5sum: d7e383416f4f641927c55548797b48b5
+SHA1: 2947361e9636b81729111dff1b04827e96f866aa
+SHA256: edf8f05ef2c83ca2c1b7964ffbedf2152780e4736d9ab45e97c22c8aa5c62ce8
+Section: Tweaks
+Description: Add newtab shortcut to safari toolbar
+Author: Chr1s
+Name: NewTab
+
 Package: com.dpkg.cappd
 Version: 1.0.3
 Architecture: iphoneos-arm
