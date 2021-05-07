@@ -662,6 +662,22 @@ Description: Color-coded recent MobilePhone app logs!
 Author: P2KDev <p2kdev@gmail.com>
 Name: ColorCodedLogs
 
+Package: com.p2kdev.gmailalwayslighttheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.gmailalwayslighttheme_1.0_iphoneos-arm.deb
+Size: 3494
+MD5sum: 1424637fa309f8240ccc1dfcefa4bb87
+SHA1: 235df53551b0fceac7175d997c98220ecfd1712d
+SHA256: a8d719dff945127450ce31d87e41750bd8590d104083bef8f22c4d8112d70774
+Section: Tweaks
+Description: Show Gmail Emails in Light Theme always!
+Author: P2KDev <p2kdev@gmail.com>
+Name: GmailAlwaysLightTheme
+
 Package: com.p2kdev.haptics
 Version: 1.0
 Architecture: iphoneos-arm
