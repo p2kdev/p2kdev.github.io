@@ -579,6 +579,22 @@ Description: A useful, power efficient and customisable always on display for iO
 Author: LaughingQuoll
 Name: Tritium
 
+Package: com.mohammadag.alwaysforwardwatchosnotifications
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Mohammad Abu-Garbeyyeh
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.mohammadag.alwaysforwardwatchosnotifications_1.1_iphoneos-arm.deb
+Size: 4970
+MD5sum: c4381ff39b1ed499de6ba7dee4299b68
+SHA1: 9a87662ea443c9836b9ce811659cf9fbc1b146fa
+SHA256: d0bc8c722c63f8a15c75706278a51b9f9b7f11b49611626cc61d44d2b573cc5b
+Section: Tweaks
+Description: Forward WatchOS notifications even when unlocked
+Author: Mohammad Abu-Garbeyyeh
+Name: Always Forward WatchOS Notifications
+
 Package: com.opa334.whitepointmodule
 Version: 1.2.2
 Architecture: iphoneos-arm
@@ -1078,6 +1094,22 @@ Section: Tweaks
 Description: Fixes for the SmartRotate Tweak!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartRotateFix
+
+Package: com.p2kdev.springboardtweakfixer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.springboardtweakfixer_1.0_iphoneos-arm.deb
+Size: 3386
+MD5sum: 1b9b3bd4b572855ff3134b767146b1c7
+SHA1: 015b43ca967234d5f8201e5d12bb1a8e1dcf2f9b
+SHA256: 5f270daadec42d39008b3d24ef3ac1a1eba48ee5cb9156d94276c6a7c2d590ce
+Section: Tweaks
+Description: Fixes issues with SpringBoard Tweaks!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpringBoardTweaksFixer
 
 Package: com.p2kdev.tinywidget
 Version: 1.0
