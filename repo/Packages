@@ -399,32 +399,32 @@ Author: Kiran Patil
 Name: USBRespring
 
 Package: com.ioscreatix.sugarcane
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
-Installed-Size: 136
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/com.ioscreatix.sugarcane_1.2.3_iphoneos-arm.deb
-Size: 5694
-MD5sum: c110bad6bd91eb0099984ea9e2a33566
-SHA1: 22885bfa2fce66a68ba88d6a10a7029f01e3c29a
-SHA256: dcffd77bdb700b43330307327a7667a86d8064832cc489173254564bc8f1284a
-Section: Tweaks
-Description: Get percentages for the sliders in the Control Center 13 and 14
-Author: iOS Creatix, kasiimh1, p2kdev
-Name: SugarCane 13/14
-
-Package: com.ioscreatix.sugarcane
 Version: 1.2.3.1
 Architecture: iphoneos-arm
 Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
 Installed-Size: 172
 Depends: mobilesubstrate,firmware (>= 13.0)
 Filename: ./debs/com.ioscreatix.sugarcane_1.2.3.1_iphoneos-arm.deb
-Size: 7750
-MD5sum: adc353bf2c70a49c7cc8946e3bf7287b
-SHA1: 35e384bdcb54e14f4a562670595c5c81346bca6a
-SHA256: a32cbfa1fb17c907f32b473d8b582683d05f7ac5e59fe57289e24801b2e9e945
+Size: 7774
+MD5sum: ac12bb75078f7ebbb4884ec8420653ab
+SHA1: 59acea40b4cff4655a15f8966439321867ad755a
+SHA256: f35457c875667dc1ede1dc49917f3e5df8b3ffddc40d7926e098d724b3c7e807
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center 13 and 14
+Author: iOS Creatix, kasiimh1, p2kdev
+Name: SugarCane 13/14
+
+Package: com.ioscreatix.sugarcane
+Version: 1.2.3.2
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 172
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.3.2_iphoneos-arm.deb
+Size: 7594
+MD5sum: 17f3a61f1e03400f6986a88d90216116
+SHA1: 8ebc6d235c34e213e9ebab89f5144ef1495e0ce2
+SHA256: 79453097e9b06cac433dda9b07c387023fc272eb27dee2e66817700724d5a4ae
 Section: Tweaks
 Description: Get percentages for the sliders in the Control Center 13 and 14
 Author: iOS Creatix, kasiimh1, p2kdev
@@ -945,6 +945,22 @@ Size: 8702
 MD5sum: df4959e01c61b0000c838ece07ec3ef3
 SHA1: 59ac34d6182edaee6b6b2e8ce395910e9c99222d
 SHA256: 0b281007fd4901469de5874824719f845b3cbf9c1bf0e0917339c7df5d90c988
+Section: Tweaks
+Description: Perform additional actions on invoking Reachability!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ReachMore
+
+Package: com.p2kdev.reachmore
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.reachmore_1.1_iphoneos-arm.deb
+Size: 9310
+MD5sum: 3ddc3e1ec68992a9b4ccc6dcee726c91
+SHA1: 3bd5dd44adf2110975deac64884a63c9f1a9c7ba
+SHA256: 4224e2fbb4bbb9891eb540c5697de9b85d16008244dd23d8ad04e2e6437f1e8b
 Section: Tweaks
 Description: Perform additional actions on invoking Reachability!
 Author: P2KDev <p2kdev@gmail.com>
