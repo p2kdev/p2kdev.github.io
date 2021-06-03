@@ -1095,6 +1095,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/SimpleBattery/icon.png
 Name: SimpleBattery
 
+Package: com.p2kdev.simplebattery
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.simplebattery_1.1_iphoneos-arm.deb
+Size: 8322
+MD5sum: 8eae9590c55b588078d2e15efce05710
+SHA1: 5aa7739fe8574801a04f3e4fffb19988e0c5c3ca
+SHA256: a42176f9e647752d347c3d93748e7365380f8a92af0878cc3912061c8a2344cc
+Section: Tweaks
+Description: Simple Battery for Notched Devices!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Name: SimpleBattery
+
 Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
