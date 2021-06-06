@@ -80,6 +80,22 @@ Description: Add newtab shortcut to safari toolbar
 Author: Chr1s
 Name: NewTab
 
+Package: com.chr1s.newtab
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Chr1s
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.chr1s.newtab_1.1_iphoneos-arm.deb
+Size: 6012
+MD5sum: d25b12526ffd0120dd6b8efd2947e1da
+SHA1: 5d1e921dc637976339ac5887e9dcc2da8ac04d91
+SHA256: 93065d59e712d8968c00479a05f7f985592dd912b8094108e5e9f2305f8b9ca8
+Section: Tweaks
+Description: Add newtab shortcut to safari toolbar
+Author: Chr1s
+Name: NewTab
+
 Package: com.dpkg.cappd
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -902,6 +918,22 @@ Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
 Name: PMConfirm
 
+Package: com.p2kdev.purerecents
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.purerecents_1.0_iphoneos-arm.deb
+Size: 3336
+MD5sum: 39d73542af650db194ffa1a626b973db
+SHA1: 1847a1828163130d05ae00b2ce1e028f5cbaeb2e
+SHA256: 2ce8bc687d0ed03e471a5a549bc459f10cd1c4571308cc9855089a062967c0c2
+Section: Tweaks
+Description: Remove third party calls from Recents in Phone App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: PureRecents
+
 Package: com.p2kdev.quitall
 Version: 1.1.1
 Architecture: iphoneos-arm
@@ -977,6 +1009,22 @@ Size: 9310
 MD5sum: 3ddc3e1ec68992a9b4ccc6dcee726c91
 SHA1: 3bd5dd44adf2110975deac64884a63c9f1a9c7ba
 SHA256: 4224e2fbb4bbb9891eb540c5697de9b85d16008244dd23d8ad04e2e6437f1e8b
+Section: Tweaks
+Description: Perform additional actions on invoking Reachability!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ReachMore
+
+Package: com.p2kdev.reachmore
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.reachmore_1.1.1_iphoneos-arm.deb
+Size: 10000
+MD5sum: 04f9ba7c4d29fb8720288fd319359971
+SHA1: 0a2b314ee3ffe991f9045ef11798c62f5a09184c
+SHA256: 6b90f9e65606aad4413169d6a9c477f1ad77d6c7ecd20bb47fdec4ad248ca1f7
 Section: Tweaks
 Description: Perform additional actions on invoking Reachability!
 Author: P2KDev <p2kdev@gmail.com>
