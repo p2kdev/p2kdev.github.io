@@ -822,6 +822,22 @@ Description: Enable passcode for A11!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Locker
 
+Package: com.p2kdev.modernsettings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.modernsettings_1.0_iphoneos-arm.deb
+Size: 4648
+MD5sum: 1f3a76ddbee11c7cef8315ce0a993dc6
+SHA1: 240a00d5c42257066976ce0480faa477b73a8005
+SHA256: b1ac674f4d02075c50152aea4278956e0e8389da2973d9e79b25c88d03bde922
+Section: Tweaks
+Description: Modern look for the Settings App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ModernSettings
+
 Package: com.p2kdev.myassistive
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1150,10 +1166,27 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.simplebattery_1.1_iphoneos-arm.deb
-Size: 8322
-MD5sum: 8eae9590c55b588078d2e15efce05710
-SHA1: 5aa7739fe8574801a04f3e4fffb19988e0c5c3ca
-SHA256: a42176f9e647752d347c3d93748e7365380f8a92af0878cc3912061c8a2344cc
+Size: 8718
+MD5sum: 4f106438f2783cd68dc5682bfb892b20
+SHA1: 66f49edd797209197a82ac1ff764cdb8ac6d40e3
+SHA256: e9ab50445f1bb45dd17795521ce08f1b7e46adc63edc39b5b8b504825e43f740
+Section: Tweaks
+Description: Simple Battery for Notched Devices!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Name: SimpleBattery
+
+Package: com.p2kdev.simplebattery
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.simplebattery_1.2_iphoneos-arm.deb
+Size: 9756
+MD5sum: 3d1c1961a1762b765488362412db4bf1
+SHA1: d2e51d8987a184453e342740705cb3656f367458
+SHA256: b50c75d9668953bd7f95dd0d6d06533a068d47952dcc5a03ac7d68674fab93ba
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
