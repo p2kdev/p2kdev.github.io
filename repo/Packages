@@ -1183,10 +1183,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.simplebattery_1.2_iphoneos-arm.deb
-Size: 9756
-MD5sum: 3d1c1961a1762b765488362412db4bf1
-SHA1: d2e51d8987a184453e342740705cb3656f367458
-SHA256: b50c75d9668953bd7f95dd0d6d06533a068d47952dcc5a03ac7d68674fab93ba
+Size: 9758
+MD5sum: d59094e0261b5a25de5aadea1631cd3a
+SHA1: 24ba857a23184dc041203d669541908d307861f0
+SHA256: a7ee54aed7dd0e8b76ecc0eae7a7f3740211f9611b9c2c39ae9677533f272cc6
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
