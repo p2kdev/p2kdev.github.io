@@ -1146,64 +1146,13 @@ Package: com.p2kdev.simplebattery
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 180
+Installed-Size: 420
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.simplebattery_1.0_iphoneos-arm.deb
-Size: 12494
-MD5sum: cfd4fa7b566fa95bcef66dadc76bcec3
-SHA1: 5c0c6f6f50150502f85444a54a3140065b77642f
-SHA256: 19ac6dcaf1a80986c85a179b16c6a71ff8572321a494d2b19b6b8e4a4223d86f
-Section: Tweaks
-Description: Simple Battery for Notched Devices!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/SimpleBattery/icon.png
-Name: SimpleBattery
-
-Package: com.p2kdev.simplebattery
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.simplebattery_1.1_iphoneos-arm.deb
-Size: 8718
-MD5sum: 4f106438f2783cd68dc5682bfb892b20
-SHA1: 66f49edd797209197a82ac1ff764cdb8ac6d40e3
-SHA256: e9ab50445f1bb45dd17795521ce08f1b7e46adc63edc39b5b8b504825e43f740
-Section: Tweaks
-Description: Simple Battery for Notched Devices!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/SimpleBattery/icon.png
-Name: SimpleBattery
-
-Package: com.p2kdev.simplebattery
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.simplebattery_1.2_iphoneos-arm.deb
-Size: 9758
-MD5sum: d59094e0261b5a25de5aadea1631cd3a
-SHA1: 24ba857a23184dc041203d669541908d307861f0
-SHA256: a7ee54aed7dd0e8b76ecc0eae7a7f3740211f9611b9c2c39ae9677533f272cc6
-Section: Tweaks
-Description: Simple Battery for Notched Devices!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/SimpleBattery/icon.png
-Name: SimpleBattery
-
-Package: com.p2kdev.simplebattery
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.simplebattery_1.2.1_iphoneos-arm.deb
-Size: 9586
-MD5sum: 90f8107695246d7359bb2731719b54a5
-SHA1: b71dc8063da9be6b17ac0b9ea6830fe4086b81d6
-SHA256: 7c18488fa5e74195119476a60c4fcb9b398c04b3dc11a9ad0dbfd2c1461ffd38
+Size: 38478
+MD5sum: f313f6806e94b59bf124ebdcd9a9394e
+SHA1: 921c0dc8ae50256131eccbe698ec03db60184769
+SHA256: deb4b7a9eb9678d76b8b9579bdfac86243e295f64d3f21bca9cadbde868b3c7f
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
