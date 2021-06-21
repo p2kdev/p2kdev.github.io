@@ -710,6 +710,22 @@ Description: Color-coded recent MobilePhone app logs!
 Author: P2KDev <p2kdev@gmail.com>
 Name: ColorCodedLogs
 
+Package: com.p2kdev.colorcodedlogs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debs/com.p2kdev.colorcodedlogs_1.0.1_iphoneos-arm.deb
+Size: 4646
+MD5sum: baa9ba51d68957fe34304355c8df5ae3
+SHA1: 4809f1cdd64652c455fdf9efabe48c232aad7308
+SHA256: 089aacf3bcf84899574c0aab8ccc49c587ab76bb70c3925766b96735a02960ad
+Section: Tweaks
+Description: Color-coded recent MobilePhone app logs!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ColorCodedLogs
+
 Package: com.p2kdev.gmailalwayslighttheme
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1149,10 +1165,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 420
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.simplebattery_1.0_iphoneos-arm.deb
-Size: 38432
-MD5sum: 27e37a0a0b8f343b0eed06be675b0fce
-SHA1: 59c9f4651809b3ae2c63a2bd5e1421253694be5d
-SHA256: 6391fdc75882b0e3ce8a74384a33c6029bd9516debecfb722821630573f02ad0
+Size: 38412
+MD5sum: 276ad2e4321568d609b04fc5d4cde6da
+SHA1: bec12325c2a5299c8553396cdebca66f7dfad6b6
+SHA256: da48de87f1d627cb0739efa3e928fe25f0b68e87ce988f8724f0841c44c797fa
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
