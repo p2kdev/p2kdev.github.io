@@ -774,6 +774,22 @@ Description: Haptics for your Device!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Haptics
 
+Package: com.p2kdev.haptics
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.haptics_1.1_iphoneos-arm.deb
+Size: 7406
+MD5sum: 382ace7dc96f156ced0ef0074cea7c0e
+SHA1: 8b95fa2b5bf134cef31dc890e42e322d2fa5b0a0
+SHA256: 235c77abc8654bfc493098aa64f06fe752dd02756e25cdb4936d274f9eb50453
+Section: Tweaks
+Description: Haptics for your Device!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Haptics
+
 Package: com.p2kdev.instazoom
 Version: 1.1
 Architecture: iphoneos-arm
