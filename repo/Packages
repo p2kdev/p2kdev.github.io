@@ -65,22 +65,6 @@ Depiction: http://repo.kritanta.me/depictions/?id=com.chilaxan.cuboid
 Name: Cuboid
 
 Package: com.chr1s.newtab
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Chr1s
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.chr1s.newtab_1.0.0_iphoneos-arm.deb
-Size: 4766
-MD5sum: d7e383416f4f641927c55548797b48b5
-SHA1: 2947361e9636b81729111dff1b04827e96f866aa
-SHA256: edf8f05ef2c83ca2c1b7964ffbedf2152780e4736d9ab45e97c22c8aa5c62ce8
-Section: Tweaks
-Description: Add newtab shortcut to safari toolbar
-Author: Chr1s
-Name: NewTab
-
-Package: com.chr1s.newtab
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Chr1s
@@ -611,22 +595,6 @@ Description: A useful, power efficient and customisable always on display for iO
 Author: LaughingQuoll
 Name: Tritium
 
-Package: com.mohammadag.alwaysforwardwatchosnotifications
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Mohammad Abu-Garbeyyeh
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.mohammadag.alwaysforwardwatchosnotifications_1.1_iphoneos-arm.deb
-Size: 4970
-MD5sum: c4381ff39b1ed499de6ba7dee4299b68
-SHA1: 9a87662ea443c9836b9ce811659cf9fbc1b146fa
-SHA256: d0bc8c722c63f8a15c75706278a51b9f9b7f11b49611626cc61d44d2b573cc5b
-Section: Tweaks
-Description: Forward WatchOS notifications even when unlocked
-Author: Mohammad Abu-Garbeyyeh
-Name: Always Forward WatchOS Notifications
-
 Package: com.opa334.whitepointmodule
 Version: 1.2.2
 Architecture: iphoneos-arm
@@ -781,30 +749,14 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.haptics_1.1_iphoneos-arm.deb
-Size: 7406
-MD5sum: 382ace7dc96f156ced0ef0074cea7c0e
-SHA1: 8b95fa2b5bf134cef31dc890e42e322d2fa5b0a0
-SHA256: 235c77abc8654bfc493098aa64f06fe752dd02756e25cdb4936d274f9eb50453
+Size: 7576
+MD5sum: 4a6e70d8b62a9e85a638b2342db2bcf0
+SHA1: 39318bbc36031d2e780f13bb9af1b18b268ae6f1
+SHA256: 15ca3389f064cfb45b0439f66b3c2b53ae341cba8c555df2727b03f881a693e1
 Section: Tweaks
 Description: Haptics for your Device!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Haptics
-
-Package: com.p2kdev.instazoom
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.instazoom_1.1_iphoneos-arm.deb
-Size: 13972
-MD5sum: efa2450972de719b12d23fab74a8f68c
-SHA1: 0b81d836d935ad81bc4814adbbf5f173d077c329
-SHA256: 2b639c7409c5e3f284d75473dee1086e0b1e09eea097b9046e56c582407add0d
-Section: Tweaks
-Description: Zoom into images on Instagram!
-Author: P2KDev <p2kdev@gmail.com>
-Name: InstaZoom
 
 Package: com.p2kdev.letmedecline
 Version: 1.0.1
@@ -933,6 +885,22 @@ Section: Tweaks
 Description: Removes the annoying badge on the settings icon!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NoSettingsBadge
+
+Package: com.p2kdev.pagedotmover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.pagedotmover_1.0_iphoneos-arm.deb
+Size: 6560
+MD5sum: 00d26265a142ddb6c9b8b6c6ec0320b0
+SHA1: 3b0e0c2122114cf3a19a1bca679eec2ee347a09c
+SHA256: 72db661346fa95e986a8eee69fcc1e5a3512510ac787ea56bdf71bf7bd412303
+Section: Tweaks
+Description: Move the page dots up/down!
+Author: P2KDev <p2kdev@gmail.com>
+Name: PageDotMover
 
 Package: com.p2kdev.pmconfirm
 Version: 1.0
@@ -1094,70 +1062,6 @@ Description: No Ads in the Reddit App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: RedditNoAds
 
-Package: com.p2kdev.safariblocker
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.safariblocker_1.0_iphoneos-arm.deb
-Size: 21708
-MD5sum: 7fcc1e1e29d53ff52a0feab3607f6c73
-SHA1: 8f2061f40e4e129e48a2e8049576f34f8f8b1366
-SHA256: c2a9093942ddf64fbf1d9d47cb67d5c08760268ac114e857c2830ef161a303fd
-Section: Tweaks
-Description: Block New Tabs with Options!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SafariBlocker
-
-Package: com.p2kdev.safariblocker
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 456
-Depends: mobilesubstrate, preferenceloader, com.opa334.libundirect (>=1.0), ws.hbang.common (>= 1.11)
-Filename: ./debs/com.p2kdev.safariblocker_1.1_iphoneos-arm.deb
-Size: 42676
-MD5sum: bfacd007da0fb9baeccdb42500648823
-SHA1: 99f704e9d6492e1f4cb6a49c0b9d863791afb4c7
-SHA256: c3f3193d1e5bce9ffc95d5e172c9fd2dc56465828371106c559eb09166a0dad1
-Section: Tweaks
-Description: Block New Tabs with Options!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SafariBlocker
-
-Package: com.p2kdev.safarifasttype
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate, firmware(>=13.0)
-Filename: ./debs/com.p2kdev.safarifasttype_1.0_iphoneos-arm.deb
-Size: 4006
-MD5sum: 81d25cf58385ce6271e4c06bc5c6c34d
-SHA1: c3798ef2dcfa7049eb20016e4a7f319f6c92d76a
-SHA256: 3fc96895ce9b49bb022de07ae83ea332216f2dee8edc9117a0e8e8b787c5e2d4
-Section: Tweaks
-Description: Opens the keyboard after you open a new tab in Safari!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SafariFastType
-
-Package: com.p2kdev.safarifasttype
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.safarifasttype_1.0.1_iphoneos-arm.deb
-Size: 4986
-MD5sum: 2313966927d6a6e7deaf598b880a4c5f
-SHA1: 38dc239e238daeb00dd41c6faa45e6eee6bdc977
-SHA256: 22bc47ffbbb59539f6fd1be0e0474f20e4527b522babc22f19636dbd1b42886f
-Section: Tweaks
-Description: Opens the keyboard after you open a new tab in Safari!
-Author: P2KDev <p2kdev@gmail.com>
-Name: SafariFastType
-
 Package: com.p2kdev.safarifind
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1238,40 +1142,6 @@ Section: Tweaks
 Description: Fixes issues with SpringBoard Tweaks!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SpringBoardTweaksFixer
-
-Package: com.p2kdev.tinywidget
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 176
-Depends: mobilesubstrate, firmware (>= 13)
-Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13
-Filename: ./debs/com.p2kdev.tinywidget_1.0_iphoneos-arm.deb
-Size: 11056
-MD5sum: 43b5746a28c1094ea4ef6aec34a35d38
-SHA1: c575f64eb72cbbda83f6e1ac86d79e653ccc9909
-SHA256: ef2b64402bf6cf04b166a6975ecebbfe92c57805ada02d1d6f1e1e47cebddd91
-Section: Tweaks
-Description: Tiny Music Widget on LockScreen!
-Author: P2KDev <p2kdev@gmail.com>
-Name: TinyWidget
-
-Package: com.p2kdev.tinywidget
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 384
-Depends: mobilesubstrate, firmware (>= 13)
-Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13
-Filename: ./debs/com.p2kdev.tinywidget_1.1.2_iphoneos-arm.deb
-Size: 32336
-MD5sum: ca38b055159abf78af6ccd8550edfecf
-SHA1: d49190ca9144e9b1fe0c4bd05fa0c070ef2ca881
-SHA256: e3a7da00b551e39ae950a5aa934776757080b6064c87d250caf1f94867cc669b
-Section: Tweaks
-Description: Tiny Music Widget on LockScreen!
-Author: P2KDev <p2kdev@gmail.com>
-Name: TinyWidget
 
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
@@ -1412,23 +1282,6 @@ Section: Tweaks
 Description: To rotate or not.
 Author: ubik <cydia@ubikstyl.es>
 Name: Oriental
-
-Package: jzplusplus.pmreally
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 188
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/jzplusplus.pmreally_1.3_iphoneos-arm.deb
-Size: 17080
-MD5sum: a138e66dafc68952d0ac650d9f009d39
-SHA1: f004d6574eca2cb79eaac6be1f81e2ff612430b2
-SHA256: 43d343481925aaef42d13b47545430de1551a0f24c5219ea0b81279bc689180d
-Section: System
-Priority: optional
-Description: Prompts you to confirm if you ever set an alarm for any PM time, to prevent accidentally setting your alarm to PM when you meant AM.
-Author: Jay Zuerndorfer
-Name: PMreally
 
 Package: libflex
 Version: 4.1.1-1
