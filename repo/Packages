@@ -758,6 +758,22 @@ Description: Haptics for your Device!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Haptics
 
+Package: com.p2kdev.keepitsimple2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.keepitsimple2_1.0_iphoneos-arm.deb
+Size: 10786
+MD5sum: 8e1929dcdf4a987353d2b9529376c0f0
+SHA1: b4545f43b6b1abbf76eaf9bdd1ab8fa9a313d6d8
+SHA256: fb573e21cf7b7c646eb96846227f3220cdcb52f4d820babad6adae25ea961018
+Section: Tweaks
+Description: Single list of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Name: KeepItSimple2
+
 Package: com.p2kdev.letmedecline
 Version: 1.0.1
 Architecture: iphoneos-arm
