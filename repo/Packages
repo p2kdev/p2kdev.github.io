@@ -30,40 +30,6 @@ Description: Show pride in your carrier signal bars!
 Author: Blake Boxberger
 Name: PrideBars
 
-Package: com.bytafont.bytafont3
-Version: 3.5
-Architecture: iphoneos-arm
-Maintainer: Mikasa <nami_san@outlook.com>
-Depends: firmware (>= 10), unzip, mobilesubstrate
-Filename: ./debs/com.bytafont.bytafont3_3.5_iphoneos-arm.deb
-Size: 1033994
-MD5sum: d6fb8c569d595b4f387ec7a404e46aa6
-SHA1: 43a1c4798daae593eac500dd13b150633c2e2cc8
-SHA256: 3060f319475250041160b018fb3c518f4fd7ba5aad188a0bd72f8eb181539db2
-Section: System
-Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
-Author: BytaFont.com <info@bytafont.com>
-Depiction: http://repo.bytafont.com/bytafont_depiction
-Name: BytaFont 3
-
-Package: com.chilaxan.cuboid
-Version: 4.0
-Architecture: iphoneos-arm
-Maintainer: chilaxan & Nepeta
-Installed-Size: 428
-Depends: mobilesubstrate
-Conflicts: me.kritanta.homeplus
-Filename: ./debs/com.chilaxan.cuboid_4.0_iphoneos-arm.deb
-Size: 73750
-MD5sum: 543f41fb1f3157d0544bfde1dbd3e959
-SHA1: b696fefb00cce0f5013d945331d85fa3d67b303d
-SHA256: db917d181695ba16b43ad266a56619171c51285f6b9c2358079ecb5fab7cc2b2
-Section: Tweaks (Nepeta)
-Description: Lightweight home screen layout manager.
-Author: chilaxan & Nepeta
-Depiction: http://repo.kritanta.me/depictions/?id=com.chilaxan.cuboid
-Name: Cuboid
-
 Package: com.chr1s.newtab
 Version: 1.1
 Architecture: iphoneos-arm
@@ -79,22 +45,6 @@ Section: Tweaks
 Description: Add newtab shortcut to safari toolbar
 Author: Chr1s
 Name: NewTab
-
-Package: com.dpkg.cappd
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: dpkg_
-Depends: mobilesubstrate
-Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
-Filename: ./debs/com.dpkg.cappd.deb
-Size: 996
-MD5sum: 426876416e412a6e4a67f20b81ec022b
-SHA1: b92d27e70592104b33d2600bcc3e2c641c779fb6
-SHA256: 21d293e9d2ed6bea44ba8a8d3bbb97134136fdaf32c8fe4a810da869239af6c7
-Section: Administration
-Description: Safely disable some executables/daemons.
-Author: dpkg_
-Name: Cappd
 
 Package: com.easy-z.bark
 Version: 2.0.4
@@ -481,138 +431,6 @@ Depiction: https://www.icaughtuapp.com/repo/depictions/web/?p=com.itaysoft.wifil
 Icon: https://www.icaughtuapp.com/repo/icons/com.itaysoft.wifilist.png
 Name: WiFi List
 Sileodepiction: https://www.icaughtuapp.com/repo/depictions/native/com.itaysoft.wifilist/depiction.json
-
-Package: com.julioverne.spotilife
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.spotilife_1.0_iphoneos-arm.deb
-Size: 82874
-MD5sum: 4ed73de019364ba12201d1fed0e8c116
-SHA1: fb6d08dc1b065dde119bd09f1f8c3c06a5d842cc
-SHA256: a73d28f73e4c07eb4c69842e9e313d86f4b6b105dab5fefaae088adb6cc81fd5
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
-Author: julioverne
-Name: Spotilife
-
-Package: com.julioverne.spotilife
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.spotilife_1.2_iphoneos-arm.deb
-Size: 199256
-MD5sum: e65bb3b8dc538c5ed773324e717a8e02
-SHA1: 21bcb30e9704cfe456d4e9933c458386920c38e1
-SHA256: f3e3f0f50b638247f44636472880053c059e7aaa5dba4e58f59629e72562d3c5
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
-Author: julioverne
-Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
-Name: Spotilife
-
-Package: com.laughingquoll.betterrotate
-Version: 1.3.6
-Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
-Installed-Size: 688
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
-Filename: ./debs/com.laughingquoll.betterrotate_1.3.6_iphoneos-arm.deb
-Size: 37090
-MD5sum: 1b40e78213920d95ba4ba01f3e6650dd
-SHA1: d688d9b8555cc04a519ccbcf0d57221cc51cea9f
-SHA256: 2dd47c874f013bacd72af63bf07a7091f15c5636eaaf546138fd6cf61cddbb9d
-Section: Tweaks
-Description: A Smarter Orientation Lock!
-Author: LaughingQuoll
-Name: SmartRotate
-
-Package: com.laughingquoll.maple
-Version: 1.5.3
-Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
-Installed-Size: 77576
-Depends: mobilesubstrate, com.laughingquoll.prefixui, me.nepeta.libcolorpicker, net.limneos.libbulletin
-Filename: ./debs/com.laughingquoll.maple_1.5.3_iphoneos-arm.deb
-Size: 35323350
-MD5sum: 724be8ea12ca16176a142d2486ba7732
-SHA1: 291538e1f17473c439c0298ff8c619fa89ade4d8
-SHA256: b6de4e65a1907b4f5a8d45610ca524f85ec86584be6e8e78622810cb0e2946b2
-Section: Tweaks
-Description: A pretty sweet MobileSubstrate tweak.
-Author: LaughingQuoll
-Name: Maple
-
-Package: com.laughingquoll.siliqua2
-Version: 2.5.2
-Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
-Installed-Size: 356
-Depends: mobilesubstrate, com.laughingquoll.prefixui
-Filename: ./debs/com.laughingquoll.siliqua2_2.5.2_iphoneos-arm.deb
-Size: 24988
-MD5sum: 881ece12367ae3c156bcfa7afdded8e5
-SHA1: d965267afd9f093d6258ae169c3ba0f0ed096dbb
-SHA256: fdf15ed49137d929945a1c15884cbe1f8f4ae360b867330864a10c44b7395d8c
-Section: Tweaks
-Description: AirPods Gestures and New Features
-Author: LaughingQuoll
-Name: Siliqua 2
-
-Package: com.laughingquoll.siliquapro
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
-Installed-Size: 560
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: ./debs/com.laughingquoll.siliquapro_1.2.3_iphoneos-arm.deb
-Size: 91434
-MD5sum: 253dda7b2a052445b492ce2f460f9253
-SHA1: a175a70c9d1831bebe7f2f429cd692aab616201f
-SHA256: 8097c43c5e05084e4d56aa868ac5b3f7f6bd20e267a2b96f6b64348f015d6358
-Section: Tweaks
-Description: Custom actions for AirPods Pro
-Author: LaughingQuoll
-Name: Siliqua Pro
-
-Package: com.laughingquoll.tritium
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
-Installed-Size: 608
-Depends: mobilesubstrate, com.laughingquoll.prefixui, preferenceloader
-Filename: ./debs/com.laughingquoll.tritium_1.1.3_iphoneos-arm.deb
-Size: 68150
-MD5sum: 55bc58af5bca71072fbe6e3b84bb4045
-SHA1: 82b55f579cb7f96444aeba9c6a827faebe6bf764
-SHA256: 6ebd314f73e572f8755a8f762614365076e003a57315be6eac391aae6294ca5c
-Section: Tweaks
-Description: A useful, power efficient and customisable always on display for iOS.
-Author: LaughingQuoll
-Name: Tritium
-
-Package: com.opa334.whitepointmodule
-Version: 1.2.2
-Architecture: iphoneos-arm
-Maintainer: opa334
-Installed-Size: 184
-Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
-Filename: ./debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm.deb
-Size: 16964
-MD5sum: 29fa27d72d9875bf5252cb2d0d74dc06
-SHA1: 7466e0759b7f580f9d20928c23a724095bd4d5a2
-SHA256: 2b6891d8e0096f795ab12b467c4b0cb1a55a1c6ad07b1d3a18c3868f53f2dbbc
-Section: Control Center (Modules)
-Description: Reduce White Point from Control Center!
-Author: opa334
-Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
-Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
-Name: White Point Module
-Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
 
 Package: com.p2kdev.alarmtime
 Version: 1.0
@@ -1175,28 +993,6 @@ Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
 Name: WhatsAppCallConfirm
 
-Package: com.pantsthief.flexing
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 206
-Depends: firmware(>= 9.0), mobilesubstrate, libflex
-Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
-Filename: ./debs/flexing_1.2.0.deb
-Size: 14342
-MD5sum: b85d14051efd843109d248584503dd42
-SHA1: 69fa9f4eabc7e9a5695fdc6995b684269d06e9ce
-SHA256: e13606be6aed384894a34d31de557ef0cd80fe5b173e8aa2c21515cd759a3dee
-Section: Development
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexingDp
-Description: Open FLEX anywhere!
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Tanner Bennett <tannerbennett@me.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexingDp
-Dev: tannerbennett
-Icon: file:///Library/Activator/Listeners/com.pantsthief.flexing.toggle/Icon-small@2x.png
-Name: FLEXing
-
 Package: com.ps.cconandoff
 Version: 0.0.1.1
 Architecture: iphoneos-arm
@@ -1298,65 +1094,6 @@ Section: Tweaks
 Description: To rotate or not.
 Author: ubik <cydia@ubikstyl.es>
 Name: Oriental
-
-Package: libflex
-Version: 4.1.1-1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 8312
-Depends: firmware(>= 9.0), mobilesubstrate
-Conflicts: com.pantsthief.libflex
-Filename: ./debs/libflex_4.1.1-1.deb
-Size: 1339258
-MD5sum: ca9d88f97a27d7580b72aa3081ccdea4
-SHA1: 9ab5184e81a431232570c80337600a8a379e840d
-SHA256: db6134fd4c140b10dcdb0499bea4fc431c621c055aefbb56c86d865f18cef7fb
-Section: Development
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
-Description: A library for Flipboard Explorer.
-Tag: cydia::obsolete, purpose::library, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Tanner Bennett <tannerbennett@me.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
-Dev: tannerbennett
-Name: libFLEX
-
-Package: lunotech11.Legizmo
-Version: 1.0-21MA012303i
-Architecture: iphoneos-arm
-Maintainer: lunotech11
-Installed-Size: 1828
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/Legizmo-Release-Internal-1.0-21MA012303i.deb
-Size: 290588
-MD5sum: a1c7bb32b0ebb2b5b876f03ef599078a
-SHA1: 74c759c7aa6460a1f781170af8e943afd5dc6306
-SHA256: c5e998c0d40dc6bca49e8b624341966ea1191da439aec0133e24ff3912adcaa0
-Section: Tweaks
-Description: Allow iOS to pair with newer versions of watchOS
-Tag: cydia::commercial
-Author: lunotech11
-Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
-Name: Legizmo (Internal Release)
-
-Package: me.jjolano.shadow
-Version: 2.0.20
-Architecture: iphoneos-arm
-Maintainer: jjolano <jjolano@me.com>
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./debs/me.jjolano.shadow.deb
-Size: 250054
-MD5sum: 05ae8facd56cc46b72837c4e95145874
-SHA1: 390069d1be05fec40d119f554faf26655688df92
-SHA256: 9235941ea8fbe40adde9a172701e9a381b65111e13291147f070698477da6d25
-Section: Tweaks
-Homepage: https://shuga.co/
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano <jjolano@me.com>
-Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
-Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
-Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
-Name: Shadow
-Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
 
 Package: me.nepeta.docky
 Version: 0.3
@@ -1474,23 +1211,6 @@ Icon: https://repo.syns.me/assets/repo/Icons/iSupervisorIcon.png
 Moderndepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
 Name: iSupervisor
 Sileodepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
-
-Package: net.p0358.fbdarkmode
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: p0358
-Installed-Size: 100
-Depends: mobilesubstrate
-Conflicts: com.hackyouriphone.fbdarkmode
-Filename: ./debs/net.p0358.fbdarkmode_1.0.1_iphoneos-arm.deb
-Size: 6756
-MD5sum: 734d20827f2bd8f0c3c1a93977db11bd
-SHA1: 9385d94c843d883adfdde789955644cdd3ee76b9
-SHA256: df60fd62a95043358375a40112374e180b91af3d0842e4d243f9ea885e070ddf
-Section: Tweaks
-Description: Enable dark mode in FB.
-Author: p0358
-Name: FBDarkMode
 
 Package: net.p0358.fbinternal
 Version: 0.0.1
