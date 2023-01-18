@@ -1,5 +1,5 @@
 # p2kdev.github.io
-Welcome to my Cydia Repo.
+Welcome to my tweaks Repo.
 
 &nbsp;
 
