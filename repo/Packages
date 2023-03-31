@@ -1,5 +1,21 @@
 Package: ca.menushka.onenotify
 Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Menushka Weeratunga
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/ca.menushka.onenotify_2.1_iphoneos-arm64.deb
+Size: 5026
+MD5sum: cf601369db87694770c541be9c4b7a7c
+SHA1: 20172ceedf7346956a4f358dba0457690cab0d59
+SHA256: bf296be4c82a5ef48c9a3273b6edb6b8dab42550ea6929bd3ceda3797a69b42c
+Section: Tweaks
+Description: Keep all your notifications in one persistent list on your lockscreen without having to swipe to view them.
+Author: Menushka Weeratunga
+Name: OneNotify
+
+Package: ca.menushka.onenotify
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: Menushka Weeratunga
 Installed-Size: 172
