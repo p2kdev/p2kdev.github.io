@@ -500,6 +500,22 @@ Sileodepiction: https://www.icaughtuapp.com/repo/depictions/native/com.itaysoft.
 
 Package: com.p2kdev.alarmtime
 Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 14.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.alarmtime_1.0_iphoneos-arm64.deb
+Size: 7498
+MD5sum: 03d14ebbe286c320c09bf42dd613b90f
+SHA1: 8e2c2e8bd8003f9b698cadd7a8c89344858d3077
+SHA256: 93f6876235549ac9043f18dda027e5144f4a6045263d656cc2136eea8191e76d
+Section: Tweaks
+Description: Show Time until alarm in the clock App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: AlarmTime
+
+Package: com.p2kdev.alarmtime
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
@@ -525,6 +541,22 @@ Size: 4320
 MD5sum: 8924e68cfbad75740454e6aea54359ab
 SHA1: f5bc1fa8800847dfa47a63b37bc45cc8e59d684d
 SHA256: 71a834360b35728350f7bad575de22742a5060d1f5f046f934543231bfc837e0
+Section: Tweaks
+Description: Make the LS DateTime Bold!
+Author: P2KDev <p2kdev@gmail.com>
+Name: BoldLSDateTime
+
+Package: com.p2kdev.boldlsdatetime
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.boldlsdatetime_1.0_iphoneos-arm64.deb
+Size: 3812
+MD5sum: 4a25139d3b397871cb92c376ecd5af69
+SHA1: 9bdf70d2fdcecd9899342e80679dcab23be3394b
+SHA256: 29048013c20ec67d463f5aa90fdf752791df7f7e63397a1b2cb17bc45895b7f6
 Section: Tweaks
 Description: Make the LS DateTime Bold!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1269,6 +1301,23 @@ Section: Tweaks
 Description: Fixes issues with SpringBoard Tweaks!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SpringBoardTweaksFixer
+
+Package: com.p2kdev.tinywidget14
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/com.p2kdev.tinywidget14_1.0.1_iphoneos-arm64.deb
+Size: 5526
+MD5sum: 487162f99a299d927d80ee94a169aa8a
+SHA1: 55e88d80d8c8fab53a452f5fd4366fcf9e3d2e4c
+SHA256: 032abcc6f7fdd4eb3d3da8a6fb1e3aab4b9bcd7e918613af15578792c480bd92
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TinyWidget14
 
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
