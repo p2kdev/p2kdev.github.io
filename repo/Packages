@@ -239,13 +239,13 @@ Package: com.imkpatil.letmeknow
 Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 368
+Installed-Size: 156
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.letmeknow_1.4.2_iphoneos-arm64.deb
-Size: 26760
-MD5sum: 4b648cf662fbca7a802dd50fecc28d57
-SHA1: 0fb4e13c5b9e31b295e764ba7debc6187e00dfc3
-SHA256: 502a1679991fbd4d095ec768a136f0a689d8b08493c1e687bb6c8b542649452f
+Size: 7412
+MD5sum: 284ee7971413958533f60649d84acc42
+SHA1: 7f712b90bbc0c0c54fdcbeb55aaf7bf433cb8865
+SHA256: a3af8e5dcd9cef090c93124a2f74d309e5bf9b791be30bac55c1037f5b0ea3ea
 Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1213,10 +1213,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0_iphoneos-arm64.deb
-Size: 5950
-MD5sum: ddee2e4f50c63da40e6095924add8763
-SHA1: a32822087938c41cb2f1490819dd1d4032dff608
-SHA256: 31c3ecac648b214abbab5c7a5b99a84d6675a8f8d2ce6c804e1dee49b35d2886
+Size: 5998
+MD5sum: b9ee6938e1677c2f9ab5bf8a0f828bd8
+SHA1: fdde7227aa62c3e0450b06e31ba4554eccdcae9b
+SHA256: 7c117c869b7ec2a2418d242fb50ea433dfe14de420df8a7199f9774c747a0903
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
