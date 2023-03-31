@@ -1213,10 +1213,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0_iphoneos-arm64.deb
-Size: 5998
-MD5sum: b9ee6938e1677c2f9ab5bf8a0f828bd8
-SHA1: fdde7227aa62c3e0450b06e31ba4554eccdcae9b
-SHA256: 7c117c869b7ec2a2418d242fb50ea433dfe14de420df8a7199f9774c747a0903
+Size: 5990
+MD5sum: ccb3f497cd5428754edc825f331ddaee
+SHA1: 46bf7683fb2acd542f8f81a6fd66b02cada21b99
+SHA256: 129db0d8fae102af7df3dc247971f9abb6753936a58cacd45425de7b3d9f7806
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
