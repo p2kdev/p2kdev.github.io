@@ -946,6 +946,22 @@ Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
 Name: PMConfirm
 
+Package: com.p2kdev.pmconfirm
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 13.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.pmconfirm_1.2_iphoneos-arm64.deb
+Size: 8814
+MD5sum: 0ec0d489ff3a65c56039d15c582ece40
+SHA1: 08b68e00e43de0d65b17479006c210587a22ef40
+SHA256: e156bdd2b8cefb7da64ae2237ee9c604fe7f39d2ec0feb2d57d192f450a280b1
+Section: Tweaks
+Description: Confirm when setting alarms for PM!
+Author: P2KDev <p2kdev@gmail.com>
+Name: PMConfirm
+
 Package: com.p2kdev.purerecents
 Version: 1.0
 Architecture: iphoneos-arm
