@@ -235,17 +235,34 @@ Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
 Icon: file:///Library/Application Support/CountMyMessages/icon.png
 Name: CountMyMessages
 
+Package: com.imkpatil.homebarsizer
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.homebarsizer_1.1.1_iphoneos-arm64.deb
+Size: 24080
+MD5sum: 288a97650ad890c489542d4a7f914cbb
+SHA1: bc73550f06fbe3f0c1b113cf37812603e3701a39
+SHA256: 22747ff97a450ab3527a869620e7e9d9398347ea76b2493283a1180ee59a610c
+Section: Tweaks
+Description: Resize that HomeBar!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Name: HomeBarSizer
+
 Package: com.imkpatil.letmeknow
 Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 156
+Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.letmeknow_1.4.2_iphoneos-arm64.deb
-Size: 7412
-MD5sum: 284ee7971413958533f60649d84acc42
-SHA1: 7f712b90bbc0c0c54fdcbeb55aaf7bf433cb8865
-SHA256: a3af8e5dcd9cef090c93124a2f74d309e5bf9b791be30bac55c1037f5b0ea3ea
+Size: 26274
+MD5sum: b8836fa46755dfc5e239f477746a6e71
+SHA1: 44dd8031abc79ad10d4a4df584d6d2b4339665ca
+SHA256: d57478e827db81d6c8c7b95a2833b9cf8643a04935cf637ced27e808ba1e40db
 Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: P2KDev <p2kdev@gmail.com>
@@ -520,10 +537,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 316
 Depends: mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader
 Filename: ./debs/com.p2kdev.colorbar_1.0_iphoneos-arm64.deb
-Size: 10244
-MD5sum: 51fe352013e21c56a85d1007051a36f9
-SHA1: d03e6ad9fd841773ca5a01eced3a96b50e60832b
-SHA256: 18afc47b5e5c38efd988e2971329a5b9a3a31f1aad1bbb073b3a004db0cf3c49
+Size: 10166
+MD5sum: a70398e2ad9f9802989dda87f0a7af4a
+SHA1: 7707b729ff6e651ebb0d9cb6cfa562dbc8970048
+SHA256: a571f9a5b25b817360139df9628bdff30abf668e19a2271a857dd60f7e62c31b
 Section: Tweaks
 Description: Color that HomeBar!
 Author: P2KDev <p2kdev@gmail.com>
@@ -680,10 +697,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.haptics_1.1_iphoneos-arm64.deb
-Size: 7650
-MD5sum: efe2bac76abaad1f7feebddce867b149
-SHA1: 6fef365958c172c8965aae9cd5aea79c96490857
-SHA256: e2605ffc663e5c25c2afcf03b53db7b9a965cb1aeed0536bf6fe44de833e860c
+Size: 7668
+MD5sum: 2a8b8f9147144a5cdbd20694e4134af8
+SHA1: adda20ccea15a1a64d6fe570781b8ade074f5ddd
+SHA256: 4f9d303789fbe1265a04c4202b0093ccf5d2a1f470b4e206dfc8fdd92ab310c2
 Section: Tweaks
 Description: Haptics for your Device!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1140,6 +1157,23 @@ Name: ScreenshotActions
 
 Package: com.p2kdev.simplebattery
 Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.simplebattery_1.0_iphoneos-arm64.deb
+Size: 28472
+MD5sum: 2507815f01f55d66e19837fa0238aba8
+SHA1: ee4b7e84049a8491c6843f4f1d1820e5e470cbfd
+SHA256: 8532763ff8fdbae8cab339baae993dee8a41857829c36389e88426128facf72e
+Section: Tweaks
+Description: Simple Battery for Notched Devices!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Name: SimpleBattery
+
+Package: com.p2kdev.simplebattery
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 420
@@ -1186,6 +1220,23 @@ Section: Tweaks
 Description: Fixes for the SmartRotate Tweak!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartRotateFix
+
+Package: com.p2kdev.spotbetter
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.1.2_iphoneos-arm64.deb
+Size: 24696
+MD5sum: 844a0ebdf8b03b635e0f44b82c66920d
+SHA1: 9ef22063b6225dc40bdcb90e28d99c52f94a253c
+SHA256: 1e5972c073da8e80203158b96a2fec3ee26b738a0770d355e0ce441581023cc2
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotBetter
 
 Package: com.p2kdev.springboardtweakfixer
 Version: 1.0
