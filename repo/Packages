@@ -1090,6 +1090,22 @@ Description: Quit All Apps!
 Author: P2KDev <p2kdev@gmail.com>
 Name: QuitAll
 
+Package: com.p2kdev.quitall
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.1.4_iphoneos-arm64.deb
+Size: 8414
+MD5sum: 69fdfb46c225a6fc6ddb61d34bf1d311
+SHA1: 840c3ac18232962220863f524056c6fdd7d81ee8
+SHA256: b77eadf804be5ab15942bc8d2ec91b7b0dbde0dc100b54307c20530f58f07e03
+Section: Tweaks
+Description: Quit All Apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuitAll
+
 Package: com.p2kdev.reachmore
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1297,6 +1313,23 @@ Size: 24696
 MD5sum: 844a0ebdf8b03b635e0f44b82c66920d
 SHA1: 9ef22063b6225dc40bdcb90e28d99c52f94a253c
 SHA256: 1e5972c073da8e80203158b96a2fec3ee26b738a0770d355e0ce441581023cc2
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotBetter
+
+Package: com.p2kdev.spotbetter
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.1.3_iphoneos-arm64.deb
+Size: 24500
+MD5sum: aaad32d185c2dc56bbda02ae16633f10
+SHA1: c287be293a3cf2e96bff0b205c59f225f7364f45
+SHA256: b8e2a3d50fd84b705af671bddbfc3cd24671c3b96e4b9ed61b867309ebd94758
 Section: Tweaks
 Description: Better Spotlight!
 Author: P2KDev <p2kdev@gmail.com>
