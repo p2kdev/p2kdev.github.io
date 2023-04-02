@@ -963,6 +963,22 @@ Description: No Ads in the NDTV News App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NDTVNoAds
 
+Package: com.p2kdev.nofaceidwait
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm64.deb
+Size: 3076
+MD5sum: 16cfbf5071b30225a51e1edff3e33d7b
+SHA1: b3ae8f997606ed84611c1725c3065d5f101ccdde
+SHA256: f6495bde43fe9e6aa2dfed9109ca47188134acc9f9627ce00701e638b13aa2d3
+Section: Tweaks
+Description: Skip face id scanning and go straight to passcode!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NoFaceIDWait
+
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
 Architecture: iphoneos-arm
