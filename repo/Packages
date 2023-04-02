@@ -1269,6 +1269,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/SimpleBattery/icon.png
 Name: SimpleBattery
 
+Package: com.p2kdev.simplebattery
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.simplebattery_1.0.1_iphoneos-arm64.deb
+Size: 28924
+MD5sum: 059804ddd5d1d5ef301acd2dade96cd9
+SHA1: 380f7e44f713c996b19c2addce6fa15a3e9cd188
+SHA256: 6b6104c2a5cab7ef9eb6915f48481cf18593eb5a40eecb110b5dbea0fc9de67b
+Section: Tweaks
+Description: Simple Battery for Notched Devices!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Name: SimpleBattery
+
 Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1363,6 +1380,23 @@ Size: 5526
 MD5sum: 487162f99a299d927d80ee94a169aa8a
 SHA1: 55e88d80d8c8fab53a452f5fd4366fcf9e3d2e4c
 SHA256: 032abcc6f7fdd4eb3d3da8a6fb1e3aab4b9bcd7e918613af15578792c480bd92
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TinyWidget14
+
+Package: com.p2kdev.tinywidget14
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/com.p2kdev.tinywidget14_1.0.2_iphoneos-arm64.deb
+Size: 5322
+MD5sum: 949eb48e98674a5977d58afa66a0a495
+SHA1: dec264ee8401bb04b52598872f40d00e5ddba0ba
+SHA256: a3ff313b6ab45ae23ea3fd50762e11009150e6a01b81f78e9b4b71f52aab9512
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
