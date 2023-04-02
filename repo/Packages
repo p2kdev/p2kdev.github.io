@@ -930,6 +930,22 @@ Description: No Ads in the NDTV News App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NDTVNoAds
 
+Package: com.p2kdev.ndtvnoads
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.ndtvnoads_1.0.1_iphoneos-arm64.deb
+Size: 3278
+MD5sum: b35a5b590f533a646227ffe91f7a22aa
+SHA1: ac50e2febb3a265d2234efdc7480218763332802
+SHA256: a014905a091e727eea1949b22839b37539de356f4739df17c961ccb58f0c00dd
+Section: Tweaks
+Description: No Ads in the NDTV News App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NDTVNoAds
+
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1367,6 +1383,22 @@ Section: Tweaks
 Description: Fixes issues with SpringBoard Tweaks!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SpringBoardTweaksFixer
+
+Package: com.p2kdev.switchconfirm
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate,preferenceloader,com.opa334.altlist
+Filename: ./debs/com.p2kdev.switchconfirm_1.1.2_iphoneos-arm64.deb
+Size: 30670
+MD5sum: 3ecaa2ae37bbbf5224a323dc99d65905
+SHA1: eaded6e76550f40dee4475d54c836818d223e5a8
+SHA256: 34cdcfd28c6bc9ef052d3a6206d2cfeff6b9cc476684027f441e07a1f63121a8
+Section: Tweaks
+Description: Confirm before switching Apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SwitchConfirm
 
 Package: com.p2kdev.tinywidget14
 Version: 1.0.1
