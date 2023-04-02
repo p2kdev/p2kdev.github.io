@@ -251,6 +251,23 @@ Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
 Icon: file:///Library/Application Support/CountMyMessages/icon.png
 Name: CountMyMessages
 
+Package: com.imkpatil.ezswipe
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.ezswipe_1.1.1_iphoneos-arm64.deb
+Size: 23684
+MD5sum: a7fb6514b2a0ecc73a9e6abc73e21e8a
+SHA1: 3b0a6472167bc0256c4ce8f6fe74ed3131c353bc
+SHA256: 6ef021027bb784d0150b35af177d78a3f0a75f561cd5e32ea798ad4501efe8ad
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+Name: EZSwipe
+
 Package: com.imkpatil.homebarsizer
 Version: 1.1.1
 Architecture: iphoneos-arm64
