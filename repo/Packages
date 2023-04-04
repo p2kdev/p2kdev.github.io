@@ -1433,6 +1433,22 @@ Description: Confirm before switching Apps!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SwitchConfirm
 
+Package: com.p2kdev.switchconfirm
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate,preferenceloader,com.opa334.altlist
+Filename: ./debs/com.p2kdev.switchconfirm_1.1.3_iphoneos-arm64.deb
+Size: 30538
+MD5sum: e4fcbdf2ef886d049745e93c16168148
+SHA1: bffe306a3875777e315297b0b842e0711f769a86
+SHA256: 947121fb60d172984528335f437c20285a6ebc991a96694030c1abbcefbe7119
+Section: Tweaks
+Description: Confirm before switching Apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SwitchConfirm
+
 Package: com.p2kdev.tinywidget14
 Version: 1.0.1
 Architecture: iphoneos-arm64
