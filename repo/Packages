@@ -563,6 +563,22 @@ Description: Show Time until alarm in the clock App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: AlarmTime
 
+Package: com.p2kdev.autofillfix
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.autofillfix_1.1.4_iphoneos-arm64.deb
+Size: 2894
+MD5sum: 6c83ad65f35fe04a22cf64515bf594a5
+SHA1: e26071e28bfccd67acc834675c23fe22aabe3ab7
+SHA256: ada0bde6c25d32dc11c100be4ad39980afb6377e10af0c921fde446afd7967e7
+Section: Tweaks
+Description: Fix for autofill not working after restarting backboard or sbreload
+Author: P2KDev <p2kdev@gmail.com>
+Name: AutoFillFix
+
 Package: com.p2kdev.boldlsdatetime
 Version: 1.0
 Architecture: iphoneos-arm
