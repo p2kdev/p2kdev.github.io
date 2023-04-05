@@ -1585,6 +1585,25 @@ Description: Show photo resolution and disk usage in app
 Author: shepgoba
 Name: PhotoInfo
 
+Package: com.twickd.john-sklikas.3dbadgeclear
+Version: 1.6.8
+Architecture: iphoneos-arm64
+Maintainer: isklikas
+Installed-Size: 192
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear
+Replaces: com.isklikas.3dbadgeclear
+Provides: com.isklikas.3dbadgeclear
+Filename: ./debs/com.twickd.john-sklikas.3dbadgeclear_1.6.8_iphoneos-arm64.deb
+Size: 17600
+MD5sum: cebeb5ecf1af60ca5c26796b98b03f2a
+SHA1: 8f2e3cbc82f4dcd62b169d5ac76c93c3145dff75
+SHA256: 983dbbc7b6f35947ca9731af882ef8fc9e04798d42a58f90ae987f3d6563130b
+Section: Tweaks
+Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.
+Author: isklikas
+Name: 3DBadgeClear
+
 Package: com.wilsonthewolf.webshade
 Version: 0.0.2
 Architecture: iphoneos-arm
