@@ -496,22 +496,6 @@ Description: Get percentages for the sliders in the Control Center 13 and 14
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 13/14
 
-Package: com.ioscreatix.sugarcane
-Version: 1.2.3.2
-Architecture: iphoneos-arm
-Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
-Installed-Size: 172
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/com.ioscreatix.sugarcane_1.2.3.2_iphoneos-arm.deb
-Size: 7594
-MD5sum: 17f3a61f1e03400f6986a88d90216116
-SHA1: 8ebc6d235c34e213e9ebab89f5144ef1495e0ce2
-SHA256: 79453097e9b06cac433dda9b07c387023fc272eb27dee2e66817700724d5a4ae
-Section: Tweaks
-Description: Get percentages for the sliders in the Control Center 13 and 14
-Author: iOS Creatix, kasiimh1, p2kdev
-Name: SugarCane 13/14
-
 Package: com.ipc.crackerxi
 Version: 1.1.8
 Architecture: iphoneos-arm
@@ -687,22 +671,6 @@ Size: 5610
 MD5sum: 003dc847db5d12010160e1305e0617da
 SHA1: 344c9db423612b86b751cdb6aa0305b73c87b088
 SHA256: 068d22c8411721a30aa421785f05f0551b180d810b203684991bdc2c6f394ca7
-Section: Tweaks
-Description: Color-coded recent MobilePhone app logs!
-Author: P2KDev <p2kdev@gmail.com>
-Name: ColorCodedLogs
-
-Package: com.p2kdev.colorcodedlogs
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13)
-Filename: ./debs/com.p2kdev.colorcodedlogs_1.0.1_iphoneos-arm.deb
-Size: 4646
-MD5sum: baa9ba51d68957fe34304355c8df5ae3
-SHA1: 4809f1cdd64652c455fdf9efabe48c232aad7308
-SHA256: 089aacf3bcf84899574c0aab8ccc49c587ab76bb70c3925766b96735a02960ad
 Section: Tweaks
 Description: Color-coded recent MobilePhone app logs!
 Author: P2KDev <p2kdev@gmail.com>
