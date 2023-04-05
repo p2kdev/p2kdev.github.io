@@ -564,16 +564,16 @@ Author: P2KDev <p2kdev@gmail.com>
 Name: AlarmTime
 
 Package: com.p2kdev.autofillfix
-Version: 1.1.4
+Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.autofillfix_1.1.4_iphoneos-arm64.deb
-Size: 2894
-MD5sum: 6c83ad65f35fe04a22cf64515bf594a5
-SHA1: e26071e28bfccd67acc834675c23fe22aabe3ab7
-SHA256: ada0bde6c25d32dc11c100be4ad39980afb6377e10af0c921fde446afd7967e7
+Filename: ./debs/com.p2kdev.autofillfix_0.1_iphoneos-arm64.deb
+Size: 2898
+MD5sum: 99a53f23d3a0d736949f9fe4a2ff0291
+SHA1: 536b294eed183877659244cb34e269de9ef7ae0d
+SHA256: 4698b6d75816386926f85be45f631cfc2c6c4d45508fe15e13e21f946ae7e634
 Section: Tweaks
 Description: Fix for autofill not working after restarting backboard or sbreload
 Author: P2KDev <p2kdev@gmail.com>
