@@ -1516,6 +1516,22 @@ Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget14
 
+Package: com.p2kdev.twitternoads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.0_iphoneos-arm64.deb
+Size: 6720
+MD5sum: e2bb396b9708ea62af89c93a1806c293
+SHA1: ae29139fc9bea6e2907e2f6c8325aa2a4313759a
+SHA256: ba4d554f35539d6b55f2becef2377524d1ea51fa5f44a0bcebe2cf22890a30e2
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TwitterNoAds
+
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
 Architecture: iphoneos-arm64
