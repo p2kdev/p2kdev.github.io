@@ -1300,6 +1300,22 @@ Description: Up-Next on your lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Sakal
 
+Package: com.p2kdev.sakal
+Version: 2.1.8
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 500
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.1.8_iphoneos-arm64.deb
+Size: 57460
+MD5sum: aa6e8a2501a47ee7d8980a5511425b3e
+SHA1: 21a99fdaf57d694cb462e2c672ea917f2bd2bf6a
+SHA256: 168171db35dd21f602367a6a283455856b01cbf4935cc3c500a2b3986461f54d
+Section: Tweaks
+Description: Up-Next on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
 Package: com.p2kdev.screenshotactions
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -1362,6 +1378,23 @@ Size: 28924
 MD5sum: 059804ddd5d1d5ef301acd2dade96cd9
 SHA1: 380f7e44f713c996b19c2addce6fa15a3e9cd188
 SHA256: 6b6104c2a5cab7ef9eb6915f48481cf18593eb5a40eecb110b5dbea0fc9de67b
+Section: Tweaks
+Description: Simple Battery for Notched Devices!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Name: SimpleBattery
+
+Package: com.p2kdev.simplebattery
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.simplebattery_1.0.2_iphoneos-arm64.deb
+Size: 28940
+MD5sum: 0689e4a9bd7cc18afa8114ac96b69ab8
+SHA1: bbc79aca4609f09279a644b473af55444755ef1d
+SHA256: fc21c9a5656f60a2b5d7d935754b6e00e85cdeb9336f0e294e4aebc4dfa392f5
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
