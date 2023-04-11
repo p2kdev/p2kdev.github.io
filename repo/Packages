@@ -612,6 +612,22 @@ Description: Make the LS DateTime Bold!
 Author: P2KDev <p2kdev@gmail.com>
 Name: BoldLSDateTime
 
+Package: com.p2kdev.chasejbbypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.chasejbbypass_1.0_iphoneos-arm64.deb
+Size: 3048
+MD5sum: 5be86eeba21abfad27f4d363b34327f9
+SHA1: 7271bc36da6a7aea28e8bd668cbf2b6e1cdf9045
+SHA256: 0e77e06b32294139adc26b3627f9efd01eaa1f8fb93a9ae1f342f6952673c796
+Section: Tweaks
+Description: Chase Bank JB Detection Bypass!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ChaseJBBypass
+
 Package: com.p2kdev.colorbar
 Version: 1.0
 Architecture: iphoneos-arm64
