@@ -1092,6 +1092,22 @@ Description: Remove third party calls from Recents in Phone App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: PureRecents
 
+Package: com.p2kdev.purerecents
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.purerecents_1.0_iphoneos-arm64.deb
+Size: 3044
+MD5sum: 158df75b3b0fda9256e47e94e6026cdb
+SHA1: d972bce8270b567d3c710e1376fd92c41ee6d00a
+SHA256: e99079dd6463790e17eaa0a4f3f8527bd5f69b1b3c54315af4d72db663812019
+Section: Tweaks
+Description: Remove third party calls from Recents in Phone App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: PureRecents
+
 Package: com.p2kdev.quitall
 Version: 1.1.1
 Architecture: iphoneos-arm
