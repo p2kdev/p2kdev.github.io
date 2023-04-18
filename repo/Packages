@@ -1647,6 +1647,22 @@ Description: No Ads in the Twitter App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TwitterNoAds
 
+Package: com.p2kdev.twitternoads
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.1_iphoneos-arm64.deb
+Size: 6358
+MD5sum: 9bee5fee07882441d5ee5609df4d7cb2
+SHA1: 5b764a185d073de319bf52954a44af290e5ce286
+SHA256: 84579e56e1c06ae30516e3956d5cbfb419027271df54b88bc591d3b5c1998827
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TwitterNoAds
+
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
 Architecture: iphoneos-arm64
