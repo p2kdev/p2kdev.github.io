@@ -740,70 +740,6 @@ Description: Show Gmail Emails in Light Theme always!
 Author: P2KDev <p2kdev@gmail.com>
 Name: GmailAlwaysLightTheme
 
-Package: com.p2kdev.haptics
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.haptics_1.0_iphoneos-arm.deb
-Size: 6750
-MD5sum: 3ca2659ffb3e1e34fe8dc6be24c646f2
-SHA1: 00250649658d4b10be737362b81f28a7c8e364aa
-SHA256: 487ee92b0f7f59ac9cccc735dc6501c4fd15214549edc20327ae3293be2b9781
-Section: Tweaks
-Description: Haptics for your Device!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Haptics
-
-Package: com.p2kdev.haptics
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.haptics_1.0.1_iphoneos-arm.deb
-Size: 6888
-MD5sum: d08f106035d251b94fb3f8a2a163e9b1
-SHA1: fa0f425545817652694a7f9ecdc45235eba92406
-SHA256: d802de0dc9b79640c25425e4a6ba3e4ce0db2313843bcd5f6082fb46c6bbcaf8
-Section: Tweaks
-Description: Haptics for your Device!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Haptics
-
-Package: com.p2kdev.haptics
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.haptics_1.1_iphoneos-arm64.deb
-Size: 7668
-MD5sum: 2a8b8f9147144a5cdbd20694e4134af8
-SHA1: adda20ccea15a1a64d6fe570781b8ade074f5ddd
-SHA256: 4f9d303789fbe1265a04c4202b0093ccf5d2a1f470b4e206dfc8fdd92ab310c2
-Section: Tweaks
-Description: Haptics for your Device!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Haptics
-
-Package: com.p2kdev.haptics
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.haptics_1.1_iphoneos-arm.deb
-Size: 7576
-MD5sum: 4a6e70d8b62a9e85a638b2342db2bcf0
-SHA1: 39318bbc36031d2e780f13bb9af1b18b268ae6f1
-SHA256: 15ca3389f064cfb45b0439f66b3c2b53ae341cba8c555df2727b03f881a693e1
-Section: Tweaks
-Description: Haptics for your Device!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Haptics
-
 Package: com.p2kdev.instagramnoads
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1596,6 +1532,38 @@ Section: Tweaks
 Description: Confirm before switching Apps!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SwitchConfirm
+
+Package: com.p2kdev.tapticboard
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.0_iphoneos-arm64.deb
+Size: 4512
+MD5sum: f5027e4b2f256473aff7344341838e20
+SHA1: d5cdc65e3ad2350a01194f86d3353fd80c562c4d
+SHA256: 7825ae688eab025fc1cd1a89a359c6da56dd6bcb87b1a8c637c8e94bd67d4172
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TapticBoard
+
+Package: com.p2kdev.tapticboard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.0_iphoneos-arm.deb
+Size: 4444
+MD5sum: c869369c073af3b57777a9a818bd0941
+SHA1: 461ed3423d989f529dd4aa0bba9d8370fad71294
+SHA256: a2a582c704714561355f0fb47c9c5a166bd4080712fa99af90daad2de7e815de
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TapticBoard
 
 Package: com.p2kdev.tinywidget14
 Version: 1.0.1
