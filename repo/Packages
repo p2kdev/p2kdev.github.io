@@ -1076,6 +1076,38 @@ Description: Remove third party calls from Recents in Phone App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: PureRecents
 
+Package: com.p2kdev.quickactioncalc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quickactioncalc_1.0_iphoneos-arm.deb
+Size: 5782
+MD5sum: 436fb24c033488d1cb2e0e9282869b93
+SHA1: ba9066eccc002853a49765c8110acfef052aaee5
+SHA256: 872259c8655f73474b63f33d24922aa241930c0b59daf2c7bcbdaa80f9ee961d
+Section: Tweaks
+Description: Change the camera quick action button to calculator!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuickActionCalc
+
+Package: com.p2kdev.quickactioncalc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quickactioncalc_1.0_iphoneos-arm64.deb
+Size: 5842
+MD5sum: 2d458ba0ad801ad5448e898716dc392f
+SHA1: 5a0eb85e83eb2e500f4c83de8c514570f85f222e
+SHA256: d34b90812c2b4a95bfc750564a37c54c529ac8cd759ebcab4e128977d30759a9
+Section: Tweaks
+Description: Change the camera quick action button to calculator!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuickActionCalc
+
 Package: com.p2kdev.quitall
 Version: 1.1.1
 Architecture: iphoneos-arm
