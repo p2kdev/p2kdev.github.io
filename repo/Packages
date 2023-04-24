@@ -948,6 +948,22 @@ Description: Removes the annoying badge on the settings icon!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NoSettingsBadge
 
+Package: com.p2kdev.nospotlightonls
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nospotlightonls_1.0_iphoneos-arm64.deb
+Size: 3498
+MD5sum: cfda80213e447a68481407e5a243439e
+SHA1: 542a04c778e5a01ee6ef811665e405cca1d7c0dc
+SHA256: 6f6e42878e23b5e0fda9a0f21a9a0667664173c66e62fd446c63df748c924791
+Section: Tweaks
+Description: Disable swipe down on LS to open spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NoSpotlightOnLS
+
 Package: com.p2kdev.pagedotmover
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1185,6 +1201,22 @@ SHA1: 0a2b314ee3ffe991f9045ef11798c62f5a09184c
 SHA256: 6b90f9e65606aad4413169d6a9c477f1ad77d6c7ecd20bb47fdec4ad248ca1f7
 Section: Tweaks
 Description: Perform additional actions on invoking Reachability!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ReachMore
+
+Package: com.p2kdev.reachmore
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.reachmore_1.2_iphoneos-arm64.deb
+Size: 4924
+MD5sum: 8b6e3a3940001c2ab8d1b2e9497e9cda
+SHA1: 557efd57e82e1e40c96c9bca017131d931a9c1e8
+SHA256: 14a21c3fef7c713215e8ddba19f5dca41171bc2cb085b8ac8a2998e1e070f7c9
+Section: Tweaks
+Description: Open NC when swipe down on left,open CC when swipe down on right and open rechability when swipe down in center!
 Author: P2KDev <p2kdev@gmail.com>
 Name: ReachMore
 
