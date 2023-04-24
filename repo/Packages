@@ -1316,6 +1316,22 @@ Description: Up-Next on your lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Sakal
 
+Package: com.p2kdev.sakal
+Version: 2.1.9
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 652
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.1.9_iphoneos-arm64.deb
+Size: 80866
+MD5sum: 23c619795d1ab07625e6bef51613567b
+SHA1: b3e64872f441d90cf069ceda51be85dbcf9bf2c6
+SHA256: 7b0e563806aab6a7a60e8a6219b1260e6b8a1b0e7fd85dcf9aed43558840d2af
+Section: Tweaks
+Description: Useful at a glance information on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
 Package: com.p2kdev.screenshotactions
 Version: 1.1.1
 Architecture: iphoneos-arm64
