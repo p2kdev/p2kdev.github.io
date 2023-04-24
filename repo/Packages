@@ -772,6 +772,22 @@ Description: Zoom into images on Instagram!
 Author: P2KDev <p2kdev@gmail.com>
 Name: InstaZoom
 
+Package: com.p2kdev.keepitsimple
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 400
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.keepitsimple_1.2.1_iphoneos-arm64.deb
+Size: 26324
+MD5sum: 306d7614c82d37ff4b32909218c54ae7
+SHA1: 5be0af811847a03f02d8cd082b1a4bbf302bcd44
+SHA256: e838c8a08a9c7aaee5c4ba3617c65d18d883c34e4c49ba6d4ddf2acf8a3ae38b
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Name: KeepItSimple
+
 Package: com.p2kdev.keepitsimple2
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1514,6 +1530,23 @@ Section: Tweaks
 Description: Fixes for the SmartRotate Tweak!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SmartRotateFix
+
+Package: com.p2kdev.snapper2cc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 192
+Depends: mobilesubstrate,com.opa334.ccsupport,com.jontelang.snapper2.packix
+Filename: ./debs/com.p2kdev.snapper2cc_1.0_iphoneos-arm64.deb
+Size: 13424
+MD5sum: fa256753fe0d692b425d825e39f56c80
+SHA1: 2c9f776a5eece05c75b0417fef2f72baf5bda4ea
+SHA256: 2e1bb7772fb684b2352ae1277d07f723f12ff9b987658208e1860d81c740c36a
+Section: Control Center (Modules)
+Description: Invoke the Snapper2 Tweak's actions using CC Toggle!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/Snapper2CC/icon.png
+Name: Snapper2 CC Toggle
 
 Package: com.p2kdev.spotbetter
 Version: 1.1.2
