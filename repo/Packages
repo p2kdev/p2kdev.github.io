@@ -1124,6 +1124,22 @@ Description: Quit All Apps!
 Author: P2KDev <p2kdev@gmail.com>
 Name: QuitAll
 
+Package: com.p2kdev.quitall
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.2_iphoneos-arm64.deb
+Size: 12940
+MD5sum: 33a01d4a1c9176d02c0f476538d1c296
+SHA1: b10f4d319e775044e3f1ecb4c114db3430f1aaa7
+SHA256: 1fc2de787c78d8bcbc68c20954d5aa9b278ba06bcd954d58bc6ab52634178bb3
+Section: Tweaks
+Description: Swipe down on app switcher card to kill all apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuitAll
+
 Package: com.p2kdev.reachmore
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1560,6 +1576,22 @@ Size: 4444
 MD5sum: c869369c073af3b57777a9a818bd0941
 SHA1: 461ed3423d989f529dd4aa0bba9d8370fad71294
 SHA256: a2a582c704714561355f0fb47c9c5a166bd4080712fa99af90daad2de7e815de
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TapticBoard
+
+Package: com.p2kdev.tapticboard
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.0.1_iphoneos-arm64.deb
+Size: 4600
+MD5sum: 0049a3b2162b90b61878f0d7118143ac
+SHA1: 06f27cdf1d29f1d12471b4590af8fb1603add80e
+SHA256: 3a21f82d39993286c00d17cd910570bf72aa8523fea196d6db769affab42638e
 Section: Tweaks
 Description: Taptic keyboard without any lag!
 Author: P2KDev <p2kdev@gmail.com>
