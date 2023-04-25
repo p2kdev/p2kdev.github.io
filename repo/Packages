@@ -1108,6 +1108,38 @@ Description: Change the camera quick action button to calculator!
 Author: P2KDev <p2kdev@gmail.com>
 Name: QuickActionCalc
 
+Package: com.p2kdev.quickactioncalc
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quickactioncalc_1.0.1_iphoneos-arm64.deb
+Size: 6470
+MD5sum: 123f7fbd80383c55b2f4219b9c528803
+SHA1: f05e05a0258c1cf278fab055e3b4814842179f4a
+SHA256: b2e24c3bc6fa4a6960d43ec5a354a246a2fa5040e37febf4f5bee13deeec9f6f
+Section: Tweaks
+Description: Change the camera quick action button to calculator!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuickActionCalc
+
+Package: com.p2kdev.quickactioncalc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quickactioncalc_1.0.1_iphoneos-arm.deb
+Size: 6408
+MD5sum: adcc3ba79dc28ae22b4864a9c4f13370
+SHA1: b28fa338868191e28f22f2833ee64acf892b0e13
+SHA256: 8d0798fa915648ac3a8c9712ee7fce09b50bf514096f96a7e722ed499c0202c9
+Section: Tweaks
+Description: Change the camera quick action button to calculator!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuickActionCalc
+
 Package: com.p2kdev.quitall
 Version: 1.1.1
 Architecture: iphoneos-arm
