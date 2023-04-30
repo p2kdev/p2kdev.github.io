@@ -250,6 +250,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ColorMyBattery/icon.png
 Name: ColorMyBattery
 
+Package: com.imkpatil.colormybattery
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3.4_iphoneos-arm64.deb
+Size: 42084
+MD5sum: 3b38f7cb57abe41563a80e9be15305ce
+SHA1: a2f93061e878ed7cff80d152afcddaba0e9fc4c8
+SHA256: 05b04298a70f3364a171eaae1db98c0d05a66a7bd0453dc4fcdc2058b545f25c
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
 Package: com.imkpatil.countmymessages
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1762,22 +1779,6 @@ Author: P2KDev <p2kdev@gmail.com>
 Name: TapticBoard
 
 Package: com.p2kdev.tapticboard
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/com.p2kdev.tapticboard_1.0_iphoneos-arm.deb
-Size: 4444
-MD5sum: c869369c073af3b57777a9a818bd0941
-SHA1: 461ed3423d989f529dd4aa0bba9d8370fad71294
-SHA256: a2a582c704714561355f0fb47c9c5a166bd4080712fa99af90daad2de7e815de
-Section: Tweaks
-Description: Taptic keyboard without any lag!
-Author: P2KDev <p2kdev@gmail.com>
-Name: TapticBoard
-
-Package: com.p2kdev.tapticboard
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
@@ -1788,6 +1789,22 @@ Size: 4600
 MD5sum: 0049a3b2162b90b61878f0d7118143ac
 SHA1: 06f27cdf1d29f1d12471b4590af8fb1603add80e
 SHA256: 3a21f82d39993286c00d17cd910570bf72aa8523fea196d6db769affab42638e
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TapticBoard
+
+Package: com.p2kdev.tapticboard
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.1_iphoneos-arm64.deb
+Size: 23180
+MD5sum: ea667bcb8744066de287efc1f625642e
+SHA1: 9dac1f05291871e9e017012d4aef3d14fc194b07
+SHA256: 6f8ba67cbb0a45beb2a39bddb779525423d5f7b1b4bfd42642e3543742361df2
 Section: Tweaks
 Description: Taptic keyboard without any lag!
 Author: P2KDev <p2kdev@gmail.com>
