@@ -741,6 +741,22 @@ Description: No Ads in the Facebook App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: FacebookNoAds
 
+Package: com.p2kdev.facebooknoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.facebooknoads_1.0_iphoneos-arm.deb
+Size: 3948
+MD5sum: 6b0bc9e0c0bbbdc28f828d8eff8135e4
+SHA1: 4321fbc316326731a1418ec52ba3041e501c306c
+SHA256: 18e74db98c13968c37431b24a42b3543b0807264281661c646e34b77a2ba9569
+Section: Tweaks
+Description: No Ads in the Facebook App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: FacebookNoAds
+
 Package: com.p2kdev.gmailalwayslighttheme
 Version: 1.0
 Architecture: iphoneos-arm
@@ -759,6 +775,22 @@ Name: GmailAlwaysLightTheme
 
 Package: com.p2kdev.instagramnoads
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instagramnoads_1.0_iphoneos-arm.deb
+Size: 5480
+MD5sum: 0d786057d35721ecf0670ba93528d12b
+SHA1: 28a9efe94280a71f76938bf2a65a176c5b7a4aa5
+SHA256: 6146ec41ce2dff4ba56778414523da5d2f4ae565a0e13dd1988b77a1cef7f2b9
+Section: Tweaks
+Description: No Ads in the Instagram App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: InstagramNoAds
+
+Package: com.p2kdev.instagramnoads
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
@@ -772,6 +804,22 @@ Section: Tweaks
 Description: No Ads in the Instagram App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: InstagramNoAds
+
+Package: com.p2kdev.instazoom
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instazoom_1.1_iphoneos-arm.deb
+Size: 13602
+MD5sum: 1d0967f3ee52a064aefba1633fbd2caa
+SHA1: 6c5b7ea26d72dee2b6d3b23da3834bb7cd521cde
+SHA256: 33ae60e1d49ca349a1f92ff44f7a16ec204e4d772249a1cb55d48d4af39a7cb2
+Section: Tweaks
+Description: Zoom into images on Instagram!
+Author: P2KDev <p2kdev@gmail.com>
+Name: InstaZoom
 
 Package: com.p2kdev.instazoom
 Version: 1.1
@@ -1855,6 +1903,22 @@ Size: 6720
 MD5sum: e2bb396b9708ea62af89c93a1806c293
 SHA1: ae29139fc9bea6e2907e2f6c8325aa2a4313759a
 SHA256: ba4d554f35539d6b55f2becef2377524d1ea51fa5f44a0bcebe2cf22890a30e2
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TwitterNoAds
+
+Package: com.p2kdev.twitternoads
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.1_iphoneos-arm.deb
+Size: 4852
+MD5sum: 98b170428b2bad564fc2b7ebd5f2aef1
+SHA1: 795d6442632f4f0a13e96af5f48f6f3c921551c3
+SHA256: e81bd8aee1cdd299d7552adb59293dbe2396cad65368a314babe60c375c82b16
 Section: Tweaks
 Description: No Ads in the Twitter App!
 Author: P2KDev <p2kdev@gmail.com>
