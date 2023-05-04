@@ -645,6 +645,22 @@ Description: Chase Bank JB Detection Bypass!
 Author: P2KDev <p2kdev@gmail.com>
 Name: ChaseJBBypass
 
+Package: com.p2kdev.chasejbbypass
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.chasejbbypass_1.0_iphoneos-arm.deb
+Size: 3414
+MD5sum: e948f8e451fa52d7d9deffed185e2434
+SHA1: a49863b1ca43126772c0838ac1fced17dfb6f76a
+SHA256: 80a699d392d92aa7294c5aa6bf6bbc1330939387d107f6c236f9c7d34e6135fa
+Section: Tweaks
+Description: Chase Bank JB Detection Bypass!
+Author: P2KDev <p2kdev@gmail.com>
+Name: ChaseJBBypass
+
 Package: com.p2kdev.colorbar
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1013,6 +1029,22 @@ Description: Skip face id scanning and go straight to passcode!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NoFaceIDWait
 
+Package: com.p2kdev.nofaceidwait
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm.deb
+Size: 3006
+MD5sum: 0ef891aa81075c372921f6a9221f9eb1
+SHA1: f59dae934a610f199c0ececf610c1f803dfe9b15
+SHA256: 28ceef4fc7b45afe5564aaf86efd0cf6c1b6a77f1d4e0d1c20b415044808d03f
+Section: Tweaks
+Description: Skip face id scanning and go straight to passcode!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NoFaceIDWait
+
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1028,6 +1060,22 @@ Section: Tweaks
 Description: Removes the annoying badge on the settings icon!
 Author: P2KDev <p2kdev@gmail.com>
 Name: NoSettingsBadge
+
+Package: com.p2kdev.nospotlightonls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nospotlightonls_1.0_iphoneos-arm.deb
+Size: 3442
+MD5sum: 6c238ecf47ef5dc03d1b3e8b7e2e4e8e
+SHA1: dcf4c6ef874e8e23b848b17cde9246e7882df290
+SHA256: 9040012ebdf2739666198090ff9fa8ef008517f118f3fedb4943e7e466da74a9
+Section: Tweaks
+Description: Disable swipe down on LS to open spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: NoSpotlightOnLS
 
 Package: com.p2kdev.nospotlightonls
 Version: 1.0
@@ -1088,6 +1136,22 @@ Size: 9190
 MD5sum: dff3304292473fdc525e4d5e374fbf47
 SHA1: 5ee46f830c3e0c94ba39e758026ef4b00f767715
 SHA256: 0db57ebe55217ec558bd92326c4f7c36531ac7396319d45bb158d84c0e567ecd
+Section: Tweaks
+Description: Confirm when setting alarms for PM!
+Author: P2KDev <p2kdev@gmail.com>
+Name: PMConfirm
+
+Package: com.p2kdev.pmconfirm
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 13.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.pmconfirm_1.2_iphoneos-arm.deb
+Size: 8760
+MD5sum: 3b0658a33a20bff788dd6b8429693278
+SHA1: 9ab5dd5743c80b2936a3cfd6fe02c839aa9cc40c
+SHA256: 346540c62061abc6a3569237640af4979e3ca657a3a234250f7c060867f66794
 Section: Tweaks
 Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1287,6 +1351,22 @@ Name: QuitAll
 
 Package: com.p2kdev.quitall
 Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.2_iphoneos-arm.deb
+Size: 12892
+MD5sum: ae3c97c999ed37b2809dff1ae5615058
+SHA1: 31f7564f8d53efc332c9c74ade363a70332724a4
+SHA256: b911e6d8928daba4d84552e9e2a5367b23f577405e3dcdaae52d6e26b9ce4959
+Section: Tweaks
+Description: Swipe down on app switcher card to kill all apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: QuitAll
+
+Package: com.p2kdev.quitall
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 184
@@ -1424,6 +1504,38 @@ Size: 5530
 MD5sum: a6f7e7521d19590b67428e1599a23320
 SHA1: 97d6b78ec45a6f786a06c929631aea4e56ad18a2
 SHA256: a2772698a33dab076566f4d4c37ffae77ffade660b00d3142853365102384479
+Section: Tweaks
+Description: Easy access to find feature in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariFind
+
+Package: com.p2kdev.safarifind
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safarifind_1.1_iphoneos-arm.deb
+Size: 7984
+MD5sum: abfdde9ecc49e70bfa61d4bf0d9a8ccc
+SHA1: 0c02bb62d5036b2aed16c67aea73f81fb60dcb82
+SHA256: bbfeceae10500f203dc8b4e14631099ebeb749386373a4565d96536afcc8e117
+Section: Tweaks
+Description: Easy access to find feature in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariFind
+
+Package: com.p2kdev.safarifind
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safarifind_1.1_iphoneos-arm64.deb
+Size: 8038
+MD5sum: 6e565dbd2f0395968f9dd1c9cc60c1ad
+SHA1: 232114c645302cfc1153244beba5876db2b93e7d
+SHA256: 208cc7ba86a7db242ddc08bfb139291e9d11852a8b8de57d6e2844d75a5afa02
 Section: Tweaks
 Description: Easy access to find feature in Safari!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1762,6 +1874,23 @@ Description: Better Spotlight!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SpotBetter
 
+Package: com.p2kdev.spotbetter
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.1.3_iphoneos-arm.deb
+Size: 27102
+MD5sum: 01ae841c1cec1667214b549c8dcdeb09
+SHA1: cd7fb031f94cb2515af09af3930fe65c2ccad5de
+SHA256: 383b9e047ecfbd7ba871976c6e45c9fbe5e5a3d423a28d3ef54e8beff7cfcdae
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotBetter
+
 Package: com.p2kdev.springboardtweakfixer
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1805,6 +1934,22 @@ Size: 30538
 MD5sum: e4fcbdf2ef886d049745e93c16168148
 SHA1: bffe306a3875777e315297b0b842e0711f769a86
 SHA256: 947121fb60d172984528335f437c20285a6ebc991a96694030c1abbcefbe7119
+Section: Tweaks
+Description: Confirm before switching Apps!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SwitchConfirm
+
+Package: com.p2kdev.switchconfirm
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 420
+Depends: mobilesubstrate,preferenceloader,com.opa334.altlist
+Filename: ./debs/com.p2kdev.switchconfirm_1.1.3_iphoneos-arm.deb
+Size: 35250
+MD5sum: 212ee3c914d901c5970822bad04a0183
+SHA1: 1dc0a7ce94101f4fe66e6ee65b26a94614153f43
+SHA256: 0bfb2da5dda2e40de4a6c1cafa49c127b070c98c91e1f764bc46c9edba62dd45
 Section: Tweaks
 Description: Confirm before switching Apps!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1870,6 +2015,23 @@ Size: 5526
 MD5sum: 487162f99a299d927d80ee94a169aa8a
 SHA1: 55e88d80d8c8fab53a452f5fd4366fcf9e3d2e4c
 SHA256: 032abcc6f7fdd4eb3d3da8a6fb1e3aab4b9bcd7e918613af15578792c480bd92
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TinyWidget14
+
+Package: com.p2kdev.tinywidget14
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/com.p2kdev.tinywidget14_1.0.2_iphoneos-arm.deb
+Size: 7276
+MD5sum: 0c56a672b8bbfc5bf5fce8e281f4092e
+SHA1: 1247abaf30d27c0ed1a27eda486b777c5fd0135c
+SHA256: 50ce28b0e1dac1f1112c975aaa6e46308909c25c9c441ffdb49527136ec61c12
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1951,6 +2113,22 @@ Size: 5990
 MD5sum: ccb3f497cd5428754edc825f331ddaee
 SHA1: 46bf7683fb2acd542f8f81a6fd66b02cada21b99
 SHA256: 129db0d8fae102af7df3dc247971f9abb6753936a58cacd45425de7b3d9f7806
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Name: WhatsAppCallConfirm
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0_iphoneos-arm.deb
+Size: 7992
+MD5sum: 248cd3d4516719bc1f85f4dd87f364a5
+SHA1: 937b54739b305f715dceb8e436c14355034dbc9f
+SHA256: 2099d27303dcf5640c1a690df4526d547e56c3eb1e076bea4dcd12f364ea3326
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
