@@ -854,36 +854,36 @@ Author: P2KDev <p2kdev@gmail.com>
 Name: InstaZoom
 
 Package: com.p2kdev.keepitsimple
-Version: 1.2.1
+Version: 1.2.2
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 400
+Installed-Size: 436
 Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
-Filename: ./debs/com.p2kdev.keepitsimple_1.2.1_iphoneos-arm64.deb
-Size: 26324
-MD5sum: 306d7614c82d37ff4b32909218c54ae7
-SHA1: 5be0af811847a03f02d8cd082b1a4bbf302bcd44
-SHA256: e838c8a08a9c7aaee5c4ba3617c65d18d883c34e4c49ba6d4ddf2acf8a3ae38b
+Filename: ./debs/com.p2kdev.keepitsimple_1.2.2_iphoneos-arm64.deb
+Size: 31896
+MD5sum: 26070121808fd4ddc9698167706c2054
+SHA1: 8ccb823a7fef45cd149b22fc1d2935e5fec657a6
+SHA256: 882e1fff934f4a7efceb1c7fc2e37d7539774515dea2d31dae36f46da0ca0194
 Section: Tweaks
 Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
 Name: KeepItSimple
 
-Package: com.p2kdev.keepitsimple2
-Version: 1.0
+Package: com.p2kdev.keepitsimple
+Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 176
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/com.p2kdev.keepitsimple2_1.0_iphoneos-arm.deb
-Size: 10786
-MD5sum: 8e1929dcdf4a987353d2b9529376c0f0
-SHA1: b4545f43b6b1abbf76eaf9bdd1ab8fa9a313d6d8
-SHA256: fb573e21cf7b7c646eb96846227f3220cdcb52f4d820babad6adae25ea961018
+Installed-Size: 436
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.keepitsimple_1.2.2_iphoneos-arm.deb
+Size: 31860
+MD5sum: 883935e95cca88dba9f6bd5353248c5c
+SHA1: de4150b4576f8bbebfb5237ccaf6c57af4d54e0a
+SHA256: 454565dc2e90382e7d00313d4bed36d66a788082dd3bfffd319d586987b7c6d4
 Section: Tweaks
-Description: Single list of Notifications!
+Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
-Name: KeepItSimple2
+Name: KeepItSimple
 
 Package: com.p2kdev.letmedecline
 Version: 1.0.1
