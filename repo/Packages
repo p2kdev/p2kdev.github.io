@@ -1356,10 +1356,10 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quitall_1.2_iphoneos-arm.deb
-Size: 12892
-MD5sum: ae3c97c999ed37b2809dff1ae5615058
-SHA1: 31f7564f8d53efc332c9c74ade363a70332724a4
-SHA256: b911e6d8928daba4d84552e9e2a5367b23f577405e3dcdaae52d6e26b9ce4959
+Size: 12832
+MD5sum: 497e05f2793e91a1decaf5fe91acd018
+SHA1: 87eb107c1a19161d0090fe73c13bf51819063e4e
+SHA256: 07a7ca6f965c439f0c52396143f40a2314eca55131a2f0535fcdc7393c808fd4
 Section: Tweaks
 Description: Swipe down on app switcher card to kill all apps!
 Author: P2KDev <p2kdev@gmail.com>
