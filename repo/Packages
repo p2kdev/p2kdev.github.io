@@ -2182,6 +2182,38 @@ Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
 Name: WhatsAppCallConfirm
 
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.1_iphoneos-arm.deb
+Size: 9496
+MD5sum: 1535b8cf316a790e4ad4582db42c3b87
+SHA1: d001cfb0919ef3d433c4ba83df566d586abfb48d
+SHA256: 00877b94b712863eb5d859cb2a65731798d815c9eecfb56e8912cd4863920f83
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Name: WhatsAppCallConfirm
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.1_iphoneos-arm64.deb
+Size: 9546
+MD5sum: f9af5c6464f0d93cd3806306fb7f4230
+SHA1: 9c04ba695ad7e46eb87f29242d52b1fb2f8cef40
+SHA256: edcee4491102da24f11fed54eb4c85e76dafde19fc2e4e942dd629b4f9796687
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Name: WhatsAppCallConfirm
+
 Package: com.p2kdev.whatsappmultideviceenable
 Version: 1.0
 Architecture: iphoneos-arm64
