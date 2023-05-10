@@ -2182,6 +2182,38 @@ Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
 Name: WhatsAppCallConfirm
 
+Package: com.p2kdev.whatsappmultideviceenable
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappmultideviceenable_1.0_iphoneos-arm64.deb
+Size: 4236
+MD5sum: 73950b624e4cc4865ba1fa55d98941ae
+SHA1: 91d1499f1a2a8d6f260791633f94bc22b01b4cda
+SHA256: ad2c6b6e9314c7f159bbf6658908b96e502553df66c435f7236cabae701e6df4
+Section: Tweaks
+Description: Force Enables the Multi-Device linking on WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Name: WhatsAppMultiDeviceEnable
+
+Package: com.p2kdev.whatsappmultideviceenable
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappmultideviceenable_1.0_iphoneos-arm.deb
+Size: 4180
+MD5sum: 032f5a1c95dd9214a46bbf078f06a8f9
+SHA1: 78b6ea4934a7c8127e373f894481da3062bdcb92
+SHA256: 80d6461ae545a907975fdc222b1aafa7a7fe0d22f5b1e1f6b8e06eda50696e1a
+Section: Tweaks
+Description: Force Enables the Multi-Device linking on WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Name: WhatsAppMultiDeviceEnable
+
 Package: com.ps.cconandoff
 Version: 0.0.1.1
 Architecture: iphoneos-arm
