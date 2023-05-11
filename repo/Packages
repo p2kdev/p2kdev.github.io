@@ -1637,6 +1637,38 @@ Description: Easy access to find feature in Safari!
 Author: P2KDev <p2kdev@gmail.com>
 Name: SafariFind
 
+Package: com.p2kdev.safarifind
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safarifind_1.1.1_iphoneos-arm.deb
+Size: 8056
+MD5sum: a016b0e13a65036184f5aaa4f5726dac
+SHA1: 8528875125380238b81bef45d2ca65a8de7612f3
+SHA256: 70e3d3765efea673c0af1528a58909f71f251458d1b65b5d2af44cd025047029
+Section: Tweaks
+Description: Easy access to find feature in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariFind
+
+Package: com.p2kdev.safarifind
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safarifind_1.1.1_iphoneos-arm64.deb
+Size: 8112
+MD5sum: 97396d1482aa6ae0d0544bdecd4face7
+SHA1: 1e284875a141556c343d00e7b764bfb353edc6b0
+SHA256: cd9a6b07072ac92bc67d4997f87dfdf6ec062f29a7400e0cddc9fa2f20084491
+Section: Tweaks
+Description: Easy access to find feature in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SafariFind
+
 Package: com.p2kdev.sakal
 Version: 2.1.7.8
 Architecture: iphoneos-arm64
