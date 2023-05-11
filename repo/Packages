@@ -2278,6 +2278,38 @@ Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Waqt
 
+Package: com.p2kdev.waqt
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.2.1_iphoneos-arm64.deb
+Size: 32038
+MD5sum: 662e497d79a5b1fc63d65f19a7b61078
+SHA1: 56650661499173a01065c71a9efcd7c0f6580e2a
+SHA256: 7824c5bcfe83369867d4eb21528e8e7382a1a43eddfc87572d5638bb7b3cc922
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
+
+Package: com.p2kdev.waqt
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.2.1_iphoneos-arm.deb
+Size: 31970
+MD5sum: a7a5dc6ef06d3caea8bdd3d0f11436f5
+SHA1: 4db5e2ee107fae1369a3c75cd5bf067167de523f
+SHA256: 4038434c5b16210da9d4be8635f1d2cfcbdbe9eb3a85d4381d014b6136b97c48
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
+
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
 Architecture: iphoneos-arm64
