@@ -2246,6 +2246,38 @@ Description: No Ads in the Twitter App!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TwitterNoAds
 
+Package: com.p2kdev.waqt
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.2_iphoneos-arm.deb
+Size: 31890
+MD5sum: 8d7439bfcacba1ca73ba98c75d1b8f37
+SHA1: 51206d08c4fb072fa636e1a621265ae2d3073410
+SHA256: 44c6f12fe216a6928e6fed240abc4d9a26da06a64b763fc80ead30c597b57654
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
+
+Package: com.p2kdev.waqt
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.2_iphoneos-arm64.deb
+Size: 31950
+MD5sum: 15d304981c5ebcd0874ddad07ab57672
+SHA1: 0afefa8ac09c34c4793800e4c53ff4608eaed9bf
+SHA256: f85eddeec44734563b77839f37acc124b421925a121693f1b4fc495c956e628a
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
+
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
 Architecture: iphoneos-arm64
