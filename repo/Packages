@@ -417,6 +417,38 @@ Description: Premium Saavn!
 Author: Kiran Patil
 Name: Saavieum
 
+Package: com.imkpatil.spotclearonclose
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_1.2.1_iphoneos-arm64.deb
+Size: 3280
+MD5sum: a93d6cef5b9ddf53b1f43f3ca2b57173
+SHA1: 2522a4c8815e9fe13b5e8d006343ff3e92cf4833
+SHA256: 8025525d4d302e8e67e14bb2348dd7acec78c86b7354c370e14e56051013a580
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotClearOnClose
+
+Package: com.imkpatil.spotclearonclose
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_1.2.1_iphoneos-arm.deb
+Size: 3222
+MD5sum: 375c4d4a36f33264193e23ffc0e32834
+SHA1: 7c6ba3f4144d5cf23615b2baa8a03e10288eaed3
+SHA256: ada03374f3084768bae6c7799d5ef16f0c25f0b810d284019be021e4e9e0c50b
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotClearOnClose
+
 Package: com.imkpatil.stopautoplay
 Version: 1.0
 Architecture: iphoneos-arm
