@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.quickactioncalc", "Name": "QuickActionCalc", "Version": "1.0.1", "Architecture": "iphoneos-arm", "Description": "Change the camera quick action button to calculator!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

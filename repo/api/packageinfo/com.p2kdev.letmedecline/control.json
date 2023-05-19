@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.letmedecline", "Name": "LetMeDecline", "Version": "1.0.2", "Architecture": "iphoneos-arm", "Description": "This tweak will show the Accept/Decline buttons when the phone is locked!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

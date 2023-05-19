@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.springboardtweakfixer", "Name": "SpringBoardTweaksFixer", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Fixes issues with SpringBoard Tweaks!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

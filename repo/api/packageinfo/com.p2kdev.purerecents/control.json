@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.purerecents", "Name": "PureRecents", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Remove third party calls from Recents in Phone App!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

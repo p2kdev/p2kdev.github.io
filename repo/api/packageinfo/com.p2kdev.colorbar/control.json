@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.colorbar", "Name": "ColorBar", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Color that HomeBar!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader" }

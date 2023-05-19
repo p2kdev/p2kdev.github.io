@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.podseek", "Name": "PodSeek", "Version": "1.2", "Architecture": "iphoneos-arm", "Description": "Seek instead of Next in Podcasts App!", "Maintainer": "Kiran Patil", "Author": "Kiran Patil", "Section": "Tweaks", "Depends": "mobilesubstrate" }

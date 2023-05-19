@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.simplebattery", "Name": "SimpleBattery", "Version": "1.2.1", "Architecture": "iphoneos-arm", "Description": "Simple Battery for Notched Devices!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

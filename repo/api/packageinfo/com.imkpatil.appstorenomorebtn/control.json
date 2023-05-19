@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.appstorenomorebtn", "Name": "AppStoreNoMoreBtn", "Version": "1.0-29+debug", "Architecture": "iphoneos-arm", "Description": "Always show the full update changelog in AppStore!", "Maintainer": "Kiran Patil", "Author": "Kiran Patil", "Section": "Tweaks", "Depends": "mobilesubstrate" }

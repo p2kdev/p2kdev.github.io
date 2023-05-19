@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.ndtvnoads", "Name": "NDTVNoAds", "Version": "1.0.1", "Architecture": "iphoneos-arm", "Description": "No Ads in the NDTV News App!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

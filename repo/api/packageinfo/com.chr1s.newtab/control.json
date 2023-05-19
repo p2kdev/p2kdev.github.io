@@ -1,0 +1,1 @@
+{ "Package": "com.chr1s.newtab", "Name": "NewTab", "Version": "1.1", "Architecture": "iphoneos-arm", "Description": "Add newtab shortcut to safari toolbar", "Maintainer": "Chr1s", "Author": "Chr1s", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.boldlsdatetime", "Name": "BoldLSDateTime", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Make the LS DateTime Bold!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

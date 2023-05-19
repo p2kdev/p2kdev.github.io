@@ -1,51 +1,3 @@
-Package: ca.menushka.onenotify
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: Menushka Weeratunga
-Installed-Size: 168
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/ca.menushka.onenotify_2.1_iphoneos-arm64.deb
-Size: 5026
-MD5sum: cf601369db87694770c541be9c4b7a7c
-SHA1: 20172ceedf7346956a4f358dba0457690cab0d59
-SHA256: bf296be4c82a5ef48c9a3273b6edb6b8dab42550ea6929bd3ceda3797a69b42c
-Section: Tweaks
-Description: Keep all your notifications in one persistent list on your lockscreen without having to swipe to view them.
-Author: Menushka Weeratunga
-Name: OneNotify
-
-Package: ca.menushka.onenotify
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: Menushka Weeratunga
-Installed-Size: 172
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/ca.menushka.onenotify_2.1_iphoneos-arm.deb
-Size: 6318
-MD5sum: 582b0371bdc290ae31bcb6b677f642e7
-SHA1: d26b30de0c857a450320eacbfe1ca9105ac1cbd8
-SHA256: ea2a700a5901032b3c70007308262ee060b291536504693d5612a889dd708956
-Section: Tweaks
-Description: Keep all your notifications in one persistent list on your lockscreen without having to swipe to view them.
-Author: Menushka Weeratunga
-Name: OneNotify
-
-Package: com.blakeboxberger.pridebars
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: Blake Boxberger
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.blakeboxberger.pridebars_1.0.3_iphoneos-arm.deb
-Size: 4042
-MD5sum: 2f67d20314575c231c8f21a337eb9705
-SHA1: a0e28de1ffb73f4abb6d93e018d85865b2bd14a0
-SHA256: bd0f982cd8f22f98efcf6cf3d165b53bbbe9f92e0c12f13a7ef9748efdfd940d
-Section: Tweaks
-Description: Show pride in your carrier signal bars!
-Author: Blake Boxberger
-Name: PrideBars
-
 Package: com.chr1s.newtab
 Version: 1.1
 Architecture: iphoneos-arm
@@ -53,14 +5,17 @@ Maintainer: Chr1s
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.chr1s.newtab_1.1_iphoneos-arm.deb
-Size: 6012
-MD5sum: d25b12526ffd0120dd6b8efd2947e1da
-SHA1: 5d1e921dc637976339ac5887e9dcc2da8ac04d91
-SHA256: 93065d59e712d8968c00479a05f7f985592dd912b8094108e5e9f2305f8b9ca8
+Size: 6016
+MD5sum: 5aea3d7a0eaadcf94ce51145f77b7f5e
+SHA1: b8f41d22725e6b8f0882d1dfd55ff85840b06eab
+SHA256: 08e109dee12bad200461146c4a4932f30b5e444a99f342b320bba4cff077c36e
 Section: Tweaks
 Description: Add newtab shortcut to safari toolbar
 Author: Chr1s
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.chr1s.newtab
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.chr1s.newtab/icon.png
 Name: NewTab
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.chr1s.newtab.json
 
 Package: com.chr1s.newtab
 Version: 1.1
@@ -69,118 +24,17 @@ Maintainer: Chr1s
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.chr1s.newtab_1.1_iphoneos-arm64.deb
-Size: 5058
-MD5sum: 45f657b6be85e2a896b85da8b14a2bf9
-SHA1: 34de6a24efa01d7b8cef6d0bee6875611cdf9df9
-SHA256: a6744665ef90a65f62ccf51f259623e8d8a32bf3fb7f5aa11f8a623a74311038
+Size: 5268
+MD5sum: 767dcf5f9c5445e151ca4f37df1c69ae
+SHA1: 27cab75a86eee1c91e060ec1b4cf59fd5b4333f4
+SHA256: 2f46d5553de6bac4979ff6978fe058a000b08aaf5a49a6311f657cc2623fb84d
 Section: Tweaks
 Description: Add newtab shortcut to safari toolbar
 Author: Chr1s
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.chr1s.newtab
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.chr1s.newtab/icon.png
 Name: NewTab
-
-Package: com.easy-z.bark
-Version: 2.0.4
-Architecture: iphoneos-arm
-Maintainer: Easy-Z
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.easy-z.bark_2.0.4_iphoneos-arm.deb
-Size: 5064
-MD5sum: db2efccce95c264730deaa7b2ecd379d
-SHA1: 837ea62a97f51c2547ea9c7b780bd67ba7f0673f
-SHA256: e672fd2fb1f5e9b36e69c4c821cfa4c8b6e2481de32f63ffb7da8d108de06c79
-Section: Tweaks
-Description: Make your keyboard more OLED friendly.
-Author: Easy-Z
-Name: BARK
-
-Package: com.easy-z.bark
-Version: 2.0.5
-Architecture: iphoneos-arm
-Maintainer: Easy-Z
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.easy-z.bark_2.0.5_iphoneos-arm.deb
-Size: 6956
-MD5sum: b2f0ad5bc1def6214f164f1f5d8b0f85
-SHA1: 73e52b6a4c3c2063cc4b0bfb65008dfadd0ec73d
-SHA256: 40f9c96e21b5d5685370ee465137e47925b86f85799ce96647b37eb9c184e8fc
-Section: Tweaks
-Description: Make your keyboard more OLED friendly.
-Author: Easy-Z
-Name: BARK
-
-Package: com.easy-z.bark
-Version: 2.0.6
-Architecture: iphoneos-arm
-Maintainer: Easy-Z
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.easy-z.bark_2.0.6_iphoneos-arm.deb
-Size: 7046
-MD5sum: e60c5be9967c7c819a1d2af961124c69
-SHA1: 85df5f87aeebaa4951305d1760be249bdf908257
-SHA256: 1e6fb6655a9b761b2b33208a0e7051d559a3facc815fb8a96a4cd7b6b69ba239
-Section: Tweaks
-Description: Make your keyboard more OLED friendly.
-Author: Easy-Z
-Name: BARK
-
-Package: com.greg0109.imtypingdamnit
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Greg0109
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/ImTypingDamnItv2.deb
-Size: 4060
-MD5sum: 7bead7d70625a3e13cef865c5d3c75f1
-SHA1: e98a8a487a77aa858e9e12a418eafcd5869aadf3
-SHA256: 83518c661d1cc9082db7c57d827bacc9349aa06a87169c0358b8b2d65f5d5bce
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Greg0109
-Name: ImTypingDamnIt
-
-Package: com.ichitaso.batteryx
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: ichitaso <willfeeltips+btx@gmail.com>
-Installed-Size: 340
-Pre-Depends: firmware (>= 12.0)
-Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
-Replaces: com.ichitaso.batteryx
-Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
-Size: 44898
-MD5sum: 37462754ac0cc47270f000b7ed5ba291
-SHA1: e6b18852225d44d7f665266845e6febb1cc20cb3
-SHA256: f4878f55ccee974ef7832cddff051f9cbb756fd76f87b3a646c0df1aef91be3c
-Section: Tweaks
-Homepage: https://ichitaso.com/
-Description: Show Battery Percentege for iPhone X Series
-Tag: purpose::extension, compatible::ios12, compatible::ios13
-Author: ichitaso <willfeeltips+btx@gmail.com>
-Depiction: https://cydia.ichitaso.com/depiction/batteryx.html
-Dev: ichitaso
-Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
-Name: BatteryPercentageX
-
-Package: com.iky1e.swipeselection
-Version: 1.5.6
-Architecture: iphoneos-arm
-Maintainer: Kyle Howells
-Installed-Size: 488
-Depends: mobilesubstrate
-Filename: ./debs/com.iky1e.swipeselection_1.5.6_iphoneos-arm.deb
-Size: 79748
-MD5sum: 2ecc686b48731ff80b8632e14abb2be1
-SHA1: 80aff982a5b8745e6dd18b3629f4e05566a6fe68
-SHA256: 76f301d3fe7831fdcd6aee650f1d2090514834480431ddde79efb3bb1624b9a5
-Section: Tweaks
-Description: Swipe along the keyboard to move the cursor and select text.
-Author: Kyle Howells
-Name: SwipeSelection
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.chr1s.newtab.json
 
 Package: com.imkpatil.always3dmaps
 Version: 1.3
@@ -189,14 +43,17 @@ Maintainer: Kiran Patil
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.always3dmaps_1.3_iphoneos-arm.deb
-Size: 2156
-MD5sum: 90f3bdee72e83463e66364ae30982427
-SHA1: 2b98230ee8af651cacf00589db633cfee4b47738
-SHA256: 052d44a386c4bc96aa2a37f3bd5d575917e0381aebf469672871c40cee177299
+Size: 2400
+MD5sum: d5795cb9069574a28b15baad8dcf9efa
+SHA1: 33dbe4afb0a0c8e1bebe5deabd5770e6b4e3bb56
+SHA256: a66ef65ac35985926c8af13f916f728d742e3d649544ce610a7d1a49d5eb74de
 Section: Tweaks
 Description: Always turn on 3DMode in Apple Maps!
 Author: Kiran Patil
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.always3dmaps
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.always3dmaps/icon.png
 Name: Always3DMaps
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.always3dmaps.json
 
 Package: com.imkpatil.appstorenomorebtn
 Version: 1.0-29+debug
@@ -205,16 +62,17 @@ Maintainer: Kiran Patil
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.appstorenomorebtn_1.0-29+debug_iphoneos-arm.deb
-Size: 3838
-MD5sum: e412dc339f7f342ff6a715f2ce4f0b3a
-SHA1: 92b4c76ad96b4ddbdd3ee5988afd7f16cc4cdd67
-SHA256: 8c3e1b93bcfca8eda2ada9aefbd99f1d5c70970e836dcccf4812f44f6ab464e6
+Size: 3996
+MD5sum: d30667f81bc6edd9389d19ed3385ad3b
+SHA1: 448b14493e24de0a0ce2e4df254cbcab3468bdd3
+SHA256: cc3f92112ebffb4a53eaafa316c551165c15cd2b2507c1346d23b9c3e9d107b9
 Section: Tweaks
 Description: Always show the full update changelog in AppStore!
 Author: Kiran Patil
-Depiction: https://imkpatil.github.io/repo/depiction/AppStoreNoMoreBtn/index.html
-Icon: file:///Library/Application Support/AppStoreNoMoreBtn/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.appstorenomorebtn
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.appstorenomorebtn/icon.png
 Name: AppStoreNoMoreBtn
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.appstorenomorebtn.json
 
 Package: com.imkpatil.colormybattery
 Version: 1.3.3.2
@@ -223,15 +81,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.imkpatil.colormybattery_1.3.3.2_iphoneos-arm.deb
-Size: 41156
-MD5sum: f19a1d62bfdfef77b08bba80170c82b4
-SHA1: 2cbc99f61fb795cae743e3f7720f203529784315
-SHA256: 58c62f11d56706a766226b9ea7f45e38b45240441ec47448ec881ad28a7e52f1
+Size: 40464
+MD5sum: 820baae10c88a79a5914b4bedcbf4870
+SHA1: 509f57885f8183db6ee3a0e05329f037b80fcfa9
+SHA256: 3e9ac642c4e77ebb7ee2ebdba361e6baf414255b6f336858be83ad304e497e58
 Section: Tweaks
 Description: Battery Color based on the battery percentage.
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.colormybattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.colormybattery/icon.png
 Name: ColorMyBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.colormybattery.json
 
 Package: com.imkpatil.colormybattery
 Version: 1.3.3.3
@@ -240,15 +100,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 428
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.imkpatil.colormybattery_1.3.3.3_iphoneos-arm64.deb
-Size: 38120
-MD5sum: e4d86fa94cf2bb74e30e5a1eb51c789a
-SHA1: 40b148c1657e02301bdd17cd00e9313811ddd3f0
-SHA256: 033707266b8fcdbd8d0ce731339a56bf2167129bf0cfd80b3172ca181e8852cc
+Size: 38232
+MD5sum: 4601022e8a49e37ff0feea5a67ee0b2d
+SHA1: ba7b40e10422c3a3c86cda68e5e6c0ff6c182409
+SHA256: da27ba8553f04beacfb4aea8aa65aad8ce303fb9c7eff99d21e1bbba9e031b25
 Section: Tweaks
 Description: Battery Color based on the battery percentage.
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.colormybattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.colormybattery/icon.png
 Name: ColorMyBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.colormybattery.json
 
 Package: com.imkpatil.colormybattery
 Version: 1.3.4
@@ -257,15 +119,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 436
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.imkpatil.colormybattery_1.3.4_iphoneos-arm64.deb
-Size: 42084
-MD5sum: 3b38f7cb57abe41563a80e9be15305ce
-SHA1: a2f93061e878ed7cff80d152afcddaba0e9fc4c8
-SHA256: 05b04298a70f3364a171eaae1db98c0d05a66a7bd0453dc4fcdc2058b545f25c
+Size: 41360
+MD5sum: 698976fbaa7088b7c3cd0425bb7ddb76
+SHA1: 84aa33f498adcf7925757aee6697821c9f521e39
+SHA256: e1da8d47b9873ea47c6467cff6826c1547b5ffef26ef4276eaa1ec5fad2aa6c7
 Section: Tweaks
 Description: Battery Color based on the battery percentage.
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.colormybattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.colormybattery/icon.png
 Name: ColorMyBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.colormybattery.json
 
 Package: com.imkpatil.countmymessages
 Version: 1.0
@@ -274,16 +138,17 @@ Maintainer: Kiran Patil
 Installed-Size: 196
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.countmymessages_1.0_iphoneos-arm.deb
-Size: 42152
-MD5sum: 041eeed5502b1d9011e4a887200ecabc
-SHA1: 8f329f47e21508a064e772de0aa9fdaad45d5e96
-SHA256: 39d5bd5b8a64abddc840e98f6d47b49242f2ad6f80fe1e9f1b7156e894e83a48
+Size: 42372
+MD5sum: 99e5bb188d69b9bbc797e9ed64d49040
+SHA1: c9dc998f4760ec1b78c078d3156c9a38d7313572
+SHA256: 94c358bc704028c02810e7882a4342e4a38bd58a1a9bed4ab1557e46f2e4c510
 Section: Tweaks
 Description: A Simple tweak to count my Total messages!
 Author: Kiran Patil
-Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
-Icon: file:///Library/Application Support/CountMyMessages/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.countmymessages
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.countmymessages/icon.png
 Name: CountMyMessages
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.countmymessages.json
 
 Package: com.imkpatil.ezswipe
 Version: 1.1.1
@@ -292,15 +157,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 404
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.ezswipe_1.1.1_iphoneos-arm64.deb
-Size: 23684
-MD5sum: a7fb6514b2a0ecc73a9e6abc73e21e8a
-SHA1: 3b0a6472167bc0256c4ce8f6fe74ed3131c353bc
-SHA256: 6ef021027bb784d0150b35af177d78a3f0a75f561cd5e32ea798ad4501efe8ad
+Size: 23820
+MD5sum: b7ba91ac5d34e5d12d4ce868a26f4d18
+SHA1: 7b8b84e77575bc16e8944e3a288a8626934970e9
+SHA256: 12b124b64b6fa0fd8075ac680d7f0d97160597812e848acf635caa9ff12c6a68
 Section: Tweaks
 Description: Give your hand a rest by using gestures instead!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/EZSwipe/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.ezswipe
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.ezswipe/icon.png
 Name: EZSwipe
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.ezswipe.json
 
 Package: com.imkpatil.homebarsizer
 Version: 1.1.1
@@ -309,15 +176,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 404
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.homebarsizer_1.1.1_iphoneos-arm64.deb
-Size: 24080
-MD5sum: 288a97650ad890c489542d4a7f914cbb
-SHA1: bc73550f06fbe3f0c1b113cf37812603e3701a39
-SHA256: 22747ff97a450ab3527a869620e7e9d9398347ea76b2493283a1180ee59a610c
+Size: 24228
+MD5sum: 408affab9c841aac71a2714fdddcb577
+SHA1: 882bca56c75ced083f716e917ace9728979693ef
+SHA256: fc11592d54815e92aa7841c599a07aee464a778147d86262511cc6ce79836265
 Section: Tweaks
 Description: Resize that HomeBar!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.homebarsizer
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.homebarsizer/icon.png
 Name: HomeBarSizer
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.homebarsizer.json
 
 Package: com.imkpatil.letmeknow
 Version: 1.4.2
@@ -326,15 +195,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.letmeknow_1.4.2_iphoneos-arm64.deb
-Size: 26274
-MD5sum: b8836fa46755dfc5e239f477746a6e71
-SHA1: 44dd8031abc79ad10d4a4df584d6d2b4339665ca
-SHA256: d57478e827db81d6c8c7b95a2833b9cf8643a04935cf637ced27e808ba1e40db
+Size: 26432
+MD5sum: a6d07aa0c840a2c70d126f7d8c3fe4a2
+SHA1: 67600fd856ecab2dad9904b5ce591a9a4d26e516
+SHA256: 8e741fd5868124832dae5e7655e566dc30e0713f3bb64a66cb6d75be4288dcb8
 Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/LetMeKnow/Tweakicon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.letmeknow
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.letmeknow/icon.png
 Name: LetMeKnow
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.letmeknow.json
 
 Package: com.imkpatil.longtimer
 Version: 1.0
@@ -343,15 +214,17 @@ Maintainer: Kiran Patil
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.longtimer_1.0_iphoneos-arm.deb
-Size: 2598
-MD5sum: cddd3238d9188e5b9916a1cfabfbe59a
-SHA1: 5cd4e3c1db72babe7d2f0fe63f7c21aaeeba4763
-SHA256: a1bb29b4fe68e2aea690071ce731ae91b1d98bc58a58ad90580ab8a27515d1fa
+Size: 2800
+MD5sum: 326c15bd0864dff79bb1f5c7537c9600
+SHA1: 0498428412f51f3204af16978571edf3ff9c2ccf
+SHA256: 6e5dada5559ed60954e02cac91647eb0ae41f5d9888bf10409c27291834a5a5e
 Section: Tweaks
 Description: Make the timer run longer!
 Author: Kiran Patil
-Depiction: https://imkpatil.github.io/repo/depiction/LongTimer/index.html
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.longtimer
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.longtimer/icon.png
 Name: LongTimer
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.longtimer.json
 
 Package: com.imkpatil.podseek
 Version: 1.0
@@ -392,14 +265,17 @@ Maintainer: Kiran Patil
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.podseek_1.2_iphoneos-arm.deb
-Size: 21172
-MD5sum: 7ce084b2cb26e2a660e1ffec42a9743e
-SHA1: 72f68c047652bbb657266ab370bd0fdb32912fc4
-SHA256: acdaebc204e3bc1d60b5347901218dfb16a8640bf7ff3d728dcc8ad3300d48ab
+Size: 21348
+MD5sum: 58e80510abbdff07dc223e40b0db0c28
+SHA1: 0e0bbf085bef1cea93d3fa87a9cf0a52a3f378f3
+SHA256: d6551b720d4e9b358c51c2c0729da101b1bdc52ef481823edabaa38c1d5cf042
 Section: Tweaks
 Description: Seek instead of Next in Podcasts App!
 Author: Kiran Patil
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.podseek
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.podseek/icon.png
 Name: PodSeek
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.podseek.json
 
 Package: com.imkpatil.saavieum
 Version: 1.6
@@ -408,14 +284,17 @@ Maintainer: Kiran Patil
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.saavieum_1.6_iphoneos-arm.deb
-Size: 4804
-MD5sum: bede8a5dec1869cf949e172332c4ce7e
-SHA1: a56515dce0229170c5ee54dd7bf8888775b6bbb3
-SHA256: 6eabb2313d9d6151356a0ec5cb06042f6a17f736057cb719486cb79108647769
+Size: 5020
+MD5sum: e1bfcc2c3cf7625247261969267fd05d
+SHA1: 72b8e5e26f80dee422e2e7c54aa5f853d6c833fb
+SHA256: f244f96c50868e9c874604e8c4de5b1a6f50d2141f4fb97ba11b0ac1204d2bf2
 Section: Tweaks
 Description: Premium Saavn!
 Author: Kiran Patil
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.saavieum
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.saavieum/icon.png
 Name: Saavieum
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.saavieum.json
 
 Package: com.imkpatil.spotclearonclose
 Version: 1.2.1
@@ -424,14 +303,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.spotclearonclose_1.2.1_iphoneos-arm64.deb
-Size: 3280
-MD5sum: a93d6cef5b9ddf53b1f43f3ca2b57173
-SHA1: 2522a4c8815e9fe13b5e8d006343ff3e92cf4833
-SHA256: 8025525d4d302e8e67e14bb2348dd7acec78c86b7354c370e14e56051013a580
+Size: 3488
+MD5sum: 4cda127aac69ab11f5f8dd3a5568d5be
+SHA1: e8efc8d4c2994217e29c8bff46b66305ac3f4aaf
+SHA256: 6fd6c41176a2787a4218560ba4181def1f174e65d5250ef91e49b64584201fbf
 Section: Tweaks
 Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.spotclearonclose
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.spotclearonclose/icon.png
 Name: SpotClearOnClose
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.spotclearonclose.json
 
 Package: com.imkpatil.spotclearonclose
 Version: 1.2.1
@@ -440,14 +322,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.spotclearonclose_1.2.1_iphoneos-arm.deb
-Size: 3222
-MD5sum: 375c4d4a36f33264193e23ffc0e32834
-SHA1: 7c6ba3f4144d5cf23615b2baa8a03e10288eaed3
-SHA256: ada03374f3084768bae6c7799d5ef16f0c25f0b810d284019be021e4e9e0c50b
+Size: 3448
+MD5sum: 7ff9f3749e63f3a9fe34a3b77714b805
+SHA1: 89df405780f8b51a7b9356551632a1c9c29fe5f8
+SHA256: 9f701bd78f60e10f977ded36c2f398ce7ffffb02d373e0887193acdd434ee19a
 Section: Tweaks
 Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.spotclearonclose
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.spotclearonclose/icon.png
 Name: SpotClearOnClose
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.spotclearonclose.json
 
 Package: com.imkpatil.stopautoplay
 Version: 1.0
@@ -456,14 +341,17 @@ Maintainer: Kiran Patil
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.stopautoplay_1.0_iphoneos-arm.deb
-Size: 20358
-MD5sum: 7a01a22f8daa2313e2a0ebf20c83d014
-SHA1: 5fed87dc55ddf33eb2d72fdd4ef49fe9420a53e8
-SHA256: 84f679f12e1e5fc09e732ec1e9edb2f629629b7a7fc488231e552819056b212c
+Size: 20552
+MD5sum: ce976d877cd73dff62ff4284fde0c110
+SHA1: 22a7fd74c86e2484ba68908a6258eb27f3b80aa0
+SHA256: cae2d5125446b50b61ce1dd0bdd09af1e611e98718bef65f8aae9450cb677c40
 Section: Tweaks
 Description: Stop that annoying Autoplay!
 Author: Kiran Patil
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.stopautoplay
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.stopautoplay/icon.png
 Name: StopAutoPlay
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.stopautoplay.json
 
 Package: com.imkpatil.stopautoplay
 Version: 1.0-2+debug
@@ -472,14 +360,17 @@ Maintainer: Kiran Patil
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.stopautoplay_1.0-2+debug_iphoneos-arm.deb
-Size: 21456
-MD5sum: e7b014179397bf5b54dacd53f42dc210
-SHA1: 5beaae432fe971e9c480fc92a0c5a65450ddb9f8
-SHA256: 3a8d6e03a9ef5faa4247256b482c465b8768e3d09506df3fe6743f5f78c06e66
+Size: 21624
+MD5sum: 255b07e088a63fda519218b67d71ed28
+SHA1: 079e233e5c6637a30a7bd8cec59065ddad8c7d33
+SHA256: f086c4a10f0b22b864f7c5fe4bf1c59b5cb7385f5858d97b44bad0b745ae3d11
 Section: Tweaks
 Description: Stop that annoying Autoplay!
 Author: Kiran Patil
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.stopautoplay
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.stopautoplay/icon.png
 Name: StopAutoPlay
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.stopautoplay.json
 
 Package: com.imkpatil.usbrespring
 Version: 1.0
@@ -504,14 +395,17 @@ Maintainer: Kiran Patil
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.usbrespring_1.1_iphoneos-arm.deb
-Size: 2834
-MD5sum: 0c0209ea893e5588395ef9ccce38157d
-SHA1: 0f4cff601d0c1856f9d4e6f084ae84fa5e869308
-SHA256: f44575d9faedf2365439f971e45b624f2c3086f26183afadde80bbaaae2e6e00
+Size: 3068
+MD5sum: c6b62ffca5e40e1a432795e061e8a08e
+SHA1: babdfede184b395fe78a5e628bc167b0f355c6a3
+SHA256: e33a62398a9d66b42ad3cb4d491da0b18149f058500274546decea6930770cca
 Section: Tweaks
 Description: A simple tweak to Repsring on USB Disconnect!
 Author: Kiran Patil
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.usbrespring
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.usbrespring/icon.png
 Name: USBRespring
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.usbrespring.json
 
 Package: com.ioscreatix.sugarcane
 Version: 1.2.3.1
@@ -552,14 +446,17 @@ Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
 Installed-Size: 156
 Depends: mobilesubstrate,firmware (>= 13.0)
 Filename: ./debs/com.ioscreatix.sugarcane_1.2.4_iphoneos-arm64.deb
-Size: 7868
-MD5sum: 7ef69f71a162224a5154ae28139d3ee1
-SHA1: dc7fe587f55f00f28b7db7189b5db066c826f22f
-SHA256: bdf7a66129b98a67a4c1a1b07f4965d3f70ed9d707077ea88cbeac2c464bf068
+Size: 7780
+MD5sum: 48e89dfd15e1caa6badefdecd4497344
+SHA1: cf02af80e1e7ec43ff3fe65453f9c207ab937418
+SHA256: 80b7a659fa53f52827598e8f0e177e4e35adcb387bb5552c963f1f9550b7e894
 Section: Tweaks
 Description: Get percentages for the sliders in the Control Center 13 and 14
 Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.ioscreatix.sugarcane
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/icon.png
 Name: SugarCane 13/14
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
 Package: com.ioscreatix.sugarcane
 Version: 1.2.4
@@ -568,14 +465,17 @@ Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
 Installed-Size: 156
 Depends: mobilesubstrate,firmware (>= 13.0)
 Filename: ./debs/com.ioscreatix.sugarcane_1.2.4_iphoneos-arm.deb
-Size: 7800
-MD5sum: 6686c857e6d7c14f2b6abf3036f194e2
-SHA1: 8c80c80a76c67539af51f7b023785b75e977394b
-SHA256: 67825c9d7b08ac5e20e501fb013dd3bc2653bb79d528ad23a981717e038c8475
+Size: 7736
+MD5sum: 5795ec321b7bfc4a788e2a0898cf4be4
+SHA1: 73b9714a08f4d693e5eb50f6ad85389e4bc8852f
+SHA256: 25db8738647b355fe99cfdabf5c433a973b5a5aaeb3c0c6ba217aab6ddc43eb8
 Section: Tweaks
 Description: Get percentages for the sliders in the Control Center 13 and 14
 Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.ioscreatix.sugarcane
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/icon.png
 Name: SugarCane 13/14
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
 Package: com.ioscreatix.sugarcane
 Version: 1.2.4.1
@@ -616,14 +516,17 @@ Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
 Installed-Size: 156
 Depends: mobilesubstrate,firmware (>= 13.0)
 Filename: ./debs/com.ioscreatix.sugarcane_1.2.4.2_iphoneos-arm.deb
-Size: 7948
-MD5sum: 89baa7d6d4d7a5dd8dbdac22f77824f0
-SHA1: bb5ed78f88b594088cac6d660b44a7e1a5a3c846
-SHA256: a4f3d46c20bb24ddba5c53ea450bc1606549f13d255d909889971e424b4728f1
+Size: 7904
+MD5sum: f76efa29306d316ec4d8fd12fa503283
+SHA1: 40dcd333cadbc20f0fb627ef71115f1d98404da6
+SHA256: e50f34a21aac288a82b403496466d91606cc240baa04de87713574fc8a5eb3b2
 Section: Tweaks
 Description: Get percentages for the sliders in the Control Center 13 and 14
 Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.ioscreatix.sugarcane
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/icon.png
 Name: SugarCane 13/14
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
 Package: com.ioscreatix.sugarcane
 Version: 1.2.4.2
@@ -632,32 +535,17 @@ Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
 Installed-Size: 156
 Depends: mobilesubstrate,firmware (>= 13.0)
 Filename: ./debs/com.ioscreatix.sugarcane_1.2.4.2_iphoneos-arm64.deb
-Size: 8000
-MD5sum: 799e02e0901dc638f77d424050ec1b89
-SHA1: fb9cfe62cef03b57013a4888dce21c695bb2283c
-SHA256: a757933bcb75be341a603818f4fe9ca06de7b166377f1e760d931282f40025ec
+Size: 7940
+MD5sum: 449581673635d27f2c86f5b858f123e2
+SHA1: 4f8b289304181b714a15afe9e5c14441b487fd0c
+SHA256: 374cb267641b7ffc7e2b515fa75f0b51acf8fd20c3d19b79524249060ed9549c
 Section: Tweaks
 Description: Get percentages for the sliders in the Control Center 13 and 14
 Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.ioscreatix.sugarcane
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/icon.png
 Name: SugarCane 13/14
-
-Package: com.ipc.crackerxi
-Version: 1.1.8
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Depends: firmware (>= 11.0)
-Conflicts: cydia.com.ipc.crackerxi, com.yourepo.mohadu31.crackerxi
-Filename: ./debs/crackerxi.1.1.8.deb
-Size: 9964396
-MD5sum: 4a69449c22d7f6ff1c664acfb6fa7969
-SHA1: 6abe9d89a9bc457e934f21a4e2336af89017a906
-SHA256: bd812564ab3d2b2744f736b5296a35a32293379edd0669cbf83aa95edca5d239
-Section: System
-Homepage: https://cydia.ichitaso.com/donation.html
-Description: Decrypts iOS Apps
-Author: SarahH12099
-Icon: file:///Applications/crackerxi.app/AppIcon.png
-Name: CrackerXI+
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
 Package: com.itaysoft.wifilist
 Version: 1.0.0
@@ -665,17 +553,17 @@ Architecture: iphoneos-arm
 Maintainer: Itay
 Installed-Size: 1128
 Filename: ./debs/com.itaysoft.wifilist_1.0.0_iphoneos-arm.deb
-Size: 910284
-MD5sum: 67bc674ff299d7c8dcd19bb3a57f0c84
-SHA1: f4738968c03952928b1b2b06d2ae07c075e06f48
-SHA256: d617a4ace06878244e3f506a4250789309ea7660af395fedf70997b5076060b5
+Size: 903276
+MD5sum: 4c0478fe24ae7719617ffa29065ad833
+SHA1: 9cb000df00cd02130e225dfc8723174ea51abb95
+SHA256: a4ff2fc6d1720e585d8514fdbefdf4bc5749bdb9be53ae8d16b75c270f6194d4
 Section: Utilities
 Description: View and share WiFi passwords
 Author: Itay
-Depiction: https://www.icaughtuapp.com/repo/depictions/web/?p=com.itaysoft.wifilist
-Icon: https://www.icaughtuapp.com/repo/icons/com.itaysoft.wifilist.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.itaysoft.wifilist
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.itaysoft.wifilist/icon.png
 Name: WiFi List
-Sileodepiction: https://www.icaughtuapp.com/repo/depictions/native/com.itaysoft.wifilist/depiction.json
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.itaysoft.wifilist.json
 
 Package: com.p2kdev.alarmtime
 Version: 1.0
@@ -684,14 +572,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: firmware (>= 14.0),mobilesubstrate
 Filename: ./debs/com.p2kdev.alarmtime_1.0_iphoneos-arm64.deb
-Size: 7498
-MD5sum: 03d14ebbe286c320c09bf42dd613b90f
-SHA1: 8e2c2e8bd8003f9b698cadd7a8c89344858d3077
-SHA256: 93f6876235549ac9043f18dda027e5144f4a6045263d656cc2136eea8191e76d
+Size: 7684
+MD5sum: 048d78861ff503b55573c05e6f9601bd
+SHA1: 683a75f12936e16de2b389c52d867f1c2d0cf1c2
+SHA256: c5426b6b78ea0784b6930070de82f0409464b18531edce440d911326a8932ece
 Section: Tweaks
 Description: Show Time until alarm in the clock App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 Name: AlarmTime
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
 
 Package: com.p2kdev.alarmtime
 Version: 1.0
@@ -700,14 +591,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: firmware (>= 14.0),mobilesubstrate
 Filename: ./debs/com.p2kdev.alarmtime_1.0_iphoneos-arm.deb
-Size: 10700
-MD5sum: 43f60e3774109233a0135a75536a2d41
-SHA1: ede4c489de7dafa0ecb66f254bb3a22f6d160dfe
-SHA256: e1e118f6dd6fa37c8bceb4256381194837293cd127e7fb1636f27dbf718248bf
+Size: 10440
+MD5sum: a6471dcbf2618f28f2fafee3c25804f1
+SHA1: 140fe8dacd338a48ca88cf74e6ffd2241bbf569f
+SHA256: 7aba261b27e592b7ae23460327a30d2edbd43525361e4501a16ec67514e18430
 Section: Tweaks
 Description: Show Time until alarm in the clock App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 Name: AlarmTime
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
 
 Package: com.p2kdev.autofillfix
 Version: 0.1
@@ -716,14 +610,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.autofillfix_0.1_iphoneos-arm64.deb
-Size: 2898
-MD5sum: 99a53f23d3a0d736949f9fe4a2ff0291
-SHA1: 536b294eed183877659244cb34e269de9ef7ae0d
-SHA256: 4698b6d75816386926f85be45f631cfc2c6c4d45508fe15e13e21f946ae7e634
+Size: 3100
+MD5sum: 2038a0cc634cf393be77625a5e81e72e
+SHA1: 5678a8a86b4137a0653cc31ff775c93514932a6e
+SHA256: 2b90a41860770cfbd53ad8330630c0bd95c0f76bcdb23411fb8398165be4869d
 Section: Tweaks
 Description: Fix for autofill not working after restarting backboard or sbreload
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.autofillfix
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.autofillfix/icon.png
 Name: AutoFillFix
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.autofillfix.json
 
 Package: com.p2kdev.boldlsdatetime
 Version: 1.0
@@ -732,14 +629,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.boldlsdatetime_1.0_iphoneos-arm.deb
-Size: 4320
-MD5sum: 8924e68cfbad75740454e6aea54359ab
-SHA1: f5bc1fa8800847dfa47a63b37bc45cc8e59d684d
-SHA256: 71a834360b35728350f7bad575de22742a5060d1f5f046f934543231bfc837e0
+Size: 4396
+MD5sum: 4d7b127a2a57e9ece385f6382cb7b02f
+SHA1: 6008f259b2e19898efc2706ed62f98957c46ba83
+SHA256: 2b482eaffe02cc79eb36e33f56e8a3da4c143b3baa1e82fae38fa5aec582331d
 Section: Tweaks
 Description: Make the LS DateTime Bold!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.boldlsdatetime
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.boldlsdatetime/icon.png
 Name: BoldLSDateTime
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.boldlsdatetime.json
 
 Package: com.p2kdev.boldlsdatetime
 Version: 1.0
@@ -748,14 +648,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.boldlsdatetime_1.0_iphoneos-arm64.deb
-Size: 3812
-MD5sum: 4a25139d3b397871cb92c376ecd5af69
-SHA1: 9bdf70d2fdcecd9899342e80679dcab23be3394b
-SHA256: 29048013c20ec67d463f5aa90fdf752791df7f7e63397a1b2cb17bc45895b7f6
+Size: 4008
+MD5sum: 835d8b49156d385b9540bd5d71a4d16d
+SHA1: 87c7d7f262d33ae217a469cd9e542419eafa1035
+SHA256: 3de9a41e9b13a7e604af4ef1d13a51aecf5b1e887923b113236f15ab66e9587b
 Section: Tweaks
 Description: Make the LS DateTime Bold!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.boldlsdatetime
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.boldlsdatetime/icon.png
 Name: BoldLSDateTime
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.boldlsdatetime.json
 
 Package: com.p2kdev.chasejbbypass
 Version: 1.0
@@ -764,14 +667,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.chasejbbypass_1.0_iphoneos-arm64.deb
-Size: 3048
-MD5sum: 5be86eeba21abfad27f4d363b34327f9
-SHA1: 7271bc36da6a7aea28e8bd668cbf2b6e1cdf9045
-SHA256: 0e77e06b32294139adc26b3627f9efd01eaa1f8fb93a9ae1f342f6952673c796
+Size: 3256
+MD5sum: ea896ca32ce0a55b4a542c01a0297bcc
+SHA1: 6f687375f3e021dfb31200805a8de1f32da8420e
+SHA256: 849ed8134db44188adaa5c79efaceb775a38c834264cf48fcb9f79fa9b8be6e6
 Section: Tweaks
 Description: Chase Bank JB Detection Bypass!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.chasejbbypass
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.chasejbbypass/icon.png
 Name: ChaseJBBypass
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.chasejbbypass.json
 
 Package: com.p2kdev.chasejbbypass
 Version: 1.0
@@ -780,14 +686,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.chasejbbypass_1.0_iphoneos-arm.deb
-Size: 3414
-MD5sum: e948f8e451fa52d7d9deffed185e2434
-SHA1: a49863b1ca43126772c0838ac1fced17dfb6f76a
-SHA256: 80a699d392d92aa7294c5aa6bf6bbc1330939387d107f6c236f9c7d34e6135fa
+Size: 3560
+MD5sum: 12e75d2ee71ca14299e0b5687ecc0ee6
+SHA1: cbdfc2e74f3d1a4a8ef80faf70ea1cf57ac2e1d0
+SHA256: c9bc71571322ff04ff95e636cc7bbbdbaa484bd398e6c2be8fc8f0b54b059e37
 Section: Tweaks
 Description: Chase Bank JB Detection Bypass!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.chasejbbypass
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.chasejbbypass/icon.png
 Name: ChaseJBBypass
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.chasejbbypass.json
 
 Package: com.p2kdev.colorbar
 Version: 1.0
@@ -796,14 +705,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 316
 Depends: mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader
 Filename: ./debs/com.p2kdev.colorbar_1.0_iphoneos-arm64.deb
-Size: 10126
-MD5sum: d2f718efa557bffe7dd4394d257b0855
-SHA1: d08cc94bddd72f658dd53b6d2551d3131144323c
-SHA256: 87d993f9ad1bbdccba08e3c2c458c8dbcd7110a118af377449fa3b6108b57374
+Size: 10320
+MD5sum: c53e7c9142a647b3525fc0d01575fc16
+SHA1: c2c03597d6d20a54444fb0b7d27ffd74f381ca88
+SHA256: adc7210d1886dd7962e552708aa55ffb120aee7961f8a0e5cc8b919fb7cda595
 Section: Tweaks
 Description: Color that HomeBar!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorbar
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorbar/icon.png
 Name: ColorBar
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorbar.json
 
 Package: com.p2kdev.colorbar
 Version: 1.0
@@ -812,14 +724,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 320
 Depends: mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader
 Filename: ./debs/com.p2kdev.colorbar_1.0_iphoneos-arm.deb
-Size: 11546
-MD5sum: c92d3ecfdf3f99c551c76e8f66ec452d
-SHA1: 54d4fb379d5911763f98aad5d0a1134a7f5a3d2b
-SHA256: 0181af3a3f850a84f39824b135bbc142fcb6375c2ad5035cfe0256733019f449
+Size: 11256
+MD5sum: 5867fb676549dfe0a544b8f8ff0c3dc2
+SHA1: d7ac8ea678a286caa22ac06c4a1682ca02fd1413
+SHA256: 369bb8ebaf3270dff8977d0d5f2b3e9eddac028bcebf8f81affa39c5156ae0b7
 Section: Tweaks
 Description: Color that HomeBar!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorbar
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorbar/icon.png
 Name: ColorBar
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorbar.json
 
 Package: com.p2kdev.colorcodedlogs
 Version: 1.0
@@ -828,14 +743,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 13)
 Filename: ./debs/com.p2kdev.colorcodedlogs_1.0_iphoneos-arm64.deb
-Size: 4728
-MD5sum: b999417eaaf295d3be199348fe33594a
-SHA1: 2440075f2a0f25891b46dfcc6022dd3d11655d29
-SHA256: 2a256bf836ae57303ce7ef93e6e3c59424f91570318edd0b6f7c522106e6b13a
+Size: 4940
+MD5sum: f1b5fdf6655d7f600fb49d423572430d
+SHA1: 45c06a3cc166b3a51099328398f3d1a029ec9e0b
+SHA256: 43216002e82a055ca02eee3677897b29b298e992a17ce20a4cb6238961c290f0
 Section: Tweaks
 Description: Color-coded recent MobilePhone app logs!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorcodedlogs
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorcodedlogs/icon.png
 Name: ColorCodedLogs
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorcodedlogs.json
 
 Package: com.p2kdev.colorcodedlogs
 Version: 1.0
@@ -844,14 +762,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate, firmware (>= 13)
 Filename: ./debs/com.p2kdev.colorcodedlogs_1.0_iphoneos-arm.deb
-Size: 5610
-MD5sum: 003dc847db5d12010160e1305e0617da
-SHA1: 344c9db423612b86b751cdb6aa0305b73c87b088
-SHA256: 068d22c8411721a30aa421785f05f0551b180d810b203684991bdc2c6f394ca7
+Size: 5628
+MD5sum: 06d1b04950b46f80950a61c903ab43d3
+SHA1: e13906f45dc795e1c3d7cbb4748889b879cab226
+SHA256: 0b405fbb0716d963efb8cb892fbaec7ac37487c688fb4c01f93b93a00923cfbd
 Section: Tweaks
 Description: Color-coded recent MobilePhone app logs!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorcodedlogs
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorcodedlogs/icon.png
 Name: ColorCodedLogs
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorcodedlogs.json
 
 Package: com.p2kdev.deleteforeverxs
 Version: 1.1
@@ -860,14 +781,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 156
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.deleteforeverxs_1.1_iphoneos-arm64.deb
-Size: 6734
-MD5sum: 4c20bace3eb828adfd1d6454f662704a
-SHA1: 5eb265513ec9aae5a6b188c9aaf76acd923bc362
-SHA256: 9734c319fe5f13f1b6a485c233652bc7aeafc9b2cbd6a1960db4230d4962fcf8
+Size: 6756
+MD5sum: 96a6e65210f6911e8077fdc60e0eb6e8
+SHA1: c0a287afbd0aa0f35aeb9dc33fc3c9c44ab0b81d
+SHA256: 730d5603a18e5fad1b4edbec0028410a5b5939ff0df92a43a85b71ff8560799f
 Section: Tweaks
 Description: Delete Media with moving to Recently Deleted!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.deleteforeverxs
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.deleteforeverxs/icon.png
 Name: DeleteForeverXS
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.deleteforeverxs.json
 
 Package: com.p2kdev.facebooknoads
 Version: 1.0
@@ -876,14 +800,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.facebooknoads_1.0_iphoneos-arm64.deb
-Size: 4016
-MD5sum: cf6ca67e3298a4cea453b0328d65360b
-SHA1: e2f6789627f0e2ddbb57c834c5b2c4115d5b02da
-SHA256: d8117ee5d1bfc72e30aef86568461624a1f0556c3dc019c194a29c7ce35d9286
+Size: 4216
+MD5sum: f81f24649bf823aa2a899af00877620c
+SHA1: ab5dc6ddc54afca179682104cb602cc6ef01cd66
+SHA256: cd3d67f4349ca5f1446d6471694f9c8e28b61e2cac7a1c4f5b0d51bb89db8014
 Section: Tweaks
 Description: No Ads in the Facebook App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
 Name: FacebookNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
 Package: com.p2kdev.facebooknoads
 Version: 1.0
@@ -892,14 +819,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.facebooknoads_1.0_iphoneos-arm.deb
-Size: 3948
-MD5sum: 6b0bc9e0c0bbbdc28f828d8eff8135e4
-SHA1: 4321fbc316326731a1418ec52ba3041e501c306c
-SHA256: 18e74db98c13968c37431b24a42b3543b0807264281661c646e34b77a2ba9569
+Size: 4160
+MD5sum: 8a14f7fe367c404b84ede31553f0fe1d
+SHA1: 7ae3c751c22a86cfb02ce8485a6f1872cd12c026
+SHA256: 6950bb7c6d26d5e26c4c98ef570655a3b2a641503b8dcf0d985504502972d0ea
 Section: Tweaks
 Description: No Ads in the Facebook App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
 Name: FacebookNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
 Package: com.p2kdev.gmailalwayslighttheme
 Version: 1.0
@@ -908,14 +838,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.gmailalwayslighttheme_1.0_iphoneos-arm.deb
-Size: 3494
-MD5sum: 1424637fa309f8240ccc1dfcefa4bb87
-SHA1: 235df53551b0fceac7175d997c98220ecfd1712d
-SHA256: a8d719dff945127450ce31d87e41750bd8590d104083bef8f22c4d8112d70774
+Size: 3624
+MD5sum: 4efb5f10a59f2ef3918d3b81df59215d
+SHA1: 55d0e5f86985a2b0c322bfdd685dea4cbcdc91da
+SHA256: f6a50c259b865858356bdc5687760fee1c340d7cffe8d1432c1563b115290526
 Section: Tweaks
 Description: Show Gmail Emails in Light Theme always!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.gmailalwayslighttheme
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.gmailalwayslighttheme/icon.png
 Name: GmailAlwaysLightTheme
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.gmailalwayslighttheme.json
 
 Package: com.p2kdev.instagramnoads
 Version: 1.0
@@ -924,14 +857,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.instagramnoads_1.0_iphoneos-arm.deb
-Size: 5480
-MD5sum: 0d786057d35721ecf0670ba93528d12b
-SHA1: 28a9efe94280a71f76938bf2a65a176c5b7a4aa5
-SHA256: 6146ec41ce2dff4ba56778414523da5d2f4ae565a0e13dd1988b77a1cef7f2b9
+Size: 5708
+MD5sum: f64b3f722c22cb65db66f73f7b89488e
+SHA1: 1d9a3f6e926b817b1aec89ab3f2b8027ab551827
+SHA256: 74c122cb9460ff583dcf210f07fad6def9bf6b3778a8a1e83083cf69d9aeb5a8
 Section: Tweaks
 Description: No Ads in the Instagram App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
 Name: InstagramNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
 Package: com.p2kdev.instagramnoads
 Version: 1.0
@@ -940,14 +876,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.instagramnoads_1.0_iphoneos-arm64.deb
-Size: 5558
-MD5sum: 3fe15158df7038e3d9979b60c9df16fe
-SHA1: 55e958a1ec379c90308a2414f79585b3bbfe95b2
-SHA256: c2f90b20b9498e1a54d358826a41757b87edf9f246f5be49cde0bd7ab2b5b4a2
+Size: 5764
+MD5sum: c06803f7384a4756eb680c4b206dccc9
+SHA1: 2c1d1288352b00d3eab76cbf9f0379692b05e058
+SHA256: 975a3e4c8b3084c5070091dcac94c621e66472a6b9baf2ac4a1bb6a3909f0ca2
 Section: Tweaks
 Description: No Ads in the Instagram App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
 Name: InstagramNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
 Package: com.p2kdev.instazoom
 Version: 1.1
@@ -956,14 +895,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 188
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.instazoom_1.1_iphoneos-arm.deb
-Size: 13602
-MD5sum: 1d0967f3ee52a064aefba1633fbd2caa
-SHA1: 6c5b7ea26d72dee2b6d3b23da3834bb7cd521cde
-SHA256: 33ae60e1d49ca349a1f92ff44f7a16ec204e4d772249a1cb55d48d4af39a7cb2
+Size: 13784
+MD5sum: 74f709ce8e2cd221eb369a6d65be6939
+SHA1: 6d56b184459ce3d129a61bdc0e83242f997cc24a
+SHA256: a4299467a6a6db74fd36cf43d794199100b1b3a728dfefb63a2ec4ca44cb350d
 Section: Tweaks
 Description: Zoom into images on Instagram!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instazoom
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instazoom/icon.png
 Name: InstaZoom
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instazoom.json
 
 Package: com.p2kdev.instazoom
 Version: 1.1
@@ -972,14 +914,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 188
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.instazoom_1.1_iphoneos-arm64.deb
-Size: 13820
-MD5sum: e0a9a3906569a3af47a21ba5e6384a4c
-SHA1: 9ccdfc8abc82d5e419c1098f3454c2301ce906f3
-SHA256: 647022205e1604d738e4bf79271edc578eaaf8e886b362ef072f8aafc5a6896f
+Size: 14024
+MD5sum: 49502b2ceb54c1d545d5a6ba85bedc11
+SHA1: bbfa1d58d445f7abe28882900f81832b8de01777
+SHA256: 77afc4f39ac502152eca090cc70236f00cc00dc92e4284ef6b6b12673c5c4fa4
 Section: Tweaks
 Description: Zoom into images on Instagram!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instazoom
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instazoom/icon.png
 Name: InstaZoom
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instazoom.json
 
 Package: com.p2kdev.keepitsimple
 Version: 1.2.2
@@ -988,14 +933,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 436
 Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.keepitsimple_1.2.2_iphoneos-arm64.deb
-Size: 31896
-MD5sum: 26070121808fd4ddc9698167706c2054
-SHA1: 8ccb823a7fef45cd149b22fc1d2935e5fec657a6
-SHA256: 882e1fff934f4a7efceb1c7fc2e37d7539774515dea2d31dae36f46da0ca0194
+Size: 31236
+MD5sum: 389cfe8b28e99333827da0892f87edaa
+SHA1: 2d9b1d44723ed4c5e35a196570d03d458f82f732
+SHA256: 8807bdda5ef13f6a5f4b8f54c2a826a87565e99c0563245d84653c0bd85f5a60
 Section: Tweaks
 Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.keepitsimple
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.keepitsimple/icon.png
 Name: KeepItSimple
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.keepitsimple.json
 
 Package: com.p2kdev.keepitsimple
 Version: 1.2.2
@@ -1004,14 +952,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 436
 Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.keepitsimple_1.2.2_iphoneos-arm.deb
-Size: 31860
-MD5sum: 883935e95cca88dba9f6bd5353248c5c
-SHA1: de4150b4576f8bbebfb5237ccaf6c57af4d54e0a
-SHA256: 454565dc2e90382e7d00313d4bed36d66a788082dd3bfffd319d586987b7c6d4
+Size: 31212
+MD5sum: 726fec7bee07e8755cb9e3bf169d1993
+SHA1: 329537d66228cc950630ae5bf444987472331a5a
+SHA256: 10e8d8b0177d9c14b34cb981c10e430c701f4f6c5160040ee4c84fbfcc9a3d52
 Section: Tweaks
 Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.keepitsimple
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.keepitsimple/icon.png
 Name: KeepItSimple
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.keepitsimple.json
 
 Package: com.p2kdev.letmedecline
 Version: 1.0.1
@@ -1036,14 +987,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.letmedecline_1.0.2_iphoneos-arm.deb
-Size: 3206
-MD5sum: 7326f3b0347453e3303ac1293eca5940
-SHA1: 2c201aad61a036159aa95ab9e7420ca9f2529a06
-SHA256: 354376e348a291d765a8b74eef92c260c3044b7eff78b39e9c256585e46b3e50
+Size: 3328
+MD5sum: 06f02ada9d5be18e98d33048fbbf1316
+SHA1: 84291e4716518c58f3678156ae992ff08083baeb
+SHA256: ae30b04a8414b080523584b0a8fab21019d3df8f8a536c8972b6874770c4ff3f
 Section: Tweaks
 Description: This tweak will show the Accept/Decline buttons when the phone is locked!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.letmedecline
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.letmedecline/icon.png
 Name: LetMeDecline
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.letmedecline.json
 
 Package: com.p2kdev.locker
 Version: 1.0
@@ -1052,14 +1006,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 180
 Depends: mobilesubstrate, net.limneos.libbulletin
 Filename: ./debs/com.p2kdev.locker_1.0_iphoneos-arm.deb
-Size: 9530
-MD5sum: 5ebdfcbea7812e4352c5fc7144c83c54
-SHA1: 2e3a3f381390522a1db0657d9cd96e83edb02971
-SHA256: f35b3c3719730d65a77584ec176140de8210ab68e413dd10b8f85e74fab4a4e9
+Size: 9404
+MD5sum: 39e8143796fa8f41bf99bc182ac7b65f
+SHA1: 72e2605a8172c258d484540a776106806f6b96fb
+SHA256: 17a2af59d57922bed2b4745b5c52e1376591d1a98c788902293712545e9f9a8d
 Section: Tweaks
 Description: Enable passcode for A11!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.locker
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.locker/icon.png
 Name: Locker
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.locker.json
 
 Package: com.p2kdev.modernsettings
 Version: 1.0
@@ -1068,14 +1025,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.modernsettings_1.0_iphoneos-arm.deb
-Size: 4648
-MD5sum: 1f3a76ddbee11c7cef8315ce0a993dc6
-SHA1: 240a00d5c42257066976ce0480faa477b73a8005
-SHA256: b1ac674f4d02075c50152aea4278956e0e8389da2973d9e79b25c88d03bde922
+Size: 4716
+MD5sum: e4321ae637eebfa6571d5f30875bedae
+SHA1: 7e8b64f8c7faf1e7c3d15adc5c27b540b5822fa3
+SHA256: 1facf24aa6cbbed89c120c689ce47d377783d4a2157776d34cf4faab158f76ae
 Section: Tweaks
 Description: Modern look for the Settings App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.modernsettings
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.modernsettings/icon.png
 Name: ModernSettings
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.modernsettings.json
 
 Package: com.p2kdev.myassistive
 Version: 1.0
@@ -1084,14 +1044,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 372
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.myassistive_1.0_iphoneos-arm.deb
-Size: 28228
-MD5sum: 2a0ad826509f6f3f6b699a4b75a65776
-SHA1: 048533c4f6f4653af349a11a3568fed77a7b4192
-SHA256: 522f1d390cd6dc152b14a5cc95b069ca80aa57d2edec5c225a037d095ec46160
+Size: 27648
+MD5sum: 2f9f3ee46ea7e9c0d43b5e583e434046
+SHA1: 9213066274fead1f48903fa99ef6587ac004118c
+SHA256: 12d514652a62f14ad3ce03710570fb27e29298ad70ae7a24a0d59ce5c2a2a4fc
 Section: Tweaks
 Description: Better Assistive Touch!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.myassistive
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.myassistive/icon.png
 Name: MyAssistive
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.myassistive.json
 
 Package: com.p2kdev.ndtvnoads
 Version: 1.0
@@ -1100,14 +1063,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.ndtvnoads_1.0_iphoneos-arm.deb
-Size: 2736
-MD5sum: 777e0e275dd005a8ef511ae15ffe56a6
-SHA1: 925e1c9e69d65f6ba3d65158228a5c5fd1f0bbd3
-SHA256: bcf28154c29a0a73b1f15043bd57a7a217b9dfa2534fc0bf7ac81d15fd082529
+Size: 2864
+MD5sum: dbc6a06256d64eedcc1484ed36cf1472
+SHA1: b970bdbeb68cd6dd70f1cb497f70c81c33162cdc
+SHA256: 9fbd0d2bdb126d385935a9b752141693126fa726fd38a9a14980a9c1c81b06b6
 Section: Tweaks
 Description: No Ads in the NDTV News App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ndtvnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ndtvnoads/icon.png
 Name: NDTVNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ndtvnoads.json
 
 Package: com.p2kdev.ndtvnoads
 Version: 1.0.1
@@ -1116,14 +1082,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 156
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.ndtvnoads_1.0.1_iphoneos-arm.deb
-Size: 4046
-MD5sum: 9d1f9422a0c24fd10f9e4d1eb0a58598
-SHA1: 11c3151aa5e437fd6ac11901696f82d2f5a94534
-SHA256: 31dc9c9ed29102ae0521f8af86b25f8e556cc458cb899b381f503d7ee4d31cc2
+Size: 4168
+MD5sum: 72cab3bb70b527038b05f207b1134f39
+SHA1: 93403632d6e3f9dd3e9a054fec72d1971ef75ad8
+SHA256: a5eec063ba1daeea89ec648660b222006ee10603c8abdb3e18dab3c5c39afdf3
 Section: Tweaks
 Description: No Ads in the NDTV News App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ndtvnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ndtvnoads/icon.png
 Name: NDTVNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ndtvnoads.json
 
 Package: com.p2kdev.ndtvnoads
 Version: 1.0.1
@@ -1132,14 +1101,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.ndtvnoads_1.0.1_iphoneos-arm64.deb
-Size: 3278
-MD5sum: b35a5b590f533a646227ffe91f7a22aa
-SHA1: ac50e2febb3a265d2234efdc7480218763332802
-SHA256: a014905a091e727eea1949b22839b37539de356f4739df17c961ccb58f0c00dd
+Size: 3488
+MD5sum: 527c00b0ab5e8ba7c80c41ea50e6af85
+SHA1: b9015cc4133c81ab5bfe6ba0844656e137d71537
+SHA256: 85c8875f9c9c681a678f55c9b026be37f9f7886a4dd420d07f6b7d5f6be14116
 Section: Tweaks
 Description: No Ads in the NDTV News App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ndtvnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ndtvnoads/icon.png
 Name: NDTVNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ndtvnoads.json
 
 Package: com.p2kdev.nofaceidwait
 Version: 1.0
@@ -1148,14 +1120,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm64.deb
-Size: 3076
-MD5sum: 16cfbf5071b30225a51e1edff3e33d7b
-SHA1: b3ae8f997606ed84611c1725c3065d5f101ccdde
-SHA256: f6495bde43fe9e6aa2dfed9109ca47188134acc9f9627ce00701e638b13aa2d3
+Size: 3272
+MD5sum: 2e08409f27a1244a8994299f27480335
+SHA1: ca9dcf67eda9382ab30b7fa84a9bb9d2509409a9
+SHA256: aeb013f20042b82d9e676ba4df9668256995725d5cd1420c471f3632f035089b
 Section: Tweaks
 Description: Skip face id scanning and go straight to passcode!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nofaceidwait
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nofaceidwait/icon.png
 Name: NoFaceIDWait
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nofaceidwait.json
 
 Package: com.p2kdev.nofaceidwait
 Version: 1.0
@@ -1164,14 +1139,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm.deb
-Size: 3006
-MD5sum: 0ef891aa81075c372921f6a9221f9eb1
-SHA1: f59dae934a610f199c0ececf610c1f803dfe9b15
-SHA256: 28ceef4fc7b45afe5564aaf86efd0cf6c1b6a77f1d4e0d1c20b415044808d03f
+Size: 3224
+MD5sum: 0de4bfab0d8fb446051c96aa471167af
+SHA1: 91b5c50e6d88303f174dad0b225944ca2fd54e93
+SHA256: 6f03ec563d34656095b6d1f307f25895e97094c85320b959bcb5ad3e55b6883f
 Section: Tweaks
 Description: Skip face id scanning and go straight to passcode!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nofaceidwait
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nofaceidwait/icon.png
 Name: NoFaceIDWait
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nofaceidwait.json
 
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
@@ -1180,14 +1158,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.nosettingsbadge_1.0_iphoneos-arm.deb
-Size: 2924
-MD5sum: d279c73f388cfe3a81d3eabbd4448519
-SHA1: 20f0ce3e4872ecdddf8ec07557010b28489fcf2f
-SHA256: 2132fce11e0f982e5902fbfe86c43cb44d7886a91a3244a407d200ddf9f40cca
+Size: 3136
+MD5sum: a69525cbc8e1ce56c3baec7bdd82f2c5
+SHA1: d40147e5e2721f20428daa65ba52513755cfca12
+SHA256: 4879fee3ef9a6d72e176a9d8a001a723099604777b0165febe671056ef6ec436
 Section: Tweaks
 Description: Removes the annoying badge on the settings icon!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nosettingsbadge
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nosettingsbadge/icon.png
 Name: NoSettingsBadge
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nosettingsbadge.json
 
 Package: com.p2kdev.nospotlightonls
 Version: 1.0
@@ -1196,14 +1177,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.nospotlightonls_1.0_iphoneos-arm.deb
-Size: 3442
-MD5sum: 6c238ecf47ef5dc03d1b3e8b7e2e4e8e
-SHA1: dcf4c6ef874e8e23b848b17cde9246e7882df290
-SHA256: 9040012ebdf2739666198090ff9fa8ef008517f118f3fedb4943e7e466da74a9
+Size: 3568
+MD5sum: 2fa1f775142364e3f02e6e543206bb96
+SHA1: fe68fdf0495a62f3a2a20fc436257de1caac0669
+SHA256: f3aabe55c28588fec84c53cc83ebc52b03aed8c354e5b1a5bb224a58c118f80e
 Section: Tweaks
 Description: Disable swipe down on LS to open spotlight!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nospotlightonls
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nospotlightonls/icon.png
 Name: NoSpotlightOnLS
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nospotlightonls.json
 
 Package: com.p2kdev.nospotlightonls
 Version: 1.0
@@ -1212,14 +1196,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.nospotlightonls_1.0_iphoneos-arm64.deb
-Size: 3498
-MD5sum: cfda80213e447a68481407e5a243439e
-SHA1: 542a04c778e5a01ee6ef811665e405cca1d7c0dc
-SHA256: 6f6e42878e23b5e0fda9a0f21a9a0667664173c66e62fd446c63df748c924791
+Size: 3616
+MD5sum: aaf2e06e8e055b1f458fe35d900664df
+SHA1: 3ac054c3d96d956f3d4ff5742fe8df4271a0a713
+SHA256: 44d180ffdfe9b6ed93a389a1ae915d1aff303a1d78610b40d5bff1243387de0d
 Section: Tweaks
 Description: Disable swipe down on LS to open spotlight!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nospotlightonls
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nospotlightonls/icon.png
 Name: NoSpotlightOnLS
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nospotlightonls.json
 
 Package: com.p2kdev.pagedotmover
 Version: 1.0
@@ -1228,14 +1215,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.pagedotmover_1.0_iphoneos-arm.deb
-Size: 6560
-MD5sum: 00d26265a142ddb6c9b8b6c6ec0320b0
-SHA1: 3b0e0c2122114cf3a19a1bca679eec2ee347a09c
-SHA256: 72db661346fa95e986a8eee69fcc1e5a3512510ac787ea56bdf71bf7bd412303
+Size: 6556
+MD5sum: 175ebdcc22a212ec2bf35156c93a823c
+SHA1: 29b62000338d179a15f358cb513339fe08099a6b
+SHA256: 99fac6878feceb1e14442a21ec5f3c5cd0d45e492b8b81f64a80c26eb23627fb
 Section: Tweaks
 Description: Move the page dots up/down!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.pagedotmover
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.pagedotmover/icon.png
 Name: PageDotMover
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.pagedotmover.json
 
 Package: com.p2kdev.pmconfirm
 Version: 1.0
@@ -1276,14 +1266,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: firmware (>= 13.0),mobilesubstrate
 Filename: ./debs/com.p2kdev.pmconfirm_1.2_iphoneos-arm.deb
-Size: 8760
-MD5sum: 3b0658a33a20bff788dd6b8429693278
-SHA1: 9ab5dd5743c80b2936a3cfd6fe02c839aa9cc40c
-SHA256: 346540c62061abc6a3569237640af4979e3ca657a3a234250f7c060867f66794
+Size: 8976
+MD5sum: 8909f02ce66b9473bdb06d122bbe40a7
+SHA1: bb09e615541df3aa05447b7fb5bbf87f189e1aae
+SHA256: ddabe4fa8def91553b706604e6a8364c4e92b366fe93de64ee83db95c20fdd3e
 Section: Tweaks
 Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.pmconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.pmconfirm/icon.png
 Name: PMConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.pmconfirm.json
 
 Package: com.p2kdev.pmconfirm
 Version: 1.2
@@ -1292,14 +1285,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: firmware (>= 13.0),mobilesubstrate
 Filename: ./debs/com.p2kdev.pmconfirm_1.2_iphoneos-arm64.deb
-Size: 8814
-MD5sum: 0ec0d489ff3a65c56039d15c582ece40
-SHA1: 08b68e00e43de0d65b17479006c210587a22ef40
-SHA256: e156bdd2b8cefb7da64ae2237ee9c604fe7f39d2ec0feb2d57d192f450a280b1
+Size: 9016
+MD5sum: 7ed4d01ec9b112263e837f64e32168d8
+SHA1: 8e2305b79351174f4150665fbbd029a13fd0114c
+SHA256: 4984775dc88286c8230939639aacc9a82c38a5ccf5f2ae8c06ef6aac50c75898
 Section: Tweaks
 Description: Confirm when setting alarms for PM!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.pmconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.pmconfirm/icon.png
 Name: PMConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.pmconfirm.json
 
 Package: com.p2kdev.purerecents
 Version: 1.0
@@ -1308,14 +1304,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.purerecents_1.0_iphoneos-arm.deb
-Size: 3336
-MD5sum: 39d73542af650db194ffa1a626b973db
-SHA1: 1847a1828163130d05ae00b2ce1e028f5cbaeb2e
-SHA256: 2ce8bc687d0ed03e471a5a549bc459f10cd1c4571308cc9855089a062967c0c2
+Size: 3496
+MD5sum: 5bab16e3940515df6b5b37aa91950bf7
+SHA1: a772fda7ab99c73d65bff535b5b3b227d001a541
+SHA256: db1f5eee75d2e50ddd3920248378caae1f780a2461cd113b04e6502c839c88ef
 Section: Tweaks
 Description: Remove third party calls from Recents in Phone App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.purerecents
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.purerecents/icon.png
 Name: PureRecents
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.purerecents.json
 
 Package: com.p2kdev.purerecents
 Version: 1.0
@@ -1324,14 +1323,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.purerecents_1.0_iphoneos-arm64.deb
-Size: 3044
-MD5sum: 158df75b3b0fda9256e47e94e6026cdb
-SHA1: d972bce8270b567d3c710e1376fd92c41ee6d00a
-SHA256: e99079dd6463790e17eaa0a4f3f8527bd5f69b1b3c54315af4d72db663812019
+Size: 3248
+MD5sum: 3cb6c9d437d35069e47d0c88f7d6439d
+SHA1: c8a011fcf2d80e4e4dcee6eb6da3121ec8630d0b
+SHA256: af18e3242060c2f35a3774839207ed8ac02e53c4452f96a586cf5612281f59dd
 Section: Tweaks
 Description: Remove third party calls from Recents in Phone App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.purerecents
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.purerecents/icon.png
 Name: PureRecents
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.purerecents.json
 
 Package: com.p2kdev.quickactioncalc
 Version: 1.0
@@ -1340,14 +1342,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quickactioncalc_1.0_iphoneos-arm.deb
-Size: 5782
-MD5sum: 436fb24c033488d1cb2e0e9282869b93
-SHA1: ba9066eccc002853a49765c8110acfef052aaee5
-SHA256: 872259c8655f73474b63f33d24922aa241930c0b59daf2c7bcbdaa80f9ee961d
+Size: 6008
+MD5sum: 6b31c2a08ba3a96029946ffec3e006c0
+SHA1: 2f950c1082acac356c6e93bce192e40b88767cfb
+SHA256: 27328f9394e820e9a447318b16bde02d2b4b835a54993f950e9a1d08640db6a2
 Section: Tweaks
 Description: Change the camera quick action button to calculator!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quickactioncalc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quickactioncalc/icon.png
 Name: QuickActionCalc
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quickactioncalc.json
 
 Package: com.p2kdev.quickactioncalc
 Version: 1.0
@@ -1356,14 +1361,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quickactioncalc_1.0_iphoneos-arm64.deb
-Size: 5842
-MD5sum: 2d458ba0ad801ad5448e898716dc392f
-SHA1: 5a0eb85e83eb2e500f4c83de8c514570f85f222e
-SHA256: d34b90812c2b4a95bfc750564a37c54c529ac8cd759ebcab4e128977d30759a9
+Size: 6048
+MD5sum: e406b4c531c2873bdde9556bcf455293
+SHA1: c145f8826aa5c77f2fd846106edf8cff9a574855
+SHA256: 295e254cf2d4b6a720e6028543942f776f25d126c4cba3b647e99891841e17e8
 Section: Tweaks
 Description: Change the camera quick action button to calculator!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quickactioncalc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quickactioncalc/icon.png
 Name: QuickActionCalc
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quickactioncalc.json
 
 Package: com.p2kdev.quickactioncalc
 Version: 1.0.1
@@ -1372,14 +1380,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quickactioncalc_1.0.1_iphoneos-arm64.deb
-Size: 6470
-MD5sum: 123f7fbd80383c55b2f4219b9c528803
-SHA1: f05e05a0258c1cf278fab055e3b4814842179f4a
-SHA256: b2e24c3bc6fa4a6960d43ec5a354a246a2fa5040e37febf4f5bee13deeec9f6f
+Size: 6680
+MD5sum: 67ef853d470fd9e12fd7db6a28f179d0
+SHA1: 4a9421b5f9f85c72b108fd2c320b98036e966b72
+SHA256: c6fe06b31e85449b1033d401926584fee4feedbf99ae6bbe90231e5c788b8968
 Section: Tweaks
 Description: Change the camera quick action button to calculator!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quickactioncalc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quickactioncalc/icon.png
 Name: QuickActionCalc
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quickactioncalc.json
 
 Package: com.p2kdev.quickactioncalc
 Version: 1.0.1
@@ -1388,14 +1399,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quickactioncalc_1.0.1_iphoneos-arm.deb
-Size: 6408
-MD5sum: adcc3ba79dc28ae22b4864a9c4f13370
-SHA1: b28fa338868191e28f22f2833ee64acf892b0e13
-SHA256: 8d0798fa915648ac3a8c9712ee7fce09b50bf514096f96a7e722ed499c0202c9
+Size: 6640
+MD5sum: 41cd2b53b263ba4df0341bc26cec9b0e
+SHA1: 681f9cdafaf1804bdc1e9414228fb067d1badc58
+SHA256: 43bcc687531f18b241d1f7741ec0b278989cbbac0ced9af3b763194115cb1f66
 Section: Tweaks
 Description: Change the camera quick action button to calculator!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quickactioncalc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quickactioncalc/icon.png
 Name: QuickActionCalc
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quickactioncalc.json
 
 Package: com.p2kdev.quitall
 Version: 1.1.1
@@ -1484,14 +1498,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quitall_1.2_iphoneos-arm.deb
-Size: 12832
-MD5sum: 497e05f2793e91a1decaf5fe91acd018
-SHA1: 87eb107c1a19161d0090fe73c13bf51819063e4e
-SHA256: 07a7ca6f965c439f0c52396143f40a2314eca55131a2f0535fcdc7393c808fd4
+Size: 12516
+MD5sum: 25e0d9335a4264140d63bc9ac2d8dd7b
+SHA1: 6696fd236ea94cfc74e4ae362120cd4ef6cc5d15
+SHA256: 1b42865986443a7b6a817ab74c197cacfb1e4134c81d27daa0fa17c9b1e5fa70
 Section: Tweaks
 Description: Swipe down on app switcher card to kill all apps!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quitall
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
 Name: QuitAll
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
 
 Package: com.p2kdev.quitall
 Version: 1.2
@@ -1500,14 +1517,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.quitall_1.2_iphoneos-arm64.deb
-Size: 12940
-MD5sum: 33a01d4a1c9176d02c0f476538d1c296
-SHA1: b10f4d319e775044e3f1ecb4c114db3430f1aaa7
-SHA256: 1fc2de787c78d8bcbc68c20954d5aa9b278ba06bcd954d58bc6ab52634178bb3
+Size: 12596
+MD5sum: 4ac9eb30583f2c109c1e636bc3d0c513
+SHA1: 6b3ed70a85ffc8be045be8f125fdd649bb4afa51
+SHA256: 115dec9b68aeaeeccec8a53baca9bd3f55179a38ae90e76715fb776c599879e6
 Section: Tweaks
 Description: Swipe down on app switcher card to kill all apps!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quitall
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
 Name: QuitAll
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
 
 Package: com.p2kdev.reachmore
 Version: 1.0
@@ -1532,14 +1552,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.reachmore_1.1_iphoneos-arm.deb
-Size: 9310
-MD5sum: 3ddc3e1ec68992a9b4ccc6dcee726c91
-SHA1: 3bd5dd44adf2110975deac64884a63c9f1a9c7ba
-SHA256: 4224e2fbb4bbb9891eb540c5697de9b85d16008244dd23d8ad04e2e6437f1e8b
+Size: 9172
+MD5sum: 71dd346f0fec586f254f68cdc689cf18
+SHA1: a1887a7116b0f9cdc1623a7e34902f35f02b767f
+SHA256: ced866c63e54588f8bdddb9ee01e42d3b97a90c60389e4b894c0384840f52b10
 Section: Tweaks
 Description: Perform additional actions on invoking Reachability!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.reachmore
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.reachmore/icon.png
 Name: ReachMore
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.reachmore.json
 
 Package: com.p2kdev.reachmore
 Version: 1.1.1
@@ -1548,14 +1571,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.reachmore_1.1.1_iphoneos-arm.deb
-Size: 10000
-MD5sum: 04f9ba7c4d29fb8720288fd319359971
-SHA1: 0a2b314ee3ffe991f9045ef11798c62f5a09184c
-SHA256: 6b90f9e65606aad4413169d6a9c477f1ad77d6c7ecd20bb47fdec4ad248ca1f7
+Size: 9816
+MD5sum: cf1870e2b4b34c99b08e3248c937ef19
+SHA1: a139e42f890935126287929331e0684b5da7539a
+SHA256: a6c440832d965dc8c331d61e1225b36512bc115b09ae0fb1304e89b1ea068909
 Section: Tweaks
 Description: Perform additional actions on invoking Reachability!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.reachmore
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.reachmore/icon.png
 Name: ReachMore
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.reachmore.json
 
 Package: com.p2kdev.reachmore
 Version: 1.2
@@ -1564,14 +1590,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.reachmore_1.2_iphoneos-arm64.deb
-Size: 4924
-MD5sum: 8b6e3a3940001c2ab8d1b2e9497e9cda
-SHA1: 557efd57e82e1e40c96c9bca017131d931a9c1e8
-SHA256: 14a21c3fef7c713215e8ddba19f5dca41171bc2cb085b8ac8a2998e1e070f7c9
+Size: 4976
+MD5sum: dbc7a65c2f8cb59f66a3fb17310fd853
+SHA1: 62fb820417d8792566e4323bcf04f9e11e25631f
+SHA256: 0a7c02943bc29cee1a14e1c124b0375ce3f85d214327fd70400fbb912316118c
 Section: Tweaks
 Description: Open NC when swipe down on left,open CC when swipe down on right and open rechability when swipe down in center!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.reachmore
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.reachmore/icon.png
 Name: ReachMore
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.reachmore.json
 
 Package: com.p2kdev.redditnoads
 Version: 1.0
@@ -1580,14 +1609,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.redditnoads_1.0_iphoneos-arm.deb
-Size: 3020
-MD5sum: 9794517d0ee7348889e905299e52828d
-SHA1: 16790a9e4a3ad45851e17e0ec9bc284166eb486e
-SHA256: 7037c0066fb876cd967b96b95d1da20cf52620e8abe86e1e9114a925fcbd5974
+Size: 3148
+MD5sum: 6d7d76d8299c7054bac3aba9f88c20ae
+SHA1: 3f13388a83e58419906b16bd63e6e409910dd93d
+SHA256: 63da6731730dbf6bfea390f78f90804b2069b141898f380c7f6d66b0751c289c
 Section: Tweaks
 Description: No Ads in the Reddit App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.redditnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.redditnoads/icon.png
 Name: RedditNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.redditnoads.json
 
 Package: com.p2kdev.ringpercentlabel
 Version: 1.0.5
@@ -1596,14 +1628,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: firmware (>= 14.0),mobilesubstrate
 Filename: ./debs/com.p2kdev.ringpercentlabel_1.0.5_iphoneos-arm64.deb
-Size: 6698
-MD5sum: b4e70ccf1ef117ac9fdbbd57add37aa5
-SHA1: 854e7b2ec6713f045f6fb383934da6d86bac84e6
-SHA256: aaab1793a5d87f464cab3b10b17a9b2c81d0c6439df66a9569cca1929624c45a
+Size: 6908
+MD5sum: 783f14f4ca9da33a7cf5a6e04bde16ac
+SHA1: 3ff7cdba0d17b1f94b6a11efb801cd76cfec67c7
+SHA256: 9d1fa9805fd11fbe19060bc7d765c218b3cfdc44543ddc99b37d9710994b3265
 Section: Tweaks
 Description: Percent Labels for the Battery Widget Rings!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ringpercentlabel
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ringpercentlabel/icon.png
 Name: RingPercentLabel
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ringpercentlabel.json
 
 Package: com.p2kdev.safarifasttype
 Version: 1.0.2
@@ -1612,14 +1647,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.safarifasttype_1.0.2_iphoneos-arm64.deb
-Size: 6172
-MD5sum: c430df75d016da392e6646536e0fd693
-SHA1: e471eda34d47511e17325089141750f4ae28b5b9
-SHA256: 165ce08b35027d55b81ba9c3268348419951447f089093c95fad0e71b5b4a454
+Size: 6376
+MD5sum: 9d225e404251440efbcd4e0d6c7fee2f
+SHA1: e3ac5d23ffcaa926212380981b0b7b8139f3ce62
+SHA256: e77cb09b64caf14e9a9fd597a8c2a132f555dfba7f49b89ba729b4f13f27bef5
 Section: Tweaks
 Description: Opens the keyboard after you open a new tab in Safari!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safarifasttype
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifasttype/icon.png
 Name: SafariFastType
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifasttype.json
 
 Package: com.p2kdev.safarifind
 Version: 1.0
@@ -1644,14 +1682,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.safarifind_1.1_iphoneos-arm.deb
-Size: 7984
-MD5sum: abfdde9ecc49e70bfa61d4bf0d9a8ccc
-SHA1: 0c02bb62d5036b2aed16c67aea73f81fb60dcb82
-SHA256: bbfeceae10500f203dc8b4e14631099ebeb749386373a4565d96536afcc8e117
+Size: 7892
+MD5sum: 49afa5b204032f32176f166e66571ac7
+SHA1: baa35c4475dc6d9f2e3d797624a92516409ab156
+SHA256: 8e7af9d77cff6c4d2cf0c275749fa55f8304e964d7b658d31c43309cfb6fdf7e
 Section: Tweaks
 Description: Easy access to find feature in Safari!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safarifind
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifind/icon.png
 Name: SafariFind
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifind.json
 
 Package: com.p2kdev.safarifind
 Version: 1.1
@@ -1660,14 +1701,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.safarifind_1.1_iphoneos-arm64.deb
-Size: 8038
-MD5sum: 6e565dbd2f0395968f9dd1c9cc60c1ad
-SHA1: 232114c645302cfc1153244beba5876db2b93e7d
-SHA256: 208cc7ba86a7db242ddc08bfb139291e9d11852a8b8de57d6e2844d75a5afa02
+Size: 7948
+MD5sum: fd0436f600987f80004ccf8286b7b868
+SHA1: 4dbe10ecf1be6f0978e5a66512fd2b6c0a2b7a71
+SHA256: 02a1086aac7a7a197bfc5f11096e662e333c110d3e520f07a5a14ba68f256259
 Section: Tweaks
 Description: Easy access to find feature in Safari!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safarifind
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifind/icon.png
 Name: SafariFind
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifind.json
 
 Package: com.p2kdev.safarifind
 Version: 1.1.1
@@ -1676,14 +1720,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.safarifind_1.1.1_iphoneos-arm.deb
-Size: 8056
-MD5sum: a016b0e13a65036184f5aaa4f5726dac
-SHA1: 8528875125380238b81bef45d2ca65a8de7612f3
-SHA256: 70e3d3765efea673c0af1528a58909f71f251458d1b65b5d2af44cd025047029
+Size: 7988
+MD5sum: 4a84843d86f589390f887111262ba64a
+SHA1: b27b237bacc422dc2cc49598f39522be10463185
+SHA256: e187e13b9a7e487d70c886198633750d4982e33377f87824a59de3dc8c46531a
 Section: Tweaks
 Description: Easy access to find feature in Safari!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safarifind
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifind/icon.png
 Name: SafariFind
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifind.json
 
 Package: com.p2kdev.safarifind
 Version: 1.1.1
@@ -1692,14 +1739,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.safarifind_1.1.1_iphoneos-arm64.deb
-Size: 8112
-MD5sum: 97396d1482aa6ae0d0544bdecd4face7
-SHA1: 1e284875a141556c343d00e7b764bfb353edc6b0
-SHA256: cd9a6b07072ac92bc67d4997f87dfdf6ec062f29a7400e0cddc9fa2f20084491
+Size: 8040
+MD5sum: ec982c54b24fd9c24b9197c39109143e
+SHA1: b3f3d8cd45eb640cfb59b228360f2473f4899d75
+SHA256: 3b5f0353e6f284d6008aae7f1b5d77ec325686611abf78d0e963292c1e06fe91
 Section: Tweaks
 Description: Easy access to find feature in Safari!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safarifind
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifind/icon.png
 Name: SafariFind
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifind.json
 
 Package: com.p2kdev.sakal
 Version: 2.1.7.8
@@ -1788,14 +1838,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 668
 Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.sakal_2.2_iphoneos-arm64.deb
-Size: 82410
-MD5sum: 77511f4afce911f4f258fbaf0bc1fe4a
-SHA1: 5cf844d2eefb99415ebec0e083def46138505cb4
-SHA256: f4bf3793efb8287c85ec3c5a3f62aecb6bc2e6f9e3192f124a432a6cb0d68dff
+Size: 78656
+MD5sum: 34adac76537e2cb74fd0a9a9068a68b1
+SHA1: ba20c39a441c31056931f72eb477045724f4088c
+SHA256: 1adfbf5136ae4fe5f8b699c67fb2b1f6b710710f4d9bd67f0422b8c89f00c77b
 Section: Tweaks
 Description: Useful at a glance information on your lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.sakal
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
 Name: Sakal
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
 
 Package: com.p2kdev.sakal
 Version: 2.2
@@ -1804,14 +1857,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 668
 Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.sakal_2.2_iphoneos-arm.deb
-Size: 82424
-MD5sum: 1fae02bae63ad6eafd153772b3fad011
-SHA1: fac92174ca969d693316bd1e3a089efa46ddd08d
-SHA256: 7d6e07d22b8833e13a00dda37255c0959cc7adfd39e0da15bdee8719e0aac093
+Size: 79128
+MD5sum: cf14f068c69f6e7579b1788f7c064898
+SHA1: 387fe1fa7a4e9d6eda141f1d51d4fde28cf6a3a7
+SHA256: 9fd3d71fb3e85a3c4e23b8d569dc8dc914a8bc914c5323b78abb59dd3bd2f584
 Section: Tweaks
 Description: Useful at a glance information on your lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.sakal
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
 Name: Sakal
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
 
 Package: com.p2kdev.screenshotactions
 Version: 1.1.1
@@ -1820,15 +1876,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 164
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/com.p2kdev.screenshotactions_1.1.1_iphoneos-arm64.deb
-Size: 18618
-MD5sum: 6383b0fc992277162f7f7b4ac2782671
-SHA1: a7aafa08125b21e05bfc96d8cc0cea38f5377e65
-SHA256: 6664d5e5ec07e20e63177232239ba5e4c11eabbec1a5aac61a121f5a64d077be
+Size: 18820
+MD5sum: b338648e7a7b0a192613670e53caae5f
+SHA1: 4c5e24ab28f1a29642cc7b18c8f81e540a89f3b2
+SHA256: 0ceec986059ec3d75b12e7f9f7650bd38eec2ea61506bfd675ea664d4052c5f8
 Section: Tweaks
 Description: Add Quick Actions to the screenshot preview!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.screenshotactions
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.screenshotactions/icon.png
 Name: ScreenshotActions
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.screenshotactions.json
 
 Package: com.p2kdev.simplebattery
 Version: 1.0
@@ -1939,15 +1997,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 472
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.simplebattery_1.2_iphoneos-arm64.deb
-Size: 41496
-MD5sum: fc853fec60402d2205b76e3e88fe0927
-SHA1: 31a67e0e557e5d98c09f2110e9fa9c8c1bb4a7e8
-SHA256: 052fa41b4ab9588986fcda9d88dc4c6b0b3b85a742b2f76e6047324d6f786233
+Size: 40268
+MD5sum: 6df1a432c4f118f30e62217035390288
+SHA1: a2a1bf08fe6f495359a48ad184dfb0351f3bdea7
+SHA256: 11b61a1c77e4d98f3066541f5624c2cce2a3bd6c23b95a936b911d581ae59d76
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/icon.png
 Name: SimpleBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
 
 Package: com.p2kdev.simplebattery
 Version: 1.2.1
@@ -1956,15 +2016,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 472
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.simplebattery_1.2.1_iphoneos-arm.deb
-Size: 41840
-MD5sum: 20e38dcca46ca4b87ac14e659f7cdebf
-SHA1: 2813e3bbb0ab0bd9b9509d3baa98429df068e097
-SHA256: 764e40136423ab6064ccd63052e97e0218397337b8f64bc3e9e2eb706bae79da
+Size: 40712
+MD5sum: 3646ec7d570ccca65e51f9c72a9ed857
+SHA1: 5c3432688086aaecb2ed9a290697b864000fa20e
+SHA256: 5fbad1aaa0b64dffb34302aabc12520b62892f506dfff4d6974a641ecfd5f5fd
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/icon.png
 Name: SimpleBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
 
 Package: com.p2kdev.simplebattery
 Version: 1.2.1
@@ -1973,15 +2035,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 472
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.simplebattery_1.2.1_iphoneos-arm64.deb
-Size: 41914
-MD5sum: 700cee2e24f6f61cceb1f8c952c40834
-SHA1: 5b02c5f79855a1da36e28f1bcd5e479dda3f494d
-SHA256: 3b1712d9541a466881b70a8f022c4053161ab0254aa9079e414fdab80dc90400
+Size: 40760
+MD5sum: dcef7e5dd84f627f872c07abafca6c5b
+SHA1: 11afdcd1b6fb6002b0899cf671a11fe532897b53
+SHA256: f1b78917f78efc051e7bf339d7386658ead8e44a0211b29011ad3a011c56a82b
 Section: Tweaks
 Description: Simple Battery for Notched Devices!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/SimpleBattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/icon.png
 Name: SimpleBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
 
 Package: com.p2kdev.smartpower
 Version: 1.0
@@ -1990,14 +2054,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 332
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.smartpower_1.0_iphoneos-arm.deb
-Size: 23500
-MD5sum: 0786fab27fc422690f8b255ce097f9af
-SHA1: 16ce714d0d7d6cd4156361d13cddee165fc812c8
-SHA256: e7aefd049328dcca48125ae96353556542c929d955f793d49f773d161f45daea
+Size: 23676
+MD5sum: dcec164d6369d611bbff19d5561398f6
+SHA1: 3354a5368c1b9570e272a4fb02eb6526ed566f7b
+SHA256: 4e2aacff97c59f8b8a1dc3fb539050310783e156a2d33131e835ba1638e52476
 Section: Tweaks
 Description: Make Low Power mode Smart!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.smartpower
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.smartpower/icon.png
 Name: SmartPower
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.smartpower.json
 
 Package: com.p2kdev.smartrotatefix
 Version: 1.0
@@ -2006,14 +2073,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate,firmware (>= 13.0),com.laughingquoll.betterrotate
 Filename: ./debs/com.p2kdev.smartrotatefix_1.0_iphoneos-arm.deb
-Size: 4662
-MD5sum: c575b5f2a8a6528636bb87f29174d378
-SHA1: d7a4640b7c872438d759416262e9091b3c181cad
-SHA256: 666972371a32fb4b7f85f93b6facbb92b0301d611ed306ea0e34567c55e0c1a5
+Size: 4880
+MD5sum: e18728e665354a5454fd166946d70b8b
+SHA1: a8f3f32150b0e019cf6e054d92a562cd39357986
+SHA256: 2d7b585a6d72c9ae8de2151eb774ed3e919d81cf0a7a356d8cbe43e3223cdcbb
 Section: Tweaks
 Description: Fixes for the SmartRotate Tweak!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.smartrotatefix
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.smartrotatefix/icon.png
 Name: SmartRotateFix
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.smartrotatefix.json
 
 Package: com.p2kdev.snapper2cc
 Version: 1.0
@@ -2022,15 +2092,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 192
 Depends: mobilesubstrate,com.opa334.ccsupport,com.jontelang.snapper2.packix
 Filename: ./debs/com.p2kdev.snapper2cc_1.0_iphoneos-arm64.deb
-Size: 13424
-MD5sum: fa256753fe0d692b425d825e39f56c80
-SHA1: 2c9f776a5eece05c75b0417fef2f72baf5bda4ea
-SHA256: 2e1bb7772fb684b2352ae1277d07f723f12ff9b987658208e1860d81c740c36a
+Size: 13600
+MD5sum: ef9c90991be1e44551d251ca11bc9220
+SHA1: 54ae35fe2d92b9fd05729671d6a98a7555c9fb65
+SHA256: dd4acbce809630c79b7a3db7dc34ec7101a3b57fda9f799d8c9408bf4d95ac89
 Section: Control Center (Modules)
 Description: Invoke the Snapper2 Tweak's actions using CC Toggle!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/Snapper2CC/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.snapper2cc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.snapper2cc/icon.png
 Name: Snapper2 CC Toggle
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.snapper2cc.json
 
 Package: com.p2kdev.spotbetter
 Version: 1.1.2
@@ -2057,14 +2129,17 @@ Installed-Size: 396
 Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
 Conflicts: com.imkpatil.spotclearonclose
 Filename: ./debs/com.p2kdev.spotbetter_1.1.3_iphoneos-arm64.deb
-Size: 24500
-MD5sum: aaad32d185c2dc56bbda02ae16633f10
-SHA1: c287be293a3cf2e96bff0b205c59f225f7364f45
-SHA256: b8e2a3d50fd84b705af671bddbfc3cd24671c3b96e4b9ed61b867309ebd94758
+Size: 24696
+MD5sum: 8b623d873a7d5314b9bc1726424ec579
+SHA1: f53381a5948972bb16c7ba7c666cba0b1bf2553f
+SHA256: fba6ae91991809796bc7624a810c27449fe13447207529be522da118dfc46912
 Section: Tweaks
 Description: Better Spotlight!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.spotbetter
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.png
 Name: SpotBetter
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
 
 Package: com.p2kdev.spotbetter
 Version: 1.1.3
@@ -2074,14 +2149,17 @@ Installed-Size: 404
 Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
 Conflicts: com.imkpatil.spotclearonclose
 Filename: ./debs/com.p2kdev.spotbetter_1.1.3_iphoneos-arm.deb
-Size: 27102
-MD5sum: 01ae841c1cec1667214b549c8dcdeb09
-SHA1: cd7fb031f94cb2515af09af3930fe65c2ccad5de
-SHA256: 383b9e047ecfbd7ba871976c6e45c9fbe5e5a3d423a28d3ef54e8beff7cfcdae
+Size: 26612
+MD5sum: 2d817eeb45e8666af58a6d4f034745a8
+SHA1: 3ffedb1ff7c11fbe7e0018c10efc9dc1c20833c1
+SHA256: ddc86fddcee6ccdb17f749349d83cdec860d8d9b1580e25cea41025ff467e584
 Section: Tweaks
 Description: Better Spotlight!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.spotbetter
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.png
 Name: SpotBetter
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
 
 Package: com.p2kdev.springboardtweakfixer
 Version: 1.0
@@ -2090,14 +2168,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.springboardtweakfixer_1.0_iphoneos-arm.deb
-Size: 3386
-MD5sum: 1b9b3bd4b572855ff3134b767146b1c7
-SHA1: 015b43ca967234d5f8201e5d12bb1a8e1dcf2f9b
-SHA256: 5f270daadec42d39008b3d24ef3ac1a1eba48ee5cb9156d94276c6a7c2d590ce
+Size: 3512
+MD5sum: 39d4dd6c61525847570095504a62b48d
+SHA1: 16198537b2167c5c84a8fd10be5f1915152c91d3
+SHA256: f2f3ca6cdcb9d530d1fdd37f4ee2b3729c48e7386fc9623d0526dab2dc10c3e6
 Section: Tweaks
 Description: Fixes issues with SpringBoard Tweaks!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.springboardtweakfixer
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.springboardtweakfixer/icon.png
 Name: SpringBoardTweaksFixer
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.springboardtweakfixer.json
 
 Package: com.p2kdev.switchconfirm
 Version: 1.1.2
@@ -2122,14 +2203,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 408
 Depends: mobilesubstrate,preferenceloader,com.opa334.altlist
 Filename: ./debs/com.p2kdev.switchconfirm_1.1.3_iphoneos-arm64.deb
-Size: 30538
-MD5sum: e4fcbdf2ef886d049745e93c16168148
-SHA1: bffe306a3875777e315297b0b842e0711f769a86
-SHA256: 947121fb60d172984528335f437c20285a6ebc991a96694030c1abbcefbe7119
+Size: 30732
+MD5sum: f618b3aa9c53f907648cc57c30814290
+SHA1: 132186e59b3bea9042b9c2bbb8efdc1d7c70089e
+SHA256: e909dc865f876c5966e3611f415c66224d43301c5d0876e544214f1843e87ec5
 Section: Tweaks
 Description: Confirm before switching Apps!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.switchconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.switchconfirm/icon.png
 Name: SwitchConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.switchconfirm.json
 
 Package: com.p2kdev.switchconfirm
 Version: 1.1.3
@@ -2138,14 +2222,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 420
 Depends: mobilesubstrate,preferenceloader,com.opa334.altlist
 Filename: ./debs/com.p2kdev.switchconfirm_1.1.3_iphoneos-arm.deb
-Size: 35250
-MD5sum: 212ee3c914d901c5970822bad04a0183
-SHA1: 1dc0a7ce94101f4fe66e6ee65b26a94614153f43
-SHA256: 0bfb2da5dda2e40de4a6c1cafa49c127b070c98c91e1f764bc46c9edba62dd45
+Size: 34452
+MD5sum: 193ff29302dc5e22fcb4feb0f78d6acd
+SHA1: c83d293aba76fa7e398bf41e6716c240789ec5e7
+SHA256: dc96c0deec43a387994d47eca07e4b5e82f68b734a0c48b58046d69e71c36a73
 Section: Tweaks
 Description: Confirm before switching Apps!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.switchconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.switchconfirm/icon.png
 Name: SwitchConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.switchconfirm.json
 
 Package: com.p2kdev.tapticboard
 Version: 1.0
@@ -2186,14 +2273,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 396
 Depends: mobilesubstrate,firmware (>= 13.0)
 Filename: ./debs/com.p2kdev.tapticboard_1.1_iphoneos-arm.deb
-Size: 23110
-MD5sum: aa8703c32ff80596fb83cebc50b5cec0
-SHA1: 8b94037309d06a68ce2280b230b5875e881cc2ed
-SHA256: d9d4b6ed9b130b2558536f11dd40f2925772b78cb5877de68d8085745e97b415
+Size: 23308
+MD5sum: b123cd180211ae10dfb8f565b2ef275b
+SHA1: 27dd759666a45a871b758220d64d27ae5ce44a74
+SHA256: 9038ddfb01c623117ce1c9822a2607c3a35c48ed5cd267a1365db3493341b7ef
 Section: Tweaks
 Description: Taptic keyboard without any lag!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
 Name: TapticBoard
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
 
 Package: com.p2kdev.tapticboard
 Version: 1.1
@@ -2202,14 +2292,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 396
 Depends: mobilesubstrate,firmware (>= 13.0)
 Filename: ./debs/com.p2kdev.tapticboard_1.1_iphoneos-arm64.deb
-Size: 23180
-MD5sum: ea667bcb8744066de287efc1f625642e
-SHA1: 9dac1f05291871e9e017012d4aef3d14fc194b07
-SHA256: 6f8ba67cbb0a45beb2a39bddb779525423d5f7b1b4bfd42642e3543742361df2
+Size: 23360
+MD5sum: 74c0256877f32cdb0e723c716a3c1955
+SHA1: af22c98cdae86a5ab726b950ab830676547a75a3
+SHA256: 7ee9b2925d6224c85e9849d3b256062180e990b1d08126e2ca1a4b4117cccb8a
 Section: Tweaks
 Description: Taptic keyboard without any lag!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
 Name: TapticBoard
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
 
 Package: com.p2kdev.tinywidget14
 Version: 1.0.1
@@ -2236,14 +2329,17 @@ Installed-Size: 156
 Depends: mobilesubstrate, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
 Filename: ./debs/com.p2kdev.tinywidget14_1.0.2_iphoneos-arm.deb
-Size: 7276
-MD5sum: 0c56a672b8bbfc5bf5fce8e281f4092e
-SHA1: 1247abaf30d27c0ed1a27eda486b777c5fd0135c
-SHA256: 50ce28b0e1dac1f1112c975aaa6e46308909c25c9c441ffdb49527136ec61c12
+Size: 7236
+MD5sum: 1b228189e8781f6c1c09b140fb5d5f84
+SHA1: 72783910bc00c696d9eec21fabffa5a5512d7184
+SHA256: f4b38025221a0b9bbd142ec69500d59519b348d0ee331e13baa470bad4d75e3e
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tinywidget14
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tinywidget14/icon.png
 Name: TinyWidget14
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tinywidget14.json
 
 Package: com.p2kdev.tinywidget14
 Version: 1.0.2
@@ -2253,14 +2349,17 @@ Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
 Filename: ./debs/com.p2kdev.tinywidget14_1.0.2_iphoneos-arm64.deb
-Size: 5322
-MD5sum: 949eb48e98674a5977d58afa66a0a495
-SHA1: dec264ee8401bb04b52598872f40d00e5ddba0ba
-SHA256: a3ff313b6ab45ae23ea3fd50762e11009150e6a01b81f78e9b4b71f52aab9512
+Size: 5528
+MD5sum: f1682f2e0c6918037d6b59d510bdcc94
+SHA1: 29e53ad2fb3ef9a055a6f8a7adb9da44b7579951
+SHA256: c8772f90b6f4ec356a0eb98532c633b7c21c595453acb863d1aff9d9a7e460df
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tinywidget14
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tinywidget14/icon.png
 Name: TinyWidget14
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tinywidget14.json
 
 Package: com.p2kdev.twitternoads
 Version: 1.0
@@ -2285,14 +2384,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.twitternoads_1.1_iphoneos-arm.deb
-Size: 4852
-MD5sum: 98b170428b2bad564fc2b7ebd5f2aef1
-SHA1: 795d6442632f4f0a13e96af5f48f6f3c921551c3
-SHA256: e81bd8aee1cdd299d7552adb59293dbe2396cad65368a314babe60c375c82b16
+Size: 5052
+MD5sum: cb72bb6132262890109e7b0e95bb3fc8
+SHA1: b0a51b62bec1c26c2550a4a3acc093478fdaf960
+SHA256: 4fce9d9f661ddd5b6240f5cdb6619de140998d5f1d98b7bb05b44dff96301af5
 Section: Tweaks
 Description: No Ads in the Twitter App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
 Name: TwitterNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
 
 Package: com.p2kdev.twitternoads
 Version: 1.1
@@ -2301,14 +2403,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.twitternoads_1.1_iphoneos-arm64.deb
-Size: 6358
-MD5sum: 9bee5fee07882441d5ee5609df4d7cb2
-SHA1: 5b764a185d073de319bf52954a44af290e5ce286
-SHA256: 84579e56e1c06ae30516e3956d5cbfb419027271df54b88bc591d3b5c1998827
+Size: 6340
+MD5sum: 3d3e3221e03a6449d6eda6fef2cacad6
+SHA1: 3c22f47379409b3dbd1d671d84d8f765d214edd2
+SHA256: 9707731677caa53cdd6e79493303aa224d71695c4d9feb69278e5c91b1666fc5
 Section: Tweaks
 Description: No Ads in the Twitter App!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
 Name: TwitterNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
 
 Package: com.p2kdev.waqt
 Version: 1.2
@@ -2317,14 +2422,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.p2kdev.waqt_1.2_iphoneos-arm.deb
-Size: 31890
-MD5sum: 8d7439bfcacba1ca73ba98c75d1b8f37
-SHA1: 51206d08c4fb072fa636e1a621265ae2d3073410
-SHA256: 44c6f12fe216a6928e6fed240abc4d9a26da06a64b763fc80ead30c597b57654
+Size: 31248
+MD5sum: b5dc8a9fb6396131d89aea898d4bd92e
+SHA1: 022552c81e2e6f0e0fdad78fb9e37d8404d22ae6
+SHA256: faec7b7dc2dafd6c61b77e66c4f9ed996168e44840d5c9f664fc095f43ab37c5
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.p2kdev.waqt
 Version: 1.2
@@ -2333,14 +2441,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.p2kdev.waqt_1.2_iphoneos-arm64.deb
-Size: 31950
-MD5sum: 15d304981c5ebcd0874ddad07ab57672
-SHA1: 0afefa8ac09c34c4793800e4c53ff4608eaed9bf
-SHA256: f85eddeec44734563b77839f37acc124b421925a121693f1b4fc495c956e628a
+Size: 31312
+MD5sum: 3ac9ad1f8cacb8f17c5fbb2099b478e8
+SHA1: 86dbc329cd196dfde3e511010d5192af2887441b
+SHA256: ddcd5a2767da779de53551fd7673da6aa248531619dc100c02da1908195fbf21
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.p2kdev.waqt
 Version: 1.2.1
@@ -2381,14 +2492,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.p2kdev.waqt_1.2.2_iphoneos-arm64.deb
-Size: 32684
-MD5sum: 56014f77ac8b0513dd6a70845559f9fa
-SHA1: f9597bdd064195f669c6aca26d3f1ea1b8ff10b1
-SHA256: db6bcd213583379c8d9fed3aea775699035a53e5ba0b7aa02306ada3bb6b6924
+Size: 31972
+MD5sum: 68b740ac19b208a7e520b4e98536db89
+SHA1: 3821847e8c4d06f255fc0c364c76dc43468126b7
+SHA256: 4723534b7c5723b4eac5d8ca4ed805fb2751ced10541eb64758d883fbf20512a
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.p2kdev.waqt
 Version: 1.2.2
@@ -2397,14 +2511,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.p2kdev.waqt_1.2.2_iphoneos-arm.deb
-Size: 32618
-MD5sum: bdded97ac92db4724a8b9dfb2996be1d
-SHA1: 00b82b2bd63dee5b47e88c091703f79d0f2bff6c
-SHA256: f8b27a64fee546c76478bd97f47463a84b91da95dddbf1020ab0d57f64ba3380
+Size: 31924
+MD5sum: eb08eb77438d87677f128f5cd89bb0cb
+SHA1: d8257849fff47a183e884929717b90b6f57e4644
+SHA256: 14df121f7b01ca9b8c38a43b5fef0444e9f4dc30946298d44ff2dffd90d67dce
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
@@ -2413,14 +2530,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0_iphoneos-arm64.deb
-Size: 5990
-MD5sum: ccb3f497cd5428754edc825f331ddaee
-SHA1: 46bf7683fb2acd542f8f81a6fd66b02cada21b99
-SHA256: 129db0d8fae102af7df3dc247971f9abb6753936a58cacd45425de7b3d9f7806
+Size: 6180
+MD5sum: f4c683412bc9dd39c88ce3fc4209406d
+SHA1: 4e8c54d418548f309aebd13b5c30e2359173e637
+SHA256: e3fea40ced626a3ba42f5e11ee608bb00b5c49a61a08cabf14b1efd3859f8cba
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
 Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
 
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
@@ -2429,14 +2549,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 156
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0_iphoneos-arm.deb
-Size: 7992
-MD5sum: 248cd3d4516719bc1f85f4dd87f364a5
-SHA1: 937b54739b305f715dceb8e436c14355034dbc9f
-SHA256: 2099d27303dcf5640c1a690df4526d547e56c3eb1e076bea4dcd12f364ea3326
+Size: 7912
+MD5sum: f61a79db8af317fb7dfc542c5b819dc6
+SHA1: 345b0326acb510d8a13adedcffd116659ec1a23e
+SHA256: 80220b6a9ca58dc4f8aebb076a516b1a564b53952ac459dadd18f92703f8414a
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
 Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
 
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0.1
@@ -2445,14 +2568,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.1_iphoneos-arm.deb
-Size: 9496
-MD5sum: 1535b8cf316a790e4ad4582db42c3b87
-SHA1: d001cfb0919ef3d433c4ba83df566d586abfb48d
-SHA256: 00877b94b712863eb5d859cb2a65731798d815c9eecfb56e8912cd4863920f83
+Size: 9332
+MD5sum: 01656d2dd5968d17c42567d51df1bd68
+SHA1: c2343e98fc24d63b85bac6c57b375cd88d9d20b9
+SHA256: 09405180850424004459ad9eaa649fd852301bbb5dd21f0140da10ff4cece567
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
 Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
 
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0.1
@@ -2461,14 +2587,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.1_iphoneos-arm64.deb
-Size: 9546
-MD5sum: f9af5c6464f0d93cd3806306fb7f4230
-SHA1: 9c04ba695ad7e46eb87f29242d52b1fb2f8cef40
-SHA256: edcee4491102da24f11fed54eb4c85e76dafde19fc2e4e942dd629b4f9796687
+Size: 9384
+MD5sum: bdb412b6611aa4c2f4b1f77ca39e3374
+SHA1: 1b1e8188378abda3f011dc6f8484270f3a2fbc7d
+SHA256: 24341a5a11f5e18c9ce1dcea5f03131aba74bdec86ccbb6f2a1fcbea8637a171
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
 Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
 
 Package: com.p2kdev.whatsappmultideviceenable
 Version: 1.0
@@ -2477,14 +2606,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappmultideviceenable_1.0_iphoneos-arm64.deb
-Size: 4236
-MD5sum: 73950b624e4cc4865ba1fa55d98941ae
-SHA1: 91d1499f1a2a8d6f260791633f94bc22b01b4cda
-SHA256: ad2c6b6e9314c7f159bbf6658908b96e502553df66c435f7236cabae701e6df4
+Size: 4348
+MD5sum: 4c8829aa28870ffc7d36be0fa5869e05
+SHA1: 8307769ee2e89e5f356adb7d4ce3b900f50347be
+SHA256: c00f8a9525a57f2992c3675cdb9dba704a7a636799a852c5aff90df2f157a813
 Section: Tweaks
 Description: Force Enables the Multi-Device linking on WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappmultideviceenable
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappmultideviceenable/icon.png
 Name: WhatsAppMultiDeviceEnable
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappmultideviceenable.json
 
 Package: com.p2kdev.whatsappmultideviceenable
 Version: 1.0
@@ -2493,83 +2625,17 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.p2kdev.whatsappmultideviceenable_1.0_iphoneos-arm.deb
-Size: 4180
-MD5sum: 032f5a1c95dd9214a46bbf078f06a8f9
-SHA1: 78b6ea4934a7c8127e373f894481da3062bdcb92
-SHA256: 80d6461ae545a907975fdc222b1aafa7a7fe0d22f5b1e1f6b8e06eda50696e1a
+Size: 4288
+MD5sum: 95da35ae874e10b37b0ea59867bf13e6
+SHA1: 8edf78fab373c519403753b2fd1640c0744e5d5c
+SHA256: 89c4701f9fbf548a75de49d6d4fa4517e6d6300ff45547fa5a169138e6a4cb4a
 Section: Tweaks
 Description: Force Enables the Multi-Device linking on WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappmultideviceenable
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappmultideviceenable/icon.png
 Name: WhatsAppMultiDeviceEnable
-
-Package: com.ps.cconandoff
-Version: 0.0.1.1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: com.jakeashacks.realcc
-Filename: ./debs/com.ps.cconandoff_0.0.1.1_iphoneos-arm.deb
-Size: 3866
-MD5sum: 9c8c207b66b8afedf767d3a62e4bd653
-SHA1: 97e47935fcae3f7e43b17dd71ac898bd48dec49d
-SHA256: 62e032067d1d91d92b8bd79f71c44e3ad7a9f31320bbadabd598c1a15f2757b0
-Section: Tweaks
-Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
-Author: PoomSmart
-Name: CC On & Off
-
-Package: com.ryleyangus.libertylite
-Version: 0.2.10
-Architecture: iphoneos-arm
-Maintainer: Ryley Angus
-Installed-Size: 476
-Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.ryleyangus.liberty
-Filename: ./debs/com.ryleyangus.libertylite_0.2.10_iphoneos-arm.deb
-Size: 46610
-MD5sum: de8005d35c2204becf725c327f68e1e5
-SHA1: 434f034c55b792f51216342afd04ab965a614570
-SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
-Section: Tweaks
-Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
-Author: Ryley Angus
-Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Name: Liberty Lite
-
-Package: com.ryleyangus.libertylite.beta
-Version: 0.2.12
-Architecture: iphoneos-arm
-Maintainer: Ryley Angus
-Installed-Size: 616
-Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
-Filename: ./debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
-Size: 42210
-MD5sum: 37298170685afadc9b2bf7f636dafba7
-SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
-SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
-Section: Tweaks
-Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
-Author: Ryley Angus
-Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Name: Liberty Lite (Beta)
-
-Package: com.shepgoba.photoinfo
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: shepgoba
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.shepgoba.photoinfo_1.0_iphoneos-arm.deb
-Size: 3964
-MD5sum: ea7984805f51e6aab594d130602411fd
-SHA1: a3535e439cd2a70f9c0b065918415b22762339ef
-SHA256: bf5cca10c52eea10041169c1aefb284a26fa8b13a932fbf26b9bc9b28d935c9c
-Section: Tweaks
-Description: Show photo resolution and disk usage in app
-Author: shepgoba
-Name: PhotoInfo
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappmultideviceenable.json
 
 Package: com.twickd.john-sklikas.3dbadgeclear
 Version: 1.6.8
@@ -2581,197 +2647,17 @@ Conflicts: com.isklikas.3dbadgeclear
 Replaces: com.isklikas.3dbadgeclear
 Provides: com.isklikas.3dbadgeclear
 Filename: ./debs/com.twickd.john-sklikas.3dbadgeclear_1.6.8_iphoneos-arm64.deb
-Size: 17600
-MD5sum: cebeb5ecf1af60ca5c26796b98b03f2a
-SHA1: 8f2e3cbc82f4dcd62b169d5ac76c93c3145dff75
-SHA256: 983dbbc7b6f35947ca9731af882ef8fc9e04798d42a58f90ae987f3d6563130b
+Size: 17860
+MD5sum: faeb9530dc716508d012c48ae169ffcf
+SHA1: 44dc6465d94ef08521add6ff02964addd8289974
+SHA256: 67f1745cd35015ff8b6c1093e53c024f7ad864dc7edcaac26d5080d45d2499ea
 Section: Tweaks
 Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.
 Author: isklikas
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.twickd.john-sklikas.3dbadgeclear
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.twickd.john-sklikas.3dbadgeclear/icon.png
 Name: 3DBadgeClear
-
-Package: com.wilsonthewolf.webshade
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: WilsontheWolf
-Installed-Size: 468
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wilsonthewolf.webshade_0.0.2_iphoneos-arm.deb
-Size: 56318
-MD5sum: 2ead8e6b2ca576149134a690e916d568
-SHA1: b267b700df27ebd628224a9d226d162f8fa50c49
-SHA256: 1510b3eb84bb217b10aab0e4bacf2cda03e945d58c600e8ecb64c3139ec4348c
-Section: Tweaks
-Description: Make your websites dark!
-Author: WilsontheWolf
-Depiction: https://wilsonthewolf.github.io/repo/depictions/web/?p=com.wilsonthewolf.webshade
-Name: WebShade
-
-Package: hi.my.name.is.ubik.oriental
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: ubik <cydia@ubikstyl.es>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/hi.my.name.is.ubik.oriental_1.0.1_iphoneos-arm.deb
-Size: 6672
-MD5sum: cd12c6bbc4d916d9fff4fcfb93c7ade2
-SHA1: bc0881961d27b70a462cecc5d63f01764a429f77
-SHA256: 329906bb83e2c91e707a1c718f2a714c5f92fad211aea71d760b6c43de2cfe19
-Section: Tweaks
-Description: To rotate or not.
-Author: ubik <cydia@ubikstyl.es>
-Name: Oriental
-
-Package: me.nepeta.docky
-Version: 0.3
-Architecture: iphoneos-arm
-Maintainer: Kritanta <kritantadevelopment@gmail.com>
-Installed-Size: 328
-Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.iconstate
-Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
-Filename: ./debs/me.nepeta.docky_0.3_iphoneos-arm.deb
-Size: 27732
-MD5sum: a9866f9dbabacd4335400c2ccd242a95
-SHA1: 975208f20cc41351e3314860f47b62cc0ece922a
-SHA256: 15c38625cce02ea048ff38da456f9cc2b8be35dd03e9386057181b5372ae824d
-Section: Tweaks
-Description: Dock customizer
-Author: Nepeta
-Name: Docky
-
-Package: me.nepeta.docky
-Version: 0.3.1
-Architecture: iphoneos-arm
-Maintainer: Kritanta <kritantadevelopment@gmail.com>
-Installed-Size: 304
-Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.iconstate
-Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
-Filename: ./debs/me.nepeta.docky_0.3.1_iphoneos-arm.deb
-Size: 31508
-MD5sum: 4dc7aef0c2d20257f3e5df20cc098ef9
-SHA1: 9821e5b36badf736be459015dc2cfdaada710595
-SHA256: 08fde81b8126a914af94101378da1ed9256ad0d262e828562e9819fe67026e07
-Section: Tweaks
-Description: Dock customizer
-Author: Nepeta
-Name: Docky
-
-Package: me.nepeta.iconstate
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: Nepeta <ominousness@protonmail.com>
-Installed-Size: 2272
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
-Size: 8548
-MD5sum: 9a4ffef3fd0b62cf514f8de384e025b1
-SHA1: e69ef9697b7100e056eb3faf052e8216290bac10
-SHA256: 9394f51814517fc7dbc9638ac93095a97900cbe731377b437f6e4f34246347d0
-Section: Tweaks
-Description: Preserve custom icon layouts between reboots
-Author: Nepeta <ominousness@protonmail.com>
-Name: IconState
-
-Package: me.nepeta.relocateapp
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: Nepeta
-Installed-Size: 404
-Depends: firmware (>= 9.0)
-Filename: ./debs/me.nepeta.relocateapp_0.1.0_iphoneos-arm.deb
-Size: 105060
-MD5sum: 5f7f758693bd47d81cc1be53392f509a
-SHA1: 87d7e0a34b3bd4a157c0b8af4a16206ed9dee1a1
-SHA256: 33936a88a25234c7e7d93ef36b0cf9b62a6ef570ce6f2d4f776265a3d75c8665
-Section: Utilities
-Description: Application for Relocate
-Author: Nepeta
-Name: Relocate Application
-
-Package: me.nepeta.relocatemodule
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: Nepeta <ominousness@protonmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.relocatereborn (>= 1.0.1)
-Filename: ./debs/me.nepeta.relocatemodule_0.1.1_iphoneos-arm.deb
-Size: 27120
-MD5sum: 8dc883d4e0cdc0082099e18373648003
-SHA1: e1b999b5493d3d850f3b35d810f13b172db5246c
-SHA256: 7023330e007b94218aa55d17f482f9a78f5d806780c9e8e929fd27db5fbb583c
-Section: Tweaks
-Description: CC toggle for Relocate (GPS location spoofer).
-Author: Nepeta <ominousness@protonmail.com>
-Name: Relocate Module (Control Center)
-
-Package: me.nepeta.relocatereborn
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Nepeta
-Installed-Size: 492
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
-Conflicts: me.nepeta.relocate
-Filename: ./debs/me.nepeta.relocatereborn_1.0.1_iphoneos-arm.deb
-Size: 70024
-MD5sum: d072cf45d0f1f3be81b841a877d880d5
-SHA1: 110b2d8d7cc38cb5202b6d62ce394d2372be9009
-SHA256: 71567fb157b13d3ce7de9ae51dd43949f7336f0c669f6341cc984e8cad948ab8
-Section: Tweaks
-Description: Minimalist GPS spoofer (free, iOS 13+)
-Author: Nepeta
-Name: Relocate Reborn
-
-Package: me.syns.isupervisor
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: syns <me@syns.me>
-Filename: ./debs/me.syns.isupervisor_1.0_iphoneos-arm.deb
-Size: 1316
-MD5sum: b5ca0b42d75b6f1b830c96785cc92712
-SHA1: 0872e7d2f78c75004deccbddab64f594dbcccb5c
-SHA256: d1984aa7c7c289a79201c3fd0e1e108283b743b6696ec038c6807f7241177571
-Section: Tweaks
-Priority: standard
-Description: supervise your iOS device with ease.
-Author: syns <me@syns.me>
-Icon: https://repo.syns.me/assets/repo/Icons/iSupervisorIcon.png
-Moderndepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
-Name: iSupervisor
-Sileodepiction: https://repo.syns.me/depictions/me.syns.isupervisor/isupervisor.json
-
-Package: net.p0358.fbinternal
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: p0358
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/net.p0358.fbinternal_0.0.1_iphoneos-arm.deb
-Size: 4004
-MD5sum: 85106cc6981485cddf21b69d844872e9
-SHA1: 0e5ea168d8a23b4722ef253a2a8926aa8363ba12
-SHA256: 8c64264936439dc4939cfec2c7dc2b65f26c7e0760eb14699147f1adee43acc4
-Section: Tweaks
-Description: Unlock internal employee settings in Facebook app
-Author: p0358
-Name: FBInternal
-
-Package: net.tateu.gmailer13
-Version: 1.0.0~rc10.6.1
-Architecture: iphoneos-arm
-Maintainer: tateu (Josh Harris) <tateu@tateu.net>
-Installed-Size: 396
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
-Filename: ./debs/net.tateu.gmailer13_1.0.0~rc10.6.1_iphoneos-arm.deb
-Size: 56510
-MD5sum: 1afe71dfe1b336e99d0f5b6596b0351b
-SHA1: afe38be0ac2c2449819e55e0d84ef6f352464329
-SHA256: 3b0bba9657c0115e0c10ea94807478d4bd62c07155ab50e72164dc5fa82439f9
-Section: Tweaks
-Description: Automatically fetch mail in the stock iOS Mail App for Gmail accounts using the Push controller from the Gmail App.
-Author: tateu (Josh Harris) <tateu@tateu.net>
-Depiction: http://www.tateu.net/repo/html/?p=gmailer13
-Name: Gmailer13
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.twickd.john-sklikas.3dbadgeclear.json
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
@@ -2782,65 +2668,16 @@ Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
 Filename: ./debs/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
-Size: 70930
-MD5sum: e00983f2e7bf87f5e0bc221c23787c5d
-SHA1: 6099739e676227e1a5761bda8e510f8da49ffff8
-SHA256: d906e6eb451e134b7c263d528264d700873dffa0c82744e5e699fe912373ebea
+Size: 71152
+MD5sum: c95238e0cfe4fc2c975a93e195448d22
+SHA1: 73bd37168910dcfeefcd939d1a666944bd34afcd
+SHA256: 1885e1224dc360fc7ee3712ad4053fc374b03d4735b9480edc02745547b4d892
 Section: System
 Description: An awesome library of some sort!!
 Tag: role::developer
 Author: Bailey Seymour
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.thebigboss.libcolorpicker
+Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
 Name: libcolorpicker
-
-Package: ru.domo.cocoatop64
-Version: 2.0.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: Domo
-Installed-Size: 742
-Conflicts: ru.domo.cocoatop
-Filename: ./debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
-Size: 151514
-MD5sum: c30794b242e73c924db279640dc6eee1
-SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
-SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
-Section: Utilities
-Description: Process Viewer for iOS GUI (64-bit)
-Author: Domo
-Name: CocoaTop
-
-Package: se.nosskirneh.properlockgestures
-Version: 0.0.10
-Architecture: iphoneos-arm
-Maintainer: Andreas Henriksson
-Installed-Size: 448
-Depends: mobilesubstrate
-Filename: ./debs/se.nosskirneh.properlockgestures_0.0.10_iphoneos-arm.deb
-Size: 36738
-MD5sum: 704f97fbf4804bc3bc052255e2319a74
-SHA1: 8fbd3c4afcbc85c2edccbc76f0b7f0ee173199a9
-SHA256: 2bafba69ecc09d2c71c4df555ba8c4cdd61db5e6feb15e1a2a54f9707c623af1
-Section: Tweaks
-Description: Double tap to lock
-Author: Andreas Henriksson
-Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.properlockgestures
-Name: ProperLockGestures
-
-Package: se.nosskirneh.shylabels
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Andreas Henriksson
-Installed-Size: 376
-Depends: mobilesubstrate
-Replaces: com.noisyflake.shylabels
-Provides: com.noisyflake.shylabels
-Filename: ./debs/se.nosskirneh.shylabels_1.2_iphoneos-arm.deb
-Size: 32392
-MD5sum: 54ed4496c8d941d4b4b5309a85b28314
-SHA1: bff54c58abdd7ee1d12da456bb31091ae501e17a
-SHA256: 3e47c455856e59e0bcb3b502894bff6171362a775e78e4e86272de7ca4951f83
-Section: Tweaks
-Description: Hide app labels when not scrolling
-Author: NoisyFlake
-Depiction: https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.shylabels
-Name: Shy Labels
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
 

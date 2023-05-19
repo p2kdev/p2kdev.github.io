@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.colormybattery", "Name": "ColorMyBattery", "Version": "1.3.3.2", "Architecture": "iphoneos-arm", "Description": "Battery Color based on the battery percentage.", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate, org.thebigboss.libcolorpicker" }

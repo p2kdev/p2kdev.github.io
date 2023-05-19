@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.alarmtime", "Name": "AlarmTime", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Show Time until alarm in the clock App!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "firmware (>= 14.0),mobilesubstrate" }

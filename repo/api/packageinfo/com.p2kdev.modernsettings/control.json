@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.modernsettings", "Name": "ModernSettings", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Modern look for the Settings App!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.nofaceidwait", "Name": "NoFaceIDWait", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Skip face id scanning and go straight to passcode!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

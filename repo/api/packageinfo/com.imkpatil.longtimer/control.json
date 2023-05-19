@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.longtimer", "Name": "LongTimer", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Make the timer run longer!", "Maintainer": "Kiran Patil", "Author": "Kiran Patil", "Section": "Tweaks", "Depends": "mobilesubstrate" }

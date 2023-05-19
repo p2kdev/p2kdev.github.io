@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.pmconfirm", "Name": "PMConfirm", "Version": "1.2", "Architecture": "iphoneos-arm", "Description": "Confirm when setting alarms for PM!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "firmware (>= 13.0),mobilesubstrate" }

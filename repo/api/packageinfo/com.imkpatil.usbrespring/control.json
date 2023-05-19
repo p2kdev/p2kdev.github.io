@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.usbrespring", "Name": "USBRespring", "Version": "1.1", "Architecture": "iphoneos-arm", "Description": "A simple tweak to Repsring on USB Disconnect!", "Maintainer": "Kiran Patil", "Author": "Kiran Patil", "Section": "Tweaks", "Depends": "mobilesubstrate" }

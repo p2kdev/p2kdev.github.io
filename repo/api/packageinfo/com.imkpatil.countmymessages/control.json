@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.countmymessages", "Name": "CountMyMessages", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "A Simple tweak to count my Total messages!", "Maintainer": "Kiran Patil", "Author": "Kiran Patil", "Section": "Tweaks", "Depends": "mobilesubstrate" }

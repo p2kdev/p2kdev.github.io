@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.saavieum", "Name": "Saavieum", "Version": "1.6", "Architecture": "iphoneos-arm", "Description": "Premium Saavn!", "Maintainer": "Kiran Patil", "Author": "Kiran Patil", "Section": "Tweaks", "Depends": "mobilesubstrate" }

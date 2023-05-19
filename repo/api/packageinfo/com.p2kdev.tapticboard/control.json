@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.tapticboard", "Name": "TapticBoard", "Version": "1.1", "Architecture": "iphoneos-arm", "Description": "Taptic keyboard without any lag!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate,firmware (>= 13.0)" }

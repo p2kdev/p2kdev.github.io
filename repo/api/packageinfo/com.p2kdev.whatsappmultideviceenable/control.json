@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.whatsappmultideviceenable", "Name": "WhatsAppMultiDeviceEnable", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Force Enables the Multi-Device linking on WhatsApp!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

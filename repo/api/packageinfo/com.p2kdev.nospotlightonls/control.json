@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.nospotlightonls", "Name": "NoSpotlightOnLS", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Disable swipe down on LS to open spotlight!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

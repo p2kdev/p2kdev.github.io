@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.colorcodedlogs", "Name": "ColorCodedLogs", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Color-coded recent MobilePhone app logs!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate, firmware (>= 13)" }

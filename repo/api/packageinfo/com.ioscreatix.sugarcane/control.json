@@ -1,0 +1,1 @@
+{ "Package": "com.ioscreatix.sugarcane", "Name": "SugarCane 13/14", "Version": "1.2.4.2", "Architecture": "iphoneos-arm", "Description": "Get percentages for the sliders in the Control Center 13 and 14", "Maintainer": "iOS Creatix, kasiimh1, baptistecdr, p2kdev", "Author": "iOS Creatix, kasiimh1, p2kdev", "Section": "Tweaks", "Depends": "mobilesubstrate,firmware (>= 13.0)" }

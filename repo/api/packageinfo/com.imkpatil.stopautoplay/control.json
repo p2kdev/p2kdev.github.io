@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.stopautoplay", "Name": "StopAutoPlay", "Version": "1.0-2+debug", "Architecture": "iphoneos-arm", "Description": "Stop that annoying Autoplay!", "Maintainer": "Kiran Patil", "Author": "Kiran Patil", "Section": "Tweaks", "Depends": "mobilesubstrate" }

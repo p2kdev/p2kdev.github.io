@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.reachmore", "Name": "ReachMore", "Version": "1.1.1", "Architecture": "iphoneos-arm", "Description": "Perform additional actions on invoking Reachability!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

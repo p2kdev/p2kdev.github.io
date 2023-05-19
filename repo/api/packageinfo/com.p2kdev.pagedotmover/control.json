@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.pagedotmover", "Name": "PageDotMover", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Move the page dots up/down!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

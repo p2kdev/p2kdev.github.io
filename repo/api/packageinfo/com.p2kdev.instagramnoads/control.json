@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.instagramnoads", "Name": "InstagramNoAds", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "No Ads in the Instagram App!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }
