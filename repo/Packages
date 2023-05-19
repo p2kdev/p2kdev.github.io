@@ -1781,6 +1781,38 @@ Description: Useful at a glance information on your lockscreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Sakal
 
+Package: com.p2kdev.sakal
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 668
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.2_iphoneos-arm64.deb
+Size: 82410
+MD5sum: 77511f4afce911f4f258fbaf0bc1fe4a
+SHA1: 5cf844d2eefb99415ebec0e083def46138505cb4
+SHA256: f4bf3793efb8287c85ec3c5a3f62aecb6bc2e6f9e3192f124a432a6cb0d68dff
+Section: Tweaks
+Description: Useful at a glance information on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
+Package: com.p2kdev.sakal
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 668
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.2_iphoneos-arm.deb
+Size: 82424
+MD5sum: 1fae02bae63ad6eafd153772b3fad011
+SHA1: fac92174ca969d693316bd1e3a089efa46ddd08d
+SHA256: 7d6e07d22b8833e13a00dda37255c0959cc7adfd39e0da15bdee8719e0aac093
+Section: Tweaks
+Description: Useful at a glance information on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
 Package: com.p2kdev.screenshotactions
 Version: 1.1.1
 Architecture: iphoneos-arm64
