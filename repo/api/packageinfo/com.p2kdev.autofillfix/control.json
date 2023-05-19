@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.autofillfix", "Name": "AutoFillFix", "Version": "0.1", "Architecture": "iphoneos-arm64", "Description": "Fix for autofill not working after restarting backboard or sbreload", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

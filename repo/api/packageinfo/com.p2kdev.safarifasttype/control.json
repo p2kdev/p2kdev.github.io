@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.safarifasttype", "Name": "SafariFastType", "Version": "1.0.2", "Architecture": "iphoneos-arm64", "Description": "Opens the keyboard after you open a new tab in Safari!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

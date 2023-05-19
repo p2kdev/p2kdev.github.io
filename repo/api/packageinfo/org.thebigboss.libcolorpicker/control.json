@@ -1,0 +1,1 @@
+{ "Package": "org.thebigboss.libcolorpicker", "Name": "libcolorpicker", "Version": "1.6.9", "Architecture": "iphoneos-arm64", "Description": "An awesome library of some sort!!", "Maintainer": "Bailey Seymour", "Author": "Bailey Seymour", "Section": "System", "Depends": "firmware (>= 6.0)" }

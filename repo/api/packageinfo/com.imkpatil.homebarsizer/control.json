@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.homebarsizer", "Name": "HomeBarSizer", "Version": "1.1.1", "Architecture": "iphoneos-arm64", "Description": "Resize that HomeBar!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.ringpercentlabel", "Name": "RingPercentLabel", "Version": "1.0.5", "Architecture": "iphoneos-arm64", "Description": "Percent Labels for the Battery Widget Rings!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "firmware (>= 14.0),mobilesubstrate" }

@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.screenshotactions", "Name": "ScreenshotActions", "Version": "1.1.1", "Architecture": "iphoneos-arm64", "Description": "Add Quick Actions to the screenshot preview!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "firmware (>= 11.0), mobilesubstrate" }

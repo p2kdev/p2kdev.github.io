@@ -1,0 +1,1 @@
+{ "Package": "com.imkpatil.ezswipe", "Name": "EZSwipe", "Version": "1.1.1", "Architecture": "iphoneos-arm64", "Description": "Give your hand a rest by using gestures instead!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

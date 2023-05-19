@@ -28,15 +28,15 @@ function fetchInfo() {
 						twitter.href = `https://twitter.com/${data.contact.twitter}`;
 					}
 
-					if (data.contact.discord) {
-						const discord = document.getElementById('discord');
-						discord.innerText = 'Discord';
-						discord.href = `${data.contact.discord}`;
+					if (data.contact.email) {
+						const email = document.getElementById('email');
+						twitter.innerText = data.contact.email;
+						twitter.href = `mailto:${data.contact.email}`;
 					}
 
 					if (data.information.source_code_link) {
 						const sourceCode = document.getElementById('source-code');
-						sourceCode.innerText = 'View source';
+						sourceCode.innerText = 'Github';
 						sourceCode.href = `${data.information.source_code_link}`;
 					}
 

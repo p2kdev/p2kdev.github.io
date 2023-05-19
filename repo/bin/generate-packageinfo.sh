@@ -42,12 +42,12 @@ for deb_file in $(ls $REPO/repo/debs/*.deb | sort -r); do
     fi
 
     # Check if Architecture is iphoneos-arm64, skip if it is.
-    if [ "$PACKAGE_ARCHITECTURE" = "iphoneos-arm64" ]; then
-        echo -e "\033[33m⚠ Skipping $PACKAGE_DESC because architecture is iphoneos-arm64\033[0m"
-        find $unpacked_deb_dir -name '.DS_Store' -type f -delete
-        dpkg-deb -b "$unpacked_deb_dir" "$deb_file" >/dev/null
-        continue
-    fi
+    # if [ "$PACKAGE_ARCHITECTURE" = "iphoneos-arm64" ]; then
+    #     echo -e "\033[33m⚠ Skipping $PACKAGE_DESC because architecture is iphoneos-arm64\033[0m"
+    #     find $unpacked_deb_dir -name '.DS_Store' -type f -delete
+    #     dpkg-deb -b "$unpacked_deb_dir" "$deb_file" >/dev/null
+    #     continue
+    # fi
 
     if [[ ! " ${packageIDs[*]} " =~ " ${PACKAGE_IDENTIFIER} " ]]; then
         packageIDs+=("$PACKAGE_IDENTIFIER")
@@ -76,7 +76,7 @@ for deb_file in $(ls $REPO/repo/debs/*.deb | sort -r); do
     
     # Display
     if [ ! -f "$PACKAGE_DIR/$DISPLAY_FILE_NAME.json" ]; then
-        $REPO/repo/bin/generate-display.sh > "$PACKAGE_DIR/$DISPLAY_FILE_NAME.json"
+        $REPO/repo/bin/generate-display.sh "$controlFile" > "$PACKAGE_DIR/$DISPLAY_FILE_NAME.json"
     fi
 
     # Copy default Tweak Icon
