@@ -1,1 +1,17 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Useful at a glance information on your lockscreen!", "source_code_link": "https://github.com/p2kdev" }, "changelog": [ { "date": "2023-05-19", "version_number": "2.2", "changes": "- Initial release on the repo" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Useful at a glance information on your lockscreen!",
+        "source_code_link": "https://github.com/p2kdev"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-18",
+            "version_number": "2.2",
+            "changes": "- Changes to smart alignment. \n- Added options to tweak lock icon"
+        }
+    ]
+}
