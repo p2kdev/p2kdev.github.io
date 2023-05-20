@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Move the page dots up/down!"
+        "description": "Move the page dots up/down!",
+        "source_code_link": ""
     },
     "changelog": [
         {

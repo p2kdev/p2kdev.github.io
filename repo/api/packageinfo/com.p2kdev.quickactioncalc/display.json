@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Change the camera quick action button to calculator!"
+        "description": "Change the camera quick action button to calculator!",
+        "source_code_link": ""
     },
     "changelog": [
         {

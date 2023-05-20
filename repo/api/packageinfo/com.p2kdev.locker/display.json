@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Enable passcode for A11!"
+        "description": "Enable passcode for A11!",
+        "source_code_link": ""
     },
     "changelog": [
         {

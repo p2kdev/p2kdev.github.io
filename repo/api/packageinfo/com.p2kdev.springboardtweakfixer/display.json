@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Fixes issues with SpringBoard Tweaks!"
+        "description": "Fixes issues with SpringBoard Tweaks!",
+        "source_code_link": ""
     },
     "changelog": [
         {

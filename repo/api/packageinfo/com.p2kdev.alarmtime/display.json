@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Show Time until alarm in the clock App!"
+        "description": "Show Time until alarm in the clock App!",
+        "source_code_link": ""
     },
     "changelog": [
         {

@@ -31,7 +31,7 @@ function fetchInfo() {
 					if (data.contact.email) {
 						const email = document.getElementById('email');
 						email.innerText = data.contact.email;
-						email.href = `mailto:${data.contact.email}`;
+						email.href = `mailto:${data.contact.email}?subject=${controlData.Name}`;
 					}
 
 					if (data.information.source_code_link) {

@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Taptic keyboard without any lag!"
+        "description": "Taptic keyboard without any lag!",
+        "source_code_link": ""
     },
     "changelog": [
         {

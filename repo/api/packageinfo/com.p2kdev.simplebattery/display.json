@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Simple Battery for Notched Devices!"        
+        "description": "Simple Battery for Notched Devices!",
+        "source_code_link": ""       
     },
     "changelog": [
         {

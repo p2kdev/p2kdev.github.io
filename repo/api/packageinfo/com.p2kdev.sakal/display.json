@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Useful at a glance information on your lockscreen!"
+        "description": "Useful at a glance information on your lockscreen!",
+        "source_code_link": ""
     },
     "changelog": [
         {

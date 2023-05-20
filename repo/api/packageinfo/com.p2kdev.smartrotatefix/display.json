@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Fixes for the SmartRotate Tweak!"
+        "description": "Fixes for the SmartRotate Tweak!",
+        "source_code_link": ""
     },
     "changelog": [
         {

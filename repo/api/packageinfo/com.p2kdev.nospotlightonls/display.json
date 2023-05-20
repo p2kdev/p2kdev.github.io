@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Disable swipe down on LS to open spotlight!"
+        "description": "Disable swipe down on LS to open spotlight!",
+        "source_code_link": ""
     },
     "changelog": [
         {

@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Fix for autofill not working after restarting backboard or sbreload"
+        "description": "Fix for autofill not working after restarting backboard or sbreload",
+        "source_code_link": ""
     },
     "changelog": [
         {
