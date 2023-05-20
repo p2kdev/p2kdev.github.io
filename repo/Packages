@@ -547,24 +547,6 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/ico
 Name: SugarCane 13/14
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
-Package: com.itaysoft.wifilist
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Itay
-Installed-Size: 1128
-Filename: ./debs/com.itaysoft.wifilist_1.0.0_iphoneos-arm.deb
-Size: 903224
-MD5sum: b4de11c872ae4a503408531257a0870e
-SHA1: 526337d837c84d20c716e19054aadbe58e3e32b4
-SHA256: a3ff160660f62f94196bda92175acb8710b0e3ca27d711041655a33189349e8f
-Section: Utilities
-Description: View and share WiFi passwords
-Author: Itay
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.itaysoft.wifilist
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.itaysoft.wifilist/icon.png
-Name: WiFi List
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.itaysoft.wifilist.json
-
 Package: com.p2kdev.alarmtime
 Version: 1.0
 Architecture: iphoneos-arm64
