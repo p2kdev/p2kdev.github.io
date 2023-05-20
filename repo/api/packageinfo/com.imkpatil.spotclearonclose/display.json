@@ -1,1 +1,17 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!", "source_code_link": "https://github.com/p2kdev" }, "changelog": [ { "date": "2023-05-19", "version_number": "1.2.1", "changes": "- Initial release on the repo" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!",
+        "source_code_link": "https://github.com/p2kdev/SpotClearOnClose"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.2.1",
+            "changes": "- Initial release on the repo"
+        }
+    ]
+}

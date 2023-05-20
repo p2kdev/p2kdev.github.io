@@ -1,1 +1,16 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Remove third party calls from Recents in Phone App!", "source_code_link": "https://github.com/p2kdev" }, "changelog": [ { "date": "2023-05-19", "version_number": "1.0", "changes": "- Initial release on the repo" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Remove third party calls from Recents in Phone App!"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.0",
+            "changes": "- Initial release on the repo"
+        }
+    ]
+}

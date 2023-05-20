@@ -1,1 +1,17 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!", "source_code_link": "https://github.com/p2kdev" }, "changelog": [ { "date": "2023-05-19", "version_number": "1.4.2", "changes": "- Initial release on the repo" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!",
+        "source_code_link": "https://github.com/p2kdev/LetMeKnow"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.4.2",
+            "changes": "- Initial release on the repo"
+        }
+    ]
+}

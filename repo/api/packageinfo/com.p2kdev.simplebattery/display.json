@@ -1,1 +1,16 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Simple Battery for Notched Devices!", "source_code_link": "https://github.com/p2kdev" }, "changelog": [ { "date": "2023-05-19", "version_number": "1.2.1", "changes": "- Initial release on the repo" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Simple Battery for Notched Devices!"        
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.2.1",
+            "changes": "- Initial release on the repo"
+        }
+    ]
+}

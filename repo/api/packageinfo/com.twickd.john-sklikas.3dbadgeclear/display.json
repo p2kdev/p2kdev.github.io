@@ -1,1 +1,17 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.", "source_code_link": "https://github.com/p2kdev" }, "changelog": [ { "date": "2023-05-19", "version_number": "1.6.8", "changes": "- Initial release on the repo" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.",
+        "source_code_link": "https://github.com/p2kdev/3DBadgeClear"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.6.8",
+            "changes": "- Initial release on the repo"
+        }
+    ]
+}

@@ -11,6 +11,7 @@ fi
 
 # Parse the fields from the control file
 version=$(grep -i "^Version:" $input_file | cut -d " " -f 2)
+name=$(grep -i "^Name:" $input_file | cut -d " " -f 2-)
 description=$(grep -i "^Description:" $input_file | cut -d " " -f 2-)
 
 # Create a JSON object from the parsed fields
@@ -22,7 +23,7 @@ json_object=$(cat << EOF
     },
     "information": {
         "description": "$description",
-        "source_code_link": "https://github.com/p2kdev"
+        "source_code_link": "https://github.com/p2kdev/$name"
     },
     "changelog": [
         {
