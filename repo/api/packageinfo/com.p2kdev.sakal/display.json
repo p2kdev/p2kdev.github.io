@@ -9,9 +9,14 @@
     },
     "changelog": [
         {
+            "date": "2023-05-20",
+            "version_number": "2.2.1",
+            "changes": "- Added default icon to placeholder text in case there are no upcoming events/alarms"
+        },
+        {
             "date": "2023-05-18",
             "version_number": "2.2",
             "changes": "- Changes to smart alignment. \n- Added options to tweak lock icon"
-        }
+        }        
     ]
 }

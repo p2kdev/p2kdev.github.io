@@ -1851,6 +1851,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
 Name: Sakal
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
 
+Package: com.p2kdev.sakal
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 684
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.2.1_iphoneos-arm.deb
+Size: 79088
+MD5sum: 80403a06e7e0225362f46be2c9caad6f
+SHA1: 49ce074480d99e83f2a6aeefd15864d0d9126017
+SHA256: 295e05586d00391c6e6d45f1278c8a837972624d12cb6777b321e812004739eb
+Section: Tweaks
+Description: Useful at a glance information on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.sakal
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
+Name: Sakal
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
+
 Package: com.p2kdev.screenshotactions
 Version: 1.1.1
 Architecture: iphoneos-arm64
