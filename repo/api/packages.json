@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.sakal",
     "org.thebigboss.libcolorpicker",
     "com.twickd.john-sklikas.3dbadgeclear",
     "com.p2kdev.whatsappmultideviceenable",
@@ -16,7 +17,6 @@
     "com.p2kdev.smartpower",
     "com.p2kdev.simplebattery",
     "com.p2kdev.screenshotactions",
-    "com.p2kdev.sakal",
     "com.p2kdev.safarifind",
     "com.p2kdev.safarifasttype",
     "com.p2kdev.ringpercentlabel",

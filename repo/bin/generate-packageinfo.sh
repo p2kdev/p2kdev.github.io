@@ -11,7 +11,7 @@ mkdir -p temp_dir
 packageIDs=()
 
 # Loop over each deb file in the packages directory.
-for deb_file in $(ls $REPO/repo/debs/*.deb | sort -r); do
+for deb_file in $(ls -t $REPO/repo/debs/*.deb); do
     # Extract the deb
     extract_dir_name="$(basename "${deb_file%.*}")"
     dpkg-deb --extract $deb_file temp_dir/$extract_dir_name
@@ -24,10 +24,9 @@ for deb_file in $(ls $REPO/repo/debs/*.deb | sort -r); do
 
     if ! grep -q SileoDepiction: "$controlFile"; then
         shouldRepackDeb=true
+        # Add missing fields to the control file.
+        $REPO/repo/bin/append-to-control.sh "$controlFile"        
     fi    
-
-    # Add missing fields to the control file.
-    $REPO/repo/bin/append-to-control.sh "$controlFile"
 
     # Collect deb info
     PACKAGE_IDENTIFIER=$(grep -i "^Package:" $controlFile | cut -d " " -f 2)
