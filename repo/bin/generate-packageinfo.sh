@@ -20,11 +20,14 @@ for deb_file in $(ls $REPO/repo/debs/*.deb | sort -r); do
     unpacked_deb_dir=temp_dir/$extract_dir_name
     controlFile=$unpacked_deb_dir/DEBIAN/control
 
+    shouldRepackDeb=false
+
+    if ! grep -q SileoDepiction: "$controlFile"; then
+        shouldRepackDeb=true
+    fi    
+
     # Add missing fields to the control file.
     $REPO/repo/bin/append-to-control.sh "$controlFile"
-
-    # Only repack if deb is new
-    shouldRepackDeb=false
 
     # Collect deb info
     PACKAGE_IDENTIFIER=$(grep -i "^Package:" $controlFile | cut -d " " -f 2)
@@ -42,12 +45,6 @@ for deb_file in $(ls $REPO/repo/debs/*.deb | sort -r); do
             echo -e "\033[33m⚠ Skipping $PACKAGE_DESC because there is a later version ($version).\033[0m"
             continue
         fi
-
-        if [[ "$PACKAGE_VERSION" > "$version" ]]; then
-            shouldRepackDeb=true
-        fi
-    else
-        shouldRepackDeb=true
     fi
 
     # Check if Architecture is iphoneos-arm64, skip if it is.
@@ -95,11 +92,14 @@ for deb_file in $(ls $REPO/repo/debs/*.deb | sort -r); do
     
     # Rebuild deb
     find $unpacked_deb_dir -name '.DS_Store' -type f -delete
+
+    echo -e "\033[32m✔ Success: $PACKAGE_DESC processed\033[0m"    
+    
+    #repack only if the file does not contain SileoDepiction property
     if $shouldRepackDeb; then
         echo "Repacking deb.."
-        dpkg-deb -b "$unpacked_deb_dir" "$deb_file" >/dev/null
+        dpkg-deb -b "$unpacked_deb_dir" "$deb_file" >/dev/null        
     fi
-    echo -e "\033[32m✔ Success: $PACKAGE_DESC processed\033[0m"
 done
 
 # Use jq to create a JSON object from the array and save it to a file
