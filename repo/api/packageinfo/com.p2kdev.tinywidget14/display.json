@@ -12,6 +12,11 @@
             "date": "2023-05-19",
             "version_number": "1.0.2",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2023-06-12",
+            "version_number": "1.0.3",
+            "changes": "- Hide Volume Indicator"
+        }        
     ]
 }

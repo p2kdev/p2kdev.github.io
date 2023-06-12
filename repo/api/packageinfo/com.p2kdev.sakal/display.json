@@ -17,6 +17,11 @@
             "date": "2023-05-20",
             "version_number": "2.2.1",
             "changes": "- Added default icon to placeholder text in case there are no upcoming events/alarms"
-        }                
+        },
+        {
+            "date": "2023-06-12",
+            "version_number": "2.2.1.1",
+            "changes": "- Added the smart alignment offset options back"
+        }                        
     ]
 }

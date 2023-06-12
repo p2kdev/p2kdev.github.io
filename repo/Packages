@@ -1133,6 +1133,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nofaceidwait/icon
 Name: NoFaceIDWait
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nofaceidwait.json
 
+Package: com.p2kdev.nofocusindicatoronls
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nofocusindicatoronls_1.0_iphoneos-arm64.deb
+Size: 3552
+MD5sum: 5753f8661ae6fed4e2fe300bc5da44c9
+SHA1: 1a84af5ea56a6ddc549a416da677a2ad1f16ea71
+SHA256: 823ce13d6179cfeb5a70f722e5b0b0ad051403e404af937ae32243216d960883
+Section: Tweaks
+Description: Hides the focus indicator on LS!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nofocusindicatoronls
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nofocusindicatoronls/icon.png
+Name: NoFocusIndicatorOnLS
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nofocusindicatoronls.json
+
+Package: com.p2kdev.nofocusindicatoronls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nofocusindicatoronls_1.0_iphoneos-arm.deb
+Size: 3528
+MD5sum: 65cf93eb199fd1e983d393ea3a2c48b4
+SHA1: 296a767813565fbd5019f991b7b9764c0ea00182
+SHA256: 71710e34953a3fd9cb05db59b6f4adf2aff55232be2dde5725ee801971339e7e
+Section: Tweaks
+Description: Hides the focus indicator on LS!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nofocusindicatoronls
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nofocusindicatoronls/icon.png
+Name: NoFocusIndicatorOnLS
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nofocusindicatoronls.json
+
 Package: com.p2kdev.nosettingsbadge
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1889,6 +1927,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
 Name: Sakal
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
 
+Package: com.p2kdev.sakal
+Version: 2.2.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 684
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.2.1.1_iphoneos-arm64.deb
+Size: 79552
+MD5sum: 5c8eabf01e1590a2b91fb092d9480a78
+SHA1: ba2a02315bc6b8e126a38f7809e20e09e5e2248f
+SHA256: 21447fed671fc2fc88c271845e3f992ce7a68f4a6a9f99832f26d3fbbf37a979
+Section: Tweaks
+Description: Useful at a glance information on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.sakal
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
+Name: Sakal
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
+
+Package: com.p2kdev.sakal
+Version: 2.2.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 684
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.sakal_2.2.1.1_iphoneos-arm.deb
+Size: 79552
+MD5sum: d63c8704147fb5232766ee7c9461a0ef
+SHA1: 60f0a45f63c12fef366889c38c6edebd61102786
+SHA256: 2177f51349fb86f34cef4d4d5974384535906fdd4545fecffd4b0adaa03168d5
+Section: Tweaks
+Description: Useful at a glance information on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.sakal
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
+Name: Sakal
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
+
 Package: com.p2kdev.screenshotactions
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -2373,6 +2449,46 @@ Size: 5528
 MD5sum: 553cdd9b253ab26b613ca8a7d362a68a
 SHA1: 31bb0284c13452ca61703eab2516c049ab51f2ea
 SHA256: 76a6333e11fe6e4e286413d6226a77ccf6e1e9fc2609b70a64ffca518067284d
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tinywidget14
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tinywidget14/icon.png
+Name: TinyWidget14
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tinywidget14.json
+
+Package: com.p2kdev.tinywidget14
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/com.p2kdev.tinywidget14_1.0.3_iphoneos-arm.deb
+Size: 7280
+MD5sum: f6b62009b713064950fa14726d7bf342
+SHA1: ed9a59b6c4f3ce5cd7225fbf780657d4b02a9a55
+SHA256: 5a8538936d5ce253cf8bc820d35d01ca0623e53f284b95f5fd44566fd9c47b7e
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tinywidget14
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tinywidget14/icon.png
+Name: TinyWidget14
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tinywidget14.json
+
+Package: com.p2kdev.tinywidget14
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/com.p2kdev.tinywidget14_1.0.3_iphoneos-arm64.deb
+Size: 7344
+MD5sum: 15fcf4ef67082619e77f871eafc41720
+SHA1: c2ea0b0257d08c7842dc262966f80faa4bfc0210
+SHA256: f0dd0c74ea33913dd5211ad234a15f435fe1f6bc5d9535a0dcaaf44a1dbedb9b
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>

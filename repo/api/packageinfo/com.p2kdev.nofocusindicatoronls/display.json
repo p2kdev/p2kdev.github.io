@@ -1,0 +1,1 @@
+{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Hides the focus indicator on LS!", "source_code_link": "https://github.com/p2kdev/NoFocusIndicatorOnLS" }, "changelog": [ { "date": "2023-06-12", "version_number": "1.0", "changes": "- Initial release on the repo" } ] }
