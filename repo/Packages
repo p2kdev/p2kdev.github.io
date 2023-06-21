@@ -1549,6 +1549,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
 Name: QuitAll
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
 
+Package: com.p2kdev.quitall
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.2.1_iphoneos-arm.deb
+Size: 30952
+MD5sum: e4d1034f3b053015a5b3f171963ed7d9
+SHA1: ec40c2577acb079992d39fc31ffd741ef39f77c9
+SHA256: d979fda5ba42e23a0582227cc9c1bdb8f835ca63fd626e85275a0881c14f2ea3
+Section: Tweaks
+Description: Swipe down on app switcher card to kill all apps!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quitall
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
+Name: QuitAll
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
+
+Package: com.p2kdev.quitall
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.2.1_iphoneos-arm64.deb
+Size: 30992
+MD5sum: dbdd2220eeab47737a0c662eb4da0455
+SHA1: 2d08b371c4bccc916572ff10d76903b4378a54dc
+SHA256: b346bee41af3053e73d9cd2ccb63cb08c08c30fd28dc88334137db1274708ec5
+Section: Tweaks
+Description: Swipe down on app switcher card to kill all apps!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quitall
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
+Name: QuitAll
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
+
 Package: com.p2kdev.reachmore
 Version: 1.0
 Architecture: iphoneos-arm

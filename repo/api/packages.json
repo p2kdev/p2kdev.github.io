@@ -1,8 +1,9 @@
 {
   "package_ids": [
-    "com.p2kdev.nofocusindicatoronls",
-    "com.p2kdev.sakal",
+    "com.p2kdev.quitall",
     "com.p2kdev.tinywidget14",
+    "com.p2kdev.sakal",
+    "com.p2kdev.nofocusindicatoronls",
     "com.p2kdev.twitternoads",
     "org.thebigboss.libcolorpicker",
     "com.twickd.john-sklikas.3dbadgeclear",
@@ -23,7 +24,6 @@
     "com.p2kdev.ringpercentlabel",
     "com.p2kdev.redditnoads",
     "com.p2kdev.reachmore",
-    "com.p2kdev.quitall",
     "com.p2kdev.quickactioncalc",
     "com.p2kdev.purerecents",
     "com.p2kdev.pmconfirm",
