@@ -981,25 +981,6 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.letmedecline/icon
 Name: LetMeDecline
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.letmedecline.json
 
-Package: com.p2kdev.locker
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 180
-Depends: mobilesubstrate, net.limneos.libbulletin
-Filename: ./debs/com.p2kdev.locker_1.0_iphoneos-arm.deb
-Size: 9412
-MD5sum: 135033b1fe866e735e080016b6413a15
-SHA1: 47709d7fd731cf3e0904ad3d1b88d1395ac7f13f
-SHA256: 83d7eae0eb357fd244d4b0db9dcbf88796dd5d9209ff479f2889f62969d2af59
-Section: Tweaks
-Description: Enable passcode for A11!
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.locker
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.locker/icon.png
-Name: Locker
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.locker.json
-
 Package: com.p2kdev.modernsettings
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1550,16 +1531,16 @@ Name: QuitAll
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
 
 Package: com.p2kdev.quitall
-Version: 1.2.1
-Architecture: iphoneos-arm
+Version: 1.2.1.1
+Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 428
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.quitall_1.2.1_iphoneos-arm.deb
-Size: 30952
-MD5sum: e4d1034f3b053015a5b3f171963ed7d9
-SHA1: ec40c2577acb079992d39fc31ffd741ef39f77c9
-SHA256: d979fda5ba42e23a0582227cc9c1bdb8f835ca63fd626e85275a0881c14f2ea3
+Filename: ./debs/com.p2kdev.quitall_1.2.1.1_iphoneos-arm64.deb
+Size: 31016
+MD5sum: 17261d7b918d770f8528292364f137ad
+SHA1: b437dc614f08eaef0a63e7aa933795f0714acdde
+SHA256: b8223b07b7604f50459747e0174a3e05b5a801208eec32cde60cbf9d8b6bf8fd
 Section: Tweaks
 Description: Swipe down on app switcher card to kill all apps!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1569,16 +1550,16 @@ Name: QuitAll
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
 
 Package: com.p2kdev.quitall
-Version: 1.2.1
-Architecture: iphoneos-arm64
+Version: 1.2.1.1
+Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 428
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.quitall_1.2.1_iphoneos-arm64.deb
-Size: 30992
-MD5sum: dbdd2220eeab47737a0c662eb4da0455
-SHA1: 2d08b371c4bccc916572ff10d76903b4378a54dc
-SHA256: b346bee41af3053e73d9cd2ccb63cb08c08c30fd28dc88334137db1274708ec5
+Filename: ./debs/com.p2kdev.quitall_1.2.1.1_iphoneos-arm.deb
+Size: 30928
+MD5sum: fe5ea8b7f37586c3d8b54d70c33d6472
+SHA1: 7397366c7e3d9c085e17c77e4f33d071b7172b34
+SHA256: d71a02a6d4998b65e9a037c44c6bd109786d7b9938a246c8c9e9fd9b7eb4802e
 Section: Tweaks
 Description: Swipe down on app switcher card to kill all apps!
 Author: P2KDev <p2kdev@gmail.com>
@@ -2002,25 +1983,6 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.sakal/icon.png
 Name: Sakal
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.sakal.json
-
-Package: com.p2kdev.screenshotactions
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 164
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.p2kdev.screenshotactions_1.1.1_iphoneos-arm64.deb
-Size: 18796
-MD5sum: 7edb04de5a96c8912506aa96f547770d
-SHA1: 4b21e0e269089edbd695de998ea4b05b39c2a656
-SHA256: bae603c2474cd7a944ec27bcf41f42d3711a387bbcfcf8eb9eab4fb43d793f7b
-Section: Tweaks
-Description: Add Quick Actions to the screenshot preview!
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.screenshotactions
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.screenshotactions/icon.png
-Name: ScreenshotActions
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.screenshotactions.json
 
 Package: com.p2kdev.simplebattery
 Version: 1.0
