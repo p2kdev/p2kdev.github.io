@@ -12,6 +12,11 @@
             "date": "2023-05-19",
             "version_number": "1.1",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2023-06-22",
+            "version_number": "1.1.1",
+            "changes": "- Performance Improvements"
+        }        
     ]
 }

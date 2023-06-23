@@ -2400,6 +2400,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.
 Name: TapticBoard
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
 
+Package: com.p2kdev.tapticboard
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.1.1_iphoneos-arm.deb
+Size: 23364
+MD5sum: cc0f01cb64d9f01da9ddfdbcf9c7139f
+SHA1: cfac8b01e9424899aad828ee8467a0212e2a7ffe
+SHA256: 9db7c0a07c65a04b3d97b56c6bf5b4bb1a18292a0a685bab063ddc6933e5a2da
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
+Name: TapticBoard
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
+
+Package: com.p2kdev.tapticboard
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.1.1_iphoneos-arm64.deb
+Size: 23400
+MD5sum: 7f96df16e7d34a7f20447838eb72eec1
+SHA1: 0c819af1970be82420d0db08ccb70640808cf5a3
+SHA256: 99cf0c108a6a228f090f9e7d9e3d8fd2f11decb4bacf9de101125437126441c0
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
+Name: TapticBoard
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
+
 Package: com.p2kdev.tinywidget14
 Version: 1.0.1
 Architecture: iphoneos-arm64
