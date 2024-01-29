@@ -78,12 +78,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "- Added support for updating the status bar time every second if specified in the format",
                     "useSpacing": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Added option to specify view center (Vertical Alignment)",
-                    "useSpacing": true
-                },                
+                },               
                 {
                     "spacing": 12,
                     "class": "DepictionSpacerView"
