@@ -547,6 +547,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/ico
 Name: SugarCane 13/14
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
+Package: com.ioscreatix.sugarcane
+Version: 1.2.4.3
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 172
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.4.3_iphoneos-arm.deb
+Size: 7892
+MD5sum: 1834526a83fdeebf317eabd331a8f027
+SHA1: b9ff40568d038a0e982f3ae905a3b61a7a1c9ba9
+SHA256: 0096dbc57a3ec51e789491e466ae4ba824feee637ae112258102089d7ab1b945
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center 13 - 16
+Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.ioscreatix.sugarcane
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/icon.png
+Name: SugarCane 13/14/15/16
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
+
+Package: com.ioscreatix.sugarcane
+Version: 1.2.4.3
+Architecture: iphoneos-arm64
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 172
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.4.3_iphoneos-arm64.deb
+Size: 7948
+MD5sum: 47a8b61b0a793ead08056a3a2132e7cd
+SHA1: 1c61be0533b55ba2d5e49a2795edefe934cb76e0
+SHA256: 64a3f82f05efb1d027792681b82e9433c5c350d3c9441089b9dc395dcde10006
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center 13 - 16
+Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.ioscreatix.sugarcane
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/icon.png
+Name: SugarCane 13/14/15/16
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
+
 Package: com.p2kdev.alarmtime
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1790,6 +1828,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifind/icon.p
 Name: SafariFind
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifind.json
 
+Package: com.p2kdev.safarifind
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safarifind_1.1.2_iphoneos-arm64.deb
+Size: 8120
+MD5sum: f081ca787f71ab3d5d59cf859b216e29
+SHA1: a9429fbbb37bf755ae36a077896b7919e12d3238
+SHA256: 0c6d9108b5c83c1594dd29dc41adb12b7257091831f3db78de3f6f9390c2bafb
+Section: Tweaks
+Description: Easy access to find feature in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safarifind
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifind/icon.png
+Name: SafariFind
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifind.json
+
+Package: com.p2kdev.safarifind
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.safarifind_1.1.2_iphoneos-arm.deb
+Size: 8064
+MD5sum: 50fee83396db0916590ae8ca0f48db6f
+SHA1: 3caa93fa3ccd6ede70315d998e1e226d6345ba10
+SHA256: 6a54fbdc846a9b97062c03346bb616adbeed63bb9bac1181290f5823b2ea5408
+Section: Tweaks
+Description: Easy access to find feature in Safari!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safarifind
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safarifind/icon.png
+Name: SafariFind
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safarifind.json
+
 Package: com.p2kdev.sakal
 Version: 2.1.7.8
 Architecture: iphoneos-arm64
@@ -2735,6 +2811,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
+Package: com.p2kdev.waqt
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.3_iphoneos-arm64.deb
+Size: 34004
+MD5sum: a0af1e2eeea58d1bac0a321e013ac9ca
+SHA1: 2a9fcef544898fe3eded7381b9cbd99b7cbe1848
+SHA256: 3cb72afe199a6d01dcce99f976bb107810ea9ac748655898ba7b0eac776f72d5
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
+Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
+
+Package: com.p2kdev.waqt
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.3_iphoneos-arm.deb
+Size: 33936
+MD5sum: 9b895c53cce121fc134fcdf638a3a724
+SHA1: 750d80a8be3f353378740fff43b42c5f2540ebe5
+SHA256: 4f7eba6a77182600ff06cfd4cf9163723f806e78e95c6038fd87c54cae8a7af6
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
+Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
+
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2803,6 +2917,44 @@ Size: 9380
 MD5sum: ed4198f115809ef5aacb40141c1f5ed6
 SHA1: 9a6abe638441b59a6072eea25277d7a4a7c01823
 SHA256: 7c2cd2ed7ea1dd0e82007b0c595e413177309111df199ceade4f6ff5476c57ad
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.2_iphoneos-arm.deb
+Size: 10588
+MD5sum: 6c1a48a0a0500db9aca60eba3d093902
+SHA1: fc7b158645c25c3dd71f234744fced9d47f9754d
+SHA256: 7157c4357055b56fac19b574e2f68803559ee41738366118b0c6866dc7edd9b0
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.2_iphoneos-arm64.deb
+Size: 10612
+MD5sum: 67b642e4aad21675ae9186679b949816
+SHA1: f69739ee09708dea987470cf5ace67d568eb5ad6
+SHA256: 5b1e5611c8c0d51a261f520484f010bd21f9972052f2351424fbf0cd55ffdf50
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
