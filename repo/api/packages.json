@@ -1,9 +1,9 @@
 {
   "package_ids": [
-    "com.p2kdev.waqt",
     "com.p2kdev.whatsappcallconfirm",
-    "com.p2kdev.safarifind",
     "com.ioscreatix.sugarcane",
+    "com.p2kdev.safarifind",
+    "com.p2kdev.waqt",
     "com.p2kdev.tapticboard",
     "com.p2kdev.quitall",
     "com.p2kdev.tinywidget14",
