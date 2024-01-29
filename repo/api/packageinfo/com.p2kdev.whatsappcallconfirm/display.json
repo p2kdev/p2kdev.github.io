@@ -7,16 +7,16 @@
         "description": "Confirm before making calls in WhatsApp!",
         "source_code_link": ""
     },
-    "changelog": [
-        {
-            "date": "2024-01-29",
-            "version_number": "1.0.2",
-            "changes": "- Added support for latest WA version"
-        },        
+    "changelog": [      
         {
             "date": "2023-05-19",
             "version_number": "1.0.1",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-01-29",
+            "version_number": "1.0.2",
+            "changes": "- Added support for latest WA version"
+        }        
     ]
 }

@@ -7,16 +7,16 @@
         "description": "Know more than just the current time!",
         "source_code_link": "https://github.com/p2kdev/Waqt"
     },
-    "changelog": [
-        {
-            "date": "2024-01-29",
-            "version_number": "1.3",
-            "changes": "- Added support for updating the status bar time every second if specified in the format. \n- Added options to set view center (Vertical Alignment)"
-        },        
+    "changelog": [       
         {
             "date": "2023-05-19",
             "version_number": "1.2.2",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-01-29",
+            "version_number": "1.3",
+            "changes": "- Added support for updating the status bar time every second if specified in the format. \n- Added options to set view center (Vertical Alignment)"
+        }        
     ]
 }

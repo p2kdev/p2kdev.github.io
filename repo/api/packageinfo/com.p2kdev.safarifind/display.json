@@ -7,16 +7,16 @@
         "description": "Easy access to find feature in Safari!",
         "source_code_link": "https://github.com/p2kdev/SafariFind"
     },
-    "changelog": [
-        {
-            "date": "2024-01-29",
-            "version_number": "1.1.2",
-            "changes": "- iOS16 support"
-        },          
+    "changelog": [         
         {
             "date": "2023-05-19",
             "version_number": "1.1.1",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-01-29",
+            "version_number": "1.1.2",
+            "changes": "- iOS16 support"
+        }        
     ]
 }

@@ -7,16 +7,16 @@
         "description": "Get percentages for the sliders in the Control Center 13 and 14",
         "source_code_link": "https://github.com/p2kdev/SugarCane"
     },
-    "changelog": [
-        {
-            "date": "2024-01-29",
-            "version_number": "1.2.4.3",
-            "changes": "- Better handling of the volume hud view on homescreen"
-        },          
+    "changelog": [         
         {
             "date": "2023-05-19",
             "version_number": "1.2.4.2",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-01-29",
+            "version_number": "1.2.4.3",
+            "changes": "- Better handling of the volume hud view on homescreen"
+        }        
     ]
 }
