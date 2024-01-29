@@ -9,6 +9,11 @@
     },
     "changelog": [
         {
+            "date": "2024-01-29",
+            "version_number": "1.2.4.3",
+            "changes": "- Better handling of the volume hud view on homescreen"
+        },          
+        {
             "date": "2023-05-19",
             "version_number": "1.2.4.2",
             "changes": "- Initial release on the repo"
