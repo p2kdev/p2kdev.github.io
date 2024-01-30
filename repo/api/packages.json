@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.pmconfirm",
     "com.p2kdev.whatsappcallconfirm",
     "com.ioscreatix.sugarcane",
     "com.p2kdev.safarifind",
@@ -26,7 +27,6 @@
     "com.p2kdev.reachmore",
     "com.p2kdev.quickactioncalc",
     "com.p2kdev.purerecents",
-    "com.p2kdev.pmconfirm",
     "com.p2kdev.pagedotmover",
     "com.p2kdev.nospotlightonls",
     "com.p2kdev.nosettingsbadge",

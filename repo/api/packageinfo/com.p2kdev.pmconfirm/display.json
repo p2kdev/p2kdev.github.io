@@ -12,6 +12,11 @@
             "date": "2023-05-19",
             "version_number": "1.2",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-01-30",
+            "version_number": "1.2.1",
+            "changes": "- iOS16 support"
+        }        
     ]
 }

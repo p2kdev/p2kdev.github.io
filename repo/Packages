@@ -1336,6 +1336,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.pmconfirm/icon.pn
 Name: PMConfirm
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.pmconfirm.json
 
+Package: com.p2kdev.pmconfirm
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: firmware (>= 13.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.pmconfirm_1.2.1_iphoneos-arm.deb
+Size: 11620
+MD5sum: 0ab7926b6bfae4acb613801c1ab590de
+SHA1: b323c4fe875ff020911bc88ed45d49fd469427f7
+SHA256: 1b1f4c9ede5c845b0abf57b8ddfe75788e4ae67290bd8f12b85f0f6d88e6e4ef
+Section: Tweaks
+Description: Confirm when setting alarms for PM!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.pmconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.pmconfirm/icon.png
+Name: PMConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.pmconfirm.json
+
+Package: com.p2kdev.pmconfirm
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: firmware (>= 13.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.pmconfirm_1.2.1_iphoneos-arm64.deb
+Size: 11676
+MD5sum: 87c46b01c48558d3c37d957caf2f7fac
+SHA1: 0da9584876ae68dc2220abda879cda940d21a075
+SHA256: 2fd2eea64ee046d548d0e77723b2e708c17f6415bb0a3b7d3dc5cf843f5f2d1c
+Section: Tweaks
+Description: Confirm when setting alarms for PM!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.pmconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.pmconfirm/icon.png
+Name: PMConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.pmconfirm.json
+
 Package: com.p2kdev.purerecents
 Version: 1.0
 Architecture: iphoneos-arm
