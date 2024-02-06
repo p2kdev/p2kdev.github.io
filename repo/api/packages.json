@@ -1,6 +1,7 @@
 {
   "package_ids": [
     "com.p2kdev.pmconfirm",
+    "com.p2kdev.keepitsimple",
     "com.p2kdev.whatsappcallconfirm",
     "com.ioscreatix.sugarcane",
     "com.p2kdev.safarifind",
@@ -35,7 +36,6 @@
     "com.p2kdev.myassistive",
     "com.p2kdev.modernsettings",
     "com.p2kdev.letmedecline",
-    "com.p2kdev.keepitsimple",
     "com.p2kdev.instazoom",
     "com.p2kdev.instagramnoads",
     "com.p2kdev.gmailalwayslighttheme",

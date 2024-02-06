@@ -17,6 +17,11 @@
             "date": "2024-01-30",
             "version_number": "1.2.1",
             "changes": "- iOS16 support"
-        }        
+        },
+        {
+            "date": "2024-02-06",
+            "version_number": "1.2.2",
+            "changes": "- Fixed iOS15 support"
+        }                   
     ]
 }
