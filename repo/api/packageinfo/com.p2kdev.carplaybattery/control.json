@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.carplaybattery", "Name": "CarplayBattery", "Version": "1.0", "Architecture": "iphoneos-arm64", "Description": "Enable Battery Percentage in Carplay!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "firmware (>= 16.0),mobilesubstrate" }

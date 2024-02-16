@@ -680,6 +680,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.boldlsdatetime/ic
 Name: BoldLSDateTime
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.boldlsdatetime.json
 
+Package: com.p2kdev.carplaybattery
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 16.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.carplaybattery_1.0_iphoneos-arm64.deb
+Size: 3824
+MD5sum: 5eec11322eceba0ca05354d7b46aa3e2
+SHA1: 7b766d175197f6877abdf90f5716fcd7c13c25a7
+SHA256: 2a349f4c14f03f2ebf4c337234bebf5248ea64ad371c2a93b508edcb47244015
+Section: Tweaks
+Description: Enable Battery Percentage in Carplay!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.carplaybattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.carplaybattery/icon.png
+Name: CarplayBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.carplaybattery.json
+
 Package: com.p2kdev.chasejbbypass
 Version: 1.0
 Architecture: iphoneos-arm64
