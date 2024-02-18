@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.spotbetter",
     "com.p2kdev.quitall",
     "com.p2kdev.carplaybattery",
     "com.p2kdev.keepitsimple",
@@ -18,7 +19,6 @@
     "com.p2kdev.whatsappmultideviceenable",
     "com.p2kdev.switchconfirm",
     "com.p2kdev.springboardtweakfixer",
-    "com.p2kdev.spotbetter",
     "com.p2kdev.snapper2cc",
     "com.p2kdev.smartrotatefix",
     "com.p2kdev.smartpower",

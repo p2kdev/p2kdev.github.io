@@ -2504,6 +2504,46 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.p
 Name: SpotBetter
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
 
+Package: com.p2kdev.spotbetter
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 464
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.2_iphoneos-arm64.deb
+Size: 41804
+MD5sum: 723424ea11f34aaa2527e14d0dc498b4
+SHA1: ac8a69b6c434868516ec82a59fb5a66e1ee724b3
+SHA256: 1b8533e6a023f9e32b1feea0e0cbf0733c562dfb9443da30276a5175b8f58890
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.spotbetter
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.png
+Name: SpotBetter
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
+
+Package: com.p2kdev.spotbetter
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 464
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.2_iphoneos-arm.deb
+Size: 41792
+MD5sum: 833688bb3e26bb07d0da65ec5dfade05
+SHA1: aa3cf51a106c3d5392aaf8f8eecc64e31595296a
+SHA256: 638e393d6e045ee1a2a9c9a242d93299ef7721b5aa36261f9d66df5251ec195b
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.spotbetter
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.png
+Name: SpotBetter
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
+
 Package: com.p2kdev.springboardtweakfixer
 Version: 1.0
 Architecture: iphoneos-arm
