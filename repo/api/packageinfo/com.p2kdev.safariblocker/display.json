@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Get Control over pop-ups in Safari!\nInspired by the tweak TabBlocker. So props to the DEV for the idea.\nAlso thanks to opa334 for his help with objc_direct method on iOS 14!\nAre you tired of advertisement pop-ups or pop-up tab's opening automatically in Safari? If yes, then this tweak is for you!\nSafariBlocker will show you an alert with the following actions, when a website tries to open a new tab\nAllow once\nWhitelist Domain\nBlacklist Domain\nBlacklist URL\nAlso when a tab is blocked when it meets your preferences, a small toast message will be shown letting you know that the tab was blocked!\nYou can manage the above preferences in a organized list in the tweak settings.",
+        "source_code_link": "https://github.com/p2kdev/SafariBlocker"
+    },
+    "changelog": [
+        {
+            "date": "2024-02-22",
+            "version_number": "1.3",
+            "changes": "iOS16 Support!"
+        }
+    ]
+}

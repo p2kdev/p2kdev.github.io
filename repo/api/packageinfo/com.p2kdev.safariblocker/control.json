@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.safariblocker", "Name": "SafariBlocker", "Version": "1.3", "Architecture": "iphoneos-arm", "Description": "Block New Tabs with Options!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate, preferenceloader, firmware (>= 16.0)" }
