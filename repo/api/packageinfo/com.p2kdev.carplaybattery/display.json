@@ -1,1 +1,22 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Enable Battery Percentage in Carplay!", "source_code_link": "https://github.com/p2kdev/CarplayBattery" }, "changelog": [ { "date": "2024-02-15", "version_number": "1.0", "changes": "Initial release" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Enable Battery Percentage in Carplay!",
+        "source_code_link": "https://github.com/p2kdev/CarplayBattery"
+    },
+    "changelog": [
+        {
+            "date": "2024-02-15",
+            "version_number": "1.0",
+            "changes": "Initial release"
+        },
+        {
+            "date": "2024-02-23",
+            "version_number": "1.1",
+            "changes": "Increase font size of the percentage label"
+        }        
+    ]
+}
