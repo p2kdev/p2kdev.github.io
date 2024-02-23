@@ -1926,6 +1926,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safariblocker/ico
 Name: SafariBlocker
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safariblocker.json
 
+Package: com.p2kdev.safariblocker
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.p2kdev.safariblocker_1.3.1_iphoneos-arm.deb
+Size: 38680
+MD5sum: c2587452f2aab53c3f6fbf387d8b38d7
+SHA1: 6e2379f73f2f4c32808cd56b19b0990c72b17789
+SHA256: 3a3af96b7728babca7f4577351eee07d5228425666dd3292abfcde957ddea2f4
+Section: Tweaks
+Description: Block New Tabs with Options!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safariblocker
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safariblocker/icon.png
+Name: SafariBlocker
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safariblocker.json
+
+Package: com.p2kdev.safariblocker
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.p2kdev.safariblocker_1.3.1_iphoneos-arm64.deb
+Size: 38664
+MD5sum: ce2a7dc596d225cdeb5bf65da81b73b9
+SHA1: 993ec5c404f76fc9f880997cc8c7183c103e69f0
+SHA256: 4fcc7694045f761cfa5fb13b8c02d662b5f5b29993ec22007441ca919df0633a
+Section: Tweaks
+Description: Block New Tabs with Options!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safariblocker
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safariblocker/icon.png
+Name: SafariBlocker
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safariblocker.json
+
 Package: com.p2kdev.safarifasttype
 Version: 1.0.2
 Architecture: iphoneos-arm64
