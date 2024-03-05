@@ -12,11 +12,6 @@
             "date": "2024-02-15",
             "version_number": "1.0",
             "changes": "Initial release"
-        },
-        {
-            "date": "2024-02-23",
-            "version_number": "1.1",
-            "changes": "Increase font size of the percentage label"
-        }        
+        }     
     ]
 }
