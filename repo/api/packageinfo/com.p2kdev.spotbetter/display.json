@@ -17,6 +17,11 @@
             "date": "2024-02-17",
             "version_number": "1.2",
             "changes": "- iOS16 Support!\n - Added option to reorder pinned apps"
-        }        
+        },
+        {
+            "date": "2024-03-07",
+            "version_number": "1.2.1",
+            "changes": "Fixed disabling action cards not working on iOS16"
+        }                 
     ]
 }

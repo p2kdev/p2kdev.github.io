@@ -2658,6 +2658,46 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.p
 Name: SpotBetter
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
 
+Package: com.p2kdev.spotbetter
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 464
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.2.1_iphoneos-arm.deb
+Size: 42052
+MD5sum: 5aa433aa005afb5db052c85dea016ed6
+SHA1: c0c2655dc973d92f7a3624e45e3d4011554d2d64
+SHA256: d2814a1a89c918fcf73f81154fd41506937679cdefab9d1a82c976cee0d09c8d
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.spotbetter
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.png
+Name: SpotBetter
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
+
+Package: com.p2kdev.spotbetter
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 464
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.2.1_iphoneos-arm64.deb
+Size: 42144
+MD5sum: 38699761e9a7e272afd27bde454f1a4b
+SHA1: a19699baad4c425eab4dd4f4cbe032395f1cc6d8
+SHA256: 5c2f65f7e12aa7212558ef74462d67a3c2999cf98cf0301c764654f353c187ad
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.spotbetter
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.png
+Name: SpotBetter
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
+
 Package: com.p2kdev.springboardtweakfixer
 Version: 1.0
 Architecture: iphoneos-arm
