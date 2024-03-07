@@ -870,6 +870,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/ico
 Name: FacebookNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
+Package: com.p2kdev.facebooknoads
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.facebooknoads_1.1_iphoneos-arm64.deb
+Size: 4988
+MD5sum: f4a871d64f78f7fb41c512301ba44c40
+SHA1: 651470b2e171ff8889082be4845a7530558b9af9
+SHA256: 3b4379498839898fd56a1963b0162ef8482a4e60fdd973e7ac127a4da4f6a3c2
+Section: Tweaks
+Description: No Ads in the Facebook App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
+Name: FacebookNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
+
+Package: com.p2kdev.facebooknoads
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.facebooknoads_1.1_iphoneos-arm.deb
+Size: 4932
+MD5sum: 59e8e64e4f3bdda6e4436e4479240766
+SHA1: a042496b003ca241bab535d83f7364bb69c5df32
+SHA256: b4926e9c74e4865214338337d7e270b38f80ba57e9c3e619129efc5881e6e6d4
+Section: Tweaks
+Description: No Ads in the Facebook App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
+Name: FacebookNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
+
 Package: com.p2kdev.gmailalwayslighttheme
 Version: 1.0
 Architecture: iphoneos-arm

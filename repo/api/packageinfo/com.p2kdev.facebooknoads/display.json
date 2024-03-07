@@ -11,7 +11,12 @@
         {
             "date": "2023-05-19",
             "version_number": "1.0",
-            "changes": "- Initial release on the repo"
-        }
+            "changes": "Initial Release"
+        },
+        {
+            "date": "2024-03-07",
+            "version_number": "1.1",
+            "changes": "Fixed ads in story & video feed"
+        }        
     ]
 }

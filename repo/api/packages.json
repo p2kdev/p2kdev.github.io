@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.facebooknoads",
     "com.p2kdev.safariblocker",
     "com.p2kdev.spotbetter",
     "com.p2kdev.quitall",
@@ -41,7 +42,6 @@
     "com.p2kdev.instazoom",
     "com.p2kdev.instagramnoads",
     "com.p2kdev.gmailalwayslighttheme",
-    "com.p2kdev.facebooknoads",
     "com.p2kdev.deleteforeverxs",
     "com.p2kdev.colorcodedlogs",
     "com.p2kdev.colorbar",
