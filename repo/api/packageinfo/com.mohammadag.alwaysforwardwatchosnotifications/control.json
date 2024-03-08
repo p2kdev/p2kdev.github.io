@@ -1,0 +1,1 @@
+{ "Package": "com.mohammadag.alwaysforwardwatchosnotifications", "Name": "Always Forward WatchOS Notifications", "Version": "1.2", "Architecture": "iphoneos-arm64", "Description": "Forward WatchOS notifications even when unlocked", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "Mohammad Abu-Garbeyyeh, p2kdev", "Section": "Tweaks", "Depends": "mobilesubstrate" }

@@ -585,6 +585,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/ico
 Name: SugarCane 13/14/15/16
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
+Package: com.mohammadag.alwaysforwardwatchosnotifications
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.mohammadag.alwaysforwardwatchosnotifications_1.2_iphoneos-arm64.deb
+Size: 5108
+MD5sum: 8ebb74f412112bab35b94157771a6e81
+SHA1: 9f199c5cc0df2628563ca9ad5007e3db00868853
+SHA256: e1cdbb897d580dab5d84f427c0072b79b571338938e72dff1edfe1b62f8e98a3
+Section: Tweaks
+Description: Forward WatchOS notifications even when unlocked
+Author: Mohammad Abu-Garbeyyeh, p2kdev
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.mohammadag.alwaysforwardwatchosnotifications
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.mohammadag.alwaysforwardwatchosnotifications/icon.png
+Name: Always Forward WatchOS Notifications
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.mohammadag.alwaysforwardwatchosnotifications.json
+
 Package: com.p2kdev.alarmtime
 Version: 1.0
 Architecture: iphoneos-arm64

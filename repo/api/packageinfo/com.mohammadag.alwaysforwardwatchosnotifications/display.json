@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "- Send notifications to watch even when iPhone is unlocked \n - Send notifications to iPhone along with the watch when iPhone is Locked (WinterMode tweak)",
+        "source_code_link": "https://github.com/p2kdev/Always Forward WatchOS Notifications"
+    },
+    "changelog": [
+        {
+            "date": "2024-03-08",
+            "version_number": "1.2",
+            "changes": "Compiled for rootless"
+        }
+    ]
+}
