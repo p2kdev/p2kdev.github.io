@@ -17,6 +17,11 @@
             "date": "2024-03-07",
             "version_number": "1.1",
             "changes": "Fixed ads in story & video feed"
-        }        
+        },
+        {
+            "date": "2024-03-18",
+            "version_number": "1.2",
+            "changes": "Fixed videos not playing properly in videos tab"
+        }                 
     ]
 }
