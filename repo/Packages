@@ -2774,6 +2774,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.springboardtweakf
 Name: SpringBoardTweaksFixer
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.springboardtweakfixer.json
 
+Package: com.p2kdev.swipetoreply
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.swipetoreply_1.0_iphoneos-arm64.deb
+Size: 13428
+MD5sum: 334e740e533c59f925927c3b5d83e091
+SHA1: 9a812c6664682464d22fac6f1ddb20ac268702e3
+SHA256: ed5cb6ca8a9c20d3c2bce70de6ec3af3be4d76b0ef8bd3b6ccd078c8a02bf888
+Section: Tweaks
+Description: Swipe to reply in Messages!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.swipetoreply
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.swipetoreply/icon.png
+Name: SwipeToReply
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.swipetoreply.json
+
+Package: com.p2kdev.swipetoreply
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.swipetoreply_1.0_iphoneos-arm.deb
+Size: 13360
+MD5sum: 483ddd5e2eff5f6726251fe8398897f0
+SHA1: 4e174776fc0db70e258938c09f4c78a6796f156f
+SHA256: 50d18b240f32e1c69dbd6e1b5b4346e2cc051662a925f930154fa675f60ed88b
+Section: Tweaks
+Description: Swipe to reply in Messages!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.swipetoreply
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.swipetoreply/icon.png
+Name: SwipeToReply
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.swipetoreply.json
+
 Package: com.p2kdev.switchconfirm
 Version: 1.1.2
 Architecture: iphoneos-arm64

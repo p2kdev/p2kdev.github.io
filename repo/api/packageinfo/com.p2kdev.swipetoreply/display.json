@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "iOS17 feature for Swipe to reply in Messages ported to iOS16 & below!",
+        "source_code_link": "https://github.com/p2kdev/SwipeToReply"
+    },
+    "changelog": [
+        {
+            "date": "2024-03-21",
+            "version_number": "1.0",
+            "changes": "Initial Release"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.swipetoreply", "Name": "SwipeToReply", "Version": "1.0", "Architecture": "iphoneos-arm", "Description": "Swipe to reply in Messages!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }
