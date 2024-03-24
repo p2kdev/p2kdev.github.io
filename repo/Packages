@@ -1964,6 +1964,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.redditnoads/icon.
 Name: RedditNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.redditnoads.json
 
+Package: com.p2kdev.reverseisland
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.reverseisland_1.0_iphoneos-arm64.deb
+Size: 4432
+MD5sum: 342ef06b15ebb363705533e87dc388e2
+SHA1: 39908bcb1dd8480ac6b6fad09ff0b4089617b874
+SHA256: c8165cebb4ac7c4a7e716c9615f2cd1d3c264dfa4e25cbbb20314f4e2833ff7e
+Section: Tweaks
+Description: Single Tap on the Island to launch widget & hold to launch the app!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.reverseisland
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.reverseisland/icon.png
+Name: ReverseIsland
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.reverseisland.json
+
 Package: com.p2kdev.ringpercentlabel
 Version: 1.0.5
 Architecture: iphoneos-arm64

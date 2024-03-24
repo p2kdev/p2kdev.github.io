@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.reverseisland", "Name": "ReverseIsland", "Version": "1.0", "Architecture": "iphoneos-arm64", "Description": "Single Tap on the Island to launch widget & hold to launch the app!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

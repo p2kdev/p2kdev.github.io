@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Single Tap on the Island to launch widget & hold to launch the app! If the dyanmic island activity doesn't have any long press action, then the tap will launch the app!",
+        "source_code_link": "https://github.com/p2kdev/ReverseIsland"
+    },
+    "changelog": [
+        {
+            "date": "2024-03-23",
+            "version_number": "1.0",
+            "changes": "- Initial release on the repo"
+        }
+    ]
+}
