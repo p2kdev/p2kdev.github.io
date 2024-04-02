@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.waqt",
     "com.p2kdev.reverseisland",
     "com.p2kdev.swipetoreply",
     "com.p2kdev.facebooknoads",
@@ -13,7 +14,6 @@
     "com.p2kdev.whatsappcallconfirm",
     "com.ioscreatix.sugarcane",
     "com.p2kdev.safarifind",
-    "com.p2kdev.waqt",
     "com.p2kdev.tapticboard",
     "com.p2kdev.tinywidget14",
     "com.p2kdev.sakal",

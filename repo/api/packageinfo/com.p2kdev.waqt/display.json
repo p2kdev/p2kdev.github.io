@@ -17,6 +17,11 @@
             "date": "2024-01-29",
             "version_number": "1.3",
             "changes": "- Added support for updating the status bar time every second if specified in the format. \n- Added options to set view center (Vertical Alignment)"
-        }        
+        },
+        {
+            "date": "2024-04-02",
+            "version_number": "1.4",
+            "changes": "- Seconds timer will be suspended when device is locked to preserve battery. \n- Preferences are now pretty much updated live! No respring required in most cases"
+        }                
     ]
 }
