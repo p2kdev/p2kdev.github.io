@@ -756,6 +756,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.chasejbbypass/ico
 Name: ChaseJBBypass
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.chasejbbypass.json
 
+Package: com.p2kdev.classicdnd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.classicdnd_1.0_iphoneos-arm64.deb
+Size: 4820
+MD5sum: 75dd747acf2fd08dce1ce5178945b9ac
+SHA1: 2841b1d65c3f9616f44866714b0cc4c8728ae699
+SHA256: fe82c5f88fcae0fb5cc4a2843d61896f4a2e943ba5d5f20dcb8113f3b305a017
+Section: Tweaks
+Description: Allows banner notifications during DND when unlocked. Apple removed this option starting iOS15. This tweak brings it back!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.classicdnd
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.classicdnd/icon.png
+Name: ClassicDND
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.classicdnd.json
+
 Package: com.p2kdev.colorbar
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2580,6 +2599,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/ico
 Name: SimpleBattery
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
 
+Package: com.p2kdev.slimcomplications
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.slimcomplications_1.0_iphoneos-arm64.deb
+Size: 3768
+MD5sum: 315038b3a738fb3227030e78d6a535ec
+SHA1: 237ee4e58a56038346c3b4559bc05067882fecca
+SHA256: c456262d9df1b5a3c261d6d0ae193a802180f703dcd53f8ba9067bdaa72d6629
+Section: Tweaks
+Description: Reduces the size & spacing of stock complications on iOS16!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.slimcomplications
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.slimcomplications/icon.png
+Name: SlimComplications
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.slimcomplications.json
+
 Package: com.p2kdev.smartpower
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3181,6 +3219,25 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
 Name: TwitterNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
+Package: com.p2kdev.videosunmute
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.videosunmute_1.0_iphoneos-arm64.deb
+Size: 6188
+MD5sum: 9456e743f93eb3d97055b2966974c0a0
+SHA1: 0cabf186eb40bece3fea493828efab1815f8eefb
+SHA256: ed9c914a7014d3d1209df44cc39df7a88b605aea89ae51136bb081ae6509d2f1
+Section: Tweaks
+Description: Unmute videos on opening in Photos App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.videosunmute
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.videosunmute/icon.png
+Name: VideosUnmute
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.videosunmute.json
 
 Package: com.p2kdev.waqt
 Version: 1.2

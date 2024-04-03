@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.slimcomplications", "Name": "SlimComplications", "Version": "1.0", "Architecture": "iphoneos-arm64", "Description": "Reduces the size & spacing of stock complications on iOS16!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

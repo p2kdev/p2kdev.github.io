@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.videosunmute", "Name": "VideosUnmute", "Version": "1.0", "Architecture": "iphoneos-arm64", "Description": "Unmute videos on opening in Photos App!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate" }

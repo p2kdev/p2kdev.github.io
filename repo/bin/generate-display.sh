@@ -15,6 +15,7 @@ name=$(grep -i "^Name:" $input_file | cut -d " " -f 2-)
 description=$(grep -i "^Description:" $input_file | cut -d " " -f 2-)
 
 # Create a JSON object from the parsed fields
+# "source_code_link": "https://github.com/p2kdev/$name"
 json_object=$(cat << EOF
 {
     "contact": {
@@ -22,14 +23,13 @@ json_object=$(cat << EOF
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "$description",
-        "source_code_link": "https://github.com/p2kdev/$name"
+        "description": "$description"
     },
     "changelog": [
         {
             "date": "$(date +%Y-%m-%d)",
             "version_number": "$version",
-            "changes": "- Initial release on the repo"
+            "changes": "Initial release"
         }
     ]
 }

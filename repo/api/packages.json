@@ -1,5 +1,8 @@
 {
   "package_ids": [
+    "com.p2kdev.videosunmute",
+    "com.p2kdev.classicdnd",
+    "com.p2kdev.slimcomplications",
     "com.p2kdev.waqt",
     "com.p2kdev.reverseisland",
     "com.p2kdev.swipetoreply",

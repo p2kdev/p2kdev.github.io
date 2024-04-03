@@ -1,0 +1,16 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Allows banner notifications during DND when unlocked. Apple removed this option starting iOS15. This tweak brings it back!"
+    },
+    "changelog": [
+        {
+            "date": "2024-04-02",
+            "version_number": "1.0",
+            "changes": "Initial release"
+        }
+    ]
+}
