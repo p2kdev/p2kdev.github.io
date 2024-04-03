@@ -3220,6 +3220,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon
 Name: TwitterNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
 
+Package: com.p2kdev.twitternoads
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.1.2_iphoneos-arm64.deb
+Size: 6668
+MD5sum: 3d6bade8a68694d0e47e48ebbe9055ca
+SHA1: 86e7c430b1e1685c1d13f616fd902ddaefadd4d2
+SHA256: 8a4b3ae625685be104bdb7c650d9fc8766c63dd1a7209ed15fc6734156312168
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
 Package: com.p2kdev.videosunmute
 Version: 1.0
 Architecture: iphoneos-arm64
