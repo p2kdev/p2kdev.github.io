@@ -17,16 +17,6 @@
             "date": "2023-05-24",
             "version_number": "1.1.1",
             "changes": "Fixed related tweets. Thanks [FoxfortMobile](https://twitter.com/FoxfortMobile)"
-        },
-        {
-            "date": "2024-04-03",
-            "version_number": "1.1.2",
-            "changes": "Removed pinned tweets & suggested follow sections."
-        },
-        {
-            "date": "2024-04-04",
-            "version_number": "1.1.3",
-            "changes": "Reverted suggested follow section hiding"
-        }                      
+        }                     
     ]
 }
