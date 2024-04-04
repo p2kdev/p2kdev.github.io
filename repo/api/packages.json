@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.letmedecline",
     "com.p2kdev.videosunmute",
     "com.p2kdev.classicdnd",
     "com.p2kdev.slimcomplications",
@@ -43,7 +44,6 @@
     "com.p2kdev.ndtvnoads",
     "com.p2kdev.myassistive",
     "com.p2kdev.modernsettings",
-    "com.p2kdev.letmedecline",
     "com.p2kdev.instazoom",
     "com.p2kdev.instagramnoads",
     "com.p2kdev.gmailalwayslighttheme",

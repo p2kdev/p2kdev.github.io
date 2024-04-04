@@ -1190,6 +1190,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.letmedecline/icon
 Name: LetMeDecline
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.letmedecline.json
 
+Package: com.p2kdev.letmedecline
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.letmedecline_1.1_iphoneos-arm64.deb
+Size: 6056
+MD5sum: 5581e693eceb44e74a72cbb830c55e1b
+SHA1: 5b1a54670152cdcc1ca8b72e21093dfda1ea915a
+SHA256: 05c5fd40022bedbab564cdcb8bdede0ec7de68b38acfe912c677620e77157850
+Section: Tweaks
+Description: This tweak will show the Accept/Decline buttons when the phone is locked!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.letmedecline
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.letmedecline/icon.png
+Name: LetMeDecline
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.letmedecline.json
+
+Package: com.p2kdev.letmedecline
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.letmedecline_1.1_iphoneos-arm.deb
+Size: 5992
+MD5sum: 0c2391d204a1e6e3f607e2a007b17925
+SHA1: e94a26ace1b7e4f2a146f892bacd7bfae4c6b45c
+SHA256: a85fe886fefbe8be8e443f0e49d470a790bebaae6c935cdc38a880a06e58ebd7
+Section: Tweaks
+Description: This tweak will show the Accept/Decline buttons when the phone is locked!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.letmedecline
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.letmedecline/icon.png
+Name: LetMeDecline
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.letmedecline.json
+
 Package: com.p2kdev.modernsettings
 Version: 1.0
 Architecture: iphoneos-arm

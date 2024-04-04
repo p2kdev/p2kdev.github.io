@@ -4,7 +4,7 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "This tweak will show the Accept/Decline buttons when the phone is locked!",
+        "description": "A simple tweak to always show the Accept/Decline buttons when receiving a call",
         "source_code_link": "https://github.com/p2kdev/LetMeDecline"
     },
     "changelog": [
@@ -12,6 +12,11 @@
             "date": "2023-05-19",
             "version_number": "1.0.2",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-04-04",
+            "version_number": "1.1",
+            "changes": "Updated for iOS15 & above"
+        }        
     ]
 }
