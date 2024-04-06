@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.twitternoads",
     "com.p2kdev.facebooknoads",
     "com.p2kdev.letmedecline",
     "com.p2kdev.videosunmute",
@@ -22,7 +23,6 @@
     "com.p2kdev.tinywidget14",
     "com.p2kdev.sakal",
     "com.p2kdev.nofocusindicatoronls",
-    "com.p2kdev.twitternoads",
     "org.thebigboss.libcolorpicker",
     "com.twickd.john-sklikas.3dbadgeclear",
     "com.p2kdev.whatsappmultideviceenable",
