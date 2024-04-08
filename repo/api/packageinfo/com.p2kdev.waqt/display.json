@@ -22,6 +22,11 @@
             "date": "2024-04-02",
             "version_number": "1.4",
             "changes": "- Seconds timer will be suspended when device is locked to preserve battery. \n- Preferences are now pretty much updated live! No respring required in most cases"
-        }                
+        },
+        {
+            "date": "2024-04-08",
+            "version_number": "1.4.1",
+            "changes": "Look at screen state(ON/OFF) instead of lock state to suspend seconds timer"
+        }                        
     ]
 }

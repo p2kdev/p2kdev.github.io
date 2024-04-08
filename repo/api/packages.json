@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.waqt",
     "com.p2kdev.nowplayingvolumecontrol",
     "com.p2kdev.twitternoads",
     "com.p2kdev.facebooknoads",
@@ -7,7 +8,6 @@
     "com.p2kdev.videosunmute",
     "com.p2kdev.classicdnd",
     "com.p2kdev.slimcomplications",
-    "com.p2kdev.waqt",
     "com.p2kdev.reverseisland",
     "com.p2kdev.swipetoreply",
     "com.mohammadag.alwaysforwardwatchosnotifications",

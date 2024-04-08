@@ -3499,6 +3499,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
+Package: com.p2kdev.waqt
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.4.1_iphoneos-arm64.deb
+Size: 34848
+MD5sum: cf9a733309e614bb651fa849f6155b27
+SHA1: 03c349d6f8f252d643baf8004438c425af8027d6
+SHA256: b7ec4c7f6abebae92ba6a830e54259796b67600247f8ba57ce885504225247af
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
+Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
+
 Package: com.p2kdev.whatsappcallconfirm
 Version: 1.0
 Architecture: iphoneos-arm64
