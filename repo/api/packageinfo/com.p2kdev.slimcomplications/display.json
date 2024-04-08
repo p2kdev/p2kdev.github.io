@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Reduces the size & spacing of stock complications on iOS16!"
+        "description": "Reduces the size & spacing of stock complications on iOS16!",
+        "source_code_link": ""
     },
     "changelog": [
         {

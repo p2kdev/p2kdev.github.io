@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Always show volume control on the media controls!"
+        "description": "Always show volume control on the media controls!",
+        "source_code_link": ""
     },
     "changelog": [
         {

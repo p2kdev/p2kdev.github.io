@@ -4,7 +4,8 @@
         "email": "p2kdev@gmail.com"
     },
     "information": {
-        "description": "Unmute videos on opening in Photos App!"
+        "description": "Unmute videos on opening in Photos App!",
+        "source_code_link": ""
     },
     "changelog": [
         {
