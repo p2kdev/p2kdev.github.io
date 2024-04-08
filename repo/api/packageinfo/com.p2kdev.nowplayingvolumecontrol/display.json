@@ -1,0 +1,16 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Always show volume control on the media controls!"
+    },
+    "changelog": [
+        {
+            "date": "2024-04-08",
+            "version_number": "1.0",
+            "changes": "Initial release"
+        }
+    ]
+}

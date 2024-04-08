@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.nowplayingvolumecontrol", "Name": "NowPlayingVolumeControl", "Version": "1.0", "Architecture": "iphoneos-arm64", "Description": "Always show volume control on the media controls!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Tweaks", "Depends": "mobilesubstrate, firmware (>= 16.0)" }

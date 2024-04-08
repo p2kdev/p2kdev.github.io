@@ -1475,6 +1475,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nospotlightonls/i
 Name: NoSpotlightOnLS
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nospotlightonls.json
 
+Package: com.p2kdev.nowplayingvolumecontrol
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.p2kdev.nowplayingvolumecontrol_1.0_iphoneos-arm64.deb
+Size: 3628
+MD5sum: 1ddd423c59d22a2695cd1dc32a6d1257
+SHA1: 847bd28b18b39dd4e305b0240658bdb2f8845bc0
+SHA256: 25a93489f7da011a1e4075579d026415ac9915f3fee3cd72de834dd3ff692e0d
+Section: Tweaks
+Description: Always show volume control on the media controls!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nowplayingvolumecontrol
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nowplayingvolumecontrol/icon.png
+Name: NowPlayingVolumeControl
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nowplayingvolumecontrol.json
+
 Package: com.p2kdev.pagedotmover
 Version: 1.0
 Architecture: iphoneos-arm
