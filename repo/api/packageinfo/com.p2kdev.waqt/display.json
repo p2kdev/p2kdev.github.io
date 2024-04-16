@@ -27,6 +27,11 @@
             "date": "2024-04-08",
             "version_number": "1.4.1",
             "changes": "Look at screen state(ON/OFF) instead of lock state to suspend seconds timer"
-        }                        
+        },
+        {
+            "date": "2024-04-16",
+            "version_number": "1.4.2",
+            "changes": "Improved screen off detection for seconds timer"
+        }                                 
     ]
 }

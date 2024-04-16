@@ -22,6 +22,11 @@
             "date": "2024-04-06",
             "version_number": "1.2",
             "changes": "Hide Pinned & suggested posts"
-        }                             
+        },
+        {
+            "date": "2024-04-16",
+            "version_number": "1.2.1",
+            "changes": "Hide all recommended posts"
+        }                                      
     ]
 }
