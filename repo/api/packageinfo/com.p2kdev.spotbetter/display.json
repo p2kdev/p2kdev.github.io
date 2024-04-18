@@ -22,6 +22,11 @@
             "date": "2024-03-07",
             "version_number": "1.2.1",
             "changes": "Fixed disabling action cards not working on iOS16"
-        }                 
+        },
+        {
+            "date": "2024-04-18",
+            "version_number": "1.2.2",
+            "changes": "- Fixed crash with suggested actions\n- Added option to hide recent searches"
+        }                          
     ]
 }

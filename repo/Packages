@@ -775,6 +775,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.classicdnd/icon.p
 Name: ClassicDND
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.classicdnd.json
 
+Package: com.p2kdev.classicdnd
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.classicdnd_1.1_iphoneos-arm64.deb
+Size: 4736
+MD5sum: 7f522aea7b2578b2e5843fc0ae65b0db
+SHA1: a68b5a3a335d79c942c6f460211ddbe0a942ff05
+SHA256: 35b20163f0a6def5a536a34c3e80a1e53e8cf178388119bc318e1035fe9babd7
+Section: Tweaks
+Description: Allows banner notifications during DND when unlocked. Apple removed this option starting iOS15. This tweak brings it back!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.classicdnd
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.classicdnd/icon.png
+Name: ClassicDND
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.classicdnd.json
+
 Package: com.p2kdev.colorbar
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2880,6 +2899,26 @@ Size: 42144
 MD5sum: 38699761e9a7e272afd27bde454f1a4b
 SHA1: a19699baad4c425eab4dd4f4cbe032395f1cc6d8
 SHA256: 5c2f65f7e12aa7212558ef74462d67a3c2999cf98cf0301c764654f353c187ad
+Section: Tweaks
+Description: Better Spotlight!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.spotbetter
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.spotbetter/icon.png
+Name: SpotBetter
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.spotbetter.json
+
+Package: com.p2kdev.spotbetter
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 464
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Conflicts: com.imkpatil.spotclearonclose
+Filename: ./debs/com.p2kdev.spotbetter_1.2.2_iphoneos-arm64.deb
+Size: 42600
+MD5sum: 77b81c843244222c833d61b5010fc4b9
+SHA1: 9b67e8da7fb905dd90dbe5eadc0137fa5bb5edec
+SHA256: 4c0dd0f7f20be6996ae553a8fd8aa5a98308bcc16619f209e1c943e58d294414
 Section: Tweaks
 Description: Better Spotlight!
 Author: P2KDev <p2kdev@gmail.com>

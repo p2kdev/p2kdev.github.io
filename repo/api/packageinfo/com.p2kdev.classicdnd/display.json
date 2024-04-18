@@ -12,6 +12,11 @@
             "date": "2024-04-02",
             "version_number": "1.0",
             "changes": "Initial release"
-        }
+        },
+        {
+            "date": "2024-04-18",
+            "version_number": "1.1",
+            "changes": "Improved Implementation. Now all notifications including calls will be allowed when device is unlocked"
+        }        
     ]
 }
