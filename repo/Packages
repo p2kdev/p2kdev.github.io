@@ -3373,6 +3373,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon
 Name: TwitterNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
 
+Package: com.p2kdev.twitternoads
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.2.2_iphoneos-arm64.deb
+Size: 7064
+MD5sum: 5c1a4b27764d2b39120540195945da7e
+SHA1: 7827a30d9cdb2753663333d3b1be448900c52b73
+SHA256: 8de636b81162a6d8140654eb7b5338ad5dcef40a2260e1b22ea6f1676a565f24
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
 Package: com.p2kdev.videosunmute
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3701,6 +3720,25 @@ Size: 10612
 MD5sum: 67b642e4aad21675ae9186679b949816
 SHA1: f69739ee09708dea987470cf5ace67d568eb5ad6
 SHA256: 5b1e5611c8c0d51a261f520484f010bd21f9972052f2351424fbf0cd55ffdf50
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.3_iphoneos-arm64.deb
+Size: 8120
+MD5sum: 7a19559fbb7f1b91a76aab40262270eb
+SHA1: a98ce0eff0c19f1cf759d126a3141b51696d3f23
+SHA256: 8ecc425177520059014c633373d0b22d0f394e01a5aba81ea9d8a4614a6ee348
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>

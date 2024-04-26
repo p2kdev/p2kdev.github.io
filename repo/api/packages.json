@@ -1,9 +1,10 @@
 {
   "package_ids": [
-    "com.p2kdev.spotbetter",
-    "com.p2kdev.classicdnd",
-    "com.p2kdev.waqt",
+    "com.p2kdev.whatsappcallconfirm",
     "com.p2kdev.twitternoads",
+    "com.p2kdev.classicdnd",
+    "com.p2kdev.spotbetter",
+    "com.p2kdev.waqt",
     "com.p2kdev.nowplayingvolumecontrol",
     "com.p2kdev.facebooknoads",
     "com.p2kdev.letmedecline",
@@ -17,7 +18,6 @@
     "com.p2kdev.carplaybattery",
     "com.p2kdev.keepitsimple",
     "com.p2kdev.pmconfirm",
-    "com.p2kdev.whatsappcallconfirm",
     "com.ioscreatix.sugarcane",
     "com.p2kdev.safarifind",
     "com.p2kdev.tapticboard",

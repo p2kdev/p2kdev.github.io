@@ -27,6 +27,11 @@
             "date": "2024-04-16",
             "version_number": "1.2.1",
             "changes": "Hide all recommended posts"
-        }                                      
+        },
+        {
+            "date": "2024-04-25",
+            "version_number": "1.2.2",
+            "changes": "Fix new tweet indicator"
+        }                                              
     ]
 }
