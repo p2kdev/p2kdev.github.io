@@ -1,0 +1,1 @@
+{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Simple tweak that removes module background and adds a border, just like CoolCC!" }, "changelog": [ { "date": "2024-07-08", "version_number": "1.1", "changes": "Added preferences & corner radius tweaking for iOS18 look" } ] }

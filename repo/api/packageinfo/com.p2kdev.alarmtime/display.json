@@ -12,6 +12,11 @@
             "date": "2023-05-19",
             "version_number": "1.0",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-07-08",
+            "version_number": "1.1",
+            "changes": "- Rewrote the entire tweak. \n- Hold on the timer label to skip the next alarm!"
+        }        
     ]
 }

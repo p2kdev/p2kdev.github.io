@@ -12,6 +12,11 @@
             "date": "2023-05-19",
             "version_number": "1.0.5",
             "changes": "- Initial release on the repo"
-        }
+        },
+        {
+            "date": "2024-07-08",
+            "version_number": "1.1",
+            "changes": "Improvements to the hook"
+        }        
     ]
 }

@@ -1,0 +1,1 @@
+{ "Package": "com.easy-z.bark", "Name": "BARK", "Version": "2.0.6", "Architecture": "iphoneos-arm64", "Description": "Make your keyboard more OLED friendly.", "Maintainer": "Easy-Z", "Author": "Easy-Z", "Section": "Tweaks", "Depends": "mobilesubstrate" }

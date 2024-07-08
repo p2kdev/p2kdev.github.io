@@ -32,6 +32,11 @@
             "date": "2024-04-16",
             "version_number": "1.4.2",
             "changes": "Improved screen off detection for seconds timer"
-        }                                 
+        },
+        {
+            "date": "2024-07-08",
+            "version_number": "1.4.3",
+            "changes": "Improved screen off detection (Again) for seconds timer"
+        }                                          
     ]
 }

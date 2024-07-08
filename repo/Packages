@@ -1,3 +1,22 @@
+Package: co.dynastic.ios.tweak.compactor
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/co.dynastic.ios.tweak.compactor_1.1_iphoneos-arm64.deb
+Size: 4068
+MD5sum: 7aa60498107d221701650eeb45e7e49c
+SHA1: 9da11905b2bce92665fcbac63e378b919a144898
+SHA256: 46e16da1e39361770df83d39734e8dc1f0cab337e532c5d617a48ae1fed3ab8e
+Section: Tweaks
+Description: An alternate system font for your iOS device.
+Author: Jamie Bishop <jamie@dynastic.co>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=co.dynastic.ios.tweak.compactor
+Icon: https://p2kdev.github.io/repo/api/packageinfo/co.dynastic.ios.tweak.compactor/icon.png
+Name: Compactor
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/co.dynastic.ios.tweak.compactor.json
+
 Package: com.chr1s.newtab
 Version: 1.1
 Architecture: iphoneos-arm
@@ -35,6 +54,44 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.chr
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.chr1s.newtab/icon.png
 Name: NewTab
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.chr1s.newtab.json
+
+Package: com.easy-z.bark
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: Easy-Z
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.easy-z.bark_2.0.6_iphoneos-arm64.deb
+Size: 7196
+MD5sum: c472f432676929395d6eb809698d8fa7
+SHA1: 97be73f9d9eda32c0d2e4c38687b0cb3f9ea0de3
+SHA256: 211ef33edb9a892b5ba271a7cd2b4f264e0140720bc00fe7ba186f67ca2b8c64
+Section: Tweaks
+Description: Make your keyboard more OLED friendly.
+Author: Easy-Z
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.easy-z.bark
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.easy-z.bark/icon.png
+Name: BARK
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.easy-z.bark.json
+
+Package: com.fiore.ccborder
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 460
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.fiore.ccborder_1.1_iphoneos-arm64.deb
+Size: 37248
+MD5sum: 55c983125725d1e024822c5682ceabbe
+SHA1: 37b22dd75a577591935a7b2111b59ee502309533
+SHA256: 0b8af7f5f44d0c057a292d383809ed6200b261a8d41368652b6a73b318825d8d
+Section: Tweaks
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Author: fiore
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.fiore.ccborder
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.fiore.ccborder/icon.png
+Name: CCBorder
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.fiore.ccborder.json
 
 Package: com.imkpatil.always3dmaps
 Version: 1.3
@@ -642,6 +699,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.pn
 Name: AlarmTime
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
 
+Package: com.p2kdev.alarmtime
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 212
+Depends: firmware (>= 14.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.alarmtime_1.1_iphoneos-arm64.deb
+Size: 16548
+MD5sum: bfdd2fece17be2051f4f1965ea4fcb3f
+SHA1: 5916425bded2745e87f1c91bc7ebab6571140c33
+SHA256: 6fa7126901ad336b8f13b6a514d2ebbda8b1bdf584ea6fe3833486eb69b1efec
+Section: Tweaks
+Description: Show Time until alarm in the clock App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
+Name: AlarmTime
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
 Package: com.p2kdev.autofillfix
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -1078,6 +1154,25 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
 Name: InstagramNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
+Package: com.p2kdev.instanosuggestions
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instanosuggestions_1.0_iphoneos-arm64.deb
+Size: 4292
+MD5sum: de166566e54ef96c414e59a83fef070e
+SHA1: 1c381bd1cf603eefe21da78480dcdfde22a59fab
+SHA256: 37f19a056345680cb7d5d1d1d367cf08ddb8b6cccdc595d8c7221ac1405571dd
+Section: Tweaks
+Description: Remove suggestions in Instagram
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
+Name: InstaNoSuggestions
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
 
 Package: com.p2kdev.instazoom
 Version: 1.1
@@ -2108,6 +2203,25 @@ Size: 6908
 MD5sum: 8c1b020a5c785fe7a9ef80fdb126aea4
 SHA1: bf76b8817d280bf7a69d24e478f30e9dec1ba04a
 SHA256: 8a641caa948a35e914c688835f49d4fd5a801b499f58a7bffd78dbdc8847aaf0
+Section: Tweaks
+Description: Percent Labels for the Battery Widget Rings!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ringpercentlabel
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ringpercentlabel/icon.png
+Name: RingPercentLabel
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ringpercentlabel.json
+
+Package: com.p2kdev.ringpercentlabel
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: firmware (>= 14.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.ringpercentlabel_1.1_iphoneos-arm64.deb
+Size: 9612
+MD5sum: 0226b3962d986ea0e19da3000989af55
+SHA1: cb1bdfc272face161f30aa5675c233db258208b2
+SHA256: fb3bfe66c11186658dfd1bd517ba6978fbed3f1c40f6fddd52275b685c0267f3
 Section: Tweaks
 Description: Percent Labels for the Battery Widget Rings!
 Author: P2KDev <p2kdev@gmail.com>
@@ -3606,6 +3720,25 @@ Size: 35440
 MD5sum: e6204e4cc6ba203b905157ac8196a8eb
 SHA1: 0e26ebee5205e3878e5a86a8cb5eaf2e2b6c5be1
 SHA256: 1f798838006d0ba9521bb0dbaaf6770aa22a7c83600b125f3069f42531069d9d
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
+Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
+
+Package: com.p2kdev.waqt
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.4.3_iphoneos-arm64.deb
+Size: 35712
+MD5sum: e7aa2a872cd54c4dde0dd25999fd7321
+SHA1: 8fbbfc3a7096e631bf88762d1a7041e129f7cb85
+SHA256: c1c9b82e021a99ba5753a8c2bb21930626f981d073ca26454585988fed897136
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
