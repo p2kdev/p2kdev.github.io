@@ -37,6 +37,11 @@
             "date": "2024-07-16",
             "version_number": "1.2.3",
             "changes": "Fix some posts not hiding"
-        }                                                       
+        },
+        {
+            "date": "2024-08-19",
+            "version_number": "1.2.4",
+            "changes": "Hide Google Ads"
+        }                                                               
     ]
 }

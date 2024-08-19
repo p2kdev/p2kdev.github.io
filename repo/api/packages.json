@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.p2kdev.whatsappcallconfirm",
     "com.p2kdev.twitternoads",
     "com.easy-z.bark",
     "com.p2kdev.alarmtime",
@@ -8,7 +9,6 @@
     "co.dynastic.ios.tweak.compactor",
     "com.p2kdev.instanosuggestions",
     "com.fiore.ccborder",
-    "com.p2kdev.whatsappcallconfirm",
     "com.p2kdev.classicdnd",
     "com.p2kdev.spotbetter",
     "com.p2kdev.nowplayingvolumecontrol",
