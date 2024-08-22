@@ -17,6 +17,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/co.dynastic.ios.tweak.compac
 Name: Compactor
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/co.dynastic.ios.tweak.compactor.json
 
+Package: co.dynastic.ios.tweak.compactor
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/co.dynastic.ios.tweak.compactor_1.1.1_iphoneos-arm64.deb
+Size: 5276
+MD5sum: 63d03e14f3f575904c54677afe6d80fd
+SHA1: b11274ca97b217a04781ef635dd7f75705f8c530
+SHA256: 94f065ac9018b59e56f55cfac048f3a435048b0ca01fb1208bd52aac193b852a
+Section: Tweaks
+Description: An alternate system font for your iOS device.
+Author: Jamie Bishop <jamie@dynastic.co>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=co.dynastic.ios.tweak.compactor
+Icon: https://p2kdev.github.io/repo/api/packageinfo/co.dynastic.ios.tweak.compactor/icon.png
+Name: Compactor
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/co.dynastic.ios.tweak.compactor.json
+
 Package: com.chr1s.newtab
 Version: 1.1
 Architecture: iphoneos-arm
