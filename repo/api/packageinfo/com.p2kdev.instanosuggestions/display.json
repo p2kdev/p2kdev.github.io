@@ -1,1 +1,21 @@
-{ "contact": { "twitter": "p2kdev", "email": "p2kdev@gmail.com" }, "information": { "description": "Remove suggestions in Instagram" }, "changelog": [ { "date": "2024-07-08", "version_number": "1.0", "changes": "Initial release" } ] }
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Remove suggestions in Instagram"
+    },
+    "changelog": [
+        {
+            "date": "2024-07-08",
+            "version_number": "1.0",
+            "changes": "Initial release"
+        },
+        {
+            "date": "2024-12-30",
+            "version_number": "1.1",
+            "changes": "Updated for latest instagram version"
+        }        
+    ]
+}

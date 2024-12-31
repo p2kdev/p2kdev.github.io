@@ -1193,6 +1193,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestion
 Name: InstaNoSuggestions
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
 
+Package: com.p2kdev.instanosuggestions
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instanosuggestions_1.1_iphoneos-arm64.deb
+Size: 3804
+MD5sum: f4734d534e81170891e838aae380f2bf
+SHA1: 648ee509b981badb5d0d488d2b2e021205919eef
+SHA256: 0e3dc0d4b852ee6053d296c0442a9a38dc82c9ec7d957636508a5b76c76b00d7
+Section: Tweaks
+Description: Remove suggestions in Instagram
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
+Name: InstaNoSuggestions
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
+
 Package: com.p2kdev.instazoom
 Version: 1.1
 Architecture: iphoneos-arm
@@ -3967,6 +3986,25 @@ Size: 8348
 MD5sum: eb3447d8ab967f2e55d53c0cbe4018eb
 SHA1: d7e7329d66aa02d5dc223bb9ea01e84ea2159b48
 SHA256: 9fe87a3a2562c2786032a629e308bb6df839622a82833a383ba4d956cba5e282
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.6_iphoneos-arm64.deb
+Size: 8348
+MD5sum: ba5f3ff7d9863ded3c1f65bebd856b7e
+SHA1: 5a8746c17dd6d91d7ca0e15219bb6cb35a1031c7
+SHA256: b9e4cd181bf241818234e35869a09c53eb6c87a50564a7eb54fb9cc183e7bba8
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>

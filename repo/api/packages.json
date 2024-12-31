@@ -1,13 +1,13 @@
 {
   "package_ids": [
-    "co.dynastic.ios.tweak.compactor",
     "com.p2kdev.whatsappcallconfirm",
+    "com.p2kdev.instanosuggestions",
+    "co.dynastic.ios.tweak.compactor",
     "com.p2kdev.twitternoads",
     "com.easy-z.bark",
     "com.p2kdev.alarmtime",
     "com.p2kdev.ringpercentlabel",
     "com.p2kdev.waqt",
-    "com.p2kdev.instanosuggestions",
     "com.fiore.ccborder",
     "com.p2kdev.classicdnd",
     "com.p2kdev.spotbetter",

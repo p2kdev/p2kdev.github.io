@@ -32,6 +32,11 @@
             "date": "2024-08-20",
             "version_number": "1.0.5",
             "changes": "- Added support for latest WA version"
-        }                                
+        },
+        {
+            "date": "2024-12-30",
+            "version_number": "1.0.6",
+            "changes": "- Removed confirmation for group calls as it's natively implemented now in Whatsapp"
+        }                                        
     ]
 }
