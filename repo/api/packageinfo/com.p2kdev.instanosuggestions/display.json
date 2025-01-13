@@ -16,6 +16,11 @@
             "date": "2024-12-30",
             "version_number": "1.1",
             "changes": "Updated for latest instagram version"
-        }        
+        },
+        {
+            "date": "2025-01-12",
+            "version_number": "1.2",
+            "changes": "Hide suggested reels"
+        }                 
     ]
 }

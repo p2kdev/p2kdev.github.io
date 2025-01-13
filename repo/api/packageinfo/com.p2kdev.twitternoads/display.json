@@ -42,6 +42,11 @@
             "date": "2024-08-19",
             "version_number": "1.2.4",
             "changes": "Hide Google Ads"
-        }                                                               
+        },
+        {
+            "date": "2025-01-12",
+            "version_number": "1.2.5",
+            "changes": "Hide Trending posts"
+        }                                                                       
     ]
 }

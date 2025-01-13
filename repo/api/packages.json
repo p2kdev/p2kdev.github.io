@@ -1,9 +1,9 @@
 {
   "package_ids": [
-    "com.p2kdev.whatsappcallconfirm",
-    "com.p2kdev.instanosuggestions",
-    "co.dynastic.ios.tweak.compactor",
     "com.p2kdev.twitternoads",
+    "com.p2kdev.instanosuggestions",
+    "com.p2kdev.whatsappcallconfirm",
+    "co.dynastic.ios.tweak.compactor",
     "com.easy-z.bark",
     "com.p2kdev.alarmtime",
     "com.p2kdev.ringpercentlabel",
