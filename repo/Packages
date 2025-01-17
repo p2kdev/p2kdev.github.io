@@ -4149,6 +4149,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.twickd.john-sklikas.3dba
 Name: 3DBadgeClear
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.twickd.john-sklikas.3dbadgeclear.json
 
+Package: com.udevs.speakerfirst
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.udevs.speakerfirst_1.0.2_iphoneos-arm64.deb
+Size: 5416
+MD5sum: 410848a955100e7a59aa0d83c8542faa
+SHA1: 91d7d52ce70824b5c9e36bfe9c5afaca814848db
+SHA256: d73dd18c5e73b78ae7b8fd7f9e559a2049d5f385deab1252e8b84f5b346d0b57
+Section: Tweaks
+Description: Activates speaker on tap in Phone.app
+Author: udevs
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.udevs.speakerfirst
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.udevs.speakerfirst/icon.png
+Name: SpeakerFirst
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.udevs.speakerfirst.json
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64

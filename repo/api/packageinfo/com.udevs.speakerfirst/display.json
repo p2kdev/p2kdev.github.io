@@ -1,0 +1,16 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Single tap to route to Speaker during calls. Hold brings the list of devices. Thanks to udevs for creating this tweak!"
+    },
+    "changelog": [
+        {
+            "date": "2025-01-16",
+            "version_number": "1.0.2",
+            "changes": "Updated for rootless & fixed issue where speaker would be selected when connected to other bluetooth devices on single tap instead of showing the menu"
+        }
+    ]
+}

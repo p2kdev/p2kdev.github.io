@@ -1,0 +1,1 @@
+{ "Package": "com.udevs.speakerfirst", "Name": "SpeakerFirst", "Version": "1.0.2", "Architecture": "iphoneos-arm64", "Description": "Activates speaker on tap in Phone.app", "Maintainer": "udevs", "Author": "udevs", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
