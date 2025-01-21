@@ -794,6 +794,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.autofillfix/icon.
 Name: AutoFillFix
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.autofillfix.json
 
+Package: com.p2kdev.backgroundsoundscc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 180
+Depends: mobilesubstrate,com.opa334.ccsupport
+Filename: ./debs/com.p2kdev.backgroundsoundscc_1.0_iphoneos-arm64.deb
+Size: 11040
+MD5sum: 3af3eb760d16ff59c647f2242ecded6b
+SHA1: 6d34c2c067d7a34f086bd439c2d1397474101bf5
+SHA256: 70245bcf75aa68e14bff325cbeef4f5b812ba6650696eabc89d764c96ae59da5
+Section: Control Center (Modules)
+Description: CC Toggle for background Sounds!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.backgroundsoundscc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.backgroundsoundscc/icon.png
+Name: BackgroundSoundsCC
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.backgroundsoundscc.json
+
 Package: com.p2kdev.boldlsdatetime
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3347,6 +3366,25 @@ Size: 23400
 MD5sum: 7f96df16e7d34a7f20447838eb72eec1
 SHA1: 0c819af1970be82420d0db08ccb70640808cf5a3
 SHA256: 99cf0c108a6a228f090f9e7d9e3d8fd2f11decb4bacf9de101125437126441c0
+Section: Tweaks
+Description: Taptic keyboard without any lag!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
+Name: TapticBoard
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
+
+Package: com.p2kdev.tapticboard
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.2_iphoneos-arm64.deb
+Size: 23512
+MD5sum: 6c971d2f61971bbf4b4ebf70440e9e42
+SHA1: 97e5403e1283c15802bcb6b4287d0f393302a29f
+SHA256: 042e39531613a43453aa1a4d9246e4b4ac013ef3910fd1f122d869b13804e32a
 Section: Tweaks
 Description: Taptic keyboard without any lag!
 Author: P2KDev <p2kdev@gmail.com>

@@ -1,0 +1,16 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "CC Toggle for background Sounds!"
+    },
+    "changelog": [
+        {
+            "date": "2025-01-21",
+            "version_number": "1.0",
+            "changes": "Initial release"
+        }
+    ]
+}

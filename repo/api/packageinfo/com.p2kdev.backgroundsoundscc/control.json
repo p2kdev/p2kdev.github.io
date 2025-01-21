@@ -1,0 +1,1 @@
+{ "Package": "com.p2kdev.backgroundsoundscc", "Name": "BackgroundSoundsCC", "Version": "1.0", "Architecture": "iphoneos-arm64", "Description": "CC Toggle for background Sounds!", "Maintainer": "P2KDev <p2kdev@gmail.com>", "Author": "P2KDev <p2kdev@gmail.com>", "Section": "Control Center (Modules)", "Depends": "mobilesubstrate,com.opa334.ccsupport" }
