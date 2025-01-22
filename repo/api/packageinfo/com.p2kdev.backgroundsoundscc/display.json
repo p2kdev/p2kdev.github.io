@@ -11,6 +11,11 @@
             "date": "2025-01-21",
             "version_number": "1.0",
             "changes": "Initial release"
-        }
+        },
+        {
+            "date": "2025-01-21",
+            "version_number": "1.1",
+            "changes": "Update toggle dynamically on external state changes"
+        }        
     ]
 }

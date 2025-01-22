@@ -813,6 +813,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.backgroundsoundsc
 Name: BackgroundSoundsCC
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.backgroundsoundscc.json
 
+Package: com.p2kdev.backgroundsoundscc
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 180
+Depends: mobilesubstrate,com.opa334.ccsupport
+Filename: ./debs/com.p2kdev.backgroundsoundscc_1.1_iphoneos-arm64.deb
+Size: 11992
+MD5sum: 0f7eb88d05c2feee929198041971ec92
+SHA1: 241c12917fc9ad6ca82c0a2c38420d94c51730b5
+SHA256: 464529295090770d31734255a61947c5c7809f375875797bb2e3283165aff24c
+Section: Control Center (Modules)
+Description: CC Toggle for background Sounds!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.backgroundsoundscc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.backgroundsoundscc/icon.png
+Name: BackgroundSoundsCC
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.backgroundsoundscc.json
+
 Package: com.p2kdev.boldlsdatetime
 Version: 1.0
 Architecture: iphoneos-arm
