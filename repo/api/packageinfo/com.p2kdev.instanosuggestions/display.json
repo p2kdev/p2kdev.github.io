@@ -21,6 +21,11 @@
             "date": "2025-01-12",
             "version_number": "1.2",
             "changes": "Hide suggested reels"
-        }                 
+        },  
+        {
+            "date": "2025-01-12",
+            "version_number": "1.2.1",
+            "changes": "Fixes for latest version"
+        }                        
     ]
 }

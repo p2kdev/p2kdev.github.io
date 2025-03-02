@@ -16,6 +16,11 @@
             "date": "2025-01-15",
             "version_number": "1.1.1",
             "changes": "Fixed brightness slider in expanded mode with custom corner radius"
-        }        
+        },
+        {
+            "date": "2025-03-02",
+            "version_number": "1.1.2",
+            "changes": "Fixed volume glpyh coloring in certain cases"
+        }                
     ]
 }

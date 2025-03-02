@@ -17,6 +17,11 @@
             "date": "2024-02-06",
             "version_number": "1.2.3",
             "changes": "- iOS16 Support"
-        }        
+        },
+        {
+            "date": "2025-03-02",
+            "version_number": "1.2.5",
+            "changes": "Fixed notification ordering in certain cases"
+        }                
     ]
 }

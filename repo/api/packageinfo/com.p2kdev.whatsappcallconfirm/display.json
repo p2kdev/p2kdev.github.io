@@ -11,32 +11,37 @@
         {
             "date": "2023-05-19",
             "version_number": "1.0.1",
-            "changes": "- Initial release on the repo"
+            "changes": "Initial release on the repo"
         },
         {
             "date": "2024-01-29",
             "version_number": "1.0.2",
-            "changes": "- Added support for latest WA version"
+            "changes": "Added support for latest WA version"
         },
         {
             "date": "2024-04-25",
             "version_number": "1.0.3",
-            "changes": "- Added support for latest WA version"
+            "changes": "Added support for latest WA version"
         },
         {
             "date": "2024-08-19",
             "version_number": "1.0.4",
-            "changes": "- Added support for latest WA version"
+            "changes": "Added support for latest WA version"
         },
         {
             "date": "2024-08-20",
             "version_number": "1.0.5",
-            "changes": "- Added support for latest WA version"
+            "changes": "Added support for latest WA version"
         },
         {
             "date": "2024-12-30",
             "version_number": "1.0.6",
-            "changes": "- Removed confirmation for group calls as it's natively implemented now in Whatsapp"
-        }                                        
+            "changes": "Removed confirmation for group calls as it's natively implemented now in Whatsapp"
+        },
+        {
+            "date": "2025-03-02",
+            "version_number": "1.0.7",
+            "changes": "Added support for latest WA version"
+        }                      
     ]
 }
