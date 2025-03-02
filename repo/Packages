@@ -131,6 +131,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.fiore.ccborder/icon.png
 Name: CCBorder
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.fiore.ccborder.json
 
+Package: com.fiore.ccborder
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: fiore
+Installed-Size: 464
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.fiore.ccborder_1.1.2_iphoneos-arm64e.deb
+Size: 37396
+MD5sum: ba2f4d0c4ac11a6f21954ceeb1385d2f
+SHA1: a5980ad29e957894f85e6a7ec7f5b693bfc855b6
+SHA256: f15169c9bc1240fc74b017910c36c7f1c2b0061dade904dfc666786e0d2e6ef3
+Section: Tweaks
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Author: fiore
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.fiore.ccborder
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.fiore.ccborder/icon.png
+Name: CCBorder
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.fiore.ccborder.json
+
+Package: com.fiore.ccborder
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 464
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.fiore.ccborder_1.1.2_iphoneos-arm64.deb
+Size: 37508
+MD5sum: 9d8448cf3265a6b4a4726bde1990e5b2
+SHA1: 8735604b8a0858254a2198b7fb9e187a30f17409
+SHA256: 5b7f03297add86942b66ca33f15168df6620b0d5e776b474b674f368814e76da
+Section: Tweaks
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Author: fiore
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.fiore.ccborder
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.fiore.ccborder/icon.png
+Name: CCBorder
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.fiore.ccborder.json
+
 Package: com.imkpatil.always3dmaps
 Version: 1.3
 Architecture: iphoneos-arm
@@ -832,6 +870,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.backgroundsoundsc
 Name: BackgroundSoundsCC
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.backgroundsoundscc.json
 
+Package: com.p2kdev.backgroundsoundscc
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 180
+Depends: mobilesubstrate,com.opa334.ccsupport
+Filename: ./debs/com.p2kdev.backgroundsoundscc_1.1.1_iphoneos-arm64.deb
+Size: 12716
+MD5sum: db12ecaa4949fd134c7f6545a3c32e4e
+SHA1: 85d88910ff71cfdb795f5a6425f0ac240dd1c229
+SHA256: 663adf9c7c235ba32c7c1bd4091efa4121752322cd809ac3fd73f34d28a462d9
+Section: Control Center (Modules)
+Description: CC Toggle for background Sounds!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.backgroundsoundscc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.backgroundsoundscc/icon.png
+Name: BackgroundSoundsCC
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.backgroundsoundscc.json
+
+Package: com.p2kdev.backgroundsoundscc
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 180
+Depends: mobilesubstrate,com.opa334.ccsupport
+Filename: ./debs/com.p2kdev.backgroundsoundscc_1.1.1_iphoneos-arm64e.deb
+Size: 12644
+MD5sum: eb799fbccff3f8db25a4474d5a79311e
+SHA1: 3e387aff0c94f31cb74b31999222223ed8846604
+SHA256: b36993b408d70883130d383c90f86db1c52608fbc33ea07b74b8d5ec18fe8c31
+Section: Control Center (Modules)
+Description: CC Toggle for background Sounds!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.backgroundsoundscc
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.backgroundsoundscc/icon.png
+Name: BackgroundSoundsCC
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.backgroundsoundscc.json
+
 Package: com.p2kdev.boldlsdatetime
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1307,6 +1383,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestion
 Name: InstaNoSuggestions
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
 
+Package: com.p2kdev.instanosuggestions
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instanosuggestions_1.2.1_iphoneos-arm64e.deb
+Size: 5908
+MD5sum: f7030e3f6e1abcb27c8a0d2b558b2b8c
+SHA1: 561f83e7fce41f15759f705ae8761259635cc47a
+SHA256: d453e891b10db30b28976c5bc38b1d296a368eab738866aef68ff6271cb4a850
+Section: Tweaks
+Description: Remove suggestions in Instagram
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
+Name: InstaNoSuggestions
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
+
+Package: com.p2kdev.instanosuggestions
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instanosuggestions_1.2.1_iphoneos-arm64.deb
+Size: 4276
+MD5sum: b371647082607d110ecec088b1280b35
+SHA1: 0bd563ba1accfa70cec9d9bc63ef9cbc594144d4
+SHA256: 105fd8438bffca3d786d971cb7f8960ffc27adc79bfcc58119008f9f4672c403
+Section: Tweaks
+Description: Remove suggestions in Instagram
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
+Name: InstaNoSuggestions
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
+
 Package: com.p2kdev.instazoom
 Version: 1.1
 Architecture: iphoneos-arm
@@ -1413,6 +1527,44 @@ Size: 31928
 MD5sum: b7a514db30601a2e0ea0baf70432fca2
 SHA1: ae8cf164c8d5021b9c14583720a86a283f0c6deb
 SHA256: 45a6f9289a06147856390891fa4afa16a8e0cb8b5fd9db6b0e31290582e9ad17
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.keepitsimple
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.keepitsimple/icon.png
+Name: KeepItSimple
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.keepitsimple.json
+
+Package: com.p2kdev.keepitsimple
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.keepitsimple_1.2.5_iphoneos-arm64e.deb
+Size: 31988
+MD5sum: cfb2c1336f94b81cc19dd9abd8230390
+SHA1: 549de6fc02a5ad61e53261379e9abc46afe17dac
+SHA256: 18767cf611c0c2fee4a9f677771569bcde412f18d16fa002e1d82b1201f8969a
+Section: Tweaks
+Description: Single List of Notifications!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.keepitsimple
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.keepitsimple/icon.png
+Name: KeepItSimple
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.keepitsimple.json
+
+Package: com.p2kdev.keepitsimple
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.keepitsimple_1.2.5_iphoneos-arm64.deb
+Size: 32020
+MD5sum: b39c8004b5804db13259bd3609d3a09d
+SHA1: 6ccf6f1a6f15b9dc22cf97eb1c4cd8087d72b673
+SHA256: cb6f1de2d1bd9c0d3bbf3da7ec084262bd2568e1716271402a19cd3ffc874409
 Section: Tweaks
 Description: Single List of Notifications!
 Author: P2KDev <p2kdev@gmail.com>
@@ -4138,6 +4290,44 @@ Size: 8348
 MD5sum: ba5f3ff7d9863ded3c1f65bebd856b7e
 SHA1: 5a8746c17dd6d91d7ca0e15219bb6cb35a1031c7
 SHA256: b9e4cd181bf241818234e35869a09c53eb6c87a50564a7eb54fb9cc183e7bba8
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.7_iphoneos-arm64e.deb
+Size: 8316
+MD5sum: ee9d3b00771ea71b3bbc8a46dfcc41bd
+SHA1: 138ee07862d105ee7d5b37207aeec18806609270
+SHA256: cd6c64e2ffb124fd070d6064fe294ea24e269c90d6d68958a56af1fa9e189e55
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.7_iphoneos-arm64.deb
+Size: 8372
+MD5sum: 80ffaea9f6ba779d28988a4019728ed9
+SHA1: d7b1455218e33e9b7e61f37a75d91b3633e3e9ec
+SHA256: 8b365fb5f8418484bf075d744d262b0fe1775120fa00bcd625ab48a4ef750af9
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
