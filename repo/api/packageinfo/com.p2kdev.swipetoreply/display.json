@@ -12,6 +12,11 @@
             "date": "2024-03-21",
             "version_number": "1.0",
             "changes": "Initial Release"
-        }
+        },
+        {
+            "date": "2025-03-13",
+            "version_number": "1.1",
+            "changes": "Fixed crash related to gesture. Thanks Nathan for providing crash log!"
+        }        
     ]
 }

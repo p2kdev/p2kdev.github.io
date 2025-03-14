@@ -1,10 +1,11 @@
 {
   "package_ids": [
+    "com.p2kdev.swipetoreply",
     "com.p2kdev.backgroundsoundscc",
+    "com.fiore.ccborder",
+    "com.p2kdev.instanosuggestions",
     "com.p2kdev.keepitsimple",
     "com.p2kdev.whatsappcallconfirm",
-    "com.p2kdev.instanosuggestions",
-    "com.fiore.ccborder",
     "com.p2kdev.tapticboard",
     "com.udevs.speakerfirst",
     "com.ioscreatix.sugarcane",
@@ -22,7 +23,6 @@
     "com.p2kdev.videosunmute",
     "com.p2kdev.slimcomplications",
     "com.p2kdev.reverseisland",
-    "com.p2kdev.swipetoreply",
     "com.mohammadag.alwaysforwardwatchosnotifications",
     "com.p2kdev.safariblocker",
     "com.p2kdev.quitall",

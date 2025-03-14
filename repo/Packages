@@ -3383,6 +3383,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.swipetoreply/icon
 Name: SwipeToReply
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.swipetoreply.json
 
+Package: com.p2kdev.swipetoreply
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.swipetoreply_1.1_iphoneos-arm64.deb
+Size: 13684
+MD5sum: 42ade43e03591198a799da50501ee766
+SHA1: 8ec1507f5f719099c53efbb485c03f17e9f91e13
+SHA256: 43d51801ab4796c942fc70f13cc7b889dc105220802e09301189e3c00f66aee6
+Section: Tweaks
+Description: Swipe to reply in Messages!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.swipetoreply
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.swipetoreply/icon.png
+Name: SwipeToReply
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.swipetoreply.json
+
 Package: com.p2kdev.switchconfirm
 Version: 1.1.2
 Architecture: iphoneos-arm64
