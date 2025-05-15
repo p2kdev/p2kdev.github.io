@@ -3886,6 +3886,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon
 Name: TwitterNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
 
+Package: com.p2kdev.twitternoads
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.2.6_iphoneos-arm64.deb
+Size: 8228
+MD5sum: d76711985fcd880967ba42f6fc29c3d5
+SHA1: 524d7320a541e18c8a210a73b570412530ed761f
+SHA256: 221ed62a492a9afcdc2f75a1cf867261e392c0fe62ff35b346881684008d7562
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
+Package: com.p2kdev.twitternoads
+Version: 1.2.6
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.2.6_iphoneos-arm64e.deb
+Size: 8156
+MD5sum: 43209b32b33fd5ea6511faa10a683c5f
+SHA1: fee471419b7fc81c2f1088e120a95c839a91a090
+SHA256: 0010cc4cc707e5727727756da221471bfb166802637ed8bae9a92a8037d4390c
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
 Package: com.p2kdev.videosunmute
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4347,6 +4385,44 @@ Size: 8372
 MD5sum: 80ffaea9f6ba779d28988a4019728ed9
 SHA1: d7b1455218e33e9b7e61f37a75d91b3633e3e9ec
 SHA256: 8b365fb5f8418484bf075d744d262b0fe1775120fa00bcd625ab48a4ef750af9
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.8_iphoneos-arm64.deb
+Size: 8368
+MD5sum: 2269fcf8eb308dcc2a6e4c8347671cfe
+SHA1: 974724c739c925643b83eff9a3082f101e7c6818
+SHA256: ebd4d8d8499073287f8bf1007cc50dd280df76a97059477de2c30da590980c51
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.8_iphoneos-arm64e.deb
+Size: 8316
+MD5sum: f2a8c192834f390eec8ddb896b9ce76a
+SHA1: c6917d4db3f4b948598d8c14f2b6882fea962ff6
+SHA256: e66b79ab0e6033cecf92c394420b1618d7b37304de54d0a0484f5a05c60288b1
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>

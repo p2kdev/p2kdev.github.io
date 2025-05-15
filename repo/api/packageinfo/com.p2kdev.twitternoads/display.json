@@ -47,6 +47,11 @@
             "date": "2025-01-12",
             "version_number": "1.2.5",
             "changes": "Hide Trending posts"
-        }                                                                       
+        },
+        {
+            "date": "2025-05-14",
+            "version_number": "1.2.6",
+            "changes": " - Disable twitter expermental feature of pausing autoplay videos.\n - Added support for picture-in-picture mode for videos."
+        }                                                                               
     ]
 }

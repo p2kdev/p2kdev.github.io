@@ -3,7 +3,7 @@ Label: P2KDev's Repo
 Suite: stable
 Version: 1.0
 Codename: P2KDev
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Tweaks from P2KDev
 Icon: file://CydiaIcon.png
