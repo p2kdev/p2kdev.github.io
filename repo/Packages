@@ -4431,6 +4431,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfi
 Name: WhatsAppCallConfirm
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
 
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.9_iphoneos-arm64e.deb
+Size: 8416
+MD5sum: bf652d661e1ae1d861fbe11289f6715c
+SHA1: 1ab606ff0d9fbb5144d06b492eb5f3f6fed994d9
+SHA256: e6cd9f9501365b3d143de740ca6f057c14078b4e2e8afdad24937129d355a28d
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.0.9_iphoneos-arm64.deb
+Size: 8496
+MD5sum: f4c7cf33c509860f259021862946d48e
+SHA1: cdbfeae42384616ddb4806eeb4de4a81414582ac
+SHA256: 15bc99acb99025a24c0928fcaa36fd4edd89ebb7f666fe13d6214325cf99f289
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
 Package: com.p2kdev.whatsappmultideviceenable
 Version: 1.0
 Architecture: iphoneos-arm64

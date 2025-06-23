@@ -47,6 +47,11 @@
             "date": "2025-05-14",
             "version_number": "1.0.8",
             "changes": "Added support for latest WA version"
-        }                               
+        },
+        {
+            "date": "2025-06-23",
+            "version_number": "1.0.9",
+            "changes": "Added support for latest WA version"
+        }                                       
     ]
 }
