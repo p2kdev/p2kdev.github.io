@@ -1326,100 +1326,43 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/ic
 Name: InstagramNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
-Package: com.p2kdev.instanosuggestions
-Version: 1.0
-Architecture: iphoneos-arm64
+Package: com.p2kdev.instagramnoads
+Version: 1.1
+Architecture: iphoneos-arm64e
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
+Installed-Size: 176
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.instanosuggestions_1.0_iphoneos-arm64.deb
-Size: 4292
-MD5sum: de166566e54ef96c414e59a83fef070e
-SHA1: 1c381bd1cf603eefe21da78480dcdfde22a59fab
-SHA256: 37f19a056345680cb7d5d1d1d367cf08ddb8b6cccdc595d8c7221ac1405571dd
+Filename: ./debs/com.p2kdev.instagramnoads_1.1_iphoneos-arm64e.deb
+Size: 8260
+MD5sum: ffaf7835427f6a8fba82bfce1190f12c
+SHA1: a2a4eddfd05d385226c2e906bd8ccae556aa6bde
+SHA256: 7d1b73bcbe5b9d49ef34f4517165fca85aff1b24801ff1de6e0c737f5c7b8a46
 Section: Tweaks
-Description: Remove suggestions in Instagram
+Description: No Ads in the Instagram App!
 Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
-Name: InstaNoSuggestions
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+Name: InstagramNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
-Package: com.p2kdev.instanosuggestions
+Package: com.p2kdev.instagramnoads
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
+Installed-Size: 176
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.instanosuggestions_1.1_iphoneos-arm64.deb
-Size: 3804
-MD5sum: f4734d534e81170891e838aae380f2bf
-SHA1: 648ee509b981badb5d0d488d2b2e021205919eef
-SHA256: 0e3dc0d4b852ee6053d296c0442a9a38dc82c9ec7d957636508a5b76c76b00d7
+Filename: ./debs/com.p2kdev.instagramnoads_1.1_iphoneos-arm64.deb
+Size: 8308
+MD5sum: df6b672bc46fbc38c3118d913c6412a6
+SHA1: 5f424d66d7c603124d87ebba747ff523993fb267
+SHA256: f6d55fcc3d8d1dd0bdf0f12253db8c42d59c4b808f590973d4cec66c494dfe4d
 Section: Tweaks
-Description: Remove suggestions in Instagram
+Description: No Ads in the Instagram App!
 Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
-Name: InstaNoSuggestions
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
-
-Package: com.p2kdev.instanosuggestions
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.instanosuggestions_1.2_iphoneos-arm64.deb
-Size: 4064
-MD5sum: cc0d0f862a37968b9c1d1f590b2dfcf5
-SHA1: fc8454b8f8b528d9dd41143778198829ce1131a7
-SHA256: 6f53306ffd74042f6ffed4d439a89ada2a0d38151fe99d546053cd1ebc721151
-Section: Tweaks
-Description: Remove suggestions in Instagram
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
-Name: InstaNoSuggestions
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
-
-Package: com.p2kdev.instanosuggestions
-Version: 1.2.1
-Architecture: iphoneos-arm64e
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.instanosuggestions_1.2.1_iphoneos-arm64e.deb
-Size: 5908
-MD5sum: f7030e3f6e1abcb27c8a0d2b558b2b8c
-SHA1: 561f83e7fce41f15759f705ae8761259635cc47a
-SHA256: d453e891b10db30b28976c5bc38b1d296a368eab738866aef68ff6271cb4a850
-Section: Tweaks
-Description: Remove suggestions in Instagram
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
-Name: InstaNoSuggestions
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
-
-Package: com.p2kdev.instanosuggestions
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.instanosuggestions_1.2.1_iphoneos-arm64.deb
-Size: 4276
-MD5sum: b371647082607d110ecec088b1280b35
-SHA1: 0bd563ba1accfa70cec9d9bc63ef9cbc594144d4
-SHA256: 105fd8438bffca3d786d971cb7f8960ffc27adc79bfcc58119008f9f4672c403
-Section: Tweaks
-Description: Remove suggestions in Instagram
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
-Name: InstaNoSuggestions
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+Name: InstagramNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
 Package: com.p2kdev.instazoom
 Version: 1.1
