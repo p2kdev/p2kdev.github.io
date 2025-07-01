@@ -17,6 +17,11 @@
             "date": "2025-06-25",
             "version_number": "1.1",
             "changes": "- Support for latest Instagram version"
-        }        
+        },
+        {
+            "date": "2025-07-01",
+            "version_number": "1.1.1",
+            "changes": "- Hide additional suggested posts"
+        }                 
     ]
 }
