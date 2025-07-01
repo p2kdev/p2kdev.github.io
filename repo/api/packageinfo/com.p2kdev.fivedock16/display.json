@@ -1,0 +1,16 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Five Icons on your Dock!"
+    },
+    "changelog": [
+        {
+            "date": "2025-07-01",
+            "version_number": "1.0",
+            "changes": "Initial release"
+        }
+    ]
+}
