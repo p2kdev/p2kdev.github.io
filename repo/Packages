@@ -1722,63 +1722,6 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.myassistive/icon.
 Name: MyAssistive
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.myassistive.json
 
-Package: com.p2kdev.ndtvnoads
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.ndtvnoads_1.0_iphoneos-arm.deb
-Size: 2864
-MD5sum: 20675b0f794843965495289ccd8da210
-SHA1: 8c3f4110d2c2836ead8f136623ee56f08ae4e89c
-SHA256: 37494fba08cbd648d73f023ae1fc145f6fabdea4693b39dc3cde3241915e69b4
-Section: Tweaks
-Description: No Ads in the NDTV News App!
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ndtvnoads
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ndtvnoads/icon.png
-Name: NDTVNoAds
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ndtvnoads.json
-
-Package: com.p2kdev.ndtvnoads
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.ndtvnoads_1.0.1_iphoneos-arm.deb
-Size: 4168
-MD5sum: 4b9d28ab7b7617b5408d4eb1fe29e5fe
-SHA1: 04cc4d31816b6a663ec0fecc950f8bf946a2be6e
-SHA256: 73a479119c3a0b2b8d8dbcc559db1a74406256a072a906ee77fc63e78ad73826
-Section: Tweaks
-Description: No Ads in the NDTV News App!
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ndtvnoads
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ndtvnoads/icon.png
-Name: NDTVNoAds
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ndtvnoads.json
-
-Package: com.p2kdev.ndtvnoads
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.ndtvnoads_1.0.1_iphoneos-arm64.deb
-Size: 3484
-MD5sum: 9de051bcc7dd5a64c6e91751de139b49
-SHA1: ea448c7e192d3861a5dc71580493f83b93a44e53
-SHA256: 0ae34c6c228b400053e2a971fb506ad75e53fc3af59bccba913df03a755f63f8
-Section: Tweaks
-Description: No Ads in the NDTV News App!
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.ndtvnoads
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.ndtvnoads/icon.png
-Name: NDTVNoAds
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.ndtvnoads.json
-
 Package: com.p2kdev.nofaceidwait
 Version: 1.0
 Architecture: iphoneos-arm64
