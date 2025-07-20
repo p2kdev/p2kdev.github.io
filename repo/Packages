@@ -1440,6 +1440,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/ic
 Name: InstagramNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
+Package: com.p2kdev.instagramnoads
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instagramnoads_1.1.2_iphoneos-arm64.deb
+Size: 7048
+MD5sum: cc2aa9621e1373c80a2009a1a04bcf79
+SHA1: 2986310c007f3a33120cb38c73121708f5431d4d
+SHA256: cf9d1b94f9e2885e96f92108ac9c2a8f3c5eac40012bdb9a708e94be282eae06
+Section: Tweaks
+Description: No Ads in the Instagram App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+Name: InstagramNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
 Package: com.p2kdev.instazoom
 Version: 1.1
 Architecture: iphoneos-arm
