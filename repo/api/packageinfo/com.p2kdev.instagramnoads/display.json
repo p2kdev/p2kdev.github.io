@@ -27,6 +27,11 @@
             "date": "2025-07-19",
             "version_number": "1.1.2",
             "changes": "Hide story ads"
-        }                         
+        },
+        {
+            "date": "2025-08-25",
+            "version_number": "1.1.3",
+            "changes": "Fixed issue with sponsored reels not opening from DM"
+        }                                 
     ]
 }

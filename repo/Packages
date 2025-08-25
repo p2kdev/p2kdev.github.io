@@ -1459,6 +1459,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/ic
 Name: InstagramNoAds
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
+Package: com.p2kdev.instagramnoads
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instagramnoads_1.1.3_iphoneos-arm64.deb
+Size: 7532
+MD5sum: 2f43286197c573250f61bd27f40eee5c
+SHA1: e95a3bfbfe4928afc35e536e6127ed7af02ffc3e
+SHA256: c6b2380d1d547eb8f0e9851f646beab589b8c0bac3fcc9fa87119bf0a584e484
+Section: Tweaks
+Description: No Ads in the Instagram App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+Name: InstagramNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
+Package: com.p2kdev.instagramnoads
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.instagramnoads_1.1.3_iphoneos-arm64e.deb
+Size: 7456
+MD5sum: 93346647fee2188866caa8332f628455
+SHA1: 9d7140d69a943923e1e4a660f3deb28f27a68114
+SHA256: 77b75d19a7535f1ccc7fd8bdcda09b0f5237de9a03c1f87dd57b9f2d8371fb28
+Section: Tweaks
+Description: No Ads in the Instagram App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+Name: InstagramNoAds
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
 Package: com.p2kdev.instazoom
 Version: 1.1
 Architecture: iphoneos-arm
@@ -4480,6 +4518,44 @@ Size: 8056
 MD5sum: 8b8d3b33cd9ffceab844a7c0507ffb89
 SHA1: 02bec2c23d9ba3659487d24aecbd745c250abebc
 SHA256: d7e79670d014392255548f4da28ca51b64bfbb4791762c2490f9de424116563e
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.1.1_iphoneos-arm64.deb
+Size: 8092
+MD5sum: 296aefbd13e20dd0e5f5da0944e3be80
+SHA1: 1ac4a0d62f62ad89e8268df7b78d979d595f4f21
+SHA256: 4a7dd4e8111e4265a687144dd1eef5f6a92c5088731cfddc8d8913fe8da1b90a
+Section: Tweaks
+Description: Confirm before making calls in WhatsApp!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.whatsappcallconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.whatsappcallconfirm/icon.png
+Name: WhatsAppCallConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.whatsappcallconfirm.json
+
+Package: com.p2kdev.whatsappcallconfirm
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.whatsappcallconfirm_1.1.1_iphoneos-arm64e.deb
+Size: 8040
+MD5sum: 378644dcec4b902cb79241fa818a8d29
+SHA1: e6d4f40178e7f3e4a08af5a3c7409991103b8463
+SHA256: 6dc91f2aae7a5070168c667c72bde8c33e3551b1c5869c60e3326813fbcd1d22
 Section: Tweaks
 Description: Confirm before making calls in WhatsApp!
 Author: P2KDev <p2kdev@gmail.com>
